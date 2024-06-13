@@ -1,6 +1,6 @@
-# TechiDaily
+# Article Helps Site
 
-Welcome to [https://android-transfer.techidaily.com](https://android-transfer.techidaily.com)
+Welcome to [https://article-helps.techidaily.com](https://article-helps.techidaily.com)
 
 ## Publish
 

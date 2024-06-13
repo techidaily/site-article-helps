@@ -8,9 +8,9 @@ const fs = require('fs');
 const path = require('path');
 
 // ------------------------------------------------------------------------------------------- 以下内容需要自己替换
-const subSiteAuthor = 'Nova';
-const subSiteKeywords = `` + ','; // 关键字，多个关键字用逗号分隔
-const indexNowKey = 'ec9c9516ea82433086d979e16e1960e0'; // 替换为你的API密钥
+const subSiteAuthor = 'Kenneth';
+const subSiteKeywords = `article-tips,article-knowledge,article-files,article-posts,article-helps` + ','; // 关键字，多个关键字用逗号分隔
+const indexNowKey = 'a6bdf56fab904919b542d3f6adb3dccf'; // 替换为你的API密钥
 
 
 
