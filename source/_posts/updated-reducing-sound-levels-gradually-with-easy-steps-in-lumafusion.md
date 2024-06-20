@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Reducing Sound Levels Gradually with Easy Steps in Lumafusion"
-date: 2024-06-06 19:14:31
-updated: 2024-06-09 11:36:26
+date: 2024-06-12T01:38:04.136Z
+updated: 2024-06-13T01:38:04.136Z
 tags: 
   - screen-recording
   - ai video
@@ -149,3 +149,26 @@ Within the timeline, tap anywhere and move the mouse left or right to divide a c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-adding-emotion-and-context-narration-for-videos/"><u>[New] Adding Emotion and Context  Narration for Videos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-top-kid-approved-wet-weather-cams-for-beginning-filmmakers/"><u>[New] In 2024, Top Kid-Approved Wet Weather Cams for Beginning Filmmakers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-why-visual-narratives-from-customers-boost-business-appeal/"><u>[New] In 2024, Why Visual Narratives From Customers Boost Business Appeal</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-pros-best-top-8-tripods-excelling-at-4k-video-capture/"><u>[New] 2024 Approved  Pro's Best  Top 8 Tripods Excelling at 4K Video Capture</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-elevate-your-videography-on-tiktok-2-ways/"><u>[New] In 2024, Elevate Your Videography on TikTok (2 Ways)</u></a></li>
+<li><a href="https://article-helps.techidaily.com/invisible-motion-capture-instruction-for-2024/"><u>Invisible Motion Capture Instruction for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-seamless-shifts-revitalizing-vhs-graphics-with-computer-magic-for-2024/"><u>[New] Seamless Shifts  Revitalizing VHS Graphics with Computer Magic for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-adapting-to-diverse-candidate-personalities/"><u>In 2024, Adapting to Diverse Candidate Personalities</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-propel-your-creativity-mastering-inshot-for-device-edits/"><u>[Updated] In 2024, Propel Your Creativity  Mastering Inshot for Device Edits</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-exclusive-farewell-to-game-costs/"><u>[New] 2024 Approved  Exclusive Farewell to Game Costs</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/propel-your-social-media-success-best-6-apps-for-instagram-reels-for-2024/"><u>Propel Your Social Media Success  Best 6 Apps for Instagram Reels for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-excellence-in-endless-data-archiving-services/"><u>In 2024, Excellence in Endless Data Archiving Services</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/accelerating-video-success-on-youtube-for-100kplus-views-for-2024/"><u>Accelerating Video Success on YouTube for 100K+ Views for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-xiaomi-redmi-note-12-4g-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Xiaomi Redmi Note 12 4G Phones? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-12-video-channels-at-your-command-seamless-viewing/"><u>[New] 12 Video Channels at Your Command – Seamless Viewing</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/boost-your-logic-pro-x-projects-with-these-indispensable-plugin-choices/"><u>Boost Your Logic Pro X Projects with These Indispensable Plugin Choices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-nail-the-art-of-time-lapses-with-your-gopro-hero5-black/"><u>[New] Nail the Art of Time-Lapses with Your GoPro Hero5 Black</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-evaluating-storage-limits-for-multi-channel-vids-128gb/"><u>[Updated] Evaluating Storage Limits for Multi-Channel Vids, 128GB</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-nokia-c12-plus-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Nokia C12 Plus? Look No Further | Dr.fone</u></a></li>
+</ul></div>
