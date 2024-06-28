@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate Screenshot-Sticker Guide for iPhones and Androids\""
-date: 2024-06-12T01:34:23.755Z
-updated: 2024-06-13T01:34:23.755Z
+date: 2024-06-27T10:59:13.796Z
+updated: 2024-06-28T10:59:13.796Z
 tags: 
   - screen-recording
   - ai video
@@ -172,7 +172,7 @@ In addition, it has versions that can be downloaded on iOS and Android devices.
 * Vintage
 * Drawing tools
 
-**Download:** You can download this app on [Apple](https://apps.apple.com/us/app/photofunia/id321240709)and [Google](https://play.google.com/store/apps/details?id=com.photofunia.android) stores.
+**Download:** You can download this app on [Apple](https://apps.apple.com/us/app/photofunia/id321240709) and [Google](https://play.google.com/store/apps/details?id=com.photofunia.android) stores.
 
 ### Camera 360-Funny Stickers
 
@@ -436,7 +436,7 @@ In addition, it has versions that can be downloaded on iOS and Android devices.
 * Vintage
 * Drawing tools
 
-**Download:** You can download this app on [Apple](https://apps.apple.com/us/app/photofunia/id321240709)and [Google](https://play.google.com/store/apps/details?id=com.photofunia.android) stores.
+**Download:** You can download this app on [Apple](https://apps.apple.com/us/app/photofunia/id321240709) and [Google](https://play.google.com/store/apps/details?id=com.photofunia.android) stores.
 
 ### Camera 360-Funny Stickers
 

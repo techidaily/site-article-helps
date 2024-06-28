@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Maximizing iPhone's Capabilities for Stunning Landscape Pics for 2024"
-date: 2024-06-12T01:58:53.891Z
-updated: 2024-06-13T01:58:53.891Z
+date: 2024-06-27T10:59:11.954Z
+updated: 2024-06-28T10:59:11.954Z
 tags: 
   - screen-recording
   - ai video
@@ -106,7 +106,7 @@ thumbnail: https://thmb.techidaily.com/26237c0b8cf6f930c119cd7d58abe423d11d796e2
 
  Placing the human as your focal point would build a composition and story around him. Try picking someone with clothing in contrast color to that of the background. If you are shooting a landscape with a model, then get him/her dressed in a certain color that would warm up the shot and blend in as well.
 
-![human-in-the-landscape ](https://images.wondershare.com/filmora/article-images/human-in-the-landscape.jpg)
+![human-in-the-landscape](https://images.wondershare.com/filmora/article-images/human-in-the-landscape.jpg)
 
  Image source: Earth Porm
 

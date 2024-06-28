@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Unlock the Full Potential of Windows Photos App with Visual & Audio Tweaks"
-date: 2024-06-12T01:56:35.747Z
-updated: 2024-06-13T01:56:35.747Z
+date: 2024-06-27T10:59:09.758Z
+updated: 2024-06-28T10:59:09.758Z
 tags: 
   - screen-recording
   - ai video
@@ -43,13 +43,13 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 
 **Step 2**: Choose the video you want to add filters. Click **New video** at top > Custom video with music.
 
-![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-filters.jpg)
+![add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-filters.jpg)
 
 **Step 3**: Now, you will be in an video editing page. You can name your video at start or later.
 
 **Step 4**: Click Filters at tool bar. Microsoft Photos has 14 filters you can use, including classic, adventure, sepia and so on.
 
-![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/edit-filters-microsoft-photos.jpg)
+![add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/edit-filters-microsoft-photos.jpg)
 
 **Step 5**: Just select one you like. Preview it and then click Done.
 
@@ -63,7 +63,7 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 
 **Step 3**: Now, hit the ‘Create’ button from the top-right followed by dragging the video to Photos timeline. Later, hit on ‘Auio’ at top right.
 
-![ add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-music-to-video-photos-app.jpg)
+![add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-music-to-video-photos-app.jpg)
 
 **Step 4**: Pick ‘Your music’ so that you can set up a custom track. There are over 20 music you can choose. You can also sync music to video's beat. You can visit ‘Recommended’ section for adding default ones.
 

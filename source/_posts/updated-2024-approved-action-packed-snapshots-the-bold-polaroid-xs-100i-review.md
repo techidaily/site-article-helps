@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Action-Packed Snapshots  The Bold Polaroid XS 100I Review\""
-date: 2024-06-12T01:49:07.233Z
-updated: 2024-06-13T01:49:07.233Z
+date: 2024-06-27T10:59:12.876Z
+updated: 2024-06-28T10:59:12.876Z
 tags: 
   - screen-recording
   - ai video
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
 
 ## Complete Review for Polaroid XS 100i
 
-![Polaroid-XS-100-Extreme ](https://images.wondershare.com/filmora/article-images/polaroid-xs-100i-1.jpg)
+![Polaroid-XS-100-Extreme](https://images.wondershare.com/filmora/article-images/polaroid-xs-100i-1.jpg)
 
 [Check price at Amazon](https://www.amazon.com/gp/product/B00F46UQ4K/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00F46UQ4K&linkId=6d1cf73dd040f47f4ac8a8a14ac9643f)
 

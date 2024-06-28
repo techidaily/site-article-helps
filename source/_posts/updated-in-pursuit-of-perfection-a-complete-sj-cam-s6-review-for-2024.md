@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In Pursuit of Perfection  A Complete SJ-CAM S6 Review for 2024\""
-date: 2024-06-12T01:42:29.658Z
-updated: 2024-06-13T01:42:29.658Z
+date: 2024-06-27T10:59:13.453Z
+updated: 2024-06-28T10:59:13.453Z
 tags: 
   - screen-recording
   - ai video
@@ -63,7 +63,7 @@ Earlier, most of the action camera buyers use to think about GoPro as their firs
 | 2MP HD 1920\*1080                               |                                                               |
 | VGA 640\*480                                    |                                                               |
 | 1.3MP 1280\*960                                 |                                                               |
-| Frame Rate                                      | 4K( 4:3 ): 2880×2160 24ps                                     |
+| Frame Rate                                      | 4K(4:3): 2880×2160 24ps                                     |
 | 2K: 2560×1440 30FPS                             |                                                               |
 | 1080P: 1920×1080 60fps                          |                                                               |
 | 1080P: 1920×1080 30fps                          |                                                               |
