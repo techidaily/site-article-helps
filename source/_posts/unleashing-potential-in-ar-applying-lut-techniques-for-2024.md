@@ -1,7 +1,7 @@
 ---
 title: "\"Unleashing Potential in AR  Applying LUT Techniques for 2024\""
-date: 2024-06-12T01:42:20.784Z
-updated: 2024-06-13T01:42:20.784Z
+date: 2024-06-20T00:00:15.839Z
+updated: 2024-06-21T00:00:15.839Z
 tags: 
   - screen-recording
   - ai video
@@ -64,7 +64,7 @@ The patch graph that renders the color gradation effect looks like this:
 
 Here are the best free LUTs resources for Spark AR:
 
-### 1\. [Frost Zombie (Technical Showcase)](https://we.tl/t-1uj4wJKluG)
+### 1\. Frost Zombie (Technical Showcase)
 
 Client filter pieces occasionally end up on the scrap heap. It was a poor Frost Zombie in this instance. Since this is one of my simpler filters, I felt it was okay to publish the build information. Four objects make up much of the scene: an EyeColor block, a custom canvas segmentation, a face mesh, and an emitter for the breath mist (my personal favorite). To show the layers used in generating the primary zombie texture, I also moved to Substance Painter. This is a demonstration of my methods rather than a step-by-step manual.
 

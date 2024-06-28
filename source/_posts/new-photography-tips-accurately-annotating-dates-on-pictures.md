@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Photography Tips  Accurately Annotating Dates on Pictures\""
-date: 2024-06-12T01:56:23.810Z
-updated: 2024-06-13T01:56:23.810Z
+date: 2024-06-20T00:00:16.590Z
+updated: 2024-06-21T00:00:16.590Z
 tags: 
   - screen-recording
   - ai video
@@ -248,7 +248,7 @@ Step7Proceed to click on the Save option.
 
 **You can add dates to photos online** via several platforms. Several websites make that possible. Let’s look at some of the platforms and the features they provide.
 
-### 1\. [Canva](https://www.canva.com/photo-editor/)
+### 1\. Canva
 
 Canva is a standout online photo editor where you can edit your and **add date to photos**. To start, you must **sign up and upload the photo** you want to edit.
 
@@ -260,7 +260,7 @@ Canva is a standout online photo editor where you can edit your and **add date t
 * Add depth of field to your image instantly.
 * Background image remover
 
-### 2\. [Fotor](https://www.fotor.com/)
+### 2\. Fotor
 
 **Add a date to a photo** using Fotor. Fotor provides great features that make photo editing a smooth and easy process. To begin, you will need to sign up and upload your photo.
 
@@ -273,7 +273,7 @@ Canva is a standout online photo editor where you can edit your and **add date t
 * Wrinkle Remover
 * Blemish Remover
 
-### 3\. [PIXLR](https://pixlr.com/)
+### 3\. PIXLR
 
 PIXLR is another great online platform that can be used to **edit pictures online**. PIXLR offers amazing features with its services. To use the platform, you must **sign up and upload a photo**.
 
@@ -510,7 +510,7 @@ Step7Proceed to click on the Save option.
 
 **You can add dates to photos online** via several platforms. Several websites make that possible. Let’s look at some of the platforms and the features they provide.
 
-### 1\. [Canva](https://www.canva.com/photo-editor/)
+### 1\. Canva
 
 Canva is a standout online photo editor where you can edit your and **add date to photos**. To start, you must **sign up and upload the photo** you want to edit.
 
@@ -522,7 +522,7 @@ Canva is a standout online photo editor where you can edit your and **add date t
 * Add depth of field to your image instantly.
 * Background image remover
 
-### 2\. [Fotor](https://www.fotor.com/)
+### 2\. Fotor
 
 **Add a date to a photo** using Fotor. Fotor provides great features that make photo editing a smooth and easy process. To begin, you will need to sign up and upload your photo.
 
@@ -535,7 +535,7 @@ Canva is a standout online photo editor where you can edit your and **add date t
 * Wrinkle Remover
 * Blemish Remover
 
-### 3\. [PIXLR](https://pixlr.com/)
+### 3\. PIXLR
 
 PIXLR is another great online platform that can be used to **edit pictures online**. PIXLR offers amazing features with its services. To use the platform, you must **sign up and upload a photo**.
 

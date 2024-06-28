@@ -1,7 +1,7 @@
 ---
 title: "[New] The T5's Complete Action Video Insight for 2024"
-date: 2024-06-12T01:51:57.684Z
-updated: 2024-06-13T01:51:57.684Z
+date: 2024-06-20T00:00:16.799Z
+updated: 2024-06-21T00:00:16.799Z
 tags: 
   - screen-recording
   - ai video
@@ -67,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/a284b8622794b8ba45f3866eaa63e737e0684e210
 
 #### Design and Usability
 
-![ Thieye T5 Design](https://images.wondershare.com/filmora/article-images/Thieye-t5-front-back-1.jpg)
+![Thieye T5 Design](https://images.wondershare.com/filmora/article-images/Thieye-t5-front-back-1.jpg)
 
  This ThiEye T5e is having overall dimension of 61x42x23mm and its fine body texture make it easier to handle. You will find one 2” LCD screen on this device that assists in easy settings during shoots; further it can also allows you to preview videos at the time of recording.
 

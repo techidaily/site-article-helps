@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Navigating Modern and Future Terrain with Drones"
-date: 2024-06-12T01:37:17.240Z
-updated: 2024-06-13T01:37:17.240Z
+date: 2024-06-20T00:00:16.430Z
+updated: 2024-06-21T00:00:16.430Z
 tags: 
   - screen-recording
   - ai video
@@ -46,8 +46,7 @@ thumbnail: https://thmb.techidaily.com/f3ddbfc1319d06192a1f603baf76c1f6dea1578ed
 
 #### 3\.  In the field of agriculture
 
-![drones in engineering
-](https://images.wondershare.com/filmora/article-images/drones-in-engineering.jpg)
+![drones in engineering](https://images.wondershare.com/filmora/article-images/drones-in-engineering.jpg)
 
  This is the biggest achievement of drone technology as they are now able to serve farmers for many purposes. Drone can help farmers to save their money as well as crops by keeping an eye of failing plants. They can study the large sized farm lands along with proper monitoring of irrigation systems. Farmers can now hope for all information updates quickly and drones can also help them to spray fertilizers, pesticides and water for crops at right times.
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Analyzing the Precision of Yi's 4K ActionCam\""
-date: 2024-06-12T01:40:21.841Z
-updated: 2024-06-13T01:40:21.841Z
+date: 2024-06-20T00:00:15.973Z
+updated: 2024-06-21T00:00:15.973Z
 tags: 
   - screen-recording
   - ai video
@@ -32,8 +32,7 @@ thumbnail: https://thmb.techidaily.com/8ff514e7ae8e73f00c632257f00b6aefbc08dc01d
 
 ## Complete Review for Yi 4k Action Camera
 
-[Check at Amazon](https://www.amazon.com/gp/product/B01FU9ZIMU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01FU9ZIMU&linkId=8ffea9b2da130000b205cf9367ce3ccf
-)
+[Check at Amazon](https://www.amazon.com/gp/product/B01FU9ZIMU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01FU9ZIMU&linkId=8ffea9b2da130000b205cf9367ce3ccf)
 
 #### Design
 
