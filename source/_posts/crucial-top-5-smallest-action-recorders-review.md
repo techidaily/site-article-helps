@@ -1,7 +1,7 @@
 ---
 title: "Crucial Top 5 Smallest Action Recorders Review"
-date: 2024-06-12T01:41:54.536Z
-updated: 2024-06-13T01:41:54.536Z
+date: 2024-07-05T03:24:50.385Z
+updated: 2024-07-06T03:24:50.385Z
 tags: 
   - screen-recording
   - ai video
@@ -65,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/e16b75fed413636ad54c914cb03e40ea47ab207cb
 
  This camera unit possess GPS and WiFi facility along with water resistant body so that you can mount it anywhere as per need. It can record videos with 1080p resolution and for images you will have 16MP clarity. Maximum storage offered by microSD card is 64GB whereas Remote + ANT compatibility makes it much easier to monitor and control. The water resistant design along with flexible mounting options make it more suitable for hiking needs. With advanced digital image stabilization feature you can mount this camera on vehicle, bicycle, quadcopter and any other moving object. Automatic noise correction filters are activated on lens surface to create breathtaking results for each footage.
 
-#### 3\. [Olympus TG-Tracker](https://tools.techidaily.com/wondershare/filmora/download/) ($299.99)
+#### 3\. Olympus TG-Tracker
 
 ![Backpacking/Hiking Cameras - Olympus TG-Tracker](https://images.wondershare.com/filmora/article-images/olympus-tg-tracker.jpg)
 
@@ -74,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/e16b75fed413636ad54c914cb03e40ea47ab207cb
 
  The TG tracker camera is always ready to capture all your action sports activities with UHD 4K resolution at 30fps. You need not to buy additional protective housing for this camera as its body is already tough with shockproof and water proof design up to 98.4’. TG-Tracker can resist temperature ranges as low as up to 14 degree F and its dust proof design allows you to carry it to the risky mountains. The ultra wide lens offers total coverage of 204 degrees whereas users will be able to take benefits from so many inbuilt sensors like barometer, thermometer, altitude and location sensor etc. You can control this device from mobile phones directly using TG Track app.
 
-#### 4\. [Sony FDR-X1000V](https://tools.techidaily.com/wondershare/filmora/download/) ($399.99)
+#### 4\. Sony FDR-X1000V
 
 ![Backpacking/Hiking Cameras - Sony FDR x1000v](https://images.wondershare.com/filmora/article-images/sony-fdr-1000.jpg)
 

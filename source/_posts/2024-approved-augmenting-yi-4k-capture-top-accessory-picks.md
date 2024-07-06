@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Augmenting YI 4K Capture  Top Accessory Picks\""
-date: 2024-06-20T00:01:14.525Z
-updated: 2024-06-21T00:01:14.525Z
+date: 2024-07-05T03:24:50.398Z
+updated: 2024-07-06T03:24:50.398Z
 tags: 
   - screen-recording
   - ai video
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/8b607e0e604394629b363ae69329923c5b752c9a4
 
 ### Section 1: Protective Case
 
-#### 1.[Waterproof Case:](<https://www.amazon.com/gp/product/B016I5VQJE/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B016I5VQJE&linkId=1fe5d9a62a2d51f7afceab6b6ca27770>)
+#### 1. Waterproof Case:
 
 [Yi 4K Action Camera original Waterproof Case](https://images.wondershare.com/filmora/article-images/yi-4k-original-waterproof-case.png) ](https://www.amazon.com/gp/product/B016I5VQJE/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B016I5VQJE&linkId=1fe5d9a62a2d51f7afceab6b6ca27770)
 
