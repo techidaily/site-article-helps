@@ -1,0 +1,187 @@
+---
+title: "Cast Distribution License for Screen Viewing"
+date: 2024-07-11T09:22:02.253Z
+updated: 2024-07-12T09:22:02.253Z
+tags: 
+  - screen-recording
+  - ai video
+  - ai audio
+  - ai auto
+categories: 
+  - ai
+  - screen
+description: "This Article Describes Cast Distribution License for Screen Viewing"
+excerpt: "This Article Describes Cast Distribution License for Screen Viewing"
+keywords: "Screen Cast Licensing,Screen Viewing Permits,License Screen Sharing,Video Screen Access,Media Viewing Rights,Screen Distribution Agreement,Broadcast Screen License"
+thumbnail: https://thmb.techidaily.com/700877a9102ebfac6b027a9da8135a8597355f7b411786ceebe675ffa9f20381.jpg
+---
+
+## Cast Distribution License for Screen Viewing
+
+# Talent Release Form for Filming and Video to Free Download
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+##### Ollie Mattison
+
+ Mar 27, 2024• Proven solutions
+
+ Oh! You got a great story/script to film on?
+
+ Well, that’s great! And since, you’re all set to begin the shooting, there’s one thing you must keep on your checklist as a pre-requisite, i.e. get the talent release form signed! This is vital to protect you from [legal problems or getting sued](https://www.indieclear.com/resources/film-lawsuits).
+
+ You should get it signed by all your cast members that are present physically or in still pictures or in voice-overs or any sort of “talent” being used within the film/video.
+
+ Having a film / talent release form signed, makes both actors and filmmakers to avoid [risking factors](https://www.insurancejournal.com/magazines/mag-features/2006/08/21/72326.htm) that may occur during and after filming a video production.
+
+ In fact, it is the best practice to protect your rights.
+
+* [**Part 1: The definition of a talent release form**](#part1)
+* [**Part 2: When to sign up a talent release form**](#part2)
+* [**Part 3: What does a talent release form look like**](#part3)
+* [**Part 4: Bfree download and print talent release forms**](#part4)
+
+## Part 1: The definition of a talent release form
+
+ Now, you may wonder, what exactly is a talent release form?
+
+ And what’s the purpose of it, right? Basically, a talent release form is a legal document that authorizes the filmmaker to sell or distribute the film/video after production that features your talent.
+
+ In other words, this legal document is specifically formulated and must be signed by the talent featured in the film/video to protect you from getting sued.
+
+ For instance, let’s suppose, once the production has wrapped up and you’re all set to get the film/video out for promotion or for any commercial purpose or release it digitally.
+
+ Your talent, out of the blue, goes cold feet and puts up a case on you for unauthorized utilization of someone's image or voice.
+
+ This is where a talent release form (also termed as film release forms or video release forms) safeguards you from any such legal issues.
+
+## Part 2: When to sign up a talent release form
+
+ Now, you’re well-versed with what a talent release form or an actor release form is and the purpose for it.
+
+ Therefore, in this section we’ll discuss about when to get a talent release form signed up.
+
+ Basically, you need to get a talent release form signed before the film/video production starts. You’ll need it whenever you plan to sell the film/video, or the rights to the production.
+
+ This is because the interested media company will require these talent releases before finalizing the deal.
+
+ You must ensure to obtain a talent release form from both primary actors and extras involved in that particular video production.
+
+![sign up a talent release form](https://images.wondershare.com/filmora/filmorapro/sign-talent-release-form.jpg)
+
+### What is meant by talent actually?
+
+ Usually, the [professional actors and models](https://www.consumeraffairs.com/modeling/) are referred to as the term “talent”. This standard term is also utilized for unpaid or nonprofessional actors featuring in video or still photography.
+
+ Also, the pets or other animals are referred under this term.
+
+ When it comes to an [animated video](https://tools.techidaily.com/wondershare/filmora/download/) or radio advertisement or any other audio-only production where an actor (paid or unpaid), be it professional or nonprofessional, only furnishes his or her voice to the production. An individual talent is then required to sign a talent release form.
+
+ But, if in case, the talent aged below 18 years and is a minor, the parent or the legal guardian of the child is supposed to sign the release form.
+
+ And secondly, if an animal is the talent, the owner of the animal is required to get the release signed.
+
+### When you do not require a talent release form?
+
+* If you’re shooting a distant crowd scene where the people involved in the crowd cannot be identified, you don’t need to get a talent release form signed by them.
+* If the film/video production is just for your personal use, then you don’t actually require a talent release form.
+
+ However, you must always consider obtaining a talent release form, if by any chance the film/video has to be exhibited in a film festival, contest, digitally (online platforms) or in the public. This is vital even if it is not mean for commercial use.
+
+## Part 3: What does a talent release form look like
+
+ On the basic grounds, the talent release form for an actor must cover the following aspects:
+
+* **Name**: The name of the actor must be in Block Letters or in Print Form.
+* **Voice**: The voice of the actor that you’ll record.
+* **Image and likeness**: This is basically the physical appearance of an actor. Ensure to incorporate this in a talent release form for both the primary work and the promotional stuffs.
+* **Performance**: This is the unique method of the actor to interpret the role being portrayed in your film/video production. Also, the choreography or musical performances are covered under this.
+
+![talent release form example](https://images.wondershare.com/filmora/filmorapro/talent-release-form-example.jpg)
+
+## Part 4: free download and print talent release forms
+
+### 1. Film sourcing
+
+ Film Sourcing is a one stop solution to equip you with all sorts of Film production documents templates and that too, for free.
+
+ From pre-production documents like talent release forms / film release forms to marketing templates or samples, you’re going to find it all right here stacked up in one place.
+
+### 2. 123FormBuilder
+
+ Next, we have mentioned the 123FormBuilder that offers you free talent / video release forms.
+
+ With this film release form template you are enabled to modify it as depending upon your requirements and then publish it over your website.
+
+ Making the process absolutely digital and that too, in just a matter of few seconds.
+
+ Moreover, you need to do any sort of coding to implement it over your website! What’s more? Well, you can also add multiple recipients, functionality to upload files and much more.
+
+![123FormBuilder](https://images.wondershare.com/filmora/filmorapro/123FormBuilder.jpg)
+
+### 3. Social Brite
+
+ Social Brite offers a basic template of an Actor / Model / talent release form for filmmakers or still photographers.
+
+ You can simply copy the content from the aforementioned URL, paste it over a word document, and get it modified as per your preference. Print it and get it signed to protect your rights, simple as that.
+
+### 4. PDF filler
+
+ PDF filler is another website that offers fillable film / video / talent release forms templates.
+
+ You can easily download the 32 most popular release forms. Simply click on the required form, fill it as per your requirement and then download it in a print ready format.
+
+ Or, you can directly send it to the actor’s email to get it signed.
+
+![PDF filler](https://images.wondershare.com/filmora/filmorapro/pdf-filler.jpg)
+
+## Bottom Line
+
+ With all this comprehensive information on talent release forms, it’s now time to conclude the discussion. We now firmly believe that you now understand well about talent / film release forms and the need of it to protect your rights. Happy Shooting!
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+Ollie Mattison
+
+Ollie Mattison is a writer and a lover of all things video.
+
+Follow @Ollie Mattison
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/2024-approved-your-one-stop-guide-30-prime-websites-offering-free-vectr-and-graphic-services/"><u>2024 Approved  Your One-Stop Guide  30 Prime Websites Offering Free Vectr & Graphic Services</u></a></li>
+<li><a href="https://article-helps.techidaily.com/cinematic-clarity-premium-handheld-stabilizers-selection/"><u>Cinematic Clarity  Premium Handheld Stabilizers Selection</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-make-movies-like-a-pro-insider-secrets-for-achieving-professional-results/"><u>New Make Movies Like a Pro Insider Secrets for Achieving Professional Results</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-catalina-to-big-sur-a-comprehensive-mac-os-shift-guide/"><u>2024 Approved  From Catalina to Big Sur  A Comprehensive Mac OS Shift Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Tecno Spark 20? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gopro-vs-yi-who-will-lead-the-high-quality-action-race/"><u>[Updated] GoPro Vs. YI  Who Will Lead the High-Quality Action Race?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-streamline-and-stand-out-twitters-video-directive/"><u>[Updated] In 2024, Streamline and Stand Out  Twitter's Video Directive</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-itel-p40plus-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Itel P40+ to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-banish-the-automatic-post-proposals-on-instagram/"><u>[Updated] 2024 Approved  Banish the Automatic Post Proposals on Instagram</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-ios-image-to-pdf-the-ultimate-guide-for-users-for-2024/"><u>Mastering IOS Image-to-PDF  The Ultimate Guide for Users for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-discerning-true-excellence-active-vs-record-leaders/"><u>In 2024, Discerning True Excellence  Active vs Record Leaders</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-lava-yuva-3-pro-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Lava Yuva 3 Pro Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-captivating-content-at-your-fingertips-download-youtube-for-ios/"><u>[New] Captivating Content at Your Fingertips  Download YouTube for iOS</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/form-videos-affordable-high-quality-effs-in-2024/"><u>Transform Videos - Affordable, High-Quality Effs, In 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-the-professionals-playbook-streaming-live-videos-on-tiktok-from-computer/"><u>[Updated] In 2024, The Professional’s Playbook  Streaming Live Videos on TikTok From Computer</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-montage-music-the-top-10-online-compilations-and-direct-links-for-2024/"><u>Updated Montage Music The Top 10 Online Compilations and Direct Links for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-leading-audio-time-reverse-programs-a-comprehensive-list-for-desktop-and-smartphone-users/"><u>Updated Leading Audio Time-Reverse Programs A Comprehensive List for Desktop and Smartphone Users</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-top-iphone-video-editing-software-a-beginners-guide/"><u>New 2024 Approved The Top iPhone Video Editing Software A Beginners Guide</u></a></li>
+</ul></div>
