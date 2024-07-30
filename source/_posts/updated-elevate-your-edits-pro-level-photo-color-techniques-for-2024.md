@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Elevate Your Edits  Pro-Level Photo Color Techniques for 2024\""
-date: 2024-07-11T05:57:10.669Z
-updated: 2024-07-12T05:57:10.669Z
+date: 2024-07-29T03:11:43.588Z
+updated: 2024-07-30T03:11:43.588Z
 tags: 
   - screen-recording
   - ai video
@@ -38,6 +38,9 @@ Another way to change the color of the shirt is by navigating to the “Solid Co
 
 ![select hue or color mode](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\. Tips 2: Use Black and White Colors
 
 Another option in Adobe Photoshop photo color editor to add black or white color to the shirt is by using the "Hue and Saturation Adjustment Layer.” For this, you need to create a group and then apply a layer mask to it by reducing its saturation. After that, you can apply a hue and saturation adjustment layer to it to have a white or black effect on the shirt.
@@ -48,10 +51,16 @@ Now do the tuning by navigating to the layer mask and also select the layers. Af
 
 ![use sliders to black or white](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ### 3\. Tip 3: Add Color to White Object
 
 If you want to add color to your black or white shirt, you can do it by “Hue and Saturation Adjustment Layer.” On this layer, tap on “Colorize” and choose the color you want to add. Another technique is to create a “Fill Adjustment Layer” and then change the blending mode into “Multiple.” Now, click on the “Color Picker,” and you can pick and choose your preferred color. If you want to add a dark color rather than a subtle color, change the mode to “Screen.”
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![pick the color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-4.jpg)
 
 ### 4\. Tip 4: Use Direct Selection Color Picker
@@ -60,16 +69,28 @@ Through the direct selection color picker, you can change the color of an object
 
 At the bottom of the options, you can see two points that will tell you about your chosen color and the ranges it offers. You can adjust the color by dragging the sliders manually. Now, adjust the layers of your image to make the colors of the image look better.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![change specific color to another color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 5\. Tip 5: Choose Object Color Range
 
 Do you want to change the color of a specific part of the image? You can do this on Adobe Photoshop photo color editor by going to the "Quick Selection Tool" and then applying the colors, but it may leave edges and curves of the object. So, the recommended way is to navigate to the “Select” tab and then click on “Color Range” from its drop-down menu.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![access color range option](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-6.jpg)
 
 After clicking on the color range option, a pop-up window will appear from which tap on “Selection.” You can view your image on the preview window and can select the whole back using the “Selection” tool.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select complete object](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-7.jpg)
 
 Afterward, create a group in which add layers, mask, and adjustment layers to change the saturation, color, and brightness of the selected area accurately. To only change the color, drag the sliders of hue to do it instantly.
@@ -82,6 +103,9 @@ If you want to change the color of leaves on a tree, you can use the “Blend IF
 
 Similarly, if you drag the “Blend IF” sliders towards white pints, it can hide the light pixels. To hide any specific color from the picture, you can click on “Channels” and then select the color you want to eradicate completely.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ![select the channel color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-9.jpg)
 
 This method only hides color based on their luminance values; however, this loads the entire layer when loading the active pixels. Regardless, this can be changed into transparency. For this, you need to select the layer by right-clicking and selecting the option of “Convert to Smart Object.”
@@ -98,12 +122,18 @@ If you don’t have an offline tool like Adobe Photoshop, you can use an online 
 
 To change the color, navigate to this tool and upload the images. Then, head to the “Replace Color” option from the left section and click on it. On the menu of “Replace Color,” select the box next to “Source Color” to choose the color you want to replace. Use an eyedropper to select any color for your image.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![select source color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-12.jpg)
 
 To increase or decrease the intensity of your color, use the “Tolerance” option, and drag it accordingly. If you want to change the hue of the source color, click on the box next to “Target Color.” If you have accidentally applied any color on some part, you can head to erase tab and can remove the alterations from the brush.
 
 ![choose target color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Changing the color of a photo can save us a lot of work done and effort. To effortlessly change the photo color, use the mentioned photo color editor in this article to easily execute the changes. Also, we have mentioned an online tool through which you can also change the photo color flawlessly.
@@ -133,3 +163,39 @@ Changing the color of a photo can save us a lot of work done and effort. To effo
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-3d-modeling-software-to-use-for-animation/"><u>[New] 2024 Approved  3D Modeling Software to Use for Animation</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-fostering-collaborations-building-partnerships-to-promote-videos/"><u>[New] 2024 Approved  Fostering Collaborations  Building Partnerships to Promote Videos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-unlocking-data-movement-best-ways-to-transition-files-to-pc/"><u>[New] 2024 Approved  Unlocking Data Movement  Best Ways to Transition Files to PC</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-shadow-flight-new-camera-frontier/"><u>[New] In 2024, Shadow Flight  New Camera Frontier</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-uncovering-the-webs-leading-marketplaces-for-ringtones/"><u>[New] In 2024, Uncovering the Web's Leading Marketplaces for Ringtones</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-voicing-victory-tactics-in-free-fire-games/"><u>[New] In 2024, Voicing Victory Tactics in Free Fire Games</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-navigating-oceans-choosing-your-best-action-camera-for-2024/"><u>[New] Navigating Oceans  Choosing Your Best Action Camera for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-navigating-windows-10-for-audio-capture/"><u>[New] Navigating Windows 10 for Audio Capture</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-prime-5-toy-drones-reviewed-for-2024/"><u>[New] Prime 5 Toy Drones Reviewed for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-elite-list-10-websites-with-superior-vectors/"><u>[New] The Elite List  10 Websites with Superior Vectors</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-photographers-secret-to-color-inversion-for-2024/"><u>[New] The Photographer's Secret to Color Inversion for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveil-gadgets-top-15-unboxing-clips/"><u>[New] Unveil Gadgets  Top 15 Unboxing Clips</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-vivid-cutting-edge-m1-chips-transform-video-editing-landscape/"><u>[New] Vivid Cutting Edge  M1 Chips Transform Video Editing Landscape</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-a-comprehensive-breakdown-of-live-streaming-and-downloading-tv/"><u>[Updated] 2024 Approved  A Comprehensive Breakdown of Live Streaming and Downloading TV</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-go-big-or-go-home-selecting-the-most-satisfying-1tbplus-cloud-services/"><u>[Updated] Go Big or Go Home - Selecting the Most Satisfying 1TB+ Cloud Services</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-integrating-cg-centrals-luts-into-vfx-production-flows-for-2024/"><u>[Updated] Integrating CG Central's Luts Into VFX Production Flows for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-step-by-step-backlink-blueprint-for-channel-growth/"><u>[Updated] Step-by-Step Backlink Blueprint for Channel Growth</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-transform-your-snapchat-storytelling-learn-to-zoom-like-pros/"><u>[Updated] Transform Your Snapchat Storytelling  Learn to Zoom Like Pros</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-brand-showdown-assessing-asus-tuf-proart-and-primes-performance/"><u>A Brand Showdown: Assessing Asus, TUF, ProArt & Prime's Performance</u></a></li>
+<li><a href="https://article-helps.techidaily.com/acclaimed-vehicle-monitoring-systems-explained-for-2024/"><u>Acclaimed Vehicle Monitoring Systems Explained for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/advance-your-company-culture-via-efficient-language-development/"><u>Advance Your Company Culture via Efficient Language Development</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficiently-update-logitech-earphones-software/"><u>Efficiently Update Logitech Earphones Software</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-all-encompassing-mobility-review/"><u>In 2024, All-Encompassing Mobility Review</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-blur-proof-iphones-achieving-flawless-budget-friendly-edits/"><u>In 2024, Blur-Proof iPhones  Achieving Flawless, Budget-Friendly Edits</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-nokia-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Nokia Devices</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-itel-a60-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-unveiling-the-best-macbook-air-or-pro-with-m1/"><u>In 2024, Unveiling the Best MacBook Air or Pro with M1</u></a></li>
+<li><a href="https://article-helps.techidaily.com/inside-the-mindset-of-a-photographer-polarrs-editing-techniques/"><u>Inside the Mindset of a Photographer  Polarr’s Editing Techniques</u></a></li>
+<li><a href="https://article-helps.techidaily.com/master-iphone-photo-watermarks-the-top-apps-reviewed-for-2024/"><u>Master iPhone Photo Watermarks  The Top Apps Reviewed for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/seamless-integration-of-skype-meetings-into-zoom-platform/"><u>Seamless Integration of Skype Meetings Into Zoom Platform</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/spectral-synergy-using-color-theories-effectively-for-2024/"><u>Spectral Synergy  Using Color Theories Effectively for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/tackling-iphone-lens-blur-steps-for-improved-focus/"><u>Tackling iPhone Lens Blur  Steps for Improved Focus</u></a></li>
+</ul></div>
