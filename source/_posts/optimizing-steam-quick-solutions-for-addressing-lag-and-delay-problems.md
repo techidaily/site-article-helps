@@ -1,0 +1,239 @@
+---
+title: "Optimizing Steam: Quick Solutions for Addressing Lag and Delay Problems"
+date: 2024-08-08T05:34:33.483Z
+updated: 2024-08-09T05:34:33.483Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: "This Article Describes Optimizing Steam: Quick Solutions for Addressing Lag and Delay Problems"
+excerpt: "This Article Describes Optimizing Steam: Quick Solutions for Addressing Lag and Delay Problems"
+thumbnail: https://thmb.techidaily.com/fe4b0191212c8e41c031bf23c61d1f9123e35ac3bb319d7b6d127b4e0747eef8.jpg
+---
+
+## Get Back to Chatting on Discord: Swift Solutions for Overlay Problems
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap1-300x146.jpg)
+
+ If your**Discord overlay** is not working while you’re playing games, you’re not alone! Many players are reporting this issue. But don’t worry! The good news is you can fix it easily using the fixes we listed below.
+
+## **Fixes to try:**
+
+ You don’t have to try them all; just work your way down the list until you find the one that works for you.
+
+1. **[Check if you enabled in-game overlay in Discord](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Run Discord as administrator](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Add Discord to the whitelist of your third-party antivirus application](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Check for software interruption](https://tools.techidaily.com/drivereasy/download/)**
+5. **[Disable hardware acceleration in Discord](https://tools.techidaily.com/drivereasy/download/)**
+6. **[Reinstall Discord](https://tools.techidaily.com/drivereasy/download/)**
+7. [**Bonus tip: How to fix Discord connection errors?**](https://tools.techidaily.com/drivereasy/download/)
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 1: Check if you enabled in-game overlay in Discord
+
+ Before trying other fixes, open**Discord** to check if you enabled in-game overlay. Here is how to do it:
+
+ 1) Click**the gear button** to open**User Settings** .
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-1.jpg)
+
+ 2) On the left panel, click**Game Overlay** . Make sure you turn on the toggle next to **Enable in-game overlay** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-enable-in-game-overlay-1-1200x714.jpg)
+
+ Run your game to see if your **Discord overlay** shows up. If not, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
+### Fix 2: Run Discord as administrator
+
+ If you didn’t run**Discord** as administrator, you may encounter the**Discord overlay** not working issue. Try running your**Discord** as**administrator** to see if this problem persists. Here is how to do it:
+
+ 1) On your desktop,**right-click** the shortcut of **Discord** and then select **Properties** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7.jpg)
+
+ 2) In the pop-up window, navigate to the**Compatibility** tab. Check the box next to **Run this program as an administrator** and then click **OK** .
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap8.jpg)
+
+ 3) On your desktop, double-click the shortcut of**Discord** to open it.
+
+ 4) Run your game again.
+
+See if this issue reappears. If not, you have fixed this issue.
+
+### Fix 3: Add Discord to the whitelist of your third-party antivirus application
+
+ If you’re using a third-party antivirus application on your PC, you may encounter the**Discord overlay** not working issue. Your third-party antivirus application may interfere with**Discord** , so your **Discord overlay** may not run as expected. You can try   **adding your Discord to the whitelist of your third-party antivirus application** .
+
+ Please consult your antivirus documentation for instructions if you don’t know how to do it.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
+### Fix 4: Check for software interruption
+
+ Maybe the**Discord overlay** not working issue is also triggered by the interruption from other applications running on your PC. Try**temporarily disabling them** to see if your**Discord overlay** works or not. If you’re running**the programs that have the overlay features** , or you’re running**the programs that can access your microphone** , they may interfere with your**Discord overlay** .
+
+**Programs like screen recorders**  are most likely to interfere with your **Discord overlay** .
+
+### Fix 5: Disable hardware acceleration in Discord
+
+ Hardware acceleration is a feature in**Discord** that uses your GPU to make**Discord** smoother. However, many users have reported that sometimes, this feature may cause the**Discord overlay** to not work.
+
+ If you turned on the hardware acceleration feature in**Discord** and the**Discord overlay** does not work issue occurs, try**disabling hardware acceleration in Discord** . Follow the instructions below to check whether you turned on the hardware acceleration feature or not:
+
+ 1) Open your**Discord** , Click **the gear button** to open **User Settings** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-2.jpg)
+
+ 2) On the left panel, click**Voice & Video**  and then **turn off** the toggle next to **Hardware Acceleration** if you turned it on.
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-disable-hardware-acceleration-1200x714.jpg)
+
+ Run your game again to see if this issue persists. If not, you have resolved this problem!
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 6: Reinstall Discord
+
+ If you’ve tried all the fixes above but this issue persists, try**reinstalling Discord** . Here is how to do it:
+
+ 1) Uninstall**Discord** first:
+
+ i. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Type **control** and press **Enter** to open the Control Panel.  
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10.jpg)
+
+ ii. View the Control Panel by **Category** . Click **Uninstall a program** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11.jpg)
+
+ iii.**Double-click** **Discord** to uninstall it.  
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap12-1.jpg)
+
+iv. Restart your PC.
+
+ 2) Download**Discord** from its **[official website](https://discordapp.com/)**  and then install it on your PC.
+
+ 3) Open**Discord** . Run your game and add it to your **Discord** .
+
+ 4)**Enable the in-game overlay feature** for your game. If you don’t know how to do it, refer to[](https://tools.techidaily.com/drivereasy/download/) **[Fix 1](https://tools.techidaily.com/drivereasy/download/)**  .
+
+See if this issue reappears. If not, you have fixed this issue!
+
+### Bonus tip: How to fix Discord connection errors?
+
+ It’s very frustrating to run into the voice connection issue when playing the game. But don’t worry, most voice connection errors can be fixed by configuring a VPN connection.
+
+ Please note that **Discord only works on VPNs that have UDP (User Datagram Protocol)** . If you’re not sure which VPN service you should choose, here we recommend**NordVPN** to you.
+
+ NordVPN helps you set up a fast, stable, and secure Internet connection anywhere. And it helps you do this with just a few clicks or taps! What’s more, with one NordVPN account, you can set up a VPN connection on all devices. NordVPN allows you to connect up to 6 devices at the same time!
+
+#### To Set up a VPN connection on your Windows PC
+
+ 1) Before visiting the official website of NordVPN, **get a[NordVPN coupon code](https://tools.techidaily.com/drivereasy/download/) first!** Then head to[the official website of NordVPN](https://tools.techidaily.com/drivereasy/download/) . Follow the steps on its web page to**select your plan** and**create your NordVPN account** .
+
+ 2) On your Windows PC, visit **[the NordVPN download page](https://nordvpn.com/download/windows/)**  to download and install it.
+
+ 3) Launch NordVPN. Enter your NordVPN account and password, then click**Sign In** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/01/snap000383.png)
+
+ 4) Click**Quick connect** to automatically connect to the server recommended for you. If you want to connect to another VPN server in a specific country, just select the server you want to connect to on the left panel or click on the country pin on the map.
+
+![This image has an empty alt attribute; its file name is Snap915.png](https://images.drivereasy.com/wp-content/uploads/2019/01/Snap915.png)
+
+ Normally, after configuring the VPN, the voice connection issues should be fixed.
+
+ Hopefully, one of the fixes above can help you resolve this issue. Please leave your comment below if you have any questions.
+
+* [games](https://tools.techidaily.com/drivereasy/download/)
+* [Windows](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-a-deep-dive-into-top-10-streaming-platforms-compared/"><u>[New] A Deep Dive Into Top 10 Streaming Platforms Compared</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-expert-strategies-for-vocal-identity-on-instagram/"><u>[New] Expert Strategies for Vocal Identity on Instagram</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-tuneup-snapchat-a-guide-to-musical-video-clips/"><u>[New] In 2024, TuneUp Snapchat  A Guide to Musical Video Clips</u></a></li>
+<li><a href="https://article-helps.techidaily.com/10-must-have-plug-ins-for-final-cut-cinematography-for-2024/"><u>10 Must-Have Plug-Ins for Final Cut Cinematography for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-10-speed-up-apps-for-mobile-music-and-podcasts/"><u>2024 Approved  10 Speed-Up Apps for Mobile Music and Podcasts</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-achieve-stunning-visual-impact-top-color-grading-tutorials/"><u>2024 Approved  Achieve Stunning Visual Impact - Top Color Grading Tutorials</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-achieving-professional-level-audio-crossfades-in-audacity/"><u>2024 Approved  Achieving Professional-Level Audio Crossfades in Audacity</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-auditory-aesthetics-film-from-a-single-frame/"><u>2024 Approved  Auditory Aesthetics  Film From a Single Frame</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-drone-enhancement-kit-10-indispnible-components/"><u>2024 Approved  Drone Enhancement Kit - 10 Indispnible Components</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-enhancing-digital-screens-for-up-close-focus/"><u>2024 Approved  Enhancing Digital Screens for Up-Close Focus</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-expert-recommendations-10-high-end-podcast-mics/"><u>2024 Approved  Expert Recommendations  10 High-End Podcast Mics</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-gaming-evolved-comparing-mavic-air-and-sparks-impact/"><u>2024 Approved  Gaming Evolved  Comparing Mavic Air and Spark's Impact</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-hololens-review-unleashing-virtual-potential-with-microsoft/"><u>2024 Approved  HoloLens Review – Unleashing Virtual Potential with Microsoft</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-how-to-use-luts-from-color-grading-central-to-color-grading-for-movies/"><u>2024 Approved  How to Use Luts From Color Grading Central to Color Grading for Movies</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-laughlens-pictorial-humor-studio/"><u>2024 Approved  LaughLens  Pictorial Humor Studio</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-navigate-effortlessly-inshots-role-in-video-crafting-on-devices/"><u>2024 Approved  Navigate Effortlessly  Inshot's Role in Video Crafting on Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamline-your-video-projects-using-movie-maker-on-windows-8/"><u>2024 Approved  Streamline Your Video Projects  Using Movie Maker on Windows 8</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-uniting-fans-anime-opening-songs-showcase/"><u>2024 Approved  Uniting Fans  Anime Opening Songs Showcase</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-vivo-y56-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/a-critical-look-at-the-leading-economically-friendly-lut-sources-for-2024/"><u>A Critical Look at the Leading, Economically Friendly LUT Sources for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/agribuddy-games-celebrating-camaraderie-on-the-farm-for-2024/"><u>AgriBuddy Games  Celebrating Camaraderie on the Farm for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/amc-explorer-ghost-drift-cam-analysis/"><u>AMC Explorer  Ghost Drift Cam Analysis</u></a></li>
+<li><a href="https://article-helps.techidaily.com/audio-clarity-commandments-choosing-from-the-best-6-livestreaming-mics-for-2024/"><u>Audio Clarity Commandments  Choosing From the Best 6 Livestreaming Mics for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/becoming-a-master-at-iphones-hdr-photography-techniques/"><u>Becoming a Master at iPhone's HDR Photography Techniques</u></a></li>
+<li><a href="https://article-helps.techidaily.com/beginners-blueprint-to-blend-brighten-and-balance/"><u>Beginner's Blueprint to Blend, Brighten & Balance</u></a></li>
+<li><a href="https://article-helps.techidaily.com/best-20-anime-openers-anthems-in-order-for-2024/"><u>Best 20 Anime Openers' Anthems in Order for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/best-websites-to-download-classical-ringtones/"><u>Best Websites to Download Classical Ringtones</u></a></li>
+<li><a href="https://article-helps.techidaily.com/bridging-gaps-between-vision-and-execution-in-filmora-editing/"><u>Bridging Gaps Between Vision and Execution in Filmora Editing</u></a></li>
+<li><a href="https://article-helps.techidaily.com/collaborative-filmmaking-teamwork-in-producing-instagram-content/"><u>Collaborative Filmmaking  Teamwork in Producing Instagram Content</u></a></li>
+<li><a href="https://article-helps.techidaily.com/complete-analysis-gopro-silver-edition-hero4-assessment-for-2024/"><u>Complete Analysis  GoPro Silver Edition HERO4 Assessment for 2024</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-xiaomi-redmi-note-12-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Xiaomi Redmi Note 12 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-nubia-z50s-pro-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Nubia Z50S Pro Safely | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-from-your-apple-iphone-13-pro-max-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID from Your Apple iPhone 13 Pro Max?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-m1-powered-macbook-air-a-new-era-for-editors/"><u>In 2024, M1-Powered MacBook Air  A New Era for Editors?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/integrating-apis-expanding-functionality-beyond-basic-html/"><u>Integrating APIs  Expanding Functionality Beyond Basic HTML</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/mr-beast-an-analysis-of-assets-for-2024/"><u>Mr. Beast  An Analysis of Assets for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/revamp-your-igtv-titles-quickly-and-efficiently/"><u>Revamp Your IGTV Titles Quickly & Efficiently</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-now-get-the-newest-hdmi-driver-compatible-with-usb-for-superior-connectivity/"><u>Update Now: Get the Newest HDMI Driver Compatible with USB for Superior Connectivity</u></a></li>
+</ul></div>

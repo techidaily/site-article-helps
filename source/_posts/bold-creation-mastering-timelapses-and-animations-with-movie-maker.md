@@ -1,7 +1,7 @@
 ---
 title: "\"Bold Creation  Mastering Timelapses & Animations with Movie Maker\""
-date: 2024-07-11T10:00:40.570Z
-updated: 2024-07-12T10:00:40.570Z
+date: 2024-08-08T05:17:45.603Z
+updated: 2024-08-09T05:17:45.603Z
 tags: 
   - screen-recording
   - ai video
@@ -32,6 +32,18 @@ On your PC, launch Windows Movie Maker. Windows Movie Maker, however, has to be 
 
 ![import video to movie maker](https://images.wondershare.com/filmora/article-images/2022/09/import-video-to-movie-maker.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** You have the option to upload one file at a time or many files simultaneously.
@@ -46,12 +58,18 @@ If you wish to clip off a section, go to "Edit" under "Video Tools" and choose t
 
 You may add two distinct types of animations—Transitions and Pan and Zoom—to video clips or photographs using the Animations window on the ribbon. The dropdown menu next to "Speed" in the "Edit" tab may be expanded to change the speed of a video clip. The 'Duration' dropdown menu allows you to choose how long a certain image will be shown in a movie.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![animation tab movie maker](https://images.wondershare.com/filmora/article-images/2022/09/animation-tab-movie-maker.jpg)
 
 ##### Step4Add Transitions
 
 Between two multimedia portions, a transition effect may be added. In the "Animations" section, there are many different transitions available, including dissolves, patterns, and forms. The transition will be included at the start of the chosen medium. You may alter the effect's duration by writing or choosing a new time frame from the dropdown menu next to "Duration."
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![add transitions movie maker](https://images.wondershare.com/filmora/article-images/2022/09/add-transitions-movie-maker.jpg)
 
 ##### Step5Save the Video
@@ -104,24 +122,38 @@ Simple movies may be easily made using Windows Live Movie Maker. With Windows Vi
 
 If you wish to clip off a section, go to "Edit" under "Video Tools" and choose the "Split" option. Depending on where you place the cursor during the section, the software will divide it into two halves. If you want to remove certain snippets, just touch the clip to reveal the context menu and choose "Remove" or "Delete" from the keyboard.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![preview video movie maker](https://images.wondershare.com/filmora/article-images/2022/09/preview-video-movie-maker.jpg)
 
 ##### Step3Open the Animation Tab
 
 You may add two distinct types of animations—Transitions and Pan and Zoom—to video clips or photographs using the Animations window on the ribbon. The dropdown menu next to "Speed" in the "Edit" tab may be expanded to change the speed of a video clip. The 'Duration' dropdown menu allows you to choose how long a certain image will be shown in a movie.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![animation tab movie maker](https://images.wondershare.com/filmora/article-images/2022/09/animation-tab-movie-maker.jpg)
 
 ##### Step4Add Transitions
 
 Between two multimedia portions, a transition effect may be added. In the "Animations" section, there are many different transitions available, including dissolves, patterns, and forms. The transition will be included at the start of the chosen medium. You may alter the effect's duration by writing or choosing a new time frame from the dropdown menu next to "Duration."
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add transitions movie maker](https://images.wondershare.com/filmora/article-images/2022/09/add-transitions-movie-maker.jpg)
 
 ##### Step5Save the Video
 
 When a transition is applied, a washed-out diagonal zone on the clip in the timeline indicates where the transition starts and finishes. Additionally, you have a choice in the sequence in which the effects are used. This may change how the movie is finally shown depending on the Effects, you choose. Once you're done, click Apply.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![save animation video movie maker](https://images.wondershare.com/filmora/article-images/2022/09/save-animation-video-movie-maker.jpg)
 
 ## Part 2\. Movie Maker Alternative to Add Animations
@@ -187,3 +219,71 @@ Simple movies may be easily made using Windows Live Movie Maker. With Windows Vi
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-do-consumer-feedbacks-get-paid-in-vlogs-for-2024/"><u>[New] Do Consumer Feedbacks Get Paid in Vlogs for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-path-of-peacefulness-how-to-gently-dim-music-tracks/"><u>[New] The Path of Peacefulness  How To Gently Dim Music Tracks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-ultimate-link-from-instas-photos-to-tiks-videos/"><u>[Updated] In 2024, The Ultimate Link  From Insta's Photos to Tik's Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-revamped-design-tools-after-acid-pro-era/"><u>[Updated] Revamped Design Tools  After ACID Pro Era</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-chromes-favorite-video-clippers-from-facebook/"><u>2024 Approved  Chromes' Favorite Video Clippers From Facebook</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-curating-striking-instagram-profile-photos/"><u>2024 Approved  Curating Striking Instagram Profile Photos</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-cutting-edge-5-online-media-recording-units/"><u>2024 Approved  Cutting-Edge 5 Online Media Recording Units</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-optimal-viewing-experience-for-facebook-video-playback/"><u>2024 Approved  Optimal Viewing Experience for Facebook Video Playback</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-step-by-step-to-snapchat-stardom-become-a-gif-virtuoso/"><u>2024 Approved  Step-by-Step to Snapchat Stardom  Become a GIF Virtuoso</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamline-accessibility-a-compreenas-top-free-tts-apps-list-for-mac-users/"><u>2024 Approved  Streamline Accessibility  A Compreenas Top Free TTS Apps List for Mac Users</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-realme-c53-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/apex-elite-comprehensive-4k-touch-desktops/"><u>Apex Elite  Comprehensive 4K Touch Desktops</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-motorola-razr-40-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Motorola Razr 40 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/clear-the-path-nine-tricks-to-dodge-steady-windows-update-stalls/"><u>Clear the Path: Nine Tricks to Dodge Steady Windows Update Stalls</u></a></li>
+<li><a href="https://article-helps.techidaily.com/decelerating-music-dynamics-step-by-step-guide-in-premiere-pro/"><u>Decelerating Music Dynamics  Step-by-Step Guide in Premiere Pro</u></a></li>
+<li><a href="https://article-helps.techidaily.com/deciding-on-a-screen-projectors-and-tvs-at-the-forefront-of-4k-technology-for-2024/"><u>Deciding on a Screen  Projectors & TVs at the Forefront of 4K Technology for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/decoding-kinemaster-complexities-best-practices-and-alternative-digital-tools-for-2024/"><u>Decoding KineMaster Complexities  Best Practices & Alternative Digital Tools for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/decoding-powerdirector-2-written-users-for-2024/"><u>Decoding PowerDirector 2 Written Users for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/delving-into-the-visual-excellence-of-benq-sw320s-4k-display-for-2024/"><u>Delving Into the Visual Excellence of BenQ SW320's 4K Display for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/digital-sound-shift-a-comprehensive-tutorial-on-srt-conversion/"><u>Digital Sound Shift  A Comprehensive Tutorial on SRT Conversion</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/directscreen-w11-instant-recording-on-windows-11-for-2024/"><u>DirectScreen W11  Instant Recording on Windows 11 for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/discover-free-and-paid-luts-for-profound-canon-camera-effects/"><u>Discover Free & Paid LUTs for Profound Canon Camera Effects</u></a></li>
+<li><a href="https://article-helps.techidaily.com/discover-your-future-with-window-11s-innovative-creations-for-2024/"><u>Discover Your Future with Window 11'S Innovative Creations for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/echoed-calls-recorder-iphone-model-2024/"><u>Echoed Calls Recorder - iPhone Model 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/ecosystems-of-uav-innovations-for-2024/"><u>Ecosystems of UAV Innovations for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/efficient-guide-to-transforming-gifs-into-engaging-whatsapp-and-telegram-stickers-for-2024/"><u>Efficient Guide to Transforming GIFs Into Engaging WhatsApp & Telegram Stickers for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/elevate-video-editing-gratuitous-premiere-pro-tools-for-2024/"><u>Elevate Video Editing  Gratuitous Premiere Pro Tools for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/elevate-your-brands-reach-with-a-strategic-approach-to-social-media-management/"><u>Elevate Your Brand's Reach with a Strategic Approach to Social Media Management</u></a></li>
+<li><a href="https://article-helps.techidaily.com/elevate-your-media-creation-skills-with-windows-11-tips/"><u>Elevate Your Media Creation Skills with Windows 11 Tips</u></a></li>
+<li><a href="https://article-helps.techidaily.com/elite-upgrades-top-picks-of-vr-handwear-devices/"><u>Elite Upgrades  Top Picks of VR Handwear Devices</u></a></li>
+<li><a href="https://article-helps.techidaily.com/embark-on-an-avatar-journey-crafting-characters-with-ease-and-style-for-2024/"><u>Embark on an Avatar Journey  Crafting Characters with Ease and Style for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/embedding-yt-audio-into-film-formats/"><u>Embedding YT Audio Into Film Formats</u></a></li>
+<li><a href="https://article-helps.techidaily.com/engaging-podcast-openers-captivating-intro-lines-for-2024/"><u>Engaging Podcast Openers  Captivating Intro Lines for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/enhance-accessibility-with-top-free-text-conversion-software-for-macs-for-2024/"><u>Enhance Accessibility with Top Free Text Conversion Software for Macs for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/enhance-your-media-presentation-top-12-players-list/"><u>Enhance Your Media Presentation  Top 12 Players List</u></a></li>
+<li><a href="https://article-helps.techidaily.com/enigmatic-strategy-for-impeccable-tiktok-profile-linking/"><u>Enigmatic Strategy for Impeccable TikTok Profile Linking</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exceptional-lg-24lh4830-screen-experience-without-breaking-your-wallet/"><u>Exceptional LG 24LH4830 Screen Experience Without Breaking Your Wallet</u></a></li>
+<li><a href="https://article-helps.techidaily.com/expanding-photography-quality-for-2024/"><u>Expanding Photography Quality for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/expert-guide-selecting-the-ideal-sites-and-techniques-for-trimming-tamil-melodies/"><u>Expert Guide  Selecting the Ideal Sites & Techniques for Trimming Tamil Melodies</u></a></li>
+<li><a href="https://article-helps.techidaily.com/expert-insights-streamlining-filters-integration-in-media-production/"><u>Expert Insights  Streamlining Filters Integration in Media Production</u></a></li>
+<li><a href="https://article-helps.techidaily.com/explore-the-excitement-of-high-speed-photography-with-iphone-for-2024/"><u>Explore the Excitement of High-Speed Photography with iPhone for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/figure-skating-highlights-2022-for-2024/"><u>Figure Skating Highlights 2022 for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fixing-mp4-file-errors/"><u>Fixing MP4 File Errors</u></a></li>
+<li><a href="https://article-helps.techidaily.com/flip-shift-and-merge-videos-for-professional-android-results-for-2024/"><u>Flip, Shift & Merge Videos for Professional Android Results for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/free-football-filming-and-editing-essentials/"><u>Free-Football Filming & Editing Essentials</u></a></li>
+<li><a href="https://article-helps.techidaily.com/free-football-filmmaking-basics-from-screen-to-studio-for-2024/"><u>Free-Football Filmmaking Basics  From Screen to Studio for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/freescape-extraction-revisited-a-look-at-the-latest-update-for-2024/"><u>Freescape Extraction Revisited  A Look at the Latest Update for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/from-amateurs-to-pros-transformative-steps-in-gopro-timelapses-for-2024/"><u>From Amateurs to Pros  Transformative Steps in GoPro Timelapses for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/from-basic-to-spectaculr-the-best-cams-gear-guide/"><u>From Basic to Spectaculr  The Best Cams' Gear Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/gear-for-capturing-journeys-on-camera/"><u>Gear for Capturing Journeys on Camera</u></a></li>
+<li><a href="https://article-helps.techidaily.com/getting-started-with-seamless-sound-transitions/"><u>Getting Started with Seamless Sound Transitions</u></a></li>
+<li><a href="https://article-helps.techidaily.com/gif-wizardry-10-tools-to-ignite-your-creative-spark-for-2024/"><u>GIF Wizardry  10 Tools to Ignite Your Creative Spark for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/guidance-to-creating-a-3d-text-art-effect-in-adobe-illustrator/"><u>Guidance to Creating a 3D Text Art Effect in Adobe Illustrator</u></a></li>
+<li><a href="https://article-helps.techidaily.com/hack-high-speed-videos-for-engaging-instagram-stories/"><u>Hack High-Speed Videos for Engaging Instagram Stories</u></a></li>
+<li><a href="https://article-helps.techidaily.com/hacking-the-meme-game-master-kinemaster-skills-for-2024/"><u>Hacking the Meme Game  Master KineMaster Skills for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Itel P55T? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-sony-xperia-1-v-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Sony Xperia 1 V Device SIM</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-nokia-g310-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Nokia G310 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-vivo-y200-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Vivo Y200 Phone?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-15-pro-max-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, iPhone 15 Pro Max Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Honor Magic 6? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/top-8-iphone-12-mini-smsmessagetext-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top 8 iPhone 12 mini SMS/Message/Text Recovery Software | Stellar</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/visual-style-guide-the-top-10-sites-for-stylish-laptop-graphics/"><u>Visual Style Guide  The Top 10 Sites for Stylish Laptop Graphics</u></a></li>
+</ul></div>
