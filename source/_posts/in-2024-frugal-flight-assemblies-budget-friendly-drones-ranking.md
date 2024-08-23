@@ -1,0 +1,244 @@
+---
+title: "\"In 2024, Frugal Flight Assemblies  Budget-Friendly Drones Ranking\""
+date: 2024-08-22T20:05:34.341Z
+updated: 2024-08-23T20:05:34.341Z
+tags: 
+  - screen-recording
+  - ai video
+  - ai audio
+  - ai auto
+categories: 
+  - ai
+  - screen
+description: "\"This Article Describes In 2024, Frugal Flight Assemblies: Budget-Friendly Drones Ranking\""
+excerpt: "\"This Article Describes In 2024, Frugal Flight Assemblies: Budget-Friendly Drones Ranking\""
+keywords: "\"Frugal Drone Guide,Budget Drones Top,Cheap Drones List,Affordable UAVs,Low-Cost Drones,Economical Drones Ranked,EconoDrone Selection\""
+thumbnail: https://thmb.techidaily.com/8774783d28d2d78a2030ac7e0dc1d6230634beecdba672087a8494366974e451.jpg
+---
+
+## Frugal Flight Assemblies: Budget-Friendly Drones Ranking
+
+# Top 5 Affordable Drones under $500
+
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+ Finding the right drone for your needs is not always easy, especially when the price ranges vary so much. You usually find that there are people that are prepared to pay through the nose for the latest technology (usually those that use for business purposes) and the people that are just dipping their toes in the world of drones and video capture that want affordable drones that they won't be too heartbroken about should it crash. There's little middle ground where you can get quality at a price you can afford, however there are a few gems out there that give you the best of both worlds for drones under $500\. We have done the hard work so you don't have to and found drones cheap enough for all with great specifications for each all types of enthusiasts.
+
+## Top 6 affordable drones under $500
+
+| Product                               | Price   | Flight time | video resolution | Fliying range |
+| ------------------------------------- | ------- | ----------- | ---------------- | ------------- |
+| DJI Phantom 3 Standard                | $497    | 25min       | 2.7K             | 5km           |
+| Parrot Bebop                          | $449.99 | 25min       | 1080p            | 2km           |
+| Yuneec Breeze                         | $499    | 12min       | 4k               | 100m          |
+| 3DR Solo                              | $449.95 | 20min       | N                | 700m          |
+| UPair One Drone with 4K Camera Bundle | $399    | 18min       | 4k               | 800m          |
+| Walkera F210 3D Edition               | $449    | 9min        | 720p             | 1km           |
+
+#### DJI Phantom 3 Standard - Best drone under $500
+
+![dji phantom 3 standard](https://images.wondershare.com/filmora/article-images/dji-phantom-3-standard.jpg)
+
+[Check at Amazon](https://www.amazon.com/gp/product/B013U0F6EQ/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B013U0F6EQ&linkId=7eb3c6ed8291356e6acb86c74ddca833
+)
+
+ Because the Phantom 4 is now available prices for its predecessor allow enthusiasts to get hold of affordable drones for less. The DJI Phantom 3 standard has excellent stability for a smoother flight and film capture as well as 4K resolution so that you get more clarity and detail in your recordings. it is one of the best drones under $500 that money can buy as it has all the features enthusiasts want without a huge price tag attached. Being easy to operate it's a perfect choice for those that want to enter the world of drones and try out modern features for high quality recording without the risk. It can now be purchased for as little as $399\. Just over a year ago the same quality and specifications the price would have set you back about $1000.
+
+* Weight: 1280 g
+* Diagonal Size: 350 mm
+* Max Ascent Speed: 5 m/s
+* Max Descent Speed: 3 m/s
+* Flight Time: Approx. 25 minutes
+* Shutter Speed: 8s - 1/8000s/Image Max Size: 4000×3000
+* Supported SD Card Types : Micro-SD
+* Max capacity: 64 GB. Class 10 or UHS-1 rating required
+* Photo: JPEG, DNG
+* Video: MP4, MOV (MPEG-4 AVC/)
+
+#### Parrot Bebop - Best quadcopters for learning aerial photography and videography
+
+![parrot bebop](https://images.wondershare.com/filmora/article-images/parrot-bebop.jpg)
+
+[Check at Amazon](https://www.amazon.com/gp/product/B01K4U4O9S/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01K4U4O9S&linkId=559bfd9a35c5117ca75942a267175750
+)
+
+ If you are just starting out with videography and aerial photography the Parrot Bebop is one of the best drones under $500\. It has 14 megapixel full HD capacities with 1080p. Excellent stabilization in flight thanks to the 3 axis stabilization capabilities. There's the autopilot, follow me mode and automatic landing which makes it easier to control and bring back to its starting position. It is controlled by mobile app making it easier to transport and control with a familiar device. You can add extra features by downloading a paid app including panning and plenty of other useful features, however the free app download is sufficient for beginners until they are ready to move onto the next stage. It can be purchased from around $400.
+
+* Weight: 420 grams
+* Dimensions: 330 x 380 x 36 mm
+* Body Material: Plastic
+* Rotor Material: Plastic
+* Motor Type: Brushless
+* Available Colors : Blue, Red and Yellow
+* LED Lights : Yes
+* Foldable : No
+* Maxi flight time: 12 minutes
+* Max altitude: 150 meters
+* Maximum speed: 29 mph
+
+#### Yuneec Breeze - The ultimate selfie drone for new and experienced pilots
+
+![yuneec breeze](https://images.wondershare.com/filmora/article-images/yuneec-breeze.jpg)
+
+[Check at Amazon](https://www.amazon.com/gp/product/B01LANE77M/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01LANE77M&linkId=36ad7237fd26bf3cb5012480c0e0957a
+)
+
+ Whether you just want to create the best selfies around or want to take your video recordings to the next level, the Yuneec Breeze has a lot to offer for one of the affordable drones. It has return to home features so you don't have to worry about navigating and landing it back in its starting point, follow me capabilities, a selfie app and so much more. It's easy for beginners to use but has enough functions and capabilities to keep those with more expertise happy.
+
+* Size: 196 x 196 x 65 mm
+* Weight : 385 g
+* Battery : 3S 11.1 V 1150 mAh LiPo
+* Motors: 2206kV brushless motors
+* Flight Time: Up to 12 min
+* Max altitude: 80 m
+* Max speed: 5m/s
+* System for positioning: Optical Flow + GPS
+* Smartphone capabilities: 5 GHz capable, at least Android 4.2.2
+* Camera Tilt :0° - 90°
+* Sensor :1/3.06 CMOS
+* Pixels : 13 megapixels
+* Photo Resolution: 4 K–4160 x 3120 pixel (13 MP)
+* Photo Format: JPEG
+* White Balance
+* Internal Memory: 16 GB Flash
+
+#### 3DR Solo - Best Drone for GoPro
+
+![3dr solo](https://images.wondershare.com/filmora/article-images/3dr-solo.jpg)
+
+[Check at Amazon](https://www.amazon.com/gp/product/B00ZPM7BOG/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00ZPM7BOG&linkId=6e3a0783ff748b66e7ccc673543bde8f
+)
+
+ If you are looking for affordable drones under $500 that works with GoPro then the 3D Solo should be right up your street. It can be purchased for under $300 and has professional features including first person view, compatibility with GoPro HERO3, HERO3+ and HERO4 and you can purchase a 3-axis gimbal to keep the camera stable while it is in flight as well as allowing you to take pictures and videos easily. You can use the included remote to control both the camera and drone so no fiddling about and it can take off automatically and return home with just one button being pressed to action it. Footage can be saved directly to your phone and you can get rid of unwanted footage in flight making it easier to store the parts you want to and make later editing easier. You can easily operate the drone in its automated modes so that the drone can follow pre-decided routes or follow you. This clever drone even includes a simulator for you to practice before using your drone which is great for those that want to perfect their flying skills. The battery lasts for up to 20 minutes of in-flight action per charge and to keep track there is a battery status so you don't run out in the middle of the flight.
+
+#### UPair One Drone with 4K Camera Bundle
+
+![upair one drone with 4k camera bundle](https://images.wondershare.com/filmora/article-images/upair-one-drone-with-4k-camera-bundle.jpg)
+
+[Check at Amazon](https://www.amazon.com/gp/product/B01M0YYO87/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01M0YYO87&linkId=d3373098f24af25a42abdd84a32e0366
+)
+
+ If you are looking for 4K package drones under $500 the UPair One can be bought from $250 depending on whether you want the 2K or 4K camera. It has been compared to GoPro quality and has been around since the end of 2015\. It was created as one of the affordable drone's alternatives to the DJI Phantom 3 which means you will be able to get the majority of the features for less. Everything except for the propellers is already set up so it's simple to set up and go. Even the camera and gimbal have been mounted to make it easier. The GPS system can return home quickly with only 10 feet between its landing and the original take off location. There's no need to recalibrate as it does it automatically while in flight and is able to fly up to 1000 meters from the operator.
+
+* FPV system range: up to 600 meters
+* 2K or 4K Camera
+* Varied field of view
+* 7 inch monitor
+* Camera recording status
+* Failsafe programing to stop the battery dying so that the drone automatically returns
+* 5400mAh Smart Battery
+* 11-15 minutes runtime with gimball and camera, 25 minutes without
+
+#### Walkera F210 3D Edition - Best racing drone
+
+![walkera f210 3d edition](https://images.wondershare.com/filmora/article-images/walkera-f210-3d-edition.jpg)
+
+[Check at Amazon](https://www.amazon.com/gp/product/B01EW0EPU4/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01EW0EPU4&linkId=4c6a236382213dec0668e4971adfb53a
+)
+
+ Drone racing has really taken hold over the past few years and has become somewhat of a sport. As well as the flying experience the Walkera F210 captures great videos of the race and it's pretty much ready to fly as it's assembled in the box. It's extremely responsive, built robust in case of crashing, responsive and best of all fast. The camera is not only great in daylight, but also has night vision so that you can up your race when the sun goes down.
+
+* Size: 210 mm diagonally
+* Weight: 370 grams
+* Carbon fiber body
+* Flexible antennas and transmitter
+* Extremely responsive
+* Goggle 2 system with display of 640x480 per eye with option to buy upgrades for HD
+* 3D and 2D capabilities
+* Advanced flight modes
+* Just under $300
+* Remote: DEVO 7 / DEVO F7
+* Main Controller :FCS-F210(F3D)
+* Brushless Motor: WK-WS-28-014A(CW/CCW)KV2500
+* Battery: 14.8V 1300mAh 40C 4S Li-PO
+* 2D Flight Time: 8 to 9mins
+* 3D Flight Time: 5mins
+
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-10-leading-non-gamer-screen-recording-alternatives/"><u>[New] In 2024, 10 Leading Non-Gamer Screen Recording Alternatives</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-demystifying-the-dynamics-of-mixed-reality-space/"><u>[New] In 2024, Demystifying the Dynamics of Mixed Reality Space</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-uncovering-asmr-truths-for-viewers/"><u>[New] Uncovering ASMR Truths for Viewers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlocking-potential-with-nikon-written-by-emily-roberts-on-june-4-2023/"><u>[New] Unlocking Potential with Nikon' Written by Emily Roberts on June 4, 2023</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-camstudio-recording-tech-a-comprehensive-2023-analysis/"><u>[Updated] CamStudio Recording Tech  A Comprehensive 2023 Analysis</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-gamers-almanac-expert-tips-to-record-and-save-your-minecraft-sessions-for-2024/"><u>[Updated] Gamer's Almanac  Expert Tips to Record and Save Your Minecraft Sessions for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-prime-videobg-selections-enhancing-remote-collaboration/"><u>[Updated] Prime Videobg Selections  Enhancing Remote Collaboration</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-the-deadly-drafts-cutthroat-selection-of-top-zombie-titles/"><u>[Updated] The Deadly Drafts  Cutthroat Selection of Top Zombie Titles</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-ultimate-guide-to-no-ad-android-video-tools-for-2024/"><u>[Updated] Ultimate Guide to No-Ad Android Video Tools for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/10-top-tools-for-dynamic-image-background-alterations-for-2024/"><u>10 Top Tools for Dynamic Image Background Alterations for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/15-ways-to-enhance-your-listening-pleasure-with-podcasts-for-2024/"><u>15 Ways to Enhance Your Listening Pleasure with Podcasts for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-accelerated-image-viewer-in-windows-environment/"><u>2024 Approved  Accelerated Image Viewer in Windows Environment</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-best-9-android-apps-minimize-videos-effortlessly-and-costlessly/"><u>2024 Approved  Best 9 Android Apps  Minimize Videos Effortlessly and Costlessly</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-best-ios-slideshow-software-from-x-to-ios13/"><u>2024 Approved  Best iOS Slideshow Software From X to IOS13</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-enhance-your-browsing-efficiency-a-complete-guide-to-pip-on-edge/"><u>2024 Approved  Enhance Your Browsing Efficiency  A Complete Guide to PIP on Edge</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-exceptional-sound-value-for-aspiring-asmr-artists/"><u>2024 Approved  Exceptional Sound Value for Aspiring ASMR Artists</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-explore-the-latest-in-video-compression-technology-with-these-46-new-tools/"><u>2024 Approved  Explore the Latest in Video Compression Technology with These 46 New Tools</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-fabricate-a-one-of-a-kind-internet-joke/"><u>2024 Approved  Fabricate a One-of-a-Kind Internet Joke</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-firefoxs-multitasking-toolkit-the-pip-mode/"><u>2024 Approved  Firefox's Multitasking Toolkit  The PIP Mode</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-how-to-curve-images-in-photoshop/"><u>2024 Approved  How to Curve Images in Photoshop</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-infuse-motion-blur-into-image-sequence/"><u>2024 Approved  Infuse Motion Blur Into Image Sequence</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-inverting-film-tracks-in-mobile-devices/"><u>2024 Approved  Inverting Film Tracks in Mobile Devices</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-masterclass-generating-professional-srt-documents/"><u>2024 Approved  Masterclass  Generating Professional SRT Documents</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-meme-magic-sprinkle-hilarity-with-simple-steps/"><u>2024 Approved  Meme Magic  Sprinkle Hilarity with Simple Steps</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-next-level-experience-in-metaverse-with-top-8-accessories/"><u>2024 Approved  Next-Level Experience in Metaverse with Top 8 Accessories</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-prime-4k-capture-devices-the-1-18-lineup/"><u>2024 Approved  Prime 4K Capture Devices  The #1-#18 Lineup</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-skirting-watermarks-in-stock-photography/"><u>2024 Approved  Skirting Watermarks in Stock Photography</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-strategic-steps-for-a-million-viewing-video-masterpiece/"><u>2024 Approved  Strategic Steps for a Million-Viewing Video Masterpiece</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-superior-3d-viewing-playback-on-android/"><u>2024 Approved  Superior 3D Viewing, Playback on Android</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-toolwiz-app-in-focus-a-thorough-review-and-analysis-of-2023-features/"><u>2024 Approved  Toolwiz App in Focus - A Thorough Review and Analysis of 2023 Features</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-troubleshooting-solo-earbuds/"><u>2024 Approved  Troubleshooting Solo Earbuds</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-unlocking-insights-how-to-communicate-effectively-with-viewers/"><u>2024 Approved  Unlocking Insights  How to Communicate Effectively with Viewers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-unlocking-top-tier-gif-utilities-on-ios-devices/"><u>2024 Approved  Unlocking Top-Tier GIF Utilities on iOS Devices</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-apple-iphone-15-plus-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>4 Methods to Turn off Life 360 On Apple iPhone 15 Plus without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/ace-your-films-with-these-top-15-gopro-video-luts/"><u>Ace Your Films with These Top 15 GoPro Video LUTs</u></a></li>
+<li><a href="https://article-helps.techidaily.com/achieving-perfection-mastering-sound-with-audacity/"><u>Achieving Perfection  Mastering Sound with Audacity</u></a></li>
+<li><a href="https://article-helps.techidaily.com/adventure-seekers-choice-black-hero5-or-star-sj7/"><u>Adventure Seekers Choice  Black Hero5 or Star SJ7?</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-samsung-galaxy-s23-fe-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Samsung Galaxy S23 FE? | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/clearer-photos-with-blur-effects-apps-for-2024/"><u>Clearer Photos with Blur Effects Apps for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/crossapple-windows-vmx-version-for-2024/"><u>CrossApple-Windows VMX Version for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/decoding-the-top-rival-to-sharex-for-2024/"><u>Decoding the Top Rival to ShareX for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eliminate-screen-horizon-lines/"><u>Eliminate Screen Horizon Lines</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-meizu-21-pro-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Meizu 21 Pro FRP?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-how-to-determine-ideal-frame-rates-in-slow-mo-filmmaking/"><u>In 2024, How to Determine Ideal Frame Rates in Slow-Mo Filmmaking</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-key-approaches-to-convert-youtube-videos-to-mp4/"><u>In 2024, Key Approaches to Convert YouTube Videos to MP4</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-masterclass-in-mobile-video-viewing-10-leading-iphoneipad-apps/"><u>In 2024, Masterclass in Mobile Video Viewing  10 Leading iPhone/iPad Apps</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-top-youtube-cameras-a-guide-for-novices-and-pros/"><u>In 2024, Top YouTube Cameras  A Guide for Novices & Pros</u></a></li>
+<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Samsung Galaxy F04? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/latest-driver-for-hp-officejet-4630-available/"><u>Latest Driver for HP Officejet 4630 Available</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-your-pc-upgrade-with-the-asus-pro-b760m-ct-csm-motherboard-a-detailed-examination/"><u>Mastering Your PC Upgrade with the Asus Pro B760M-CT CSM Motherboard – A Detailed Examination</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/maximizing-tiktok-video-velocity-effectively-for-2024/"><u>Maximizing TikTok Video Velocity Effectively for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-long-awaited-arrival-how-immortals-fenyx-rising-became-available/"><u>The Long-Awaited Arrival: How Immortal's Fenyx Rising Became Available</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
