@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Craft Your Story Pace with Instagram's Temp Control Feature\""
-date: 2024-07-11T08:28:11.694Z
-updated: 2024-07-12T08:28:11.694Z
+date: 2024-08-27T15:01:12.728Z
+updated: 2024-08-28T15:01:12.728Z
 tags: 
   - screen-recording
   - ai video
@@ -60,6 +60,9 @@ Step2 Launch the SpeedPro app and select the video whose speed you want to incre
 
 ![launch the speedPro app](https://images.wondershare.com/filmora/article-images/2023/01/instagram-stories-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step3 Use the slider to change the video speed on the next screen. If you want to slow down, move the slider to the left below 1X. If you want to speed up, move the slider to the right beyond 1X.
 
 Step4 You may want to change the speed of only a certain video section. Go to the bottom of the screen and use the scroll bar to select the desired portion of the video. After that, you can move the speed slider as per your requirements.
@@ -68,6 +71,9 @@ Step5 Finally, tap on the Tick icon. Thereafter, you can save the video or uploa
 
 ![tap on the tick icon](https://images.wondershare.com/filmora/article-images/2023/01/instagram-stories-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Using InShot App to Adjust Video Speed on Android
 
 InShot happens to be one of the most popular video editing apps among Android users. You get all the different video editing options in one platform. That is why it is the highest-rated video editing app on Play Store. Starting from changing video speed to adding music and voiceovers, you can take your video to the next level.
@@ -86,6 +92,9 @@ Step2 Launch InShot and tap on the Video option. Select the video from the galle
 
 ![](https://images.wondershare.com/filmora/article-images/2023/01/instagram-stories-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Step3 From the options at the bottom, tap on the Speed option. If you want to speed up only a section of the video,
 
 Step4 Move the slider to the right to speed up the video. Finally, tap on the Tick icon when you are done.
@@ -126,10 +135,16 @@ Step3 Select the video file on the timeline and click on the Speed(timer) icon.
 
 ![video file](https://images.wondershare.com/filmora/article-images/2023/01/instagram-stories-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step4 Select the Uniform Speed option. You will see the Uniform Speed tab above the timeline.
 
 ![uniform speed option](https://images.wondershare.com/filmora/article-images/2023/01/instagram-stories-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 Step5 Adjust the speed slider to change the speed of the video. To speed it up, set the slider above 1\. To slow down your video, you need to set the slider below 1.
 
 ![speed slider](https://images.wondershare.com/filmora/article-images/2023/01/instagram-stories-9.jpg)
@@ -166,6 +181,9 @@ Step3 Go to the Fast option and select any speed preset to speed up your video. 
 
 ![select any speed preset](https://images.wondershare.com/filmora/article-images/2023/01/instagram-stories-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step4 Play and video and if everything is perfect, press Export.
 
 ## Conclusion
@@ -194,22 +212,34 @@ Step1 Download, install and launch Filmora. Tap Create New Project.
 
 ![tap create new project](https://images.wondershare.com/filmora/article-images/2023/01/instagram-stories-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 Step2 Drag and drop the desired video file from your storage device to the Timeline directly. You can also go to File> Import Media> Import Media Files to bring your video file into the Project Media folder. After that, you can drop the file into the Timeline.
 
 Step3 Select the video file on the timeline and click on the Speed(timer) icon.
 
 ![video file](https://images.wondershare.com/filmora/article-images/2023/01/instagram-stories-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step4 Select the Uniform Speed option. You will see the Uniform Speed tab above the timeline.
 
 ![uniform speed option](https://images.wondershare.com/filmora/article-images/2023/01/instagram-stories-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 Step5 Adjust the speed slider to change the speed of the video. To speed it up, set the slider above 1\. To slow down your video, you need to set the slider below 1.
 
 ![speed slider](https://images.wondershare.com/filmora/article-images/2023/01/instagram-stories-9.jpg)
 
 Step6 Finally, click on the Ok button. Click Export. Thereafter, you can upload it on Instagram Story.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 2: Speed Ramping
 
 If you are an advanced video editor, you will love to customize the video speed through the speed graph. This helps to vary the speed of the video as per the graph your set. There can be some sped-up parts as well as slow-down parts with smooth transitions. That is what speed ramping is all about on Filmora.
@@ -220,12 +250,18 @@ Step2 Select the Speed Ramping option. Check the Speed Ramping tab above the tim
 
 ![speed ramping tab](https://images.wondershare.com/filmora/article-images/2023/01/instagram-stories-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step3 You can choose from the available presets. If you are unsatisfied with them, you can select the Customize option.
 
 ![available presets](https://images.wondershare.com/filmora/article-images/2023/01/instagram-stories-11.jpg)
 
 Step4 Finally, click the Ok button and then on the Export button to save the video file.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 3: Change Speed From Timeline
 
 You can instantly change the speed of your video by selecting a preset option. There are two different options available - Fast and Slow. Each of them has certain speed presets for you to select so that it applies to the selected video.
@@ -236,12 +272,22 @@ Step2 Select the video clip on the timeline and click on the Speed(timer) icon t
 
 ![find on top of the timeline](https://images.wondershare.com/filmora/article-images/2023/01/instagram-stories-12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 Step3 Go to the Fast option and select any speed preset to speed up your video. If you want to slow it down, go to the Slow option and select any speed preset.
 
 ![select any speed preset](https://images.wondershare.com/filmora/article-images/2023/01/instagram-stories-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 Step4 Play and video and if everything is perfect, press Export.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 We have answered the frequently asked question, "how to do slow motion on Instagram Stories?" Unfortunately, the answer is negative. But we have illustrated how you can alter the video speed easily using third-party apps. You can slow down or speed up Instagram Story videos instantly. If you want to edit the video speed on your computer, there is no better alternative to Wondershare Filmora.
@@ -271,3 +317,61 @@ We have answered the frequently asked question, "how to do slow motion on Instag
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-consumers-speak-the-vllo-narrative/"><u>[New] 2024 Approved  Consumers Speak  The VLLO Narrative</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-discover-the-most-popular-4k-youtube-mp3-conversion-apps/"><u>[New] 2024 Approved  Discover the Most Popular 4K YouTube MP3 Conversion Apps</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-overcoming-facebook-algorithm-change-hurdles/"><u>[New] 2024 Approved  Overcoming Facebook Algorithm Change Hurdles</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-streamline-your-storage-with-these-30-great-android-video-compressors/"><u>[New] 2024 Approved  Streamline Your Storage with These 30 Great Android Video Compressors</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-animtech-full-audit-24-summary-for-2024/"><u>[New] AnimTech Full Audit '24 Summary for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-desktoponline-passport-picture-creation-10-per-person-for-2024/"><u>[New] Desktop/Online Passport Picture Creation - 10 Per Person for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-elite-platforms-for-captivating-game-livestreams-for-2024/"><u>[New] Elite Platforms for Captivating Game Livestreams for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-free-football-filming-and-editing-essentials/"><u>[New] Free-Football Filming & Editing Essentials</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-from-tweeted-videos-to-downloadable-mp3-files/"><u>[New] From Tweeted Videos to Downloadable MP3 Files</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-structuring-stimulating-podcast-trailers/"><u>[New] In 2024, Structuring Stimulating Podcast Trailers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-pajama-plots-performed-a-critical-study-of-bedtime-storytelling-vids-for-2024/"><u>[New] Pajama Plots Performed  A Critical Study of Bedtime Storytelling Vids for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-real-time-reality-showdown-softwares-supremacy-over-hardware-for-2024/"><u>[New] Real-Time Reality Showdown  Software's Supremacy Over Hardware for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/creenplay-grooves-best-background-tunes-for-yt-shorts-for-2024/"><u>[New] Screenplay Grooves  Best Background Tunes For YT Shorts for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-sharpen-your-snaps-top-10-internet-photo-tenderizers-listed-for-2024/"><u>[New] Sharpen Your Snaps  Top 10 Internet Photo Tenderizers Listed for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-speedy-skimmer-of-windows-imagery-for-2024/"><u>[New] Speedy Skimmer of Windows Imagery for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/he-faces-to-watch-top-cosmetic-creatives-for-2024/"><u>[New] The Faces to Watch  Top Cosmetic Creatives for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-your-ultimate-guide-to-finding-tiktok-wallpapers/"><u>[New] Your Ultimate Guide to Finding TikTok Wallpapers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-netflix-archive-the-complete-guide-to-screencapturing-your-views/"><u>[Updated] 2024 Approved  Netflix Archive  The Complete Guide to ScreenCapturing Your Views</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-seamless-podcast-experience-for-iphone-users/"><u>[Updated] 2024 Approved  Seamless Podcast Experience for iPhone Users</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-secret-spotters-where-to-find-your-snappiest-ringtone/"><u>[Updated] 2024 Approved  Secret Spotters  Where to Find Your Snappiest Ringtone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-the-evolution-of-excellence-lg-bp550/"><u>[Updated] 2024 Approved  The Evolution of Excellence - LG BP550</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-alternative-high-quality-gaming-video-recording-solutions-for-2024/"><u>[Updated] Alternative High-Quality Gaming Video Recording Solutions for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-comprehending-the-basics-of-whatsapp-calls-for-2024/"><u>[Updated] Comprehending the Basics of WhatsApp Calls for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-gopro-hero5-experience-recap/"><u>[Updated] GoPro Hero5 Experience Recap</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-iconic-video-titles-youtubes-most-watched-lore/"><u>[Updated] Iconic Video Titles  YouTube's Most-Watched Lore</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-all-about-firefoxs-split-screen-feature/"><u>[Updated] In 2024, All About Firefox's Split Screen Feature</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-app-reception-a-comprehensive-scrutiny/"><u>[Updated] In 2024, App Reception  A Comprehensive Scrutiny</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-simplycapture-windows-screens-in-minutes/"><u>[Updated] In 2024, SimplyCapture - Windows Screens in Minutes</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-masterful-motivational-webcast-maker-for-2024/"><u>[Updated] Masterful Motivational Webcast Maker for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-mastering-visual-clarity-blur-your-meeting-backgrounds/"><u>[Updated] Mastering Visual Clarity  Blur Your Meeting Backgrounds</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-muzik-pathway-tamil-music-to-your-phones-chime-for-2024/"><u>[Updated] Muzik Pathway  Tamil Music to Your Phone's Chime for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-perfecting-text-in-after-effects-the-best-10-for-2024/"><u>[Updated] Perfecting Text in After Effects  The Best 10 for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-premium-listing-of-free-cross-platform-4k-uhd-player-apps-for-2024/"><u>[Updated] Premium Listing of Free, Cross-Platform 4K UHD Player Apps for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-novices-guide-to-photo-perfection-in-snapseed/"><u>[Updated] The Novice's Guide to Photo Perfection in Snapseed</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-elite-group-16-youtube-entries-boosting-views/"><u>2024 Approved  Elite Group  16 YouTube Entries Boosting Views</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/7-best-apps-to-go-live-on-youtube-from-iphone-or-android/"><u>7 Best Apps to Go Live on YouTube From iPhone or Android</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enabling-operational-amd-freesync/"><u>Enabling Operational AMD FreeSync</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/essential-fixes-for-disconnected-fb-live-feeds/"><u>Essential Fixes for Disconnected FB Live Feeds</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/grid-mastery-in-photos-with-our-select-apps-for-2024/"><u>Grid Mastery in Photos with Our Select Apps for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-oneplus-nord-n30-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast OnePlus Nord N30 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/how-to-perform-a-successful-streaming-on-twitch/"><u>How To Perform a Successful Streaming on Twitch</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-a1x-5g-phone-without-google-account-by-drfone-android/"><u>How to Unlock Oppo A1x 5G Phone without Google Account?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-chucklechasm-exciting-places-to-get-comical-calls/"><u>In 2024, ChuckleChasm  Exciting Places to Get Comical Calls</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-converting-standard-texts-into-stunning-3d-artifacts-photo/"><u>In 2024, Converting Standard Texts Into Stunning 3D Artifacts PHOTO</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-honor-x9a-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Honor X9a Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/prime-filmmaking-gear-for-novices/"><u>Prime Filmmaking Gear for Novices</u></a></li>
+<li><a href="https://article-helps.techidaily.com/six-visionaries-revolutionizing-the-nft-art-scene-for-2024/"><u>Six Visionaries Revolutionizing the NFT Art Scene for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-artists-guide-to-vivid-vsco-imagery/"><u>The Artist's Guide to Vivid VSCO Imagery</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-essential-compilation-top-10-budget-friendly-lut-sources/"><u>The Essential Compilation  Top 10 Budget-Friendly LUT Sources</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-right-platform-for-content-creation-podcast-or-video/"><u>The Right Platform for Content Creation? Podcast or Video?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/tips-for-iphone-users-converting-standard-speed-to-slow-scenes-for-2024/"><u>Tips for iPhone Users  Converting Standard Speed to Slow Scenes for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/zero-degree-zeal-2022-winter-olympics-triumphs/"><u>Zero-Degree Zeal  2022 Winter Olympics Triumphs</u></a></li>
+</ul></div>
