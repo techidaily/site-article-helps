@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Enhance Mobile Cinematography  Must-Have iPhone Accessories\""
-date: 2024-07-11T08:05:33.872Z
-updated: 2024-07-12T08:05:33.872Z
+date: 2024-08-31T19:45:10.158Z
+updated: 2024-09-01T19:45:10.158Z
 tags: 
   - screen-recording
   - ai video
@@ -56,30 +56,52 @@ To photograph or to film something simply means to capture the light at the cert
 
 ![light-iphone](https://images.wondershare.com/filmora/article-images/light-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ## External Battery/Charger
 
 Recording or taking photos for long periods of time can be demanding on your iPhone's battery. There is nothing worse than your battery dying in the middle of the scene you wanted to capture. [RAVPower 20100mAh Qualcomm Quick Charge 2.0 USB-C/Type-C Port External Battery](https://www.ravpower.com) is one of the most powerful chargers on the market today that can be used as an external power source for latest computers or any of the Apple's devices. At 20100 mAh it is capable of charging the iPhone 6S up to seven times in a row. The device is small enough to fit your pocket, which is why it should be your loyal companion on occasions when you are far away from a standard power source.
 
 ![battery-iphone](https://images.wondershare.com/filmora/article-images/battery-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Microphone
 
 The era of silent movies is long gone and today the quality of the video's sound is as important as the image quality. iPhone's built-in microphones are far from perfect and if for any reason the sound quality in your video is important to you, you should use an external shotgun microphone like [VideoMic Me](http://www.rode.com/microphones/videomicme). This microphone for iPhones is produced by Røde Microphones one the industry's leading companies which speak volumes about the quality of this small and practical microphone. VideoMic Me connects to an iPhone through the TRRS headphone/microphone socket and it can be used with both front and back cameras. This directional mic is designed to shoot outdoors and it's equipped with a deluxe furry windshield, that enables you to capture perfect audio even when it is windy outside.
 
 ![mic-iphone](https://images.wondershare.com/filmora/article-images/mic-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stabilization Gadgets
 
 Besides tripods, you can use gimbals like [DJI Osmo Mobile](http://store.dji.com/product/osmo-mobile?gclid=CjwKEAjwgZrJBRDS38GH1Kv%5FvGYSJAD8j4Dfjx4uY6dtl4LycNBeOvkn5lBd-062PP5K%5F714fRidQxoCe8nw%5FwcB) to keep your iPhone or any other Smartphone still while recording or taking a photo. Options like ActiveTrack that is built-into the DJI GO app enable Osmo Mobile to track your movements. The handle of the device is equipped with camera controls on the handle which means that you don't even need to touch the display of your iPhone while you are using the Osmo Mobile. To make things even better, you can share videos live, create panorama photos composed out of 9 different pictures or create time-lapse videos by adjusting a few simple settings. DJI Osmo Mobile can be placed almost everywhere, which gives you the confidence to experiment without ever having to worry about the stability of the shot you are about to take.
 
 ![iphone-stabilizer](https://images.wondershare.com/filmora/article-images/iphone-stabilizer.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## The Camera Dollies
 
 Did you ever dream of taking a perfect tracking shot with your iPhone? Anyone who has ever tried to take that kind of a shot knows how difficult it is to make it perfectly paced and still. With [iStabilizer Dolly](https://istabilizer.com/products/istabilizer-dolly/) you will be able to create shots that will seem that walked straight out of Martin Scorsese's movie with your iPhone. iStabilizer Dolly can be used with almost all Smartphones and it can even hold smaller DSLR cameras. It needs a perfectly flat surface in order to create the uninterrupted camera movement and it might be tricky to maintain the consistent speed during the shot. Despite the fact that you'll need some time to master camera dollies they are useful accessories for any aspiring filmmaker who is learning the ropes of the film industry.
 
 ![iphone-stabilizer-dolly](https://images.wondershare.com/filmora/article-images/iphone-stabilizer-dolly.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Camera apps
 
 There is no doubt that iPhone's cameras are capable of stunning performances, but if you'd like to give the videos you create with your iPhone a more cinematic look, camera apps might be the thing that you are looking for. Apps like [FiLMiC Pro](http://www.filmicpro.com/apps/apple/filmic-pro/) turn iOS camera into a high definition camera that can stand shoulder to shoulder with some of the best professional cameras today. This two-time video camera app of the year enables you to fully control settings like ISO, Shutter Speed or Exposure bias which results in the footage that is worthy of industry's best cameras. The app allows you to shoot 4K video in resolutions at up to 100Mbps and the latest update added the digital cinema 17:9 aspect ratio.
@@ -92,6 +114,9 @@ Taking a selfie isn't always easy, especially if you want to capture some of the
 
 ![selfie-stick-iphone](https://images.wondershare.com/filmora/article-images/selfie-stick-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ## Underwater Housing
 
 In the summertime, many people like to document their underwater adventures. But most underwater cameras are disposable and the image quality they produce is questionable at best. Underwater housings for iPhones might be a little pricey, but they enable you to capture the magnificence of the sea life in high definition. The [LenzO for iPhone 7 Plus](https://www.valstech.com/products/lenzo-for-iphone-7-plus) is designed and built using the same technologies that created the success of Lenzo's housings for iPhone 6/6s and iPhone 7\. The housing is composed out of aluminum and can be used at depths up to a hundred meters below the surface. You can access all of the phone's camera functions including the 4K or time-lapse modes. Underwater housings protect your iPhone and enable you to have a lot of fun while exploring the underwater world.
@@ -100,6 +125,9 @@ In the summertime, many people like to document their underwater adventures. But
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
@@ -126,3 +154,44 @@ Follow @Liza Brown
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-effortless-storytelling-using-pixiz-for-photo-videos/"><u>[New] 2024 Approved  Effortless Storytelling  Using Pixiz for Photo Videos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-expert-color-techniques-for-professional-visual-narratives/"><u>[New] Expert Color Techniques for Professional Visual Narratives</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ilmoras-quick-start-approach-for-youtube-trailers/"><u>[New] Filmora's Quick-Start Approach for YouTube Trailers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-how-to-make-video-thumbnails-for-youtube/"><u>[New] How to Make Video Thumbnails for YouTube</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-ice-racers-unite-celebrating-snowboard-cross-victories-winter-olympics-edition/"><u>[New] Ice Racers Unite  Celebrating Snowboard Cross Victories, Winter Olympics Edition</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-elite-presenter-tagline-generator-20/"><u>[New] In 2024, Elite Presenter Tagline Generator 2.0</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-seamless-rotation-a-cameras-360-journey/"><u>[New] In 2024, Seamless Rotation  A Camera's 360 Journey</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-transcoding-ttml-and-ssa-into-easy-to-use-srt-format-for-2024/"><u>[New] Transcoding TTML & SSA Into Easy-to-Use SRT Format for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-turbocharged-triumphs-unveiling-five-pinnacle-racer-simulators-for-2024/"><u>[New] Turbocharged Triumphs  Unveiling Five Pinnacle Racer Simulators for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-decoding-the-core-contrasts-between-youtube-and-dailymention/"><u>[Updated] 2024 Approved  Decoding the Core Contrasts Between YouTube and DailyMention</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-elite-edits-premier-4k-display-options-for-videographers/"><u>[Updated] 2024 Approved  Elite Edits  Premier 4K Display Options for Videographers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-add-logo-or-watermark-to-youtube-video/"><u>[Updated] 2024 Approved  How to Add Logo or Watermark to YouTube Video</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-asus-proart-4k-ultra-a-pro-artists-dream-display-for-2024/"><u>[Updated] ASUS ProArt 4K Ultra  A Pro Artist's Dream Display for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-detailed-look-into-the-lg-bp350ayering-and-user-experience/"><u>[Updated] Detailed Look Into the LG BP350'ayering and User Experience</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-high-fidelity-mp4-streamer-to-facebook/"><u>[Updated] High-Fidelity MP4 Streamer to Facebook</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-how-to-improve-airdrop-speed-and-connectivity-on-apple-devices/"><u>[Updated] How To Improve Airdrop Speed & Connectivity on Apple Devices</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-iconic-14-examples-of-animate-texts-for-2024/"><u>[Updated] Iconic 14 Examples of Animate Texts for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-cost-effective-gaming-selecting-the-best-keyboard-choices/"><u>[Updated] In 2024, Cost-Effective Gaming  Selecting the Best Keyboard Choices</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-swift-listening-on-spotify-how-to-accelerate-audio-safely/"><u>[Updated] In 2024, Swift Listening on Spotify  How to Accelerate Audio Safely</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-refine-your-remote-sessions-zoom-in-effectively/"><u>[Updated] Refine Your Remote Sessions  Zoom in Effectively</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-essential-shoppers-guide-to-modern-360cams-for-2024/"><u>[Updated] The Essential Shopper's Guide to Modern 360Cams for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-block-spotifys-predicted-podcast-selections/"><u>2024 Approved  How to Block Spotify's Predicted Podcast Selections</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastery-in-myths-and-modernity-the-yt-story-channels-of-23/"><u>2024 Approved  Mastery in Myths and Modernity  The YT Story Channels of '23</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-focusrite-scarlett-2i2-windows-drivers-here/"><u>Get Your Focusrite Scarlett 2I2 Windows Drivers Here!</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-itel-p55plus-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Itel P55+ Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-vivo-x100-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-behind-the-scenes-of-successful-onestream-livestreams/"><u>In 2024, Behind-the-Scenes of Successful OneStream Livestreams</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-google-photos-essential-tips-and-tricks/"><u>In 2024, Mastering Google Photos  Essential Tips and Tricks</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-meme-mastery-iphone-edition/"><u>In 2024, Meme Mastery  IPhone Edition</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-selective-slideshow-software-for-xrxsx-models/"><u>In 2024, Selective Slideshow Software for Xr/XS/X Models</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-sonys-blu-ray-revolution-s6700-updates/"><u>In 2024, Sony's Blu-Ray Revolution  S6700 Updates</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-subtly-dimming-your-computers-audio-output/"><u>In 2024, Subtly Dimming Your Computer's Audio Output</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-fb-video-potential-with-speedy-insights/"><u>In 2024, Unleashing FB Video Potential with Speedy Insights</u></a></li>
+<li><a href="https://article-helps.techidaily.com/rapid-runners-prime-fastest-titles-for-pc-mobile-devices-for-2024/"><u>Rapid Runners  Prime Fastest Titles for PC, Mobile Devices for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/slash-your-costs-with-the-alienware-bundle-shop-a-34-oled-monitor-and-aurora-r1e-pc-for-700-less-gamers-dream-deal-inside/"><u>Slash Your Costs with the Alienware Bundle: Shop a 34 OLED Monitor & Aurora R1e PC for $700 Less - Gamer's Dream Deal Inside!</u></a></li>
+<li><a href="https://article-helps.techidaily.com/syncing-b-roll-sequences-with-main-scenes-effortlessly-for-2024/"><u>Syncing B Roll Sequences with Main Scenes Effortlessly for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unlock-device-potentials-through-correct-driver-placement/"><u>Unlock Device Potentials Through Correct Driver Placement</u></a></li>
+</ul></div>
