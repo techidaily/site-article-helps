@@ -1,7 +1,7 @@
 ---
 title: "15 Masterpieces That Defined Stop Motion Artistry"
-date: 2024-07-11T07:48:37.560Z
-updated: 2024-07-12T07:48:37.560Z
+date: 2024-09-04T23:26:05.148Z
+updated: 2024-09-05T23:26:05.148Z
 tags: 
   - screen-recording
   - ai video
@@ -40,6 +40,12 @@ Consuming Spirits is an animated movie about three residents who lead interconne
 
 ![consuming spirits](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030385/7443" target="_top" id="2030385">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030385" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030385/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Coraline
 
 Movie Name: Coraline
@@ -54,6 +60,12 @@ Coraline is a film stop motion where an adventurous girl finds a secret door in 
 
 ![coraline](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Fantastic Mr. Fox
 
 Movie Name: Fantastic Mr. Fox
@@ -68,6 +80,24 @@ Fantastic Mr. Fox is an animated film about Mr. Fox, a family man who gets into 
 
 ![fantastic mr.fox](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-3.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. Wallace & Gromit: The Curse of the Were-Rabbit
 
 Movie Name: Wallace & Gromit: The Curse of the Were-Rabbit
@@ -82,6 +112,18 @@ The famous animated stop motion film is about Lady Tottington and Wallace, who g
 
 ![wellace & gromit in the curse of the were-rabbit](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-4.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5\. Early Man
 
 Movie Name: Early Man
@@ -96,6 +138,12 @@ Early Man is yet another stop motion film that got considerable fame. The story 
 
 ![early man](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 6\. Kubo and Two Strings
 
 Movie Name: Kubo and Two Strings
@@ -110,6 +158,18 @@ Kubo and Two Strings is one of the best stop motion films. The movie is about Ku
 
 ![kubo and two strings](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-6.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 7\. My Life as a Zucchini
 
 Movie Name: My Life as a Zucchini
@@ -124,6 +184,18 @@ My Life as a Zucchini is about an orphan who is sent to the orphanage where he l
 
 ![my life as a zucchini](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 8\. Corpse Bride
 
 Movie Name: Corpse Bride
@@ -138,6 +210,12 @@ Corpse Bride is one of the best stop motion films in the industry. The story is 
 
 ![corpse bride](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 9\. Chicken Run
 
 Movie Name: Chicken Run
@@ -152,6 +230,12 @@ Chicken Run is a movie about Rocky and Ginger, a rooster and a chicken. They dec
 
 ![chicken run](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 10\. Mary and Max
 
 Movie Name: Mary and Max
@@ -166,6 +250,18 @@ Mary and Max is a story about two unlikely people who befriended each other in a
 
 ![mary and max](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 11\. ParaNorman
 
 Movie Name: ParaNorman
@@ -194,6 +290,12 @@ As the best stop motion film, Missing Link is about Mr.Link, who hired a private
 
 ![missing link](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 13\. The Pirates! In An Adventure With Scientists
 
 Movie Name: The Pirates! In An Adventure With Scientists
@@ -265,3 +367,45 @@ The creative industry needs to offer strong animation to bring the audience on t
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-dash.techidaily.com/download-lenovo-x220-drivers-quick-and-easy/"><u>[DOWNLOAD] Lenovo X220 Drivers | Quick & Easy</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-masterful-moment-preservation-a-gif-collectors-dream-toolkit/"><u>[New] 2024 Approved  Masterful Moment Preservation - A Gif Collector's Dream Toolkit</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-mastering-ps4-game-capture-via-obs-studio/"><u>[New] 2024 Approved  Mastering PS4 Game Capture via OBS Studio</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-best-practices-for-writing-captivating-episode-summaries/"><u>[New] Best Practices for Writing Captivating Episode Summaries</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-capture-crop-and-color-correct-with-this-lists-top-5-android-apps/"><u>[New] Capture, Crop, and Color-Correct with This List's Top 5 Android Apps</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-ensuring-precision-the-art-of-skype-call-documentation/"><u>[New] Ensuring Precision  The Art of Skype Call Documentation</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-essential-guide-to-multistation-open-source-video-tools/"><u>[New] In 2024, Essential Guide to Multistation Open Source Video Tools</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-pixel-perfect-viewing-comparing-worlds-top-8k-televisions/"><u>[New] In 2024, Pixel-Perfect Viewing  Comparing World's Top 8K Televisions</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-practical-steps-to-remove-the-cluttered-background-in-figma/"><u>[New] In 2024, Practical Steps to Remove the Cluttered Background in Figma</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-through-a-headsets-lens-a-history-of-vr/"><u>[New] In 2024, Through a Headset's Lens  A History of VR</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-ultimate-budget-friendly-gopro-adds/"><u>[New] In 2024, Ultimate Budget-Friendly GoPro Adds</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-leveraging-teamsnap-for-dynamic-virtual-presentations/"><u>[New] Leveraging TeamSnap for Dynamic Virtual Presentations</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-comprehensive-directory-for-got-ringtones-download/"><u>[New] The Comprehensive Directory for GoT Ringtones Download</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-lightning-fast-visualization-for-win11-users/"><u>[Updated] 2024 Approved  Lightning-Fast Visualization for Win11 Users</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-the-best-professional-template-pack-for-premiere-pro/"><u>[Updated] 2024 Approved  The Best Professional Template Pack for Premiere Pro</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-what-is-virtual-reality-headset/"><u>[Updated] 2024 Approved  What Is Virtual Reality Headset?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-best-mobile-and-desktop-video-player-for-2024/"><u>[Updated] Best Mobile and Desktop Video Player for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-elevating-drones-to-new-heights-yuneecs-q500/"><u>[Updated] Elevating Drones to New Heights  Yuneec's Q500</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-how-to-download-vimeo-video-to-mp4-for-2024/"><u>[Updated] How To Download Vimeo Video to MP4 for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-enhanced-engagement-with-effective-youtube-video-outros-strategies/"><u>[Updated] In 2024, Enhanced Engagement with Effective YouTube Video Outros Strategies</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-from-niche-to-mainstream-amassing-a-million-view-channel/"><u>[Updated] In 2024, From Niche to Mainstream  Amassing a Million-View Channel</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-ideal-15-mounts-and-tripods-compatible-with-gopro/"><u>[Updated] In 2024, Ideal 15 Mounts and Tripods Compatible with GoPro</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-manufacture-jokes-memes-using-adobe/"><u>[Updated] In 2024, Manufacture Jokes  Memes Using Adobe</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-pivotal-vr-films-for-your-watchlist/"><u>[Updated] In 2024, Pivotal VR Films for Your Watchlist</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-screencast-excellence-the-ultimate-guide-to-best-obs-tools/"><u>2024 Approved  Screencast Excellence  The Ultimate Guide to Best OBS Tools</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/apex-legends-2022-deciphering-the-mystery-of-error-code-leaf/"><u>Apex Legends 2022: Deciphering the Mystery of Error Code 'Leaf'</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-poco-c50-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Poco C50? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-breaking-down-the-finest-liquid-simulation-games/"><u>In 2024, Breaking Down the Finest Liquid Simulation Games</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-take-portrait-photo-with-your-old-iphone-x8-plus7-plus/"><u>In 2024, Take Portrait Photo with Your Old iPhone X/8 Plus/7 Plus</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-top-20-ae-templates-for-aspiring-designers/"><u>In 2024, Top 20 AE Templates for Aspiring Designers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-top-stock-photos-their-journey-to-internet-fame/"><u>In 2024, Top Stock Photos  Their Journey to Internet Fame</u></a></li>
+<li><a href="https://article-helps.techidaily.com/non-athlete-front-rows-the-ultimate-alternative-list/"><u>Non-Athlete Front Rows  The Ultimate Alternative List</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/overcoming-blurry-output-in-the-post-upgrade-window/"><u>Overcoming Blurry Output in the Post-Upgrade Window</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-future-of-social-sharing-youtube-to-fb-techniques/"><u>The Future of Social Sharing  YouTube to FB Techniques</u></a></li>
+<li><a href="https://article-helps.techidaily.com/unraveling-youtube-subtitles-srt-a-triad-of-steps/"><u>Unraveling YouTube Subtitles (SRT)  A Triad of Steps</u></a></li>
+</ul></div>

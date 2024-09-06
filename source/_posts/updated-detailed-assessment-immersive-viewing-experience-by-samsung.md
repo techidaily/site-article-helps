@@ -1,0 +1,240 @@
+---
+title: "\"[Updated] Detailed Assessment  Immersive Viewing Experience by Samsung\""
+date: 2024-09-04T23:48:57.102Z
+updated: 2024-09-05T23:48:57.102Z
+tags: 
+  - screen-recording
+  - ai video
+  - ai audio
+  - ai auto
+categories: 
+  - ai
+  - screen
+description: "\"This Article Describes [Updated] Detailed Assessment: Immersive Viewing Experience by Samsung\""
+excerpt: "\"This Article Describes [Updated] Detailed Assessment: Immersive Viewing Experience by Samsung\""
+keywords: "\"Samsung TV Review,Immersive Viewing,High-Definition Experience,Smart TV Features,Ultra HD Quality,Interactive Display Tech,Advanced Screen Setup\""
+thumbnail: https://thmb.techidaily.com/65d1648a69e474032218f98a4f9088236faaaabb296646cc458aad0041a1d229.png
+---
+
+## Detailed Assessment: Immersive Viewing Experience by Samsung
+
+# Complete Review for Samsung Gear 360 Camera
+
+![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+##### Benjamin Arango
+
+ Mar 27, 2024• Proven solutions
+
+ The latest camera gear from Samsung for recording 360 videos is getting amazing responses from users due to its incredible features. If you are also thinking about buying a new camera unit, then it is good to go through review of Samsung Gear 360-degree camera and make best decision for your investment.
+
+**Related article:** [Top 10 Affordable 360 Degree Cameras >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![Samsung Gear 360 Camrea](https://images.wondershare.com/filmora/article-images/samsung-gear-360-camera.jpg)
+
+* [Part 1: Complete Review of Samsung Gear 360 Camera](#part1)
+* [Part 2: Basic specs of Samsung Gear 360 Camera](#part2)
+* [Part 3: Pros and Cons at a glance](#part3)
+* [Part 4: Should I buy Samsung Gear 360 Camera](#part4)
+
+## Part 1 Complete Review of Samsung Gear 360 Camera
+
+**Brief Introduction**
+
+ This year presented so many stuffs related to virtual reality world and surprisingly, it gave a new future to the world of spherical imaging. The latest most impressive gear from Samsung is proven to be loaded with all awesome features that are required to capture high quality 360-degree video. This time Samsung has definitely created an immersive content for its users that comes with durable, smooth and sturdy body and with its advanced fish eye lenses it can capture stunning 360-degree videos.
+
+**Design and built**
+
+![Samsung Gear 360 Camera details](https://images.wondershare.com/filmora/article-images/samsung-gear-360-details.jpg)
+
+ This Samsung gear is developed with a very small size, double lens type camera focus that makes sharing and shooting of 360 videos much easier. The camera at bottom side is almost flat with a tripod mount attached; on the other side, the outer look of the device is well managed with only three buttons for menu, power and record. This camera is designed with dust resistant and splash proof features so you can use it anywhere without any worries. You will be glad to know about its huge memory capacity managed with a MicroSD card having memory capacity up to 128 GB thus you can easily store all your memories inside this device. When you have to transfer it to other device, you can achieve your goal through Wi-Fi connectivity, USB port and Bluetooth.
+
+**How to record Videos**
+
+ It is going to be an interesting task to create 360-degree video with this latest gear of Samsung because of its incredible features. Here you will find a few useful buttons for selection of lens for 360-degree recording; which includes front, back and both collectively controls. The live view option allows you to select 360-degree recording, panoramic preview as well as dual view option. Never forget to select your mode while using this camera for 360-degree recording where you can make changes from still picture to 360 videos and on to time lapse mode.
+
+**Where to Use**
+
+ This high quality gear is designed to serve photography lovers at almost all locations; it will accompany you whether you are going on a tour with friends, on festival gathering or any other get together. Its light weight along with compact design makes everything much easier and accessible for indoor as well as outdoor activities.
+
+**Image and Video Quality**
+
+ Following details can help you to get complete information about image and video quality of Samsung 360 degree camera recorder unit:
+
+**1\. Image(photo and video)**
+
+ _The good:_
+
+* The lenses of Samsung 360-degree camera unit are able to cover wider part of frame even from edge to edge.
+* It serves with outstanding exposure type latitude and possesses very dynamic range
+* Can capture amazing photographs even in low light.
+* You will never find any chromatic aberration loss here.
+
+ _The bad:_
+
+* Users have observed a slight color difference between lenses that causes visibility of stitch line; however this issue can be fixed with Autopano.
+* Performance of this device is disturbed with ghosting or flare.
+* There is some trouble with the quality of the vertical orientation sensor.
+
+**2\. Photos**
+
+ _The good:_
+
+      * It serves with 30 mega pixel resolution that is observed to be highest among all cameras available for 360 video recording till now.
+
+ _The bad:_
+
+      * You will find inconsistent sharpness issue
+      * There are limited controls for exposure.
+      * Lacks in true intervalometer feature.
+
+**3\. Videos**
+
+ _The good:_
+
+      * Can be recorded with 4K resolution.
+      * Amazing quality of audio and performance is awesome when used with Samsung VR gear.
+      * Time lapse video.
+      * Facility of loop recording.
+
+ _The bad:_
+
+      * Overheating issues disturbed long hour videos.
+      * Limited control options.
+
+**How to Edit and Share Content**
+
+ There are so many applications designed for photo editing and they work perfectly with photos and videos captured by Samsung 360-degree camera. After customization of your photographs you can easily post them on Facebook as well as YouTube by using 360-degree manager app or action director whereas Google Street View also works perfectly with this device. In order to share video content prefer to use Oculus Video app.
+
+ Check this video to find the detailed steps on how to use Samsung Gear 360 Camera
+
+## Part 2 Basic specs of Samsung Gear 360 Camera
+
+| **Full name**            | Samsung Gear 360                                                    |                       |                                                                                    |
+| ------------------------ | ------------------------------------------------------------------- | --------------------- | ---------------------------------------------------------------------------------- |
+| **Manufacturer**         | Samsung                                                             |                       |                                                                                    |
+| **Price**                | Official: $349.99                                                   |                       |                                                                                    |
+| **Date of Availability** | 2016-04-29                                                          |                       |                                                                                    |
+| **Basic Specifications** |                                                                     |                       |                                                                                    |
+| **Parameter**            | **Description**                                                     | **Parameter**         | **Description**                                                                    |
+| **Weight**               | 153 grams                                                           | **Size**              | (66.7x56.3x60.1) mm                                                                |
+| **Memory**               | microSD card type storage facility ranging up to 128GB with 1GB RAM | **Accessible**        | Wi-Fi, USB 2.0 as well as Bluetooth.                                               |
+| **Battery Life**         | 1,350mAh/included                                                   | **Body material**     | Plastic                                                                            |
+| **Sensor type**          | Dual CMOS                                                           | **Lenses**            | Dual f/2.0 with fisheye lens                                                       |
+| **Aspect Ratio**         | 2:1                                                                 | **Tripod Mount**      | YES (It includes a mini tripod)                                                    |
+| **Image Resolution**     | Dual cam ranging up to (7776x3888) and Single cam with (3072x1728)  | **Video resolution**  | Dual cam resolution goes up to (2840x1920), whereas Single cam possess (2560x1440) |
+| **Image format**         | JPEG (EXIF 2.3)                                                     | **Video File Format** | MP4 ()                                                                             |
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 3 Pros and Cons at a glance
+
+| Pros                                                                                         | Cons                                         |
+| -------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| Highest resolution type 360 camera                                                           | Unique design but difficult to put in pocket |
+| Self-contained device and easy to use                                                        | This design is not fully waterproof          |
+| Affordable price range                                                                       | Need latest Samsung phone for connectivity   |
+| Splashproof and dust resistant                                                               | Very apparent stitch lines                   |
+| Battery and MicroSD card can be replaced                                                     |                                              |
+| Huge memory capacity as MicroSD slot range up to 128GB                                       |                                              |
+| Time-Lapse recording with Loop recording feature and ability to capture 360° spherical range |                                              |
+| Wireless Integration facility                                                                |                                              |
+| Google Street View                                                                           |                                              |
+
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 4 Should I buy Samsung Gear 360 Camera
+
+ There are so many amazing features associated with Samsung 360 degree gear where resolution of images and videos is simply outstanding. Positioning of lenses is perfect with outstanding connectivity services. All such features along with an affordable price tag puts this Samsung gear on the top ranking and definitely it is a must buy product that can serve beginners as well as professionals with best quality results.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Benjamin Arango
+
+Benjamin Arango is a writer and a lover of all things video.
+
+Follow @Benjamin Arango
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-direct-connection-navigating-desktop-display-integration-on-facebook/"><u>[New] In 2024, Direct Connection  Navigating Desktop Display Integration on Facebook</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-elite-methods-for-streaming-and-preserving-sports-action/"><u>[New] In 2024, Elite Methods for Streaming and Preserving Sports Action</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-advanced-mobiles-for-crafting-perfect-dji-videos/"><u>[Updated] Advanced Mobiles for Crafting Perfect DJi Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-complementing-visuals-embedding-text-into-windowsmac-pictures/"><u>[Updated] Complementing Visuals  Embedding Text Into Windows/Mac Pictures</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-hold-whole-page-snapshot-image-for-2024/"><u>[Updated] Hold Whole Page Snapshot Image for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-optimal-mkv-watcher-for-laptops/"><u>2024 Approved  Optimal MKV Watcher for Laptops</u></a></li>
+<li><a href="https://article-helps.techidaily.com/decrease-ambience-tunes-windowsapple-compatible/"><u>Decrease Ambience Tunes  Windows/Apple Compatible</u></a></li>
+<li><a href="https://article-helps.techidaily.com/detailed-close-ups-made-easy-in-videoleap-editing/"><u>Detailed Close-Ups Made Easy in Videoleap Editing</u></a></li>
+<li><a href="https://article-helps.techidaily.com/digital-subtitling-simplified-best-online-tools-of-the-decade/"><u>Digital Subtitling Simplified  Best Online Tools of the Decade</u></a></li>
+<li><a href="https://article-helps.techidaily.com/discover-the-richest-array-of-digital-treasures-the-best-12-stock-photo-sources/"><u>Discover the Richest Array of Digital Treasures - The Best 12 Stock Photo Sources</u></a></li>
+<li><a href="https://article-helps.techidaily.com/discover-top-tier-church-broadcasting-options-for-2024/"><u>Discover Top-Tier Church Broadcasting Options for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/discreet-audio-modulation-strategies-with-audacity-for-2024/"><u>Discreet Audio Modulation Strategies with Audacity for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/diverse-windows-based-film-editing-software/"><u>Diverse Windows-Based Film Editing Software</u></a></li>
+<li><a href="https://article-helps.techidaily.com/drone-mainteninas-and-care-for-syma-x8c-for-2024/"><u>Drone Mainteninas and Care for Syma X8C for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/earn-big-without-the-hustle-top-13-strategies-for-novices-on-reddit/"><u>Earn Big Without the Hustle  Top 13 Strategies for Novices on Reddit</u></a></li>
+<li><a href="https://article-helps.techidaily.com/efficient-file-migration-pc-to-ios-device-for-2024/"><u>Efficient File Migration  PC to iOS Device for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/efficient-network-livestream-techniques-using-vlc-for-2024/"><u>Efficient Network Livestream Techniques Using VLC for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/elevating-your-creations-with-instagrams-soundtrack-feature/"><u>Elevating Your Creations with Instagram's Soundtrack Feature</u></a></li>
+<li><a href="https://article-helps.techidaily.com/elite-blu-ray-experience-the-leading-devices-of-2024/"><u>Elite Blu-Ray Experience  The Leading Devices of 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/elite-screenplay-editing-solutions-for-apps-for-2024/"><u>Elite Screenplay Editing Solutions for Apps for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enabling-and-disabling-the-built-in-onscreen-keyboard-on-your-pc-running-windows-nt/"><u>Enabling and Disabling the Built-In Onscreen Keyboard on Your PC Running Windows nT</u></a></li>
+<li><a href="https://article-helps.techidaily.com/enlightening-the-path-to-professional-photo-videos-with-pixiz-for-2024/"><u>Enlightening the Path to Professional Photo Videos with Pixiz for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/entering-metaverse-ranked-best-virtual-reality-gear-for-2024/"><u>Entering Metaverse  Ranked Best Virtual Reality Gear for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/essential-free-jpeg-to-gif-conversion-websites-ranked/"><u>Essential Free JPEG to GIF Conversion Websites Ranked</u></a></li>
+<li><a href="https://article-helps.techidaily.com/essential-vr-games-for-oculus-users-of-all-ages-for-2024/"><u>Essential VR Games for Oculus Users of All Ages for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/evaluating-acid-pro-open-source-rivals-explored/"><u>Evaluating ACID Pro  Open-Source Rivals Explored</u></a></li>
+<li><a href="https://article-helps.techidaily.com/exiting-with-impact-mastering-podcast-conclusions-beyond-the-basics-for-2024/"><u>Exiting with Impact  Mastering Podcast Conclusions Beyond the Basics for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/expert-breakdown-of-adobe-cloud-plus-alternative-methods/"><u>Expert Breakdown of Adobe Cloud, Plus Alternative Methods</u></a></li>
+<li><a href="https://article-helps.techidaily.com/exploring-microsofts-hololens-a-hologram-horizon-for-2024/"><u>Exploring Microsoft's HoloLens  A Hologram Horizon for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/exploring-the-latest-features-in-movavi-video-2024plus/"><u>Exploring the Latest Features in Movavi Video 2024+</u></a></li>
+<li><a href="https://article-helps.techidaily.com/face-fluidity-masterclass-perfecting-the-art-of-motion-blur-via-picsart/"><u>Face Fluidity Masterclass  Perfecting the Art of Motion Blur via Picsart</u></a></li>
+<li><a href="https://article-helps.techidaily.com/finding-the-perfect-balance-mastering-iphone-photo-blurring-for-2024/"><u>Finding the Perfect Balance  Mastering iPhone Photo Blurring for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/first-timers-map-to-earning-wealth-with-periscope/"><u>First-Timer's Map to Earning Wealth with Periscope</u></a></li>
+<li><a href="https://article-helps.techidaily.com/free-windows-10-recorder-tools-a-comprehensive-updated-guide-for-2024/"><u>Free Windows 10 Recorder Tools  A Comprehensive, Updated Guide for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/from-bargain-hunting-to-video-glamour-editing-insights-for-hauls/"><u>From Bargain Hunting to Video Glamour  Editing Insights for Hauls</u></a></li>
+<li><a href="https://article-helps.techidaily.com/full-screen-pro-tips-and-tricks-for-editors/"><u>Full Screen Pro Tips and Tricks for Editors</u></a></li>
+<li><a href="https://article-helps.techidaily.com/generate-humor-picmagic-creation-for-2024/"><u>Generate Humor  PicMagic Creation for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/google-ar-decorations-and-their-competing-products/"><u>Google AR Decorations & Their Competing Products</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-6-ways-to-record-minecraft-gameplay/"><u>In 2024, 6 Ways to Record Minecraft Gameplay</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, The Easy Way to Remove an Apple ID from Your MacBook For your iPhone 12 Pro Max</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unveiling-the-swift-growing-youtube-sources-for-inspiration/"><u>In 2024, Unveiling the Swift-Growing YouTube Sources for Inspiration</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/leverage-lingo-a-list-of-the-best-20-engaging-tiktok-captions-for-2024/"><u>Leverage Lingo  A List of the Best 20 Engaging TikTok Captions for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+</ul></div>
