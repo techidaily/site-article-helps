@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, One Airpod Not Working  How to Fix It\""
-date: 2024-09-04T23:54:49.695Z
-updated: 2024-09-05T23:54:49.695Z
+date: 2024-09-09T14:38:09.107Z
+updated: 2024-09-10T14:38:09.107Z
 tags: 
   - screen-recording
   - ai video
@@ -16,18 +16,36 @@ keywords: "Fixing Broken Airpods,Troubleshoot Airpods,Airpods Repair Guide,Reset
 thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f2d60ec5b3831dd32989cbba.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## One Airpod Not Working: How to Fix It
 
 # How to Fix One Airpod Not Working?
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Ollie Mattison
 
  Mar 27, 2024• Proven solutions
 
 ![one-airpod-not-working-poster](https://images.wondershare.com/filmora/article-images/one-airpod-not-working-poster.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 One or both of the AirPod Pros are not working for no apparent reason, and you are only listening to mono sound on the other. Nevertheless, the solutions are clear if the causes are unclear.
 
 AirPod Pro has been experiencing this issue, but it can happen to any AirPods. They were working fine, and now one of them won't work when you pop it in your ear.
@@ -42,10 +60,22 @@ The first AirPod we put in our ears tends to cause us to get it by chance. When 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **One AirPod Not Working: What Could Be The Reason?**
 
 If one side of your AirPods is not working properly, it is a clear indication that something is wrong with your AirPods. If you dig deep into the causes of why this problem occurs, then you will find a range of reasons here. Anything can occur from reasonably simple causes like dirty AirPods and low battery to complex causes like audio settings and network issues. So, now it is clear that the AirPods issue cannot be caused by one single cause, nor can it be fixed by a single solution.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **One AirPod Not Working: What Could Be The Possible Fixes?**
 
 #### 1\. Check If There is An Battery Issue
@@ -62,6 +92,12 @@ When you use the AirPods more frequently than it is common to have junk built up
 
 ![one-airpod-fix3-bluetooth](https://images.wondershare.com/filmora/article-images/one-airpod-fix3-bluetooth.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 If one AirPod is not working, then one possible problem here might be that your device cannot properly transmit audio to the earbuds. In that case, a very simple fix could be trying to reset the Bluetooth. Just go to the settings in your iPhone or iPad and click on Bluetooth. Turn off the BlueTooth slider from Bluetooth settings and wait for a while. Now turn it back on and check again if the problem is fixed or not.
 
 #### 4. Restart Your Device
@@ -80,32 +116,14 @@ Is the audio still not coming through on one AirPod? You need to set up your Air
 
 There are settings on your device that control how it connects to different networks, including Bluetooth devices. It could be your settings that are malfunctioning. To reset the Network Settings, go to Settings > General > Reset > Reset Network Settings. You'll have to re-pair Bluetooth devices, enter Wi-Fi passwords, etc.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Final Verdict**
 
 These are the number of possible fixes that you can try yourself if one or both sides of your AirPods are not working properly. In most cases, your problem will be resolved by one of these fixes. But if the problem still persists after applying all these fixes, then it is better to get professional support. For this purpose, you can go to your nearest Apple store and get help from them.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030391/7443" target="_top" id="2030391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030373/7443" target="_top" id="2030373">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030373" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030373/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.

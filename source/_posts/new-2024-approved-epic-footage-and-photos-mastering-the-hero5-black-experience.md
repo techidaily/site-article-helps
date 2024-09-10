@@ -1,0 +1,208 @@
+---
+title: "\"[New] 2024 Approved  Epic Footage and Photos  Mastering the Hero5 Black Experience\""
+date: 2024-09-09T14:41:25.540Z
+updated: 2024-09-10T14:41:25.540Z
+tags: 
+  - screen-recording
+  - ai video
+  - ai audio
+  - ai auto
+categories: 
+  - ai
+  - screen
+description: "\"This Article Describes [New] 2024 Approved: Epic Footage and Photos: Mastering the Hero5 Black Experience\""
+excerpt: "\"This Article Describes [New] 2024 Approved: Epic Footage and Photos: Mastering the Hero5 Black Experience\""
+keywords: "\"Hero5 Pro Photography,Epic HERO5 Cinematography,Hero5 Adventure Captures,Black HERO5 Media Experience,HERO5 Photo Excellence,Advanced HERO5 Visuals,High-Quality HERO5 Images\""
+thumbnail: https://thmb.techidaily.com/290af97afad1802ce323c8e9ce6f1c1f031089327fdc749a381a84624fdbd2f2.jpg
+---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Epic Footage and Photos: Mastering the Hero5 Black Experience
+
+# How to Use GoPro Hero5 Black: Tips for Shooting Great Photos and Videos
+
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+Finally, you have bought your GoPro Hero5 Black action camera! Now you are ready to capture YouTube ready scenes with impressive video quality. But probably you will find some difficulties in its usage because of its rich functionality and numerous features. Don't worry! Here are few [tips and tricks](https://tools.techidaily.com/wondershare/filmora/download/) about how to make most out of your GoPro Hero5 Black.
+
+---
+
+#### Best Video Editing Software for GoPro Hero5 - Wondershare Filmora
+
+We recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) as one of the best video editing application for GoPro users. It possesses ability to correct lens distortions according to the type of your action camera, and works for advanced video stabilization with audio de-noising and speed control. Filmora also assists in color correction which applies film-looking effects for your video. Brand new Instant Cutter feature for easy trim or merge of video files with no quality loss.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## How to use GoPro Hero5 Black
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Explore the Appearance
+
+#### 1.Replace lens Protector
+
+The best thing to know about Hero5 black is that this device is developed with waterproof body so you need not to use any additional waterproof housing with it. But the drawback is that it makes your lens susceptible to damage and scratches. It is better to buy a replacement GoPro protective lens cover to replace your lens cap. While fixing it, never forget to apply little pressure and then simple rotate cap in clockwise direction for 1/8th turn.
+
+#### 2.Lock the Touch Screen
+
+It is essential to lock the screen while capturing your videos otherwise you may face crash of videos due to accidental swipe on screen. To activate this screen lock function, you simply need to swipe down on your screen and on settings bar press the padlock shaped icon. In order to unlock the screen again you have to swipe down again on screen and then again press the padlock to unlock your screen.
+
+#### 3.Side Charging Door
+
+A portable power bank can be directly connected to your GoPro device while keeping your side charging door open. It can easily extend your video shooting hours from one hour to 8 hours. You simple need to open the side charging door and next pull as well as bend at the same time. It will easily come right off; you need not to apply extra force to do this task. While attaching your side charging door ensure that the mechanism is completely extended.
+
+### Have Fun with the New Features
+
+#### 1.Voice Command
+
+In order to turn this feature on, you simply need to swipe down on main screen of your Hero5 Black device and then go to voice command icon. Whenever your camera is powered On then you can control various functions by just speaking few dedicated commands to your camera. These commands start with GoPro as like:
+
+* GoPro, Start recording
+* GoPro, Shoot Burst
+* GoPro, Start time lapse
+* GoPro, HiLight
+* GoPro, Photo mode
+* GoPro, Turn Off
+* GoPro. Video mode
+* GoPro, take a photo
+* GoPro, stop recording
+* GoPro, Time lapse mode
+* GoPro, turn Off
+
+The HiLight voice command in this series will simply mark your video right at that moment and then Quick editing app will use the portion exactly before your command to create final video. In case if you forget any of these commands then they can be easily found under preferences list of your GoPro device. It is also possible to use any preferred language setting for voice commands out of 10 suported languages.
+
+#### 2.Timelapse Mode
+
+Your GoPro device can assist you with Time Lapse mode to create special slow motion footage. This mode is specially utilized to shoot city streets as well as for sports activities.
+
+In order to make settings for this mode:
+
+* Simply tap on the screen and then go to shooting mode icon from left button available on screen.
+* Tap on the time lapse icon that is available on top right portion of screen and then choose time lapse video.
+* Click on Res, FOV and interval to make your desired settings.
+* When you want to hide the settings then just tap on screen.
+
+You can easily record Full HD, 2.7K and 4K resolutions but audio cannot be recorded. The frame rate can be varied from 60 fps to 0.5 fps with simple settings. Here the shorter intervals are preferred for shooting action or sports but longer intervals can be used to record lengthy duration activities. For capturing beautiful scenes of sun rise or sun set it is good to switch to mid range fps values.
+
+#### 3.Field of View
+
+The super wide angle type lenses of your GoPro device will assist you in capturing unique scenes. The linear FIV option is recently added to action camera model and it assist users to take a closer look over scene while developing a smooth footage. It is possible to make customized settings for FOV as per your shoot requirements.
+
+#### 4.Capture App
+
+Hero5 Black allows users to connect their device to phone via wireless network. Simple switch your device Wi-Fi on and then establish an active connection with your smart phone application. The GoPro Capture App assists users in easier settings with fine shooting options from remote location.
+
+#### 5.Quick App
+
+If you want to edit your footage with a bunch advanced tools then it is good to use Quick app that offers wide variety of transitions along with impressive effects. With Quick app, it becomes much easier to pick any theme and then edit videos to create impressive results.
+
+[Check at Amazon](https://www.amazon.com/gp/product/B01M14ATO0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01M14ATO0&linkId=5ce54ea937ecffa6b1b8056b6922abaa)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-smile-spark-planner/"><u>[New] 2024 Approved Smile Spark Planner</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-top-tips-tuning-your-snapchat-videos-for-maximum-impact/"><u>[New] 2024 Approved Top Tips Tuning Your Snapchat Videos for Maximum Impact</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-best-cameras-for-sports-capturing-edge-for-2024/"><u>[New] Best Cameras for Sports Capturing Edge for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-detailed-capture-gopro-hero5-vs-sjcam-sj7-for-2024/"><u>[New] Detailed Capture GoPro Hero5 vs SJCAM SJ7 for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-excellence-in-motion-best-4k-cameras-unveiled-for-2024/"><u>[New] Excellence in Motion Best 4K Cameras Unveiled for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/1715758902585-new-how-to-capture-your-nintendo-switch-game-video/"><u>[New] How to Capture Your Nintendo Switch Game Video</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-navigate-the-nuances-of-zooms-broadcast-technology-for-youtube-pros/"><u>[New] In 2024, Navigate the Nuances of Zoom's Broadcast Technology for YouTube Pros</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-outlining-expenses-creating-a-music-video/"><u>[New] In 2024, Outlining Expenses Creating a Music Video</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-revealing-the-art-of-zoomed-details-using-kinemasters-tools/"><u>[New] In 2024, Revealing the Art of Zoomed Details Using Kinemaster's Tools</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-unveiling-the-magic-of-films-mood-with-colors/"><u>[New] In 2024, Unveiling the Magic of Film's Mood with Colors</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-mastering-alias-update-on-google-meet-devices/"><u>[New] Mastering Alias Update on Google Meet Devices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-list-of-online-havens-for-free-tamil-ringtones/"><u>[New] The Ultimate List of Online Havens for Free Tamil Ringtones</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-unlocking-creative-potential-downloading-free-luts-for-ar-development/"><u>[New] Unlocking Creative Potential Downloading Free LUTs for AR Development</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-advanced-mac-studio-for-crystal-clear-captures-and-sounds/"><u>[Updated] 2024 Approved Advanced Mac Studio for Crystal Clear Captures & Sounds</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-masterful-date-trackers-for-android-and-ios-wedding-planners/"><u>[Updated] 2024 Approved Masterful Date-Trackers for Android and iOS Wedding Planners</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-designing-engaging-film-teasers-for-2024/"><u>[Updated] Designing Engaging Film Teasers for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-comedic-craftsmanship-unlocking-gags-at-zero-cost/"><u>[Updated] In 2024, Comedic Craftsmanship Unlocking Gags at Zero Cost</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-the-definitive-list-of-iphone-image-markers-apps/"><u>[Updated] In 2024, The Definitive List of iPhone Image Markers Apps</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-picture-perfect-in-the-sky-discover-infinite-complimentary-and-paid-cloud-repositories-for-2024/"><u>[Updated] Picture Perfect in the Sky Discover Infinite, Complimentary, & Paid Cloud Repositories for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-selective-picks-for-audible-transformation-technologies/"><u>[Updated] Selective Picks for Audible Transformation Technologies</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-soundscape-sanctuary-free-high-resolution-dj-videos-available/"><u>[Updated] Soundscape Sanctuary Free High-Resolution DJ Videos Available</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-step-by-step-turn-your-ios-images-into-accessible-pdfs-for-2024/"><u>[Updated] Step by Step Turn Your IOS Images Into Accessible PDFs for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unraveling-iphone-photo-blur-techniques-4-ways-explored/"><u>[Updated] Unraveling iPhone Photo Blur Techniques - 4 Ways Explored</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-building-captivating-visual-puzzles-a-mosaic-journey/"><u>2024 Approved Building Captivating Visual Puzzles A Mosaic Journey</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/fireshadow-video-recording/"><u>Fireshadow Video Recording</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-honor-magic-5-lite-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Honor Magic 5 Lite by Name | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-the-scope-of-motion-tracking-from-simple-to-complex/"><u>In 2024, The Scope of Motion Tracking From Simple to Complex</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-tomtoms-actioncam-series-a-new-chapter/"><u>In 2024, TomTom's ActionCam Series - A New Chapter</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-realme-12-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Realme 12 5G Location | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-depth-look-at-ipad-display-logging-for-2024/"><u>In-Depth Look at iPad Display Logging for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/innovate-your-screenshots-unveiling-ezvides-screen-casting-features/"><u>Innovate Your Screenshots Unveiling EZvide's Screen Casting Features</u></a></li>
+<li><a href="https://article-helps.techidaily.com/innovative-approach-stitching-gopro-sequences-in-holoscopic-clips/"><u>Innovative Approach Stitching GoPro Sequences in Holoscopic Clips</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-updating-your-asus-devices-touchpad-controls-for-windows-11/"><u>Step-by-Step Tutorial: Updating Your ASUS Device's Touchpad Controls for Windows 11</u></a></li>
+<li><a href="https://article-helps.techidaily.com/unlocking-swiftness-in-fb-video-transfers-with-top-tools-and-extensions/"><u>Unlocking Swiftness in FB Video Transfers with Top Tools and Extensions</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Download and Use iFunny Meme App"
-date: 2024-09-04T23:54:47.141Z
-updated: 2024-09-05T23:54:47.141Z
+date: 2024-09-09T14:38:09.164Z
+updated: 2024-09-10T14:38:09.164Z
 tags: 
   - screen-recording
   - ai video
@@ -34,10 +34,22 @@ Step1 Open your browser on your computer and go to <https://ifunny.co/> to acces
 
 ![ifunny meme online](https://images.wondershare.com/filmora/article-images/2022/07/ifunny-meme-online.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step2 If your goal is to upload your own meme so other users can access it, click on the “Add Meme” button on the left panel. You will however need to sign in to add a meme to the site. Enter your email and password to sign in. If you don’t have an account, click on “Sign Up” to create an account.
 
 ![enter ifunny online](https://images.wondershare.com/filmora/article-images/2022/07/enter-ifunny-online.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Once signed in, you should be able to not just add your own memes but also follow accounts and interact with other users.
 
 Step3 if your goal is to find and download a meme that you want to use, you can use the categories on the left to narrow down the memes you want to download. Simply click on one of the categories to see all the memes available and when you find one that you like, click on it to open it, and then click on “Copy Link” to get a sharable link that you can post to social media.
@@ -54,20 +66,50 @@ Step2 When the installation is complete, open the app and tap on the “Featured
 
 ![click featured ifunny](https://images.wondershare.com/filmora/article-images/2022/07/click-featured-ifunny.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step3 If your goal is to upload a meme to iFunny. Tap on the “Add meme” button at the bottom of the screen.
 
 ![add meme ifunny app](https://images.wondershare.com/filmora/article-images/2022/07/add-meme-ifunny-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step4 Select “memes” then tap “Meme pics” and then select the meme that you would like to use.
 
 You can also do this with images from the Photos app or Gallery on your device. Or you can use the search box in iFunny to find the meme you want.
 
 ![search meme ifunny app](https://images.wondershare.com/filmora/article-images/2022/07/search-meme-ifunny-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step5 If you would like to add a caption to the meme just to customize it further, tap on it and you will see the option to add a “Top Caption” and a “Bottom Caption.”
 
 ![top caption ifunny](https://images.wondershare.com/filmora/article-images/2022/07/top-caption-ifunny.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Type in the caption and the caption and then use the slider that appears below the meme to adjust the size of the caption.
 
 ![caption slider ifunny app](https://images.wondershare.com/filmora/article-images/2022/07/caption-slider-ifunny-app.jpg)
@@ -166,10 +208,3 @@ The “Explore” tab lists all the mems on the platform, neatly arranged in var
 <li><a href="https://ai-video-tools.techidaily.com/new-in-2024-official-100-valid-wondershare-filmora-coupon-code-up-to-54-off/"><u>New In 2024, Official 100 Valid Wondershare Filmora Coupon Code Up to 54 OFF</u></a></li>
 <li><a href="https://screen-video-capture.techidaily.com/simplified-methods-for-recording-successful-online-classes-and-meets-for-2024/"><u>Simplified Methods for Recording Successful Online Classes & Meets for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

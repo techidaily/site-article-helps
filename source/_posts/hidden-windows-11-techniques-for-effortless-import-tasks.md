@@ -1,7 +1,7 @@
 ---
 title: "Hidden Windows 11 Techniques for Effortless Import Tasks"
-date: 2024-07-11T07:11:41.374Z
-updated: 2024-07-12T07:11:41.374Z
+date: 2024-09-09T14:34:06.041Z
+updated: 2024-09-10T14:34:06.041Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,12 @@ thumbnail: https://thmb.techidaily.com/0656fd665c6180b1a80265c93dba7068c3a0cbd85
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Shanoon Cox
 
  Mar 27, 2024• Proven solutions
@@ -35,12 +41,24 @@ In the past, importing photos and videos to a laptop or desktop computer from va
 
 ## Part 1: Import Photos and Video from a Phone
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 1: Connecting Your Phone
 
 If you are moving photos and video to Windows 10 from a smartphone, you will first have to connect your phone to the computer. It can be done through the USB cable that you should have received with the smartphone. Plug one end of the cable into your phone and the other into the USB port of your desktop or laptop.
 
 ![Import Photos and Video in windows 10](https://images.wondershare.com/filmora/article-images/usb-cable.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 2: Enable File Exchange
 
 Your phone will have settings regarding file transfers when it is connected to a computer. Make sure that media viewing and transferring is selected, which will allow Windows 10 File Explorer on the computer to recognize your device.
@@ -51,12 +69,24 @@ Now that your phone is recognized, you should see the camera or phone pop up alo
 
 ![Import Photos and Video in windows 10](https://images.wondershare.com/filmora/article-images/import-video-photos-to-windows-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 4: Import
 
 Your computer will tell you how many pictures and photos were found. You can either review, organize and group these items, or you can choose to import all the new items in one go.
 
 The great thing about reviewing the photos and videos before importing them onto your computer is that you can choose folders for different files, name those folders and ensure that you are only importing files that are not on your system already.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Start Importing in Photos App
 
 Another option for you is the Photos app that is pre-installed in computers with Windows 10.
@@ -67,6 +97,12 @@ Click the Import button on the Photos app and choose the items that you want to 
 
 ![Import Photos and Video in windows 10](https://images.wondershare.com/filmora/article-images/import-photos-video-from-photos-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Within the app, it is easy to see your photos and videos as they are organized based on the date they are imported. So you will be able to see exactly what you have added in the most recent imports and with future imports as well.
 
 **You may also like:** [How to Add Titles/Text to Video on Photos App in Windows 10 >>](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -89,6 +125,18 @@ Connect the camera to your phone and then follow the above steps to import your 
 
 ![Import Photos and Video in windows 10](https://images.wondershare.com/filmora/article-images/import-photos-video-from-camera.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 If you own a Windows 10 desktop or laptop, it is very easy to connect a smartphone or digital camera to your computer. Then you will be able to use File Explorer or the built in Photos app to access and download your photos and videos. Adding your content to the computer lets you save the files, share them with friends, edit them using programs like Photoshop, or save space on your smartphone/camera.
@@ -121,3 +169,39 @@ Follow @Shanoon Cox
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-dreamy-narratives-reviewing-childrens-story-videos-for-sleep/"><u>[New] 2024 Approved Dreamy Narratives Reviewing Children's Story Videos for Sleep</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-elite-selection-top-3d-video-players-for-android/"><u>[New] 2024 Approved Elite Selection Top 3D Video Players for Android</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-flashy-flights-prime-pc-and-mobile-game-hits/"><u>[New] 2024 Approved Flashy Flights Prime PC and Mobile Game Hits</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-visualizing-your-vision-the-art-of-using-luts-in-photos/"><u>[New] 2024 Approved Visualizing Your Vision The Art of Using LUTs in Photos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-camera-essentials-for-adventure-videographers-for-2024/"><u>[New] Camera Essentials for Adventure Videographers for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-the-ultimate-guide-to-applying-luts-in-obs-streaming/"><u>[New] In 2024, The Ultimate Guide to Applying LUTs in OBS Streaming</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-instagrams-guide-to-intellectual-property-in-music-for-2024/"><u>[New] Instagram's Guide to Intellectual Property in Music for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-navigating-the-essentials-of-av1-coders-for-2024/"><u>[New] Navigating the Essentials of AV1 Coders for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-photo-keepers-companion-unlimited-free-options-and-elite-subscription-saviors/"><u>[New] The Photo Keeper’s Companion Unlimited Free Options & Elite Subscription Saviors</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-rise-of-new-titans-against-vlc/"><u>[New] The Rise of New Titans Against VLC</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-expert-tips-on-syncing-gmail-and-zoom-for-remote-collaboration/"><u>[Updated] Expert Tips on Syncing Gmail and Zoom for Remote Collaboration</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-from-blogging-to-broadcasting-scaling-up-your-youtube-presence/"><u>[Updated] From Blogging to Broadcasting Scaling Up Your YouTube Presence</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-hone-your-meme-skills-quickly-using-9gag-strategies/"><u>[Updated] Hone Your Meme Skills Quickly Using 9GAG Strategies</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-drones-in-film-advanced-capturing-strategies/"><u>[Updated] In 2024, Drones in Film Advanced Capturing Strategies</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-dynamic-volume-interplay-using-sony-vegas-pro-tips/"><u>[Updated] In 2024, Dynamic Volume Interplay Using Sony Vegas Pro Tips</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-enhance-pics-with-frames-top-lists-for-web-and-app-use/"><u>[Updated] In 2024, Enhance Pics with Frames - Top Lists for Web and App Use</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-tips-for-engaging-video-blog-storytelling/"><u>[Updated] In 2024, Tips for Engaging Video Blog Storytelling</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-pioneering-apps-for-diverse-game-file-logging-needs-for-2024/"><u>[Updated] Pioneering Apps for Diverse Game File Logging Needs for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-compensated-analysis-the-vlog-perspective-on-goods/"><u>2024 Approved Compensated Analysis The Vlog Perspective on Goods?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-precision-and-savings-combined-top-asmr-microphones-within-reach/"><u>2024 Approved Precision & Savings Combined Top ASMR Microphones Within Reach</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/traction-on-youtube-deciphering-ranking-principles-for-2024/"><u>Gain Traction on YouTube Deciphering Ranking Principles for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-best-oppo-frp-bypass-guide-by-drfone-android/"><u>In 2024, Best Oppo FRP Bypass Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-do-you-pay-for-writing-about-products-online/"><u>In 2024, Do You Pay for Writing About Products Online?</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-dual-app-review-analyzing-triller-and-tiktoks-features-max-156-chars/"><u>In 2024, Dual App Review Analyzing Triller and TikTok's Features (Max 156 Chars)</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-experts-choice-7-premium-videos-on-mac/"><u>In 2024, Expert's Choice 7 Premium Videos on Mac</u></a></li>
+<li><a href="https://article-helps.techidaily.com/leading-chrome-voice-modifiers-select-top-5-extensions-for-2024/"><u>Leading Chrome Voice Modifiers Select Top 5 Extensions for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/mac-users-download-splice-video-editor-now-and-edit-like-a-pro/"><u>Mac Users, Download Splice Video Editor Now and Edit Like a Pro</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/official-and-vernacular-languages-in-croatia/"><u>Official and Vernacular Languages in Croatia</u></a></li>
+<li><a href="https://games-able.techidaily.com/old-vs-slim-ps5-hardware-and-software-changes/"><u>Old Vs. Slim: PS5 Hardware & Software Changes</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-oppo-a1-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Oppo A1 5G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/pushing-boundaries-with-dells-revolutionary-p2715q-monitor-review-for-2024/"><u>Pushing Boundaries with Dell's Revolutionary P2715Q Monitor Review for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-watermark-videos-without-breaking-the-bank-top-5-free-tools/"><u>Updated Watermark Videos without Breaking the Bank Top 5 Free Tools</u></a></li>
+</ul></div>
