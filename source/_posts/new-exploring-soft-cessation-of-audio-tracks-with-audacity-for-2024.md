@@ -1,7 +1,7 @@
 ---
 title: "[New] Exploring Soft Cessation of Audio Tracks with Audacity for 2024"
-date: 2024-07-11T06:50:30.413Z
-updated: 2024-07-12T06:50:30.413Z
+date: 2024-09-10T16:30:07.806Z
+updated: 2024-09-15T17:59:46.742Z
 tags: 
   - screen-recording
   - ai video
@@ -40,6 +40,13 @@ By selecting the audio segment, you wish to fade out and selecting Effect > Fade
 
 This effect is shown by Audacity as a curve that resembles the letter S. It results in a very gentle fading. After the first boom, there is utter quiet. It's a sound that actually gives off the impression of fading away over time. Using the repeat last effect, you can quickly repeat this fading option. Additionally, Ctrl + R serves as the shortcut for the same.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **How to Use Studio Fade Out:**
 
 Choose your audio segment, go to the Effect menu, slide to the bottom, and pick Studio Fade Out to apply the effect.
@@ -69,7 +76,21 @@ Select the area to be crossfaded using the Selection tool, and then click Effect
 
 ![crossafade audio with audacity](https://images.wondershare.com/filmora/article-images/2022/07/crossafade-audio-with-audacity.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Use your Selection tool to organize the clips such that a crossfade will be applied between two clips on different tracks. Go to Effect > Crossfade Songs, place the cursor where you want the fade to begin, then drag it across the tracks you wish to blend.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 5\. Alternative Way to Fade Audio
 
@@ -96,6 +117,13 @@ By choosing the Video Editor option from the software's home screen, you may now
 You must drag the files into Filmora's timeline after importing your media files, as seen below. You may modify your media files using every tool in the timeline. To utilize Filmora's audio editor, just right-click on the specific audio file and choose "Edit Audio" from the list:
 
 ![open the audio editor in filmora](https://images.wondershare.com/filmora/guide/adjust-video-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step4 Fade-in/fade-out audio
 
@@ -126,6 +154,19 @@ Installing Filmora, a straightforward platform for starting to edit your audio a
 In the step that follows, we'll show you how to use this platform to fade in and out audio. To begin, open Filmora by clicking on the icon on your desktop or using the search bar.
 
 ![open filmora and import audio files](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
+
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 By choosing the Video Editor option from the software's home screen, you may now investigate the basic principles of editing. This will bring up the main interface for Filmora. To import your music and video files, just choose the Import button from the software's main screen, as seen below:
 
@@ -175,6 +216,21 @@ You may access a variety of tools and services on the platform known as Audacity
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-beyond-basics-professional-tips-from-vidas-features/"><u>[New] 2024 Approved Beyond Basics Professional Tips From Vida's Features</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-20mb-video-seconds-breakdown-for-2024/"><u>[New] 20MB Video - Seconds Breakdown for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-compact-guide-to-windows-11s-best-screen-grabbers/"><u>[New] In 2024, Compact Guide to Windows 11'S Best Screen Grabbers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-virtual-horizons-where-is-the-new-frontier-of-vr/"><u>[New] In 2024, Virtual Horizons Where Is the New Frontier of VR?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-calculating-storage-total-gb-for-a-days-long-film-for-2024/"><u>[Updated] Calculating Storage Total GB for a Day's Long Film for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-eliminate-grainy-footage-tips-for-social-media-apps-for-2024/"><u>[Updated] Eliminate Grainy Footage Tips for Social Media Apps for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-grasping-video-aspect-ratios-a-beginners-tale/"><u>2024 Approved Grasping Video Aspect Ratios A Beginner’s Tale</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-execute-a-soft-reset-on-your-iphone-a-user-friendly-walkthrough/"><u>How to Execute a Soft Reset on Your iPhone: A User-Friendly Walkthrough</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-honor-90-lite-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Honor 90 Lite Phones? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Nokia 150 (2023) | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-quiet-cinematic-dialogue-draft/"><u>In 2024, Quiet Cinematic Dialogue Draft</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/master-your-minutes-a-deep-dive-into-chatgpts-impact-on-time-management/"><u>Master Your Minutes: A Deep Dive Into ChatGPT's Impact on Time Management</u></a></li>
+<li><a href="https://article-helps.techidaily.com/uncovering-invisible-challenges-in-vr/"><u>Uncovering Invisible Challenges in VR</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-avs-video-editor-is-only-available-on-windows-you-need-to-get-avs-video-editor-alternative-for-mac/"><u>Updated In 2024, AVS Video Editor Is only Available on Windows, You Need to Get AVS Video Editor Alternative for Mac</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] 10 Secret Tips to Better Use Canva Photo Editor"
-date: 2024-07-11T06:51:13.187Z
-updated: 2024-07-12T06:51:13.187Z
+date: 2024-09-08T19:31:55.553Z
+updated: 2024-09-15T17:04:51.148Z
 tags: 
   - screen-recording
   - ai video
@@ -42,6 +42,19 @@ Other interesting effects include BadTV, through which you can add cinematic and
 
 ![search and apply filters](https://images.wondershare.com/filmora/article-images/2022/canva-photo-editor-tips-2.jpg)
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Add Text to Images
 
 Do you like to post Instagram or Facebook stories with catchy captions embedded in them? Canva photo editor online gives you huge and diverse options to add text on the images with fancy styles and colors. You can add an aligned text by adjusting it to various angles such as right, left, or center. Afterward, you can select the font, color, and style of your added text through finger swipes.
@@ -49,6 +62,13 @@ Do you like to post Instagram or Facebook stories with catchy captions embedded 
 You can also manage the size of your text to make it look appropriate and suitable for your image. Hence, you can use the text images to post them as stories on social media accounts or use them for commercial purposes. This is surely good!
 
 ![add texts to photos](https://images.wondershare.com/filmora/article-images/2022/canva-photo-editor-tips-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Add Frames to the Image
 
@@ -65,6 +85,13 @@ Canva photo editor is not only restricted for personal use as many users of YouT
 To create an eye-catchy YouTube thumbnail, use the “Highlight Effect” from this tool. For this, remove the existing background from your picture and apply the duotone image effect to the picture. Then adjust the highlights and shadows and select any color for the background. Thus, you can easily create a creative YouTube thumbnail from this editor.
 
 ![attractive youtube thumbnails](https://images.wondershare.com/filmora/article-images/2022/canva-photo-editor-tips-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 6\. Add Different Elements
 
@@ -86,6 +113,13 @@ If you are editing images for a product shoot, clothing brand, or any other proj
 
 ![design mockups through canva](https://images.wondershare.com/filmora/article-images/2022/canva-photo-editor-tips-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 9\. Use Auto Focus and Blur
 
 Professional photographers use the features like auto-focus and blur to give depth or shallow of the field to the images. Canva photo editor has an option of “Auto Focus” to automatically adjust the focus of your photo to make it look sharp in high quality. On the other hand, using the option of "Blur" on this editor, you can blur certain parts of the image, such as the background or subjects of the picture.
@@ -93,6 +127,13 @@ Professional photographers use the features like auto-focus and blur to give dep
 By combining both of these features, you can easily craft a professional illustration through your images with a few retouches. This is great!
 
 ![auto blur effect applied](https://images.wondershare.com/filmora/article-images/2022/canva-photo-editor-tips-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 10\. Mix the Colors
 
@@ -128,6 +169,20 @@ Anyone can learn photo editing skills if they are provided with accurate guideli
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-drones-dynamic-duo-gear-and-lgcam-face-off-battle-for-2024/"><u>[New] Drones' Dynamic Duo Gear & LGCam Face-Off Battle for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-bebop-2s-aviary-artistry-reviewed/"><u>[New] In 2024, Bebop 2’S Aviary Artistry Reviewed</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-sizzling-skills-7-keys-for-scrumptious-video-cooking-for-2024/"><u>[New] Sizzling Skills 7 Keys for Scrumptious Video Cooking for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-exploring-youtubes-earnings-mechanism-through-cpm-analysis/"><u>[Updated] In 2024, Exploring YouTube's Earnings Mechanism Through CPM Analysis</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-investigating-dji-raptor-vr-headset-effectiveness/"><u>[Updated] Investigating DJi Raptor VR Headset Effectiveness</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-transforming-ordinary-moments-into-viral-instagram-reels-for-2024/"><u>[Updated] Transforming Ordinary Moments Into Viral Instagram Reels for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/amok-dvd-shrink/"><u>AmoK DVD Shrinkの日本語バージョンで操作と機能を理解するためのガイド</u></a></li>
+<li><a href="https://video-capture.techidaily.com/chromebooks-and-hp-perfect-your-video-capture-for-2024/"><u>Chromebooks and HP Perfect Your Video Capture for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-update-lenovo-yoga-910-drivers/"><u>How to Update Lenovo Yoga 910 Drivers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-elevate-video-quality-with-pro-tools-selection/"><u>In 2024, Elevate Video Quality with Pro Tools Selection</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-tecno-spark-10-pro-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Tecno Spark 10 Pro Devices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-and-reviews-toms-hardware-for-savvy-shoppers/"><u>In-Depth Analysis & Reviews | Tom's Hardware for Savvy Shoppers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/tips-for-documenting-virtual-meetings-for-2024/"><u>Tips for Documenting Virtual Meetings for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Invisible Motion Capture Instruction for 2024"
-date: 2024-07-11T06:46:55.522Z
-updated: 2024-07-12T06:46:55.522Z
+date: 2024-09-10T16:14:22.034Z
+updated: 2024-09-15T16:49:21.303Z
 tags: 
   - screen-recording
   - ai video
@@ -68,6 +68,13 @@ Once you have all of the necessary equipment, you will need to set up your camer
 
 Depending on the length of the video you want to create, you may need to take thousands of pictures. Once you have all of the pictures, you will need to use a time-lapse video editing software to put them all together.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to edit time-lapse video on a computer
 
 If you've ever been to a nature preserve, you know that the best way to see it is with your own eyes. But what if you don't have time to go out and look at the wildlife? What if you're stuck in traffic or at work? What if there's a storm? Or what if it's dark out and you can't see anything?
@@ -103,6 +110,19 @@ You can easily install Filmora for free, after installing click on it three opti
 After creating a new project, there is an option to add media you can your the video which you want to edit.
 
 ![add media to library on filmora](https://images.wondershare.com/filmora/article-images/2022/11/add-media-to-library-on-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step3 Drop the media to timeline
 
@@ -149,6 +169,20 @@ It is important to pick something that will move slowly or that you can control 
 The camera will then capture the movement in slow motion, allowing you to see the beauty of the movement that would otherwise be missed.
 
 ![shoot video with phantom camera](https://images.wondershare.com/filmora/article-images/2022/11/shoot-video-with-phantom-camera.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why do we need a phantom slow-motion camera?
 
@@ -207,6 +241,13 @@ After creating a new project, there is an option to add media you can your the v
 
 ![add media to library on filmora](https://images.wondershare.com/filmora/article-images/2022/11/add-media-to-library-on-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step3 Drop the media to timeline
 
 Drag and drop your videos on the timeline to start the editing. Once you placed your videos on timelines put the video header at the front.
@@ -257,6 +298,21 @@ As filmmakers and video lovers, we have come up with some solid examples of time
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-master-the-art-of-sound-alteration-on-sony-games/"><u>[New] 2024 Approved Master the Art of Sound Alteration on Sony Games</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-windows-10-update-spotlight-new-wins-and-more/"><u>[New] 2024 Approved Windows 10 Update Spotlight New Wins and More</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-getting-hooked-on-telegram-advertising-a-starters-guide/"><u>[New] Getting Hooked on Telegram Advertising A Starter's Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-the-art-of-purchasing-drones-insider-advice/"><u>[New] Mastering the Art of Purchasing Drones Insider Advice</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-adding-images-to-instagram-made-simple/"><u>[Updated] 2024 Approved Adding Images to Instagram Made Simple</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-how-many-videos-fit-in-64128gb-data-insight-for-2024/"><u>[Updated] How Many Videos Fit In 64/128GB? Data Insight for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-digital-purity-unveil-our-6-best-signature-background-removers/"><u>[Updated] In 2024, Digital Purity Unveil Our 6 Best Signature Background Removers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-rapidly-constructing-a-dynamic-facebook-visual-narrative/"><u>[Updated] Rapidly Constructing a Dynamic Facebook Visual Narrative</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comprehensive-huawei-mediapad-m5-analysis-elevating-visuals-and-audio-experience/"><u>Comprehensive Huawei MediaPad M5 Analysis: Elevating Visuals & Audio Experience</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/converti-gratuitamente-i-tuoi-dvd-in-mp4-per-pc-and-mac-con-winxdvd/"><u>Converti Gratuitamente I Tuoi DVD in MP4 per PC & Mac Con WinXDVD</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/insiders-choice-best-picks-for-snappable-soundtracks/"><u>Insider's Choice Best Picks for Snappable Soundtracks</u></a></li>
+<li><a href="https://article-helps.techidaily.com/premiere-cinematic-glimpses-series/"><u>Premiere Cinematic Glimpses Series</u></a></li>
+</ul></div>
 

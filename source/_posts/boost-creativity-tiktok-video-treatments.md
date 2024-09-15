@@ -1,7 +1,7 @@
 ---
 title: "\"Boost Creativity  TikTok Video Treatments\""
-date: 2024-07-11T06:46:28.652Z
-updated: 2024-07-12T06:46:28.652Z
+date: 2024-09-10T16:46:23.677Z
+updated: 2024-09-15T20:19:51.796Z
 tags: 
   - screen-recording
   - ai video
@@ -246,9 +246,23 @@ Now, you can preview the video with effects that you record. If everything is pe
 
 ![Make changes](https://images.wondershare.com/filmora/article-images/2022/03/add-effect-tiktok-15.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 It will help you finalize the visuals. Now, you can make changes in the video with required editing, such as – adding effects, texts, stickers, and sounds.
 
 ![Next step](https://images.wondershare.com/filmora/article-images/2022/03/add-effect-tiktok-16.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 After all these things, you can preview the video once again and proceed with the next button.
 
@@ -301,6 +315,13 @@ When you successfully upload a video or record the desired shot, you can see a d
 Now, your device screen will start getting input regarding the live preview of the video you added. Here, you can see a complete timeline preview of the video. In the timeline, you can spot a white marker as well. You should place this marker where you want to put an effect.
 
 ![Place effect marker](https://images.wondershare.com/filmora/article-images/2022/03/add-effect-tiktok-4.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step 5 Effects Appear
 
@@ -454,6 +475,13 @@ After all these things, your video is not ready to post on TikTok. You should ad
 
 By following this particular process, you can know how to add effects in TikTok with ease.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2 Method 2: Add Effects With TikTok Templates
 
 ##### Step 1 Access TikTok
@@ -493,6 +521,13 @@ Now, you can preview the video with effects that you record. If everything is pe
 It will help you finalize the visuals. Now, you can make changes in the video with required editing, such as – adding effects, texts, stickers, and sounds.
 
 ![Next step](https://images.wondershare.com/filmora/article-images/2022/03/add-effect-tiktok-16.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 After all these things, you can preview the video once again and proceed with the next button.
 
@@ -536,6 +571,16 @@ You can consider any of these methods to add effects to TikTok videos. In case y
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-cutting-edge-editing-a-magix-video-pro-x-evaluation/"><u>[New] 2024 Approved Cutting-Edge Editing A Magix Video Pro X Evaluation</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-watchers-whispers-essential-websites-for-got-sound-files/"><u>[New] The Watchers' Whispers Essential Websites for GoT Sound Files</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-the-yearbook-of-viral-content-on-twitter-2023-edition/"><u>[Updated] 2024 Approved The Yearbook of Viral Content on Twitter, 2023 Edition</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-elevate-your-videography-mastering-the-dimensions-for-2024/"><u>[Updated] Elevate Your Videography Mastering the Dimensions for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-convincing-viewers-discovering-effective-video-styles/"><u>[Updated] In 2024, Convincing Viewers Discovering Effective Video Styles</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-onestepcams-evaluation-are-we-overlooking-gems/"><u>[Updated] In 2024, OneStepCams Evaluation Are We Overlooking Gems?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-the-healing-power-of-asmr-explained-here/"><u>In 2024, The Healing Power of ASMR Explained Here</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-why-does-itools-virtual-location-not-work-for-apple-iphone-12-proipad-solved-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Does iTools Virtual Location Not Work For Apple iPhone 12 Pro/iPad? Solved | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-applications-and-software-take-up-your-devices-storage-to-create-slow-mo-explore-this-piece-to-learn-about-some-slow-motion-video-online-m/"><u>New 2024 Approved Applications and Software Take up Your Devices Storage to Create Slow-Mo. Explore This Piece to Learn About some Slow-Motion Video Online Makers</u></a></li>
+</ul></div>
 

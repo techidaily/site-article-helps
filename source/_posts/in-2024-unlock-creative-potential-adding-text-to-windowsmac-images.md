@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unlock Creative Potential  Adding Text to Windows/Mac Images\""
-date: 2024-07-11T06:59:38.186Z
-updated: 2024-07-12T06:59:38.186Z
+date: 2024-09-12T19:34:02.182Z
+updated: 2024-09-15T18:46:37.529Z
 tags: 
   - screen-recording
   - ai video
@@ -100,6 +100,13 @@ Step2Now click on the **Text Button**, which will appear on your sidebar at the 
 
 ![click on text button](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3Now you must select your text style by clicking on **heading**, **sub-heading**, and **body text**, depending on which one you want. You can also choose your text style from the designs already available.
 
 ![select text style](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-14.jpg)
@@ -112,6 +119,13 @@ Step5A menu will appear on your right side from which you can easily change or e
 
 ![a menu](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-16.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step6Also, to change the text size inside the **Text Box**, drag its corners.
 
 ![change the text size](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-17.jpg)
@@ -121,6 +135,13 @@ Step7Moreover, if you want to change the size of the **Text Box**, drag its bord
 ![change the size of text box](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-18.jpg)
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Important Note:** Remember that what changes you have done using the right sidebar menu will be applied to the whole text inside the selected text box.
 
@@ -185,6 +206,13 @@ Cons
 Pixlr is also an alternative to the above all. It is a cloud-based online photo editor which allows you to edit your photos skillfully. It has a very interactive and easy-to-understand interface. Pixlr is also an excellent choice to add text to your photos easily. It has more than 16 million users on the web.
 
 ![pixlr](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-21.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Pros
 
@@ -272,6 +300,13 @@ Cons
 If you still do not find any software to add text to your photos, you should also look at GIMP. It is also a good graphics editing program. Moreover, it is free and open source also. You can use it for both the editing and the manipulation of photos. Some people also still use WIMP for making their drawings, although it is not for such a purpose.
 
 ![gimp](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-photos-on-windows-and-mac-25.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Pros
 
@@ -562,6 +597,20 @@ The last words for today's topic here is that there are numerous solutions avail
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-advanced-techniques-for-efficient-use-of-luts-in-cs6cc/"><u>[New] 2024 Approved Advanced Techniques for Efficient Use of LUTs in CS6/CC</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-transition-techniques-elevating-your-kinemaster-filmography/"><u>[New] 2024 Approved Transition Techniques Elevating Your Kinemaster Filmography</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-closer-look-strategies-in-virtual-world-of-roblox/"><u>[New] Closer Look Strategies in Virtual World of Roblox</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-top-10-techniques-for-youtube-to-mpeg-conversion/"><u>[New] Top 10 Techniques for YouTube-to-MPEG Conversion</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-explore-the-best-smartphone-compatible-vr-for-2024/"><u>[Updated] Explore the Best Smartphone-Compatible VR for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-power-of-words-in-marketing-top-20-essentials/"><u>[Updated] The Power of Words in Marketing - Top 20 Essentials</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-ultimate-guide-to-selective-object-removal-in-iphone-images/"><u>[Updated] Ultimate Guide to Selective Object Removal in iPhone Images</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-convert-your-webcam-to-vlc-clip/"><u>2024 Approved Convert Your Webcam to VLC Clip</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722975544318-getting-started-with-your-new-steelseries-mouse-download-necessary-drivers-here/"><u>Getting Started with Your New SteelSeries Mouse: Download Necessary Drivers Here!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-tecno-pop-7-pro-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Tecno Pop 7 Pro for Free? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/insiders-guide-to-pro-windows-10-expertise-for-2024/"><u>Insider's Guide to Pro WINDOWS 10 Expertise for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-samsung-galaxy-s24plus-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Samsung Galaxy S24+</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-art-of-replaying-twitch-live-streams-for-2024/"><u>The Art of Replaying Twitch Live Streams for 2024</u></a></li>
+</ul></div>
 

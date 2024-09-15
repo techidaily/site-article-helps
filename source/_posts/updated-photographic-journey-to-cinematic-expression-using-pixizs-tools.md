@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Photographic Journey to Cinematic Expression Using Pixiz's Tools"
-date: 2024-07-11T06:42:21.230Z
-updated: 2024-07-12T06:42:21.230Z
+date: 2024-09-10T18:58:49.485Z
+updated: 2024-09-15T17:33:53.875Z
 tags: 
   - screen-recording
   - ai video
@@ -98,6 +98,19 @@ Step5**Click** on the **Title** option in the top right and select the **title t
 
 ![click on the title](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-9.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step6**Double click the text** to open the box for **making edits in text**, font, color, and other options.
 
 ![double click on the text box](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-10.jpg)
@@ -114,9 +127,29 @@ Step9To make your slideshow more appealing, you can also add transitions or effe
 
 ![add transitions or effects](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-13.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step10After finishing all the editing, you can export your creation to any format you want.
 
 ![export creation to any format](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-14.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -127,6 +160,13 @@ So, Pixiz is an excellent service to make photo videos online by just uploading 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How do you make photo videos using Filmora?
 
@@ -139,6 +179,13 @@ Step2Now **open** **Filmora** and **click** **new project**.
 Step3**Import** photos by **clicking** (import media) and then drag and drop them.
 
 ![import photos](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step4 **Double-click the photo** to open options to make your photos fit the screen (in case there is a gap on the sides). A new box will appear. Under the primary option, click the **transform tab**. You can **increase** the **scale** option to make the photo fit.
 
@@ -198,6 +245,19 @@ So, Pixiz is an excellent service to make photo videos online by just uploading 
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-converting-images-into-harmonious-videography-for-2024/"><u>[New] Converting Images Into Harmonious Videography for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-elite-windows-11-editing-software-showcase/"><u>[New] Elite Windows 11 Editing Software Showcase</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-joke-junctions-brainstorming-7-hilarious-youtube-storylines/"><u>[Updated] 2024 Approved Joke Junctions Brainstorming 7 Hilarious YouTube Storylines</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-top-ranked-e-learning-presentation-palette/"><u>[Updated] 2024 Approved Top-Ranked E-Learning Presentation Palette</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-free-mobile-live-stream-apps-essentials-for-smartphones/"><u>[Updated] Free Mobile Live Stream Apps Essentials for Smartphones</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-twitch-and-friendly-networks-efficient-crossposting/"><u>[Updated] In 2024, Twitch and Friendly Networks Efficient Crossposting</u></a></li>
+<li><a href="https://android-frp.techidaily.com/efficient-data-retrieval-advanced-tools-for-recovering-lost-or-damaged-disk-partitions/"><u>Efficient Data Retrieval: Advanced Tools for Recovering Lost or Damaged Disk Partitions</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/hitpaw-screen-recorder-review-and-alternative-for-2024/"><u>HitPaw Screen Recorder Review and Alternative for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-masterclass-comprehensive-overview-of-dji-phantom-4/"><u>In 2024, Masterclass Comprehensive Overview of DJI Phantom 4</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-revamped-look-at-sonys-s6500-bdp/"><u>In 2024, Revamped Look at Sony's S6500 BDP</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-staying-unseen-in-the-world-of-instagram-live-broadcasts/"><u>In 2024, Staying Unseen in the World of Instagram Live Broadcasts</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/top-6-minecraft-survival-house-ideas-you-can-try-for-2024/"><u>Top 6 Minecraft Survival House Ideas You Can Try for 2024</u></a></li>
+</ul></div>
 
