@@ -1,7 +1,7 @@
 ---
 title: "[New] The Unseen Windows 11 Techniques"
-date: 2024-09-10T20:36:59.696Z
-updated: 2024-09-15T19:08:28.900Z
+date: 2024-09-18T23:23:57.550Z
+updated: 2024-09-21T01:06:02.211Z
 tags: 
   - screen-recording
   - ai video
@@ -47,31 +47,11 @@ This feature can be activated through Windows Settings and then by clicking on �
 
 ![minimize applications by shaking](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-2.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Shortcut Keys
 
 Windows 11 has many shortcut keys that will save your time on a busy day. These shortcut keys cover areas such as Widgets with (Win + W). It Opens the Team Chat app (Win + C), notification center (Win + N), Quick settings with (Win + A), and a lot more. Whereas the shortcuts for copying, pasting, and screenshots are the same as Windows 10.
 
 ![windows 11 shortcut keys](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Taskbar and Start Menu Placements
 
@@ -79,24 +59,31 @@ The biggest Windows 11 tip and trick is the placement of Taskbar and Start Menu.
 
 ![align taskbar to the left](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5\. Remove Unwanted Ads on Apps
 
 The updated technology allows you to have better control over the privacy of your data and device from personalized ads. For this, go to the ‘Settings’ panel and then move over to the 'Privacy and Security’ section. From the right panel, hit the ‘General’ settings. Now you can select whether you want the apps or websites to show ads based on your interests.
 
 ![disable unwanted ads](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 6\. Voice Typing Feature
 
 The coolest thing about Windows 11 that most people don’t know is the ‘Voice Typing’ feature. You might have experienced this before in your iPhones or Android devices, but this is new for Windows to have voice typing built-in. Press ‘Windows Key + H’ when you are in a text box and then start speaking. By using the mic button from the pop-out menu, you can start using the feature.
 
 ![windows 11 voice typing feature](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 7\. Widgets and Chat Customization
 
@@ -106,18 +93,18 @@ However, some people do not like using this kind of stuff. They don’t even pre
 
 ![disable widgets and other items](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 8\. Block Trackers and Pop-up
 
 Another brilliant Windows 11 tip and trick is that it lets you block the pop-ups and also the tracking. For that, open Microsoft Edge and head over to the 3 dots on the top right corner to open 'Settings.' From the left panel in Settings, look for 'Privacy, Search and Services.' By default, it is set to 'Balanced.' You are suggested to select the 'Strict' option so that all the harmful trackers are blocked.
 
 ![secure your browsing on windows 11](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 9\. Change your Geolocation
 
@@ -134,6 +121,13 @@ Windows 11 tips and tricks also include bringing back the folders on the start m
 For that, press ‘Win + I’ and then select 'Personalization.' Now, choose 'Start,' and after that, select 'Folders.' At this point, select the system folders that you want to see on the Start Menu. You can flip the switch to 'On.'
 
 ![bring folders to windows 11 start](https://images.wondershare.com/filmora/article-images/2021/windows-11-secret-tips-and-tricks-10.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### The Bottom Line
 
@@ -155,16 +149,16 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 ![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
-![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
-
-![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
+
+![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -190,21 +184,13 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-1-3-in-ipad-voice-memos-and-recorders/"><u>[New] 1-3 in iPad Voice Memos & Recorders</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-grand-revelations-in-cinema-trailers/"><u>[New] Grand Revelations in Cinema Trailers</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-essential-tips-for-photosvideos-in-windows-10/"><u>[New] In 2024, Essential Tips for Photos/Videos in Windows 10</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-voice-storage-test-report/"><u>[New] In 2024, Voice Storage Test Report</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-push-boundaries-top-windows-10-innovations-in-games-and-apps/"><u>[Updated] 2024 Approved Push Boundaries Top Windows 10 Innovations in Games and Apps</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-from-static-to-dynamic-making-text-pop-on-instagram-stories-for-2024/"><u>[Updated] From Static to Dynamic Making Text Pop on Instagram Stories for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-crafting-curve-concepts-for-text-visualization/"><u>[Updated] In 2024, Crafting Curve Concepts for Text Visualization</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-roadmap-to-free-cut-out-imagery/"><u>[Updated] The Roadmap to Free Cut-Out Imagery</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-top-picks-for-integrating-frame-elements-with-images/"><u>[Updated] Top Picks for Integrating Frame Elements with Images</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-upgrade-clips-adding-effects-to-videos-pcmobile/"><u>2024 Approved Upgrade Clips Adding Effects to Videos (PC/Mobile)</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/effortless-photo-transformations-using-instagrams-green-screen/"><u>Effortless Photo Transformations Using Instagram's Green Screen</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Infinix Smart 7 | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-top-3-tactics-converting-pins-to-audio-clips/"><u>In 2024, Top 3 Tactics Converting Pins to Audio Clips</u></a></li>
-<li><a href="https://article-helps.techidaily.com/masterful-filmmaking-moves-with-kinemaster/"><u>Masterful Filmmaking Moves with Kinemaster</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/materials-used-in-scaffolding-should-be-chosen-based-on-their-strength-properties-to-withstand-various-forces/"><u>Materials Used in Scaffolding Should Be Chosen Based on Their Strength Properties to Withstand Various Forces.</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/pixelhunter-advanced-screen-grabber-for-2024/"><u>PixelHunter Advanced Screen Grabber for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-enhancing-audio-visual-sync-with-subtitles-on-windows-media-player/"><u>[Updated] 2024 Approved Enhancing Audio-Visual Sync with Subtitles on Windows Media Player</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-top-ranked-desktop-pcs-for-gamers/"><u>[Updated] 2024 Approved Top-Ranked Desktop PCs for Gamers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-crafting-depth-3d-text-designs-in-illustrator/"><u>[Updated] Crafting Depth 3D Text Designs in Illustrator</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-kickstarting-a-vlog-key-hardware-and-apps/"><u>[Updated] Kickstarting a Vlog Key Hardware & Apps</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-free-meme-makers-the-ultimate-resource-guide/"><u>2024 Approved Free Meme Makers – The Ultimate Resource Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fix-your-amd-vega-56-issues-windows-driver-downloads-and-installation-guide/"><u>Fix Your AMD Vega 56 Issues - Windows Driver Downloads and Installation Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-add-a-digital-signature-field-to-a-fodt-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to add a digital signature field to a .fodt file</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-the-essential-guide-to-understanding-and-using-instagrams-music-features/"><u>In 2024, The Essential Guide to Understanding and Using Instagram's Music Features</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Diversifying From Google's AR Enhancements\""
-date: 2024-07-11T06:23:40.239Z
-updated: 2024-07-12T06:23:40.239Z
+date: 2024-09-19T21:31:33.948Z
+updated: 2024-09-21T01:29:36.132Z
 tags: 
   - screen-recording
   - ai video
@@ -70,6 +70,19 @@ Suppose you own a Google Pixel 4a or a later model, and you want to try augmente
 
 Are you an Android or iPhone user? Filmora AR Camera is also available on these platforms. So you can join in on the fun!
 
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Filmora AR Camera Features
 
 Filmora for Mobile's AR Camera feature has many things to offer. It lets you take photos and videos with virtual characters. Also, you can add digital content (a helmet on your head, for example) to your photo to enhance it. You also don't have to be in the frame to use Filmora for Mobile's AR stickers. There are so many sticker options you can use as the subject instead.
@@ -91,6 +104,13 @@ Step2 Tap the "Camera" button on the right panel.
 Step3 Tap the "Frame" icon at the top right to adjust the video ratio. It's also how you switch between the front and rear cameras.
 
 ![changing canvas size on filmora](https://images.wondershare.com/filmorago/article-image/frame-icon-on-filmorago-camera.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step4 Select "Props" from the options at the bottom of the screen. Select the AR effect that you want to use.
 
@@ -114,6 +134,13 @@ Step2 Tap "Canvas" to adjust the video ratio size so it would be perfect for Tik
 
 ![canvas button on filmora for iphone](https://images.wondershare.com/filmorago/article-image/canvas-setting-for-video-on-filmorago.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 Tap "Filters" to add more magic to the video.
 
 ![adding filters on filmora for iphone](https://images.wondershare.com/filmorago/article-image/tap-filter-button-for-ar-video-on-filmorago.jpg)
@@ -121,6 +148,13 @@ Step3 Tap "Filters" to add more magic to the video.
 Step4 Suppose there is more than one video clip, and you're combining them. Tap the junction between them to add transition effects so that the switch would not look too abrupt or to make the video cooler.
 
 ![adding transition effects on filmora for iphone](https://images.wondershare.com/filmorago/article-image/tap-junction-of-video-to-preview-transition-effects-on-ar-video-filmorago.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step5 Preview the video. If you're already satisfied, tap "EXPORT" to save and share.
 
@@ -202,6 +236,13 @@ Step2 Tap "Canvas" to adjust the video ratio size so it would be perfect for Tik
 
 ![canvas button on filmora for iphone](https://images.wondershare.com/filmorago/article-image/canvas-setting-for-video-on-filmorago.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 Tap "Filters" to add more magic to the video.
 
 ![adding filters on filmora for iphone](https://images.wondershare.com/filmorago/article-image/tap-filter-button-for-ar-video-on-filmorago.jpg)
@@ -264,6 +305,16 @@ Google AR Stickers are great for enhancing your photos and videos. Too bad it's 
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-deactivating-instagrams-igtv-feature/"><u>[New] Deactivating Instagram's IGTV Feature</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-enhance-your-mobile-shots-best-iphone-apps-for-object-removal/"><u>[New] In 2024, Enhance Your Mobile Shots Best iPhone Apps for Object Removal</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-heres-what-you-dont-know-about-instagram-story-viewer2/"><u>[New] In 2024, Here's What You Don't Know About Instagram Story Viewer2</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-revealing-historys-best-anime-openers/"><u>[New] Revealing History's Best Anime Openers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-who-will-be-the-champion-of-dynamic-video-recording-black-gopro-or-x1000v-in-2024/"><u>[New] Who Will Be the Champion of Dynamic Video Recording, Black GoPro or X1000V, In 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-accelerate-your-retro-play-with-best-ps2-android-emulators/"><u>[Updated] In 2024, Accelerate Your Retro Play with Best Ps2 Android Emulators</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-leading-brands-for-budget-friendly-high-definition-projectors/"><u>2024 Approved Leading Brands for Budget-Friendly, High-Definition Projectors</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-realme-12-5g-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/shot-with-precision-the-top-10-camera-lens-choices-for-photographers-for-2024/"><u>Shot with Precision The Top 10 Camera Lens Choices for Photographers for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Secrets to Mastering Photos/Videos in Windows 11"
-date: 2024-07-11T06:26:29.312Z
-updated: 2024-07-12T06:26:29.312Z
+date: 2024-09-15T22:19:25.432Z
+updated: 2024-09-20T20:20:07.596Z
 tags: 
   - screen-recording
   - ai video
@@ -45,17 +45,38 @@ If you are moving photos and video to Windows 10 from a smartphone, you will fir
 
 Your phone will have settings regarding file transfers when it is connected to a computer. Make sure that media viewing and transferring is selected, which will allow Windows 10 File Explorer on the computer to recognize your device.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 3: Import Photos and Videos
 
 Now that your phone is recognized, you should see the camera or phone pop up along with your hard drives and other external drives. You can right click on its icon, select “Import Photos and Videos” and proceed from there.
 
 ![Import Photos and Video in windows 10](https://images.wondershare.com/filmora/article-images/import-video-photos-to-windows-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 4: Import
 
 Your computer will tell you how many pictures and photos were found. You can either review, organize and group these items, or you can choose to import all the new items in one go.
 
 The great thing about reviewing the photos and videos before importing them onto your computer is that you can choose folders for different files, name those folders and ensure that you are only importing files that are not on your system already.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: Start Importing in Photos App
 
@@ -89,6 +110,13 @@ Connect the camera to your phone and then follow the above steps to import your 
 
 ![Import Photos and Video in windows 10](https://images.wondershare.com/filmora/article-images/import-photos-video-from-camera.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 If you own a Windows 10 desktop or laptop, it is very easy to connect a smartphone or digital camera to your computer. Then you will be able to use File Explorer or the built in Photos app to access and download your photos and videos. Adding your content to the computer lets you save the files, share them with friends, edit them using programs like Photoshop, or save space on your smartphone/camera.
@@ -118,6 +146,14 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-dynamic-duo-of-images-on-ig/"><u>[New] 2024 Approved Dynamic Duo of Images on IG</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-how-tos-for-immersive-nba-livestream-watching/"><u>[New] 2024 Approved How-To's for Immersive NBA Livestream Watching</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tuneful-images-the-apple-fusion-method/"><u>[Updated] Tuneful Images The Apple Fusion Method</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-virtualdub-alternatives-which-one-is-right-for-you/"><u>New Virtualdub Alternatives Which One Is Right for You ?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/pivot-past-moments-an-android-video-reversal-tutorial-for-2024/"><u>Pivot Past Moments An Android Video Reversal Tutorial for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-8-must-have-reading-apps-of-2024-you-cant-miss/"><u>Top 8 Must-Have Reading Apps of 2024 You Can't Miss</u></a></li>
+<li><a href="https://article-helps.techidaily.com/unveiling-top-8-premium-free-srt-translation-solutions-for-2024/"><u>Unveiling Top 8 Premium Free SRT Translation Solutions for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Exploring Automatic Aspect Ratios in iMovie"
-date: 2024-09-13T18:33:13.965Z
-updated: 2024-09-15T16:45:09.247Z
+date: 2024-09-14T19:47:59.408Z
+updated: 2024-09-20T21:17:14.742Z
 tags: 
   - screen-recording
   - ai video
@@ -45,13 +45,6 @@ Double-click Filmora's desktop icon once you're ready to start working on a new 
 
 ![imoive-crop-video-](https://images.wondershare.com/filmora/article-images/2022/05/imoive-crop-video-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Step #2: Create a New Project**
 
 After choosing New Project on the software's welcome screen, wait for the editor to load. After gaining access to Fillmora's video editor, click the Register button to activate it.
@@ -66,13 +59,6 @@ You can find the Import button in the upper left corner of the film editor; clic
 
 ![imoive-crop-video-](https://images.wondershare.com/filmora/article-images/2022/05/imoive-crop-video-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The Import menu now includes Import with Instant Cutter Tool. The Instant Cutter Tool made trimming 4K and other large video files quick and easy. Filmora can also edit footage shot with action cameras swiftly. You can simply improve your films with the lens correction tools and the Fish Eye Distortion function.
 
 ### **Step #4: Arrange Your Clips**
@@ -149,6 +135,13 @@ After choosing New Project on the software's welcome screen, wait for the editor
 
 ![imoive-crop-video-](https://images.wondershare.com/filmora/article-images/2022/05/imoive-crop-video-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Go to the File menu and click Project Settings to choose the aspect ratio for your final film output. You'll be able to select from various aspect ratios, including the standard 16:9 or 4:3, the less common 9:16 aspect ratio for vertically oriented flicks, and the 1:1 aspect ratio for square-shaped films. You can also adjust the aspect ratio to fit your needs.
 
 ### **Step #3: Import Your Files**
@@ -159,18 +152,18 @@ You can find the Import button in the upper left corner of the film editor; clic
 
 The Import menu now includes Import with Instant Cutter Tool. The Instant Cutter Tool made trimming 4K and other large video files quick and easy. Filmora can also edit footage shot with action cameras swiftly. You can simply improve your films with the lens correction tools and the Fish Eye Distortion function.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Step #4: Arrange Your Clips**
 
 The documents you import into Filmora will be stored under the Media tab, which you can find beneath the Load button. Working with multiple files in a single project becomes significantly more difficult when searching for the films and photographs you want to add to the timeline. To eliminate clutter and annoyance, use the My Album tool to create folders and organize your files.
 
 ![imoive-crop-video-](https://images.wondershare.com/filmora/article-images/2022/05/imoive-crop-video-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 In the window's top right corner, click the Add a New Folder icon at the bottom of the "My Project" section. You can organize the footage numerically or in another method to increase your productivity and save time looking through files.
 
@@ -179,6 +172,19 @@ In the window's top right corner, click the Add a New Folder icon at the bottom 
 Because raw footage frequently has incorrect orbits that you don't need in your video, simply drag them from the Media tab and set them on the timeline if you want to delete or edit your videos. You can load as much clips as you want, but you can only add them one at a time, and you'll have to drag the files to the right place on the timeline to reorder them.
 
 ![imoive-crop-video-](https://images.wondershare.com/filmora/article-images/2022/05/imoive-crop-video-5.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Press Play or use the Spacebar to examine the video clips you've added to the timeline. You may use the playhead to jump to a certain point in the movie. Place the playhead at the exact beginning of the video segment you wish to trim, then repeat the operation on the other end.
 
@@ -189,10 +195,10 @@ After eliminating all the unwanted bits from your video clips, you may now separ
 ![imoive-crop-video-](https://images.wondershare.com/filmora/article-images/2022/05/imoive-crop-video-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Click the Text /Credit icon to add opening titles, end credits, or subtitles to your video. The software comes with several text templates that you can use for various purposes. Drag and drop the theme you want to use to the appropriate location on the timeline, then add the relevant text using the software's preview box.
@@ -221,13 +227,6 @@ The documents you import into Filmora will be stored under the Media tab, which 
 
 ![imoive-crop-video-](https://images.wondershare.com/filmora/article-images/2022/05/imoive-crop-video-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 In the window's top right corner, click the Add a New Folder icon at the bottom of the "My Project" section. You can organize the footage numerically or in another method to increase your productivity and save time looking through files.
 
 ### **Step #5: Organize the Files on The Timeline**
@@ -235,6 +234,13 @@ In the window's top right corner, click the Add a New Folder icon at the bottom 
 Because raw footage frequently has incorrect orbits that you don't need in your video, simply drag them from the Media tab and set them on the timeline if you want to delete or edit your videos. You can load as much clips as you want, but you can only add them one at a time, and you'll have to drag the files to the right place on the timeline to reorder them.
 
 ![imoive-crop-video-](https://images.wondershare.com/filmora/article-images/2022/05/imoive-crop-video-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Press Play or use the Spacebar to examine the video clips you've added to the timeline. You may use the playhead to jump to a certain point in the movie. Place the playhead at the exact beginning of the video segment you wish to trim, then repeat the operation on the other end.
 
@@ -272,16 +278,18 @@ Click the Text /Credit icon to add opening titles, end credits, or subtitles to 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-action-camera-buying-for-newbies-the-updated-guide-23/"><u>[New] In 2024, Action Camera Buying for Newbies - The Updated Guide '23</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-innovating-imagery-topiary-techniques-for-stellar-iphone-photos/"><u>[Updated] 2024 Approved Innovating Imagery Topiary Techniques for Stellar iPhone Photos</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-embrace-effortless-storage-our-20-most-trusted-free-cloud-service-choices-up-to-1tb-for-2024/"><u>[Updated] Embrace Effortless Storage - Our 20 Most Trusted FREE Cloud Service Choices (Up To 1TB) for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-get-every-detail-of-your-favorite-movies-macscreencasting-netflix/"><u>[Updated] Get Every Detail of Your Favorite Movies MacScreencasting Netflix</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-elite-uavs-get-yours-today/"><u>[Updated] In 2024, Elite UAVs Get Yours Today</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/backgroundannihilator-professional-erase-software-for-2024/"><u>BackgroundAnnihilator Professional Erase Software for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/essential-5-audio-blender-apps-for-mac-users-for-2024/"><u>Essential 5 Audio Blender Apps for Mac Users for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-apple-iphone-se-by-drfone-ios/"><u>Everything You Need To Know About Unlocked Apple iPhone SE</u></a></li>
-<li><a href="https://article-helps.techidaily.com/mastering-lut-integration-in-obs-for-enhanced-visual-effects/"><u>Mastering LUT Integration in OBS for Enhanced Visual Effects</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-memes-kinemaster-guide-for-2024/"><u>Mastering Memes KineMaster Guide for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-make-a-lasting-impression-top-trailer-creation-tools/"><u>Updated Make a Lasting Impression Top Trailer Creation Tools</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-beginners-choices-superior-gopro-accessories-for-2024/"><u>[New] Beginner’s Choices Superior GoPro Accessories for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-beyond-the-screen-vrs-creative-applications/"><u>[New] Beyond the Screen VR's Creative Applications</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-mobile-video-experience-review-report-for-2024/"><u>[New] Mobile Video Experience Review Report for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-a-guide-to-navigating-vimeos-free-premium-and-pro-membership-levels/"><u>[Updated] 2024 Approved A Guide to Navigating Vimeo’s Free, Premium & Pro Membership Levels</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-screen-upgrade-high-resolution-video-enhancer/"><u>[Updated] Ultimate Screen Upgrade High-Resolution Video Enhancer</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/2024iphoneandroiddvdand/"><u>「【最新技術】2024では、iPhone・Androidも含むデバイスでのDVDフリーコピー&再生手品を学ぶ！」</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/calculating-costs-music-video-filming-for-2024/"><u>Calculating Costs Music Video Filming for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-c55-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Poco C55 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://article-helps.techidaily.com/inspiring-14-animated-text-concepts/"><u>Inspiring 14 Animated Text Concepts</u></a></li>
+<li><a href="https://techidaily.com/remove-lock-screen-without-password90-lite-by-drfone-android-unlock-android-unlock/"><u>Remove Lock Screen without Password(90 Lite)</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/step-by-step-guide-to-managing-video-speed-on-snapchat/"><u>Step by Step Guide to Managing Video Speed on Snapchat</u></a></li>
+<li><a href="https://win-able.techidaily.com/success-strategies-getting-your-nier-replicant-remaster-up-and-running/"><u>Success Strategies: Getting Your NieR Replicant Remaster Up and Running</u></a></li>
+<li><a href="https://article-helps.techidaily.com/unveiling-the-secret-seeing-popular-youtube-reactions-for-2024/"><u>Unveiling the Secret Seeing Popular YouTube Reactions for 2024</u></a></li>
 </ul></div>
 

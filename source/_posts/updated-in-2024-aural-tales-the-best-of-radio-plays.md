@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Aural Tales  The Best of Radio Plays\""
-date: 2024-07-11T06:32:26.474Z
-updated: 2024-07-12T06:32:26.474Z
+date: 2024-09-13T17:39:33.139Z
+updated: 2024-09-21T00:18:49.327Z
 tags: 
   - screen-recording
   - ai video
@@ -131,6 +131,13 @@ The Archers is also a BBC Radio 4 show that has aired since 1950\. It's a radio 
 
 ![we are alive](https://images.wondershare.com/filmora/article-images/2022/08/radio-drama-scripts-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 We're Alive is one of the most well-known podcast audio dramas on the web right now, with 166 episodes spread across four seasons. The post-apocalyptic audio drama follows a group of survivors as they try to survive a zombie apocalypse.
 
 The drama first aired on iTunes in 2009, and its final season premiered in 2014\. The show's compiled season version is now available from Wayland Productions.
@@ -164,6 +171,13 @@ If you are looking for good websites to download free radio dramas, then these a
 Simply Scripts is indeed a database of thousands of downloadable scripts, movie scripts, screenplays, and transcripts from current, classic, and possibly upcoming movies, television shows, anime, unproduced, and radio shows. A resource for screenwriters.
 
 ![simply scripts](https://images.wondershare.com/filmora/article-images/2022/08/radio-drama-scripts-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. BBC Radio Shows
 
@@ -218,11 +232,25 @@ The drama first aired on iTunes in 2009, and its final season premiered in 2014\
 
 If you are looking for good websites to download free radio dramas, then these are the websites you are looking for:
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Simply Scripts
 
 Simply Scripts is indeed a database of thousands of downloadable scripts, movie scripts, screenplays, and transcripts from current, classic, and possibly upcoming movies, television shows, anime, unproduced, and radio shows. A resource for screenwriters.
 
 ![simply scripts](https://images.wondershare.com/filmora/article-images/2022/08/radio-drama-scripts-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. BBC Radio Shows
 
@@ -236,6 +264,13 @@ Nearly 35 million people listen to BBC Radio each week. The BBC provides a range
 * Radio 4 Extra features comedy, drama, and children's programming.
 
 ![bbc radio shows](https://images.wondershare.com/filmora/article-images/2022/08/radio-drama-scripts-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -267,6 +302,17 @@ This article will teach you everything you need to know about radio and audio dr
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-pro-tips-for-capturing-360-degree-fisheye-photos/"><u>[New] Pro Tips for Capturing 360-Degree Fisheye Photos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-weaving-pictures-into-a-musical-tapestry-for-2024/"><u>[New] Weaving Pictures Into a Musical Tapestry for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-non-standard-video-editing-applications-on-windows/"><u>[Updated] In 2024, Non-Standard Video Editing Applications on WIndows</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-ultimate-review-best-camcorders-to-try-for-2024/"><u>[Updated] Ultimate Review Best Camcorders to Try for 2024</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/effortlessly-change-wmv-videos-to-mp4-for-mac-and-windows-10-users-no-cost/"><u>Effortlessly Change WMV Videos to MP4 for Mac and Windows 10 Users – No Cost!</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-infinix-hot-40-pro-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Infinix Hot 40 Pro Phones with/without a PC</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/how-to-record-teams-video-meeting-on-desktop-and-mobile-for-2024/"><u>How to Record Teams Video Meeting on Desktop and Mobile for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-overestimated-world-of-facebook-statistics/"><u>The Overestimated World of Facebook Statistics</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/your-ultimate-guide-to-budget-friendly-excellent-webm-viewers/"><u>Your Ultimate Guide to Budget-Friendly, Excellent WebM Viewers</u></a></li>
+</ul></div>
 

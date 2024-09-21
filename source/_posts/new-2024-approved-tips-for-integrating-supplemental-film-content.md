@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Tips for Integrating Supplemental Film Content\""
-date: 2024-07-11T06:28:02.500Z
-updated: 2024-07-12T06:28:02.500Z
+date: 2024-09-17T18:27:32.885Z
+updated: 2024-09-21T03:09:14.713Z
 tags: 
   - screen-recording
   - ai video
@@ -56,6 +56,13 @@ Including archival material in your video allows your audience to experience a p
 
 B roll footage can be used to tell a story that supports the narrative of your video. For example, in this video interview of Tom DeLonge, the speaker talks about living in a neighborhood. The B rolls show him driving around in his car, skateboarding on the street in the 90's. These add to the story the video creator wants to talk about not seeing people with a disability differently.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. Undirected b roll footage
 
 This particular kind of B roll film is captured without any direction being given to your character, as the name suggests. For the purposes of an interview video, for instance, these can be straightforward close-up views of your character's hands and facial expressions. On the other hand, while you're doing a documentary, you might record your subject participating in everyday activities.
@@ -72,9 +79,23 @@ A pick-up is a tiny shot added to previously captured material. Re-shoots involv
 
 If flaws were discovered during primary photography, the directors could have requested another take. The producer and director should weigh the cost of rejoining cast and crew against the need for pick-ups or re-shoots to address storyline flaws (or worse) in the final edit.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 7\. A roll vs b roll
 
 Imagine the A roll as part of the video's story. This could be a documentary film, news show, or scripted sketch. Everything else on your editing table must be rearranged to fit it. When the speaker in the following video is directly talking to the camera or interviewer, this is A roll footage. The video's most crucial segments were filmed with primary footage.
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -108,6 +129,20 @@ We sincerely hope that this post will be of use to you in making your films more
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-awesome-techniques-for-streaming-and-uploading-on-ios-devices/"><u>[New] 2024 Approved Awesome Techniques for Streaming and Uploading on iOS Devices</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-unlocking-ultra-clear-video-in-zoom-meetings/"><u>[New] 2024 Approved Unlocking Ultra-Clear Video in Zoom Meetings</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-decoding-shrouded-comments-in-video-platforms/"><u>[New] Decoding Shrouded Comments in Video Platforms</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-step-by-step-guide-to-convert-avis-into-gifs-via-filmora-software/"><u>[New] Step-by-Step Guide to Convert AVIs Into GIFs via Filmora Software</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-breakthrough-ai-creative-workstation/"><u>[Updated] 2024 Approved Breakthrough AI Creative Workstation</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-experts-choice-top-16-no-cost-viewers/"><u>[Updated] 2024 Approved Expert's Choice Top 16 No-Cost Viewers</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-top-minded-channels-ultimate-yt-educational-guide/"><u>[Updated] 2024 Approved Top Minded Channels Ultimate YT Educational Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-foremost-6-online-spaces-dominating-b2b-interactions/"><u>[Updated] In 2024, Foremost 6 Online Spaces Dominating B2B Interactions</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ntling-the-shadowy-video-barrier-on-youtube/"><u>Dismantling the Shadowy Video Barrier on YouTube</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-harmony-hub-innovations-showcased/"><u>In 2024, Harmony Hub Innovations Showcased</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-pictures-after-pixel-fold-has-been-deleted-by-fonelab-android-recover-pictures/"><u>Recover your pictures after Pixel Fold has been deleted.</u></a></li>
+<li><a href="https://article-helps.techidaily.com/toggle-pip-for-streaming-youtube-videos-more-conveniently-with-iphone-for-2024/"><u>Toggle PIP for Streaming Youtube Videos More Conveniently with iPhone for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unlock-fabulous-discounts-the-ultimate-oneplus-sale-event-of-the-year/"><u>Unlock Fabulous Discounts: The Ultimate OnePlus Sale Event of the Year!</u></a></li>
+</ul></div>
 

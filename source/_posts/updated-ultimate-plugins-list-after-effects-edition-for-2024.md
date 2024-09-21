@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Ultimate Plugins List  After Effects Edition for 2024\""
-date: 2024-07-11T06:33:05.149Z
-updated: 2024-07-12T06:33:05.149Z
+date: 2024-09-16T19:30:11.410Z
+updated: 2024-09-21T00:34:13.088Z
 tags: 
   - screen-recording
   - ai video
@@ -52,6 +52,13 @@ If you want to create the perfect shape behind your text, then TextBox is a good
 
 ![text box plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-box-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Font Manager
 
 Link: <https://aescripts.com/font-manager/>
@@ -59,6 +66,13 @@ Link: <https://aescripts.com/font-manager/>
 Font Manager is an After Effects text plugin that is useful when creating and working with animated typefaces. You can use it to create the most complex animated text graphics in just a few simple clicks. You will also find it very familiar to use as the user interface is similar to the Character Panel in After Effects.
 
 ![font manager plugin](https://images.wondershare.com/filmora/article-images/2022/07/font-manager-plugin.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Cartoon Moblur
 
@@ -90,6 +104,20 @@ The Artificial Intelligence Titles is an After Effects text plugin that is desig
 
 ![artificial intelligence titles plugin](https://images.wondershare.com/filmora/article-images/2022/07/artificial-intelligence-titles-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Text Library
 
 Link: <https://videohive.net/item/text-library-handy-text-animations/21932974>
@@ -97,6 +125,13 @@ Link: <https://videohive.net/item/text-library-handy-text-animations/21932974>
 This is another great text animation bundle with different options for just about any kind of project. But unlike other plugin bundles that only have a few effects to choose from, Text Library has thousands of templates to choose from. Once you have selected the template that you would like to use, you also get the option to customize the template to suit your project. You can customize the text, size, duration of the animation, and color. It is easy to use and is constantly updated to introduce even more templates with each update.
 
 ![text library plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-library-plugin.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -130,6 +165,18 @@ On its own After Effects comes with so many post-production effects and features
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-securing-every-moment-tips-for-reliable-capture-of-google-meet-sessions/"><u>[New] In 2024, Securing Every Moment Tips for Reliable Capture of Google Meet Sessions</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-iphoneandroids-top-sticker-adding-apps-the-essential-10-collection-for-2024/"><u>[New] IPhone/Android's Top Sticker-Adding Apps The Essential 10 Collection for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-master-the-art-of-iphone-image-rotation-effortless-methods-for-2024/"><u>[New] Master the Art of iPhone Image Rotation - Effortless Methods for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-cutting-edge-recording-nintendo-switch-edition/"><u>[Updated] 2024 Approved Cutting-Edge Recording Nintendo Switch Edition</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-leveraging-azures-voice-recognition-for-advanced-solutions/"><u>[Updated] 2024 Approved Leveraging Azure's Voice Recognition for Advanced Solutions</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-ideal-programs-for-vector-drawing-and-design-mastery/"><u>[Updated] Ideal Programs for Vector Drawing and Design Mastery</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-expand-your-horizons-with-these-elite-science-yts/"><u>[Updated] In 2024, Expand Your Horizons with These Elite Science YTs</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/1716069425521-updated-the-ultimate-guide-to-setting-up-a-group-conversation-that-caters-to-all-systems-in-skype-for-2024/"><u>[Updated] The Ultimate Guide to Setting up a Group Conversation that Caters to All Systems in Skype. For 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-xs-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone XS Without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-pixelperfect-image-transformations/"><u>In 2024, PixelPerfect Image Transformations</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Unveiling the Secret  Seeing Popular YouTube Reactions for 2024\""
-date: 2024-09-08T19:08:59.575Z
-updated: 2024-09-15T19:31:25.166Z
+date: 2024-09-13T17:11:09.906Z
+updated: 2024-09-20T22:50:15.407Z
 tags: 
   - screen-recording
   - ai video
@@ -171,10 +171,10 @@ Additionally, video creators can manually highlight commenters to mark them for 
 ![](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to See Liked Comments on YouTube?
@@ -200,22 +200,15 @@ Step2 Scroll down a little bit and click the **More** button.
 ![your youtube dashboard more](https://images.wondershare.com/filmora/article-images/2022/11/your-youtube-dashboard-more.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step3 Click the **Comments** section.
 
 ![click comments your youtube dashboard](https://images.wondershare.com/filmora/article-images/2022/11/click-comments-your-youtube-dashboard.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now you will see your comment history, including the date when you commented on a certain video and also the exact comment you posted.
 
@@ -228,10 +221,10 @@ Step4 In the **Google My Activity** tab, click **Other activity**.
 ![other activity youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/other-activity-youtube-comments.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step5 Scroll down and find **Comment Likes and Dislikes on YouTube** section. Click **View Comment Likes and Dislikes**.
@@ -243,10 +236,10 @@ Now you will see the videos you liked or disliked and also the comments you like
 ![date likes videos youtube](https://images.wondershare.com/filmora/article-images/2022/11/date-likes-videos-youtube.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 This article tells you that you can't see who liked or disliked a comment, but you can see how many likes or dislikes a comment got. Then go to any video you want, scroll down to the comment section, and see how many likes or dislikes a comment received.
@@ -254,6 +247,13 @@ This article tells you that you can't see who liked or disliked a comment, but y
 ![likes comment received](https://images.wondershare.com/filmora/article-images/2022/11/likes-comment-received.jpg)
 
 In this image, the following comments only got likes and no dislikes. That is why there are just written numbers on the like button and on the dislike button there are none.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Respond to Comments
 
@@ -325,20 +325,18 @@ Additionally, video creators can manually highlight commenters to mark them for 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-unlocking-whatsapps-full-arsenal-for-efficient-communication/"><u>[New] 2024 Approved Unlocking WhatsApp's Full Arsenal for Efficient Communication</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-exploring-screen-recording-with-the-latest-spring-update/"><u>[New] Exploring Screen Recording with the Latest Spring Update</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-hearing-from-you-simple-windows-10-recorder-guide/"><u>[New] Hearing From You Simple Windows 10 Recorder Guide</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-streamlining-minecraft-recordings-on-apple-devices-for-2024/"><u>[New] Streamlining Minecraft Recordings on Apple Devices for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-adding-images-to-instagram-made-simple/"><u>[Updated] 2024 Approved Adding Images to Instagram Made Simple</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-above-the-clouds-unveiled-best-online-portals-for-hd-skies/"><u>[Updated] Above the Clouds Unveiled Best Online Portals for HD Skies</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-how-many-videos-fit-in-64128gb-data-insight-for-2024/"><u>[Updated] How Many Videos Fit In 64/128GB? Data Insight for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-digital-purity-unveil-our-6-best-signature-background-removers/"><u>[Updated] In 2024, Digital Purity Unveil Our 6 Best Signature Background Removers</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-masterful-mac-livestream-tech-best-of-the-best-ranked-1-to-5/"><u>[Updated] In 2024, Masterful Mac Livestream Tech Best of the Best, Ranked 1 to 5</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1721909306646-discover-all-thats-fresh-with-apples-latest-ai-innovations-spotted-at-wwdc-2024/"><u>Discover All That's Fresh with Apple’s Latest AI Innovations - Spotted at WWDC 2024!</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/failed-to-play-mov-movies-on-motorola-edge-40-by-aiseesoft-video-converter-play-mov-on-android/"><u>Failed to play MOV movies on Motorola Edge 40</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-vivo-s17-pro-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Vivo S17 Pro?</u></a></li>
-<li><a href="https://article-helps.techidaily.com/masterpiece-on-your-iphone-ranking-of-best-free-image-assemblers-for-2024/"><u>Masterpiece on Your iPhone Ranking of Best FREE Image Assemblers for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/premiere-cinematic-glimpses-series/"><u>Premiere Cinematic Glimpses Series</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-proven-approaches-for-large-media-file-transfers-from-iphones-to-macs/"><u>[New] 2024 Approved Proven Approaches for Large Media File Transfers From iPhones to Macs</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-a-palette-perfected-the-finest-4k-panels-for-artists-for-2024/"><u>[New] A Palette Perfected The Finest 4K Panels for Artists for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-step-by-step-approach-to-crafting-3d-text-in-photoshop/"><u>[New] Step-by-Step Approach to Crafting 3D Text in Photoshop</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-transform-your-tiktok-content-with-expert-number-manipulation/"><u>[Updated] In 2024, Transform Your TikTok Content with Expert Number Manipulation</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/assessing-inshot-a-thorough-comparative-study-for-2024/"><u>Assessing InShot A Thorough Comparative Study for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/explore-deep-with-these-immersive-vr-clips-for-2024/"><u>Explore Deep with These Immersive VR Clips for 2024</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-11-pro-location-without-installing-software-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone 11 Pro Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-inside-look-best-practices-for-splitting-audiences-with-fb-live/"><u>In 2024, Inside Look Best Practices for Splitting Audiences with FB Live</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-streamline-your-conversations-with-twitter-video-uploads-on-whatsapp/"><u>In 2024, Streamline Your Conversations with Twitter Video Uploads on WhatsApp</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/itop-screen-recorder-review-should-you-install-it/"><u>ITop Screen Recorder Review Should You Install It?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/mending-a-singular-audio-unit-for-2024/"><u>Mending a Singular Audio Unit for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/step-by-step-podcast-rss-feeds-a-practical-approach/"><u>Step-by-Step Podcast RSS Feeds A Practical Approach</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/transform-your-instagram-vocal-identity-today-for-2024/"><u>Transform Your Instagram Vocal Identity Today for 2024</u></a></li>
 </ul></div>
 

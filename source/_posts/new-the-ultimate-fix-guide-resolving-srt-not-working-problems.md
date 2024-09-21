@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Ultimate Fix Guide  Resolving SRT Not Working Problems\""
-date: 2024-07-11T06:12:36.330Z
-updated: 2024-07-12T06:12:36.330Z
+date: 2024-09-18T23:58:58.871Z
+updated: 2024-09-20T20:46:48.989Z
 tags: 
   - screen-recording
   - ai video
@@ -150,6 +150,13 @@ Step1 Firstly, right-click on the SRT file from the Premiere pro software projec
 
 ![select export media](https://images.wondershare.com/filmora/article-images/2022/07/fix-for-exporting-srt-file-from-premiere-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 Once you click on “Export Media” you’ll notice different options. Ignore the video export options (or tick off 'video' if you like), then navigate down to the “Captions tab”.
 
 Step3 Click on “Create Sidecar File” under 'Export Options.
@@ -184,6 +191,13 @@ Step2 Up next, click File -> Export -> Captions. Once you complete that, you’l
 
 **Note:** for this to work, the video must be on one video layer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: Easiest & Actionable Fix: Edit and Export SRT Files Only with Wondershare Filmora
 
 If Adobe Premiere Pro is still giving you issues with exporting SRT file from its interface, the best and easiest solution is to edit the SRT file on a powerful software like [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Yes, this is because, unlike Premiere pro, Filmora allows seamless exportation of SRT to computer or third-party platforms.
@@ -200,13 +214,40 @@ Step1 First, download and install the Filmora software on your computer, then st
 
 ![download and install filmora software](https://images.wondershare.com/filmora/article-images/2022/07/fix-for-exporting-srt-file-from-premiere-4.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 Up next, upload the SRT file you want to edit to the Filmora interface using the “Import” button. Alternatively, you can Drag-n-drop the SRT file.
 
 ![click on import button](https://images.wondershare.com/filmora/article-images/2022/07/how-to-edit-and-export-srt-with-filmora-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 Move the uploaded SRT file to the Timeline by dragging and dropping it there, then right-click on it from the Timeline and choose “Advance Edit” from the pop-up list.
 
 ![choose advanced edit](https://images.wondershare.com/filmora/article-images/2022/07/how-to-edit-and-export-srt-with-filmora-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step4 Start editing your SRT file. You can edit the text, time code, speed, text color, etc.
 
@@ -244,6 +285,17 @@ That being said, if you want to save yourself from unwanted errors during the ex
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-elevate-video-quality-from-youtube-to-crisp-avis-format/"><u>[New] 2024 Approved Elevate Video Quality From YouTube to Crisp Avis Format</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-maximizing-your-marketing-mettle-on-youtube/"><u>[New] 2024 Approved Maximizing Your Marketing Mettle on Youtube</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-top-android-photo-tech-tips-and-apps-guide/"><u>[New] 2024 Approved Top Android Photo-Tech Tips & Apps Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-no-8-visual-artists-choice-for-photo-assembly/"><u>[New] In 2024, No. 8 Visual Artist's Choice for Photo Assembly</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-streamlining-your-instagram-archive-with-ease/"><u>[New] In 2024, Streamlining Your Instagram Archive with Ease</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-a-peek-into-vegaspros-future/"><u>[Updated] In 2024, A Peek Into VegasPro's Future</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-updated-hp-deskjet-ink-advantage-4620-printer-driver-for-microsoft-windows-11-computers/"><u>Get Updated HP Deskjet Ink Advantage 4620 Printer Driver for Microsoft Windows 11 Computers</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-expert-tips-for-ipad-users-easily-convert-photos-to-pdf/"><u>In 2024, Expert Tips for iPad Users Easily Convert Photos to PDF</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-user-permission-errors-enabling-access-requests-with-elevation-on-windows-os/"><u>Overcoming User Permission Errors: Enabling Access Requests with Elevation on Windows OS</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/uncomplicated-video-snip-for-win10-users-for-2024/"><u>Uncomplicated Video Snip for Win10 Users for 2024</u></a></li>
+</ul></div>
 

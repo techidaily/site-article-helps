@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step Guide to 3D Text Effects in PHOTOS\""
-date: 2024-07-11T06:19:05.368Z
-updated: 2024-07-12T06:19:05.368Z
+date: 2024-09-16T21:28:14.473Z
+updated: 2024-09-21T00:21:59.110Z
 tags: 
   - screen-recording
   - ai video
@@ -116,6 +116,13 @@ Step1 First, you should download Filmora and install the program on your compute
 
 ![open new project filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 Import a background video or image by going to **My Media** and selecting **Import Media.** From here, select any clip or image you want and hit **Open.** When it's imported, simply drag the clip to the Timeline below.
 
 ![import media files filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
@@ -124,11 +131,25 @@ Step3 Next, head over to **Titles** and search for "3D". Select any option you l
 
 ![title option filmora](https://images.wondershare.com/filmora/guide/types-of-titles-win-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step4 Lastly, double-click on the 3D Title clip in the Timeline and edit its settings. Type in your custom text, change its font, color, and other features.
 
 ![3d titles filmora](https://images.wondershare.com/filmora/guide/3d-title.png)
 
 That's it! Congratulations!. You've created a 3D text effect with Filmora in just four simple steps.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -156,6 +177,19 @@ Creating 3D text with Photoshop is a good idea if you already know how to use th
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-captivating-colors-in-photos-a-ps-masterclass-for-2024/"><u>[New] Captivating Colors in Photos A PS Masterclass for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-conquer-your-screen-space-integrating-video-within-video-for-2024/"><u>[New] Conquer Your Screen Space Integrating Video Within Video for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-perfect-path-from-srt-to-multiple-subtitle-standards/"><u>[New] The Perfect Path From SRT to Multiple Subtitle Standards</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/15-simple-steps-to-convert-youtube-to-mpeg-effortlessly-for-2024/"><u>15 Simple Steps to Convert YouTube to MPEG Effortlessly for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-the-foremost-non-udemy-virtual-learning-experiences-reviewed/"><u>2024 Approved The Foremost Non-Udemy Virtual Learning Experiences Reviewed</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-understanding-sns-hdr-pros-role-in-hdr-editing/"><u>2024 Approved Understanding SNS HDR Pro's Role in HDR Editing</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721470024042-7-common-culprsits-to-weak-mobile-internet-via-wi-fi-know-them-inside-out/"><u>7 Common Culprsits to Weak Mobile Internet Via Wi-Fi: Know Them Inside Out!</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-huawei-p60-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-amplify-engagement-essential-tips-for-tiktok-unbox-videos/"><u>In 2024, Amplify Engagement Essential Tips for TikTok Unbox Videos</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-oppo-a2-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Oppo A2 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-your-play-experience-correcting-frame-rate-issues-and-smooth-gameplay-in-call-of-duty-mw2-for-windows-platforms/"><u>Optimizing Your Play Experience: Correcting Frame Rate Issues and Smooth Gameplay in Call of Duty: MW2 for Windows Platforms</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-lag-issues-in-avatar-the-legend-of-quest-a-comprehensive-fix-guide/"><u>Resolving Lag Issues in 'Avatar: The Legend of Quest - A Comprehensive Fix Guide'</u></a></li>
+</ul></div>
 

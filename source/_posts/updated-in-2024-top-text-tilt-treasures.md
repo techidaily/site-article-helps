@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Top Text Tilt Treasures"
-date: 2024-09-10T16:37:30.288Z
-updated: 2024-09-15T16:42:32.159Z
+date: 2024-09-13T17:04:57.103Z
+updated: 2024-09-21T02:59:05.360Z
 tags: 
   - screen-recording
   - ai video
@@ -45,6 +45,13 @@ There is always a high demand for dynamic text animations in After Effects. This
 
 ![dynamic text animations ae](https://images.wondershare.com/filmora/article-images/2022/07/dynamic-text-animations-ae.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Squash & Stretch Preset
 
 If you want to add texts and titles in your video that looks like the games meant for kids, squash and stretch. Therefore, if your video content is based on comedy or you make videos for kids, this is the effect and animation you should apply on the text of your video. The animation looks cool and funny at the same time. The animations are designed by professionals and you get regular as well as advanced adjustments. There are also built-in sound effects available to make the animations for entertaining.
@@ -58,10 +65,10 @@ In this pack, you will find unique text effects, and you can animate text with k
 ![counterpro preset ae](https://images.wondershare.com/filmora/article-images/2022/07/counterpro-preset-ae.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Text Library
@@ -71,10 +78,10 @@ If there is a must-have preset you should manage to have in After Effects is Tex
 ![text library effect ae](https://images.wondershare.com/filmora/article-images/2022/07/text-library-effect-ae.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Kinetic Text Animation
@@ -83,19 +90,6 @@ Kinetic text effect is a part of dynamic text effects and there is a high demand
 
 ![kinetic text aniamtion ae](https://images.wondershare.com/filmora/article-images/2022/07/kinetic-text-aniamtion-ae.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Text Animation Lower Third
 
 You get eleven styles of elements in the pack, and you can customize the designs to get into any size as per your requirements. You get the elements in HD and Full HD resolution, and you can use them in the intro or outro of the video to show text and title credits. You can also use them to show quotes or keywords. Most of them have highlighted background, and technically, they are referred to as lower thirds.
@@ -103,10 +97,10 @@ You get eleven styles of elements in the pack, and you can customize the designs
 ![text animation lower thirds ae](https://images.wondershare.com/filmora/article-images/2022/07/text-animation-lower-thirds-ae.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Bottom Line
@@ -143,12 +137,17 @@ As the saying goes, the more the merrier and the more presets you have, the more
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-top-picks-for-sky-hdr-images-online-compilation/"><u>[New] 2024 Approved Top Picks for Sky HDR Images Online Compilation</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-integrating-zoom-into-your-inbox-experience/"><u>[New] In 2024, Integrating Zoom Into Your Inbox Experience</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-achieve-seamless-retrieval-of-twitters-humor-gifs-on-your-system-for-2024/"><u>[Updated] Achieve Seamless Retrieval of Twitter's Humor (GIFs) on Your System for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-break-it-down-free-techniques-to-go-frame-by-frame-on-youtube-for-2024/"><u>[Updated] Break It Down Free Techniques to Go Frame by Frame on YouTube for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-how-to-make-a-favorite-tiktok-sound-your-caller-id/"><u>In 2024, How to Make a Favorite TikTok Sound Your Caller ID</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-lighting-setup-tips-to-make-great-videos/"><u>In 2024, Lighting Setup Tips to Make Great Videos</u></a></li>
-<li><a href="https://win-forum.techidaily.com/social-media-titans-the-power-of-facebook-twitter-instagram-and-youtube-in-modern-communication/"><u>Social Media Titans: The Power of Facebook, Twitter, Instagram & YouTube in Modern Communication</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-sprout-ultimate-guide-to-capturing-your-desktop/"><u>[New] 2024 Approved Sprout Ultimate Guide to Capturing Your Desktop</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-ringtones-from-youtube-a-compilation-of-optimal-download-hubs/"><u>[New] Ringtones From YouTube A Compilation of Optimal Download Hubs</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-enhance-video-content-with-these-expertly-curated-online-subtitles-editors/"><u>[Updated] In 2024, Enhance Video Content with These Expertly Curated Online Subtitles Editors</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-idea-to-impact-advanced-editing-techniques-for-youtube-creators/"><u>[Updated] In 2024, From Idea to Impact Advanced Editing Techniques for YouTube Creators</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-tomtoms-advanced-adventure-cameras-review-2023-edition/"><u>[Updated] In 2024, TomTom’s Advanced Adventure Cameras Review - 2023 Edition</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/crafting-visual-wonders-in-lightrooms-hdr-workflow-for-2024/"><u>Crafting Visual Wonders in Lightroom's HDR Workflow for 2024</u></a></li>
+<li><a href="https://solve-news.techidaily.com/guide-burning-your-dvd-collection-and-accessing-it-via-nas-for-seamless-playback-on-windows-and-macos/"><u>Guide: Burning Your DVD Collection & Accessing It Via NAS for Seamless Playback on Windows and macOS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/illusion-of-movement-facial-motion-blur-with-picsart-for-2024/"><u>Illusion of Movement Facial Motion Blur with Picsart for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-15-best-action-cameras-from-beginners-to-pros/"><u>In 2024, 15 Best Action Cameras - From Beginners to Pros</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-xiaomi-13t-pro-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Xiaomi 13T Pro</u></a></li>
+<li><a href="https://article-helps.techidaily.com/seeing-more-than-ever-samsungs-galaxy-s8-and-4k-breakthrough-for-2024/"><u>Seeing More Than Ever Samsung's Galaxy S8 and 4K Breakthrough for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/sound-symphony-music-within-whatsapp-statuses/"><u>Sound Symphony Music Within WhatsApp Statuses</u></a></li>
 </ul></div>
 

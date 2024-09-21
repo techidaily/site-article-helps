@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Capturing Panoramic Views  Fisheye Techniques\""
-date: 2024-07-11T06:35:28.405Z
-updated: 2024-07-12T06:35:28.405Z
+date: 2024-09-18T19:14:32.707Z
+updated: 2024-09-20T21:42:54.357Z
 tags: 
   - screen-recording
   - ai video
@@ -62,6 +62,19 @@ thumbnail: https://thmb.techidaily.com/41e7c10c6afe154b3744b08a21830239b330cdc09
 
 [How to stitch GoPro clips into 360 videos >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What's fisheye lenses
 
  Fisheye lens refers to an ultra wide angle lens used to produce strong visual distortions with the aim of creating a wide hemispherical or panoramic image. Fisheye lenses are able to achieve very wide angles of view not through the production of straight lines of perspectives, but through a special mapping which makes the resulting images have the characteristic convex non-rectilinear appearance.
@@ -71,6 +84,13 @@ thumbnail: https://thmb.techidaily.com/41e7c10c6afe154b3744b08a21830239b330cdc09
  The fisheye lenses are used for a myriad of applications, especially in digital photography. They can also be used for re-projecting images captured by a fisheye lens or computer generated graphics onto hemispherical screens. Additionally, the lenses can be used in scientific photography such as studying canopy geometry, recording meteors and aurora, calculating near-ground solar radiation as well as in peepholes to offer a wide field of view to the users.
 
 ![create 360 photos with fisheye lens](https://images.wondershare.com/filmora/article-images/fisheye-lens-image.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Conclusion
 
@@ -101,6 +121,18 @@ Follow @Benjamin Arango
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-amplify-focus-on-the-little-things-with-videoleap-zoom-for-2024/"><u>[New] Amplify Focus on the Little Things with VideoLeap Zoom for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-comprehensive-insights-for-optimal-iphone-x-animoji-use-for-2024/"><u>[New] Comprehensive Insights for Optimal iPhone X Animoji Use for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-immersive-e-commerce-advancements/"><u>[New] In 2024, Immersive E-Commerce Advancements</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-significant-top-5-flexible-video-recorders-list/"><u>[New] In 2024, Significant Top 5 Flexible Video Recorders List</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-master-the-art-of-influence-with-trending-tiktok-hashes/"><u>[Updated] In 2024, Master the Art of Influence with Trending TikTok Hashes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unified-tint-harmonizer/"><u>2024 Approved Unified Tint Harmonizer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-fix-a-dvdbdcd-drive-that-wont-open-or-eject/"><u>How to Fix a DVD/BD/CD Drive That Won't Open or Eject</u></a></li>
+<li><a href="https://article-helps.techidaily.com/optimal-steadicams-matched-with-dslr-cameras-for-2024/"><u>Optimal Steadicams Matched with DSLR Cameras for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/silence-steam-on-boot-process/"><u>Silence Steam On Boot Process</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-fixing-non-responsive-microphone-issues-in-windows-11/"><u>Troubleshooting: Fixing Non-Responsive Microphone Issues in Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-the-giants-of-online-interaction-facebook-twitter-instagram-and-youtube/"><u>Understanding the Giants of Online Interaction: Facebook, Twitter, Instagram, and YouTube</u></a></li>
+</ul></div>
 

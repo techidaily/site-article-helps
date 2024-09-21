@@ -1,7 +1,7 @@
 ---
 title: "\"Seeing More Than Ever  Samsung's Galaxy S8 and 4K Breakthrough for 2024\""
-date: 2024-09-14T19:19:15.812Z
-updated: 2024-09-15T19:56:33.072Z
+date: 2024-09-19T02:25:21.184Z
+updated: 2024-09-20T16:09:27.446Z
 tags: 
   - screen-recording
   - ai video
@@ -139,14 +139,14 @@ The device comes with a touchwiz UI which is very similar to other Samsung appli
 
 ![samsung-s8-bixby](https://images.wondershare.com/filmora/article-images/samsung-s8-bixby.jpg)
 
-Bixby is one of the latest highlighted features which is somewhat similar to the brand voice for Samsung. Bixby is an assistant at similar to the Google Assistant, Siri and more. Currently Bixby really just delivers a number of different alerts and reminders. The one feature that is fairly interested is the Bixby vision which can examine items in a store and help you comparison shop as well as the ongoing reminders and calendar updates. The current version of Bixby is pretty light but Samsung hopes to eventually include actions like the ability for Bixby to handle uploading all of your photos to social media or even sending out texts and alerts. Currently however Bixby is a fairly light app that you won’t likely use often.
-
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Bixby is one of the latest highlighted features which is somewhat similar to the brand voice for Samsung. Bixby is an assistant at similar to the Google Assistant, Siri and more. Currently Bixby really just delivers a number of different alerts and reminders. The one feature that is fairly interested is the Bixby vision which can examine items in a store and help you comparison shop as well as the ongoing reminders and calendar updates. The current version of Bixby is pretty light but Samsung hopes to eventually include actions like the ability for Bixby to handle uploading all of your photos to social media or even sending out texts and alerts. Currently however Bixby is a fairly light app that you won’t likely use often.
 
 ### Conclusion
 
@@ -155,10 +155,10 @@ This is currently one of the best android smart phones available on the market. 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -186,16 +186,21 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-rush-and-reaction-sochis-speed-showdown/"><u>[New] 2024 Approved Rush & Reaction Sochi's Speed Showdown</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-editorprime-design/"><u>[New] EditorPrime Design</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-fast-fixes-to-skyrocket-your-podcast-live-for-2024/"><u>[New] Fast Fixes to Skyrocket Your Podcast Live for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-toggle-between-normal-and-pip-views-for-youtube-app-on-ios/"><u>[New] In 2024, Toggle Between Normal and PIP Views for Youtube App on iOS</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-videoharvester-fb-groups/"><u>[New] In 2024, VideoHarvester FB Groups</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-unlocking-youtube-secrets-sharing-videos-in-google-wallet/"><u>[New] Unlocking YouTube Secrets Sharing Videos in Google Wallet</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-final-cuts-ultimate-10-plug-in-essentials-list/"><u>[Updated] Final Cut's Ultimate 10 Plug-In Essentials List</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-the-ultimate-guide-to-scheduling-zoom-events-for-2024/"><u>[Updated] The Ultimate Guide to Scheduling Zoom Events for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/battle-of-titans-on-a-tech-platform-batocera-vs-retropie/"><u>Battle of Titans on a Tech Platform: Batocera Vs. RetroPie</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/best-composers-for-the-ultimate-video-photographic-symphony-for-2024/"><u>Best Composers for the Ultimate Video-Photographic Symphony for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-y100i-power-5g-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on Y100i Power 5G</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-high-fidelity-viewing-precision-4k-options-for-editing/"><u>[New] 2024 Approved High Fidelity Viewing Precision 4K Options for Editing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-craft-compelling-openers-for-your-podcast-episodes-examples-and-tips/"><u>[New] Craft Compelling Openers for Your Podcast Episodes Examples & Tips</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-cutting-edge-or-outdated-full-review-and-guide-to-vitas-editor-for-2024/"><u>[New] Cutting Edge or Outdated? Full Review & Guide to Vita's Editor for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-memes-for-iphone/"><u>[New] In 2024, Memes for iPhone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-pro-anglers-choice-the-top-5-cameras-for-fishing/"><u>[New] In 2024, Pro Angler's Choice The Top 5 Cameras For Fishing</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/inking-youtubes-harmony-to-imovie-clips-effortlessly-for-2024/"><u>[New] Linking Youtube's Harmony to iMovie Clips Effortlessly for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-top-vr-game-creators-to-watch/"><u>[New] Top VR Game Creators To Watch</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-unlocking-image-clarity-techniques-for-online-cropping/"><u>[New] Unlocking Image Clarity Techniques for Online Cropping</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-avoiding-pitfalls-understanding-youtube-standards-for-2024/"><u>[Updated] Avoiding Pitfalls Understanding YouTube Standards for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-rejuvenate-your-pictures-the-most-powerful-10-online-edits/"><u>2024 Approved Rejuvenate Your Pictures The Most Powerful 10 Online Edits</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-xiaomi-13t-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Xiaomi 13T Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-elevate-your-xbox-chats-with-powerful-zoom-tools/"><u>In 2024, Elevate Your Xbox Chats with Powerful Zoom Tools</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-se-2022-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>In 2024, iPhone SE (2022) Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/1719325122258-overcome-your-win11-chrome-freeze-effective-fix-strategies/"><u>Overcome Your Win11 Chrome Freeze: Effective Fix Strategies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-11-profesjonelle-video-editing-tools-2024-optimert-for-nyttark/"><u>Top 11 Profesjonelle Video Editing Tools 2024 - Optimert For Nyttark</u></a></li>
+<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-from-iphone-11-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes From iPhone 11?</u></a></li>
 </ul></div>
 

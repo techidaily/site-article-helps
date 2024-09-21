@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Case Study Approach  Learning From Successful Market Research Examples\""
-date: 2024-07-11T06:29:08.836Z
-updated: 2024-07-12T06:29:08.836Z
+date: 2024-09-19T02:38:16.296Z
+updated: 2024-09-20T17:54:17.754Z
 tags: 
   - screen-recording
   - ai video
@@ -218,6 +218,13 @@ Step3 Right-click your cursor on the editor timeline > Choose the Advanced Edit 
 
 ![choose the advanced edit option](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Alternatively, double-click on top of the chosen SRT file and clip it.
 
 Step4 Make customizations, like changing the text, editing the timecode, adjusting the font style, and merging/adding/deleting the text strips. Press OK after you are done.
@@ -227,6 +234,13 @@ Step4 Make customizations, like changing the text, editing the timecode, adjusti
 Step5 Choose the edited SRT file on the editor timeline. Right-click and choose the “Export Subtitle File” option.
 
 ![choose the export subtitle file option](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-15.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Final Words
 
@@ -292,6 +306,13 @@ Step5 Click the Format tab > Make Plain Text. Alternatively, press the Shift + C
 ![click the format tab](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-2.jpg)
 
 Step6 Open File > Save. Add the file name under "Save As" and insert '.srt' at the name's end in place of '.txt'.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: Open SRT files with VLC Media on Mac
 
@@ -365,6 +386,13 @@ Step1 Open HappyScribe through your preferred browser. Press the Upload a File o
 
 ![press the upload a file option](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 Tap the "Autogenerate subtitles" option, or you can browse for suitable SRT files.
 
 ![browse for suitable subtitles](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-7.jpg)
@@ -429,6 +457,13 @@ Step3 Right-click your cursor on the editor timeline > Choose the Advanced Edit 
 
 ![choose the advanced edit option](https://images.wondershare.com/filmora/article-images/2022/11/how-to-open-or-edit-srt-on-mac-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Alternatively, double-click on top of the chosen SRT file and clip it.
 
 Step4 Make customizations, like changing the text, editing the timecode, adjusting the font style, and merging/adding/deleting the text strips. Press OK after you are done.
@@ -473,6 +508,22 @@ URL for VLC on Mac steps/pics: <https://videoconverter.wondershare.com/subtitle/
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-mastering-insta-photo-and-video-reposts/"><u>[New] 2024 Approved Mastering Insta Photo & Video Reposts</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-sensual-sequence-capturing-culinary-creativity-on-camera/"><u>[New] In 2024, Sensual Sequence Capturing Culinary Creativity on Camera</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-photos-unbound-choosing-between-cost-free-and-premium-cloud-options-for-2024/"><u>[New] Photos Unbound Choosing Between Cost-Free and Premium Cloud Options for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-screenscapes-saved-high-quality-online-tv-recordings/"><u>[New] Screenscapes Saved High-Quality Online TV Recordings</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-essentials-of-crafting-crystal-clear-vhs-graphics-online/"><u>[New] The Essentials of Crafting Crystal-Clear VHS Graphics Online</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-enrich-your-images-best-10-screenshot-enhancing-apps-for-smartphones/"><u>[Updated] In 2024, Enrich Your Images Best 10 Screenshot-Enhancing Apps for Smartphones</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-how-to-leverage-slug-lines-in-articles/"><u>[Updated] In 2024, How to Leverage Slug Lines in Articles</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-tactical-steps-to-obtain-top-notch-pictorial-content/"><u>2024 Approved Tactical Steps to Obtain Top-Notch Pictorial Content</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-zero-tolerance-for-background-distractions-editing-tutorial-on-photopea/"><u>2024 Approved Zero Tolerance for Background Distractions Editing Tutorial on Photopea</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comment-transformer-des-fichiers-cr2-en-images-jpeg-sur-internet-et-ordinateur-guide-complet-pour-2024/"><u>Comment Transformer Des Fichiers CR2 en Images JPEG Sur Internet Et Ordinateur: Guide Complet Pour 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-on-apple-iphone-12-mini-with-or-without-password-drfone-by-drfone-ios/"><u>How To Change Your Apple ID on Apple iPhone 12 mini With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-best-hd-action-recorders-under-100/"><u>In 2024, Best HD Action Recorders Under $100</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-lava-yuva-3-pro-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Lava Yuva 3 Pro to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-ultimate-guide-for-iphone-screen-taping/"><u>In 2024, The Ultimate Guide for iPhone Screen Taping</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-realme-c51-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Realme C51 FRP Bypass</u></a></li>
+</ul></div>
 

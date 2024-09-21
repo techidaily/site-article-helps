@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Strategies to Reinforce Stability in Windows 10 Photo Viewer\""
-date: 2024-09-08T18:25:51.222Z
-updated: 2024-09-15T17:02:19.387Z
+date: 2024-09-19T22:19:22.979Z
+updated: 2024-09-20T18:06:48.531Z
 tags: 
   - screen-recording
   - ai video
@@ -84,19 +84,6 @@ Here is how can you reset it –
 2. Hit ‘Advanced Options’ and click ‘Reset’ button thereafter.
 3. Now, you got to restart your Windows system, so that Windows 10 Photos App crashing problem can be easily resolved.
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Solution 4: Repair Photos App package
 
 A corrupted Photos App package might wreak havoc in your photo viewing, as the app doesn’t buzz follow your commands. The least you can do here is repair the package to fix minor glitches within and get it going.
@@ -107,6 +94,13 @@ Let’s fix the issue by repairing the Photos App package installed on your comp
 2. Key in the command followed by ‘Enter’: Get-AppXPackage -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($\_.InstallLocation)\\AppXManifest.xml”}
 3. Allow few minutes to make the changes effective and then restart the Windows 10 computer.
 4. Now, the Windows 10 Photos App won’t crash.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 5: Reinstall Windows 10 Photos app
 
@@ -125,14 +119,14 @@ From the above article, we have concluded that experiencing Windows 10 Photos Ap
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -159,19 +153,21 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-digital-evolutions-meta-vs-omni-reality/"><u>[Updated] 2024 Approved Digital Evolutions Meta Vs. Omni Reality</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-the-art-of-movement-enhancing-your-photos-with-illustrators-motion-blur/"><u>[Updated] 2024 Approved The Art of Movement Enhancing Your Photos with Illustrator's Motion Blur</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-comprehensive-compendium-all-features-of-bublcams-360-degree-lens/"><u>[Updated] Comprehensive Compendium All Features of Bublcam's 360-Degree Lens</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-how-video-testimonials-shape-perception-and-trust/"><u>[Updated] How Video Testimonials Shape Perception and Trust</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-sharing-content-video-posts-on-instagram-guide/"><u>[Updated] Sharing Content Video Posts on Instagram Guide</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-video-battle-2022-gopro-hero5-black-vs-garmin-virb-streamers/"><u>[Updated] Video Battle 2022 GoPro Hero5 Black Vs. Garmin VIRB Streamers</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/become-an-instagram-reel-guru-with-these-proven-strategies/"><u>Become an Instagram Reel Guru with These Proven Strategies</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/creative-mc-survival-habitat-concepts-for-2024/"><u>Creative MC Survival Habitat Concepts for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-utilities-for-a-high-performing-windows/"><u>Essential Utilities for a High-Performing Windows</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-helldivers-ii-solutions-for-the-notorious-black-screen-issue-at-startup/"><u>Fixing Helldivers II: Solutions for the Notorious Black Screen Issue at Startup</u></a></li>
-<li><a href="https://article-helps.techidaily.com/how-to-make-moments-last-longer-using-phantoms-slow-mo-magic/"><u>How to Make Moments Last Longer Using Phantom's Slow Mo Magic</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/impeccable-photo-editing-using-the-virtual-background-effect-on-instagram/"><u>Impeccable Photo Editing Using the Virtual Background Effect on Instagram</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/protecting-patient-privacy-using-ai-like-chatgpt-responsibly-in-counseling/"><u>Protecting Patient Privacy: Using AI Like ChatGPT Responsibly in Counseling</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-infinix-hot-40-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Infinix Hot 40 Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-fine-tuning-color-balance-in-obs/"><u>[New] 2024 Approved Fine-Tuning Color Balance in OBS</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-pickus-claim-the-ultimate-editor-or-just-another-featured-app-in-android/"><u>[New] 2024 Approved PickU's Claim – The Ultimate Editor or Just Another Featured App in Android?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-quick-and-efficient-ipad-screen-recording-techniques-unveiled/"><u>[New] 2024 Approved Quick & Efficient iPad Screen Recording Techniques Unveiled</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-alluring-phrase-formulation-device/"><u>[New] In 2024, Alluring Phrase Formulation Device</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-the-secrets-to-steering-clear-of-vr-sickness/"><u>[New] In 2024, The Secrets to Steering Clear of VR Sickness</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-evolution-of-hand-tracking-systems-over-time-for-2024/"><u>[New] The Evolution of Hand Tracking Systems Over Time for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-enhance-your-watchlist-using-double-display-with-netflix-for-2024/"><u>[Updated] Enhance Your Watchlist Using Double Display with Netflix for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-experience-ultimate-quality-leading-4k-converters/"><u>[Updated] Experience Ultimate Quality Leading 4K Converters</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-navigating-cloud-prices-your-guide-to-cheapest-for-2024/"><u>[Updated] Navigating Cloud Prices - Your Guide to Cheapest for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-nikon-j5-unleashed-embracing-4k-camera-technology-for-2024/"><u>[Updated] Nikon J5 Unleashed Embracing 4K Camera Technology for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlocking-potential-advanced-tactics-for-spotify-ads/"><u>[Updated] Unlocking Potential Advanced Tactics for Spotify Ads</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-utilize-snapchats-star-trail-effectively/"><u>2024 Approved Utilize Snapchat's Star Trail Effectively</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723001418387-effective-fixes-to-launch-the-elder-scrolls-online-no-more-errors/"><u>Effective Fixes to Launch 'The Elder Scrolls Online': No More Errors!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-amd-radeon-r9-driver-crashes-in-win11-resolved/"><u>Fixing AMD Radeon R9 Driver Crashes in Win11 [Resolved]</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/fixitplayback-repair-tapes-at-zero-price/"><u>FixItPlayback: Repair Tapes at Zero Price</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-nvidia-connection-failures-in-10-and-11-editions/"><u>Streamlining Nvidia Connection Failures in 10 & 11 Editions</u></a></li>
 </ul></div>
 
