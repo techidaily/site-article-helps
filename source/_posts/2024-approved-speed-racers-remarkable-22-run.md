@@ -137,14 +137,5 @@ South Korean skater Hwang Dae-heon has won the gold medal in men’s short track
      data-full-width-responsive="true"></ins>
 
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://article-helps.techidaily.com/new-embrace-video-creation-integrating-windows-movie-maker-for-2024/"><u>[New] Embrace Video Creation Integrating Windows Movie Maker for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-discovering-the-top-5-engine-choices-for-your-drones/"><u>[New] In 2024, Discovering the Top 5 Engine Choices for Your Drones</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-the-complete-guide-to-help-you-convert-srt-to-xml-ssa-ttml-and-othe/"><u>[New] In 2024, The Complete Guide to Help You Convert SRT to XML, SSA, TTML, and Othe</u></a></li>
-<li><a href="https://facebook.techidaily.com/maximizing-engagement-with-content-translated-into-multiple-languages/"><u>Maximizing Engagement with Content Translated Into Multiple Languages</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/perfect-phone-videos-your-diy-youtube-journey/"><u>Perfect Phone Videos Your DIY YouTube Journey</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Oppo A59 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-developers-roadmap-installing-and-operating-codegpt-on-visual-studio-code/"><u>The Developer’s Roadmap: Installing and Operating CodeGPT on Visual Studio Code</u></a></li>
-</ul></div>
+
 
