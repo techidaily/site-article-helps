@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Enhancing Engagement  How to Use Background Footage\""
-date: 2024-09-16T21:32:06.325Z
-updated: 2024-09-20T19:40:49.916Z
+date: 2024-09-20T22:49:11.577Z
+updated: 2024-09-27T03:54:55.150Z
 tags: 
   - screen-recording
   - ai video
@@ -49,24 +49,38 @@ On the other hand, cutaways can show how different people react to what is being
 
 We'll examine the top 5 uses for B rolls across a variety of video genres and discuss how to implement them effectively in your own projects.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Archival b roll footage
 
 Aerial B roll is the solution when you like to show your viewers where your film is being recorded or when you are changing locations and want them to know it. The plane takes off and lands in another city, and then shots of the city, its landmarks, its famous streets, etc. are shown. You have probably seen this type of B roll footage in movies and TV shows. These images aid in putting the viewer in the character's current location. Check out this collection of setting images from the Neighbors television series.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Visual detail b roll footage
 
 Including archival material in your video allows your audience to experience a previously covered or historically significant story as it occurred. Look at this illustration from Netflix's 14 Peaks: Nothing Is Impossible, which was made utilizing old b roll film from the era to help the viewer connect with the narrative.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Storytelling b roll footage
 
 B roll footage can be used to tell a story that supports the narrative of your video. For example, in this video interview of Tom DeLonge, the speaker talks about living in a neighborhood. The B rolls show him driving around in his car, skateboarding on the street in the 90's. These add to the story the video creator wants to talk about not seeing people with a disability differently.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Undirected b roll footage
 
@@ -77,13 +91,6 @@ This particular kind of B roll film is captured without any direction being give
 When you are sharing a narrative that has been told in the past or that has historical significance, incorporating archival material into your video gives your audience the opportunity to see the story as it occurred at the time. This is especially useful when you are discussing a narrative that has been experienced in the past or that has futuristic relevance.
 
 Have a look at the scenes from the episode "14 Peaks: Nothing Is Impossible" that can be found on Netflix. As a result of the use of archive film footage of b roll from the relevant time period in its production, the audience is able to connect with the narrative on a deeper level.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 6\. Pick-up shots
 
@@ -96,10 +103,10 @@ If flaws were discovered during primary photography, the directors could have re
 Imagine the A roll as part of the video's story. This could be a documentary film, news show, or scripted sketch. Everything else on your editing table must be rearranged to fit it. When the speaker in the following video is directly talking to the camera or interviewer, this is A roll footage. The video's most crucial segments were filmed with primary footage.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -134,5 +141,26 @@ We sincerely hope that this post will be of use to you in making your films more
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-stream-capture-software-unraveler/"><u>[Updated] 2024 Approved Stream Capture Software Unraveler</u></a></li>
+<li><a href="https://article-helps.techidaily.com/1717974402124-updated-photography-tutorial-how-to-shoot-and-create-impressive-hdr-portraits/"><u>[Updated] Photography Tutorial_ How to Shoot and Create Impressive HDR Portraits</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-swift-solutions-moving-iphone-pictures-and-videos-for-2024/"><u>[Updated] Swift Solutions Moving iPhone Pictures & Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-trick-for-effortless-video-playback-from-youtube-to-facebook-groups-for-2024/"><u>[Updated] Trick for Effortless Video Playback From Youtube to Facebook Groups for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-audiovisual-expertise-selecting-top-video-minds/"><u>2024 Approved Audiovisual Expertise Selecting Top Video Minds</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-capture-and-save-the-essentials-of-pc-display-recordings/"><u>2024 Approved Capture & Save The Essentials of PC Display Recordings</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-easily-preserve-linkedin-videos-unveiling-this-years-top-6-apps/"><u>2024 Approved Easily Preserve LinkedIn Videos - Unveiling This Year's Top 6 Apps</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-expert-picks-optimal-vr-for-drone-pilots/"><u>2024 Approved Expert Picks Optimal VR for Drone Pilots</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-infinite-storage-pathways-select-services-showcase/"><u>2024 Approved Infinite Storage Pathways Select Services Showcase</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-startup-zoom-navigating-participant-groups/"><u>2024 Approved Startup Zoom Navigating Participant Groups</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-the-science-behind-sharing-memes-unveiled/"><u>2024 Approved The Science Behind Sharing Memes Unveiled</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-the-ultimate-handbook-to-metaverse-promotion/"><u>2024 Approved The Ultimate Handbook to Metaverse Promotion</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-the-ultimate-method-for-making-tiktok-audio-your-ringtone/"><u>2024 Approved The Ultimate Method for Making TikTok Audio Your Ringtone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/3-ways-of-how-to-get-someones-apple-id-off-apple-iphone-15-pro-max-without-password-by-drfone-ios/"><u>3 Ways of How to Get Someones Apple ID Off Apple iPhone 15 Pro Max without Password</u></a></li>
+<li><a href="https://article-helps.techidaily.com/30-must-try-mp4-gadgets-unveiled/"><u>30 Must-Try MP4 Gadgets Unveiled</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/boosting-performance-allocating-additional-ram-to-minecraft-for-2024/"><u>Boosting Performance Allocating Additional RAM to Minecraft for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-issues-how-to-stop-back-4-blood-from-crashing-on-your-pc/"><u>Fixing Issues: How to Stop 'Back 4 Blood' From Crashing on Your PC</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-oppo-reno-8t-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Oppo Reno 8T Pattern Lock Screen</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Itel A60s? | Dr.fone</u></a></li>
+</ul></div>
 

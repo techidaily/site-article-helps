@@ -1,7 +1,7 @@
 ---
 title: "Sculptors of Immersive Digital Universes"
-date: 2024-09-19T20:18:22.181Z
-updated: 2024-09-20T23:10:53.099Z
+date: 2024-09-23T17:31:57.245Z
+updated: 2024-09-27T02:06:20.192Z
 tags: 
   - screen-recording
   - ai video
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/05c8c6fd73c6fec22a2f538188954b893a706bcf3
 ![nextvr](https://images.wondershare.com/filmora/resource/nextvr.jpg
   )
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2.Linden lab company:-
 
  Linen lab, an American internet company, developed the biggest ever 3D environment by the name “Second life” in 2013\. Now it is working on its new project “Sansar” to be released in 2017\. With the help of this new platform, people can easily share their VR experiences. This will also support newly built VR headsets i.e. Head-mounted displays so that the players can explore the realistic environment.
@@ -51,6 +58,13 @@ thumbnail: https://thmb.techidaily.com/05c8c6fd73c6fec22a2f538188954b893a706bcf3
 ![linden-lab]( https://images.wondershare.com/filmora/resource/linden-lab.jpg
  )
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3.JauntVR company:-
 
  Jaunt VR company, based on silicon valley is the most famous VR content developer company with the initial investment of $65 million in series C funding. It has developed a new platform by introducing a new camera having an excellent 360 degree view and a distribution system. It is also becoming a choice of advertisers, filmmakers etc.
@@ -60,13 +74,6 @@ thumbnail: https://thmb.techidaily.com/05c8c6fd73c6fec22a2f538188954b893a706bcf3
 
 ![jauntvr](https://images.wondershare.com/filmora/resource/jauntvr.jpg
   )
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4.Wevr Company:-
 
@@ -108,6 +115,13 @@ thumbnail: https://thmb.techidaily.com/05c8c6fd73c6fec22a2f538188954b893a706bcf3
 ![crowd-control-productions](https://images.wondershare.com/filmora/resource/crowd-control-productions.jpg
   )
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8.Improbable company:-
 
  This company, having headquarters at Wellington is famous for developing simulation world that can be operated in real time mode. SpatialOS is the first operating system made by this company which is able to generate many simulations at remarkable scale. Many players can enjoy the game in VR mode at the same time. This company makes complicated simulations for defense, infrastructure, economics etc. The head quarters of this company is located at London, England.
@@ -119,10 +133,10 @@ thumbnail: https://thmb.techidaily.com/05c8c6fd73c6fec22a2f538188954b893a706bcf3
   )
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9.8i:-
@@ -133,13 +147,6 @@ thumbnail: https://thmb.techidaily.com/05c8c6fd73c6fec22a2f538188954b893a706bcf3
 * **Money raised:**  \- $13.5M in series A funding
 
 ![8i](https://images.wondershare.com/filmora/resource/8i.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
@@ -166,5 +173,26 @@ Follow @Benjamin Arango
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-engage-and-inspire-viewers-animated-subscribers-in-filmora-explained/"><u>[New] 2024 Approved Engage and Inspire Viewers - Animated Subscribers in Filmora Explained</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-quick-capture-audiovisual-screen-shot/"><u>[New] 2024 Approved Quick Capture Audiovisual Screen Shot</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-explore-the-top-6-microphone-options-for-clear-crisp-streams-for-2024/"><u>[New] Explore The Top 6 Microphone Options for Clear, Crisp Streams for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-engage-viewers-anytime-from-phone-stream-youtube-with-less-than-a-thousand/"><u>[New] In 2024, Engage Viewers Anytime, From Phone Stream Youtube with Less Than a Thousand</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-iphone-photography-guide-turn-photos-on-their-heels/"><u>[New] IPhone Photography Guide Turn Photos on Their Heels</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-transform-meetings-with-easy-to-follow-zoom-sharing-tips/"><u>[New] Transform Meetings with Easy-to-Follow Zoom Sharing Tips</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-best-20-free-public-license-pubg-gallery-mixes/"><u>[Updated] In 2024, Best 20 Free Public License PUBG Gallery Mixes</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-tech-assisted-jogs-top-virtual-reality-walking-machines-explored/"><u>[Updated] In 2024, Tech-Assisted Jogs Top Virtual Reality Walking Machines Explored</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-save-your-gameplay-moments-with-xbox-screen-recordings-for-2024/"><u>[Updated] Save Your Gameplay Moments with Xbox Screen Recordings for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-unleashing-potential-11-steps-to-enhance-facebook-traffic-through-video/"><u>[Updated] Unleashing Potential 11 Steps to Enhance Facebook Traffic Through Video</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-discover-the-ease-of-sound-liberation-with-pazeras-tools/"><u>2024 Approved Discover the Ease of Sound Liberation with Pazera's Tools</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-smart-picks-top-free-online-recorder-software/"><u>2024 Approved Smart Picks Top Free Online Recorder Software</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-glide-3-duel-illusionist-4-debuts/"><u>In 2024, Glide 3 Duel Illusionist 4 Debuts</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-apple-iphone-12-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your Apple iPhone 12</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-youtube-shorts-guide-what-is-it-and-how-to-make-shorts-video/"><u>In 2024, YouTube Shorts Guide What Is It and How To Make Shorts Video?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-essential-guide-to-blurring-images-with-your-iphone-for-2024/"><u>The Essential Guide to Blurring Images with Your iPhone for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-distinction-between-strong-artificial-intelligence-and-weak-ai/"><u>Unveiling the Distinction Between Strong Artificial Intelligence and Weak AI</u></a></li>
+<li><a href="https://article-helps.techidaily.com/windowsmac-free-software-for-effortless-dvd-viewing-for-2024/"><u>Windows/Mac Free Software for Effortless DVD Viewing for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1725290339670-iphone/"><u>スマホ・iPhoneからアクセス! ジャニーズ曲の聴ける究極ガイド</u></a></li>
+</ul></div>
 

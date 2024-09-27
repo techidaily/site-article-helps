@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Lightning-Fast Photo Tweaks in Windows 11\""
-date: 2024-09-13T23:36:57.850Z
-updated: 2024-09-20T20:24:04.067Z
+date: 2024-09-19T21:56:21.977Z
+updated: 2024-09-27T03:52:07.394Z
 tags: 
   - screen-recording
   - ai video
@@ -55,6 +55,13 @@ When you can add a personal touch to your videos and photos, it becomes all the 
 
 When you draw on the image or video, the ink can be attached to a particular object or person within the video. As you move the camera angle or the object, the ink stays or moves along. You just need to select the anchor icon and link it to the object in the video.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Draw on Photos Online
 
 Are you looking forward to drawing on Photos online? [LunaPic](https://www140.lunapic.com/editor/?action=draw) is one such tool that lets you draw on your photos easily online. It is more of a paint tool that lets you edit, adjust, draw borders, add filters, effects, art, animation, and more. It has more than 200 effects option to choose from. To draw on photos online with LunaPic, follow the below-mentioned steps-
@@ -65,6 +72,13 @@ Are you looking forward to drawing on Photos online? [LunaPic](https://www140.lu
 * You get 7 options for tool selection – filled polygon, filled ellipse, ellipse, filled rectangle, rectangle, straight line, and free hand pencil. Select the free hand pencil option
 
 ![draw on photos in windows 10](https://images.wondershare.com/filmora/article-images/lunapic-drawing.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Select the color from the range of palette available
 * Select the pen size using the given number scroll option
@@ -80,7 +94,21 @@ The Photos app has an interface that is restructured with dark theme options and
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -105,12 +133,23 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-dive-deep-into-the-world-of-music-videos-best-apps-for-android-for-2024/"><u>[New] Dive Deep Into the World of Music Videos Best Apps for Android for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-10-recommended-free-online-photo-editor/"><u>[Updated] In 2024, 10 Recommended Free Online Photo Editor</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-techniques-for-reversing-chronological-order/"><u>[Updated] Techniques for Reversing Chronological Order</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-unleashing-the-power-of-preparedness-in-your-streams/"><u>[Updated] Unleashing the Power of Preparedness in Your Streams</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlock-professional-techniques-for-coloring-gopro-videos/"><u>[Updated] Unlock Professional Techniques for Coloring GoPro Videos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-exploring-advanced-gameplay-with-kinemaster-on-android/"><u>2024 Approved Exploring Advanced Gameplay with KineMaster on Android</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-top-8-linux-friendly-video-cutters/"><u>2024 Approved Top 8 Linux-Friendly Video Cutters</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-nokia-c110-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Nokia C110</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-oculus-quest-2-accessory-guide-featuring-the-elite-strap-with-built-in-battery-and-durable-carry-case/"><u>Comprehensive Oculus Quest 2 Accessory Guide: Featuring the Elite Strap with Built-In Battery & Durable Carry Case</u></a></li>
+<li><a href="https://article-helps.techidaily.com/concoct-chuckles-giphy-edition-for-2024/"><u>Concoct Chuckles - Giphy Edition for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-step-by-step-for-beginner-3d-lut-masters/"><u>In 2024, Step-by-Step for Beginner 3D LUT Masters</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolve-elgato-hd60-control-board-problems-fast-a-simple-guide/"><u>Resolve Elgato HD60 Control Board Problems Fast: A Simple Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/revolutionize-your-storytelling-controlling-instagrams-video-speed-for-2024/"><u>Revolutionize Your Storytelling Controlling Instagram's Video Speed for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-the-fugetek-ft-568-selfie-extender-unveiling-its-robust-design-and-functionalities/"><u>The Ultimate Guide to the Fugetek FT-568 Selfie Extender - Unveiling Its Robust Design and Functionalities</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/toms-hardware-decoded-in-depth-analysis-of-modern-computing-and-electronics/"><u>Tom's Hardware Decoded: In-Depth Analysis of Modern Computing and Electronics</u></a></li>
+</ul></div>
 

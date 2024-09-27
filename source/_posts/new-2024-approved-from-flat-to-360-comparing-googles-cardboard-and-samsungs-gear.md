@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  From Flat to 360  Comparing Google's Cardboard & Samsung's Gear\""
-date: 2024-09-13T16:50:05.981Z
-updated: 2024-09-21T02:14:40.523Z
+date: 2024-09-22T22:07:43.251Z
+updated: 2024-09-27T03:11:03.171Z
 tags: 
   - screen-recording
   - ai video
@@ -37,11 +37,25 @@ thumbnail: https://thmb.techidaily.com/37d4ae187da74466ba527c2a86e17302882825cfe
 
  The Samsung Gear VR is the product that comes when you combine the expertise of the best Virtual Reality Company and the best smart phone brand in the world. Samsung Gear VR is a combined collaboration between Samsung and Oculus. This Virtual reality headset is made for only Samsung phones and retails around 100$ which is almost 5 times more than the Google cardboard. Gear VR is packed with functionality it has a very firm phone stand inside of which you can easily put any phone. It connects to your phone through the charging port and as soon as you connect the phone it starts the VR software in it. You can also control the volume and the zoom through this headset. You can also play many games on it through the Oculus app which is present on the app store for Gear VR only.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Samsung Gear VR
 
  Samsung just partnered with Oculus to bring you the Samsung Gear VR headset in 2014 and now the new Samsung Gear VR introduced with the Galaxy S7 is jam packed with new features that are ready to blow your mind. The new Gear is 19 percent lighter than the previous model so it doesn’t feel like a brick tied to your head. The straps are more elastic and give a better fit than the previous model, the padding around the eyes and nose gives a very comfortable grip. The new VR has a USB type c port you can also switch it micro USB to make it compatible with the older versions of Samsung phones.
 
  The best part about the new Samsung Gear is the new lens that is clearer and gives a glare free view of the screen. Along with the new lens there are some more features in the Samsung Gear VR, You can plug in headphones in your phone and enjoy the whole VR experience with sound Samsung ahs specially made ports in the headset for it. Samsung has also introduced some buttons to change the volume of the device from the Gear itself. The previous versions had a problem that the lenses tend to mist up thus making you unable to see clearly but in this version the issue has been resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Google Cardboard
 
@@ -50,6 +64,13 @@ thumbnail: https://thmb.techidaily.com/37d4ae187da74466ba527c2a86e17302882825cfe
  Google cardboard does not have any volume control options no flaps straps to attach the device directly on your head, the build quality is as poor as it can get. There are many downsides to the Google cardboard but if you look at its price you realize it is a pretty good deal for 20$ you are getting a VR headset who would’ve thought this was possible?
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -74,12 +95,19 @@ Follow @Benjamin Arango
      data-full-width-responsive="true"></ins>
 
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-mastering-tweeted-videos-on-facebooks-networks/"><u>[New] In 2024, Mastering Tweeted Videos on Facebooks Networks</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-japejungle-design-original-content-instantly-for-2024/"><u>[New] JapeJungle Design Original Content Instantly for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-art-of-zooming-in-a-videoleap-approach/"><u>[New] The Art of Zooming In A Videoleap Approach</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-how-to-block-spotifys-predicted-podcast-selections-for-2024/"><u>[Updated] How to Block Spotify's Predicted Podcast Selections for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-from-battery-life-to-final-cut-a-drone-editors-journey/"><u>[Updated] In 2024, From Battery Life to Final Cut A Drone Editor's Journey</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-sound-of-success-audio-tips-to-elevate-your-youtube-experience/"><u>[Updated] The Sound of Success Audio Tips to Elevate Your YouTube Experience</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-top-anime-elements-that-make-for-tiktok-success/"><u>[Updated] Top Anime Elements That Make For TikTok Success</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/compelling-choices-macs-excellent-snipping-tools-for-2024/"><u>Compelling Choices Mac's Excellent Snipping Tools for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/gratuit-online-converteren-van-dts-naar-flac-movavi/"><u>Gratuit Online-Converteren Van DTS Naar FLAC - Movavi</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-depth-guide-to-optimizing-photos-using-polarr/"><u>In-Depth Guide to Optimizing Photos Using Polarr</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/top-10-hilarious-tiktok-skits-unveiled-for-2024/"><u>Top 10 Hilarious TikTok Skits Unveiled for 2024</u></a></li>
+</ul></div>
 
