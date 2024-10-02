@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Pigments & Palettes  The Artist's Guidebook\""
-date: 2024-09-25T18:36:35.661Z
-updated: 2024-09-26T17:54:39.952Z
+date: 2024-09-30T08:42:02.235Z
+updated: 2024-10-01T23:56:33.006Z
 tags: 
   - screen-recording
   - ai video
@@ -33,18 +33,18 @@ Color theory consists of many elements that could fill a library on its own but 
 
 There are many color wheels out there and all require understanding and research into that particular color arrangement but for this guide I will be focusing on the more widely used RGB which derives from the primary colors red green and blue, If you're thinking why red green and blue not red yellow and blue then you are observant, while RYB is taught as the three primary colors we will be using what is known as additive primary colors of light meaning the more you add of these colors the closer to white you get, the reason we will be using this combination is due to the fact RYB misses a lot of hues around the violet area and the blue-greens meaning we achieve a higher range of color to pick from. With this in mind let's start.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The Color Wheel
 
 Using red, green and blue as primary colors we can mix the colors to one another to get our secondary colors giving us yellow, magenta and cyan. We can mix these to one another to create our tertiary colors which are raspberry, orange, sprig green, turquoise, ocean and violet giving us something which looks like this
 
 ![colcor wheel](https://images.wondershare.com/filmora/article-images/2024/color-wheel.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 As you can see, we have every color available in this wheel and they are arranged in a unison with the mixed colors starting with red, green and blue and working towards each other.
 
@@ -55,10 +55,10 @@ So now we know how the wheel is made and what it looks like. What does it do? We
 ![color harmony](https://images.wondershare.com/filmora/article-images/2022/08/color-harmony.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 One such harmony is complementary colors and luckily for us this is very easy to find. You take your base color and find the opposite color on the wheel. In this example the complementary color to blue is yellow depicted with a red line.
@@ -70,10 +70,10 @@ The blue lines represent what is known as split contrasting colors and these wil
 The corners of the black rectangle land on what is known as tetradic complement and allows you to add four colors with the understanding that they will complement each other perfectly. Lastly is the purple line which represents the analogous complementary colors, you can pick these neighboring colors with the peace of mind that they will harmonize with each other. There are many more but these four are the main ones that you will use more often than any other, by selecting colors using these four main types you can create a palette for your scenes and allow the viewer to effortlessly enjoy your content. These types work no matter where you start from on the wheel so long as you keep the distances the same.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## But How Do I Use This
@@ -88,14 +88,14 @@ As you can see from this example the base color for the scene is a dark blue/pur
 
 ![movie cover with color theory](https://images.wondershare.com/filmora/article-images/2022/08/movie-cover-with-color-theory.jpg)
 
-As you can see from all the movie covers above, they all use complementary colors from the blues to the war yellows and oranges, this creates high contrast and balance and is something done within the movie industry in every scene. It's no coincidence that the joker is purple and green or that the iron man is red and gold, this is well prepared and researched in the planning stages of everything a visual artist creates.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+As you can see from all the movie covers above, they all use complementary colors from the blues to the war yellows and oranges, this creates high contrast and balance and is something done within the movie industry in every scene. It's no coincidence that the joker is purple and green or that the iron man is red and gold, this is well prepared and researched in the planning stages of everything a visual artist creates.
 
 ### Conclusion
 
@@ -131,15 +131,22 @@ By including this into your thought process when creating videos with [Filmora](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-listening-preferences-deciding-between-podcasts-and-youtube/"><u>[New] 2024 Approved Listening Preferences Deciding Between Podcasts & YouTube</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-cross-service-harmonization-a-playlist-perspective/"><u>[New] In 2024, Cross-Service Harmonization A Playlist Perspective</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-techniques-for-incremental-volume-reduction-in-pro-video-editing/"><u>[New] Techniques for Incremental Volume Reduction in Pro Video Editing</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-best-fbx-game-recorder-alternatives/"><u>[Updated] 2024 Approved Best FBX Game Recorder Alternatives</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-unboxing-opportunities-the-marketing-planning-journey/"><u>[Updated] Unboxing Opportunities The Marketing Planning Journey</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/6-from-just-599/"><u>6 - From Just $599</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015473748-dealing-with-cut-out-audio-in-windows-10-heres-the-solution/"><u>Dealing with Cut-Out Audio in Windows 10? Here's The Solution!</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-the-impact-of-keyboard-refresh-rate/"><u>Exploring the Impact of Keyboard Refresh Rate</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/following-fades-track-losses-on-insta-for-2024/"><u>Following Fades Track Losses on Insta for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/unlock-your-old-game-library-with-these-premier-pc-gba-emulators-for-2024/"><u>Unlock Your Old Game Library with These Premier PC GBA Emulators for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/iverse-vlogging-content-suggestions/"><u>[New] Diverse Vlogging Content Suggestions</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-from-fragmented-to-flawless-mastering-kinemaster-edits/"><u>[New] From Fragmented to Flawless Mastering Kinemaster Edits</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-superior-6-apps-to-subtitle-videos-internationally/"><u>[New] In 2024, Superior 6 Apps to Subtitle Videos Internationally</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-the-chiefs-guide-to-superior-cloud-vaults/"><u>[New] In 2024, The Chief's Guide to Superior Cloud Vaults</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-sky-high-drone-competition-guide-plus-5-innovative-fpv-systems/"><u>[New] Sky High Drone Competition Guide + 5 Innovative FPV Systems</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-excellent-websites-for-3d-metallic-type-imagery/"><u>[Updated] 2024 Approved Excellent Websites for 3D Metallic Type Imagery</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-the-writers-toolkit-dialogue-and-narration-techniques-for-success/"><u>[Updated] 2024 Approved The Writer's Toolkit Dialogue and Narration Techniques for Success</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-mastering-the-nuances-of-softening-sounds-via-lumafusion/"><u>[Updated] Mastering the Nuances of Softening Sounds via Lumafusion</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-ideal-history-streams-the-10-premier-channels-for-students-study/"><u>2024 Approved Ideal History Streams The 10 Premier Channels for Students' Study</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-zoom-meetings-with-ease-integrating-skype-functions/"><u>2024 Approved Mastering Zoom Meetings with Ease Integrating Skype Functions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/free-ultimate-guide-to-the-11-most-effective-mp4-editors-for-pcs-and-macbooks/"><u>Free Ultimate Guide to the 11 Most Effective MP4 Editors for PCs and MacBooks</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-from-iphone-14-pro-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID From iPhone 14 Pro without Password?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-androids-power-for-pause-how-to-create-amazing-time-lagged-footage/"><u>In 2024, Android's Power for Pause How to Create Amazing Time-Lagged Footage</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-beyond-boundaries-vrs-educational-potential/"><u>In 2024, Beyond Boundaries VR's Educational Potential</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-productivity-boosters-while-binge-listening-to-podcasts/"><u>In 2024, Productivity Boosters While Binge-Listening to Podcasts</u></a></li>
+<li><a href="https://article-helps.techidaily.com/irresistible-article-announcer-for-2024/"><u>Irresistible Article Announcer for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/update-or-modify-your-proton-vpn-browser-addon-with-ease/"><u>Update or Modify Your Proton VPN Browser Addon with Ease</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Strategies to Reinforce Stability in Windows 10 Photo Viewer"
-date: 2024-09-23T03:27:09.585Z
-updated: 2024-09-27T06:40:17.850Z
+date: 2024-09-30T22:21:51.268Z
+updated: 2024-10-01T19:10:14.956Z
 tags: 
   - screen-recording
   - ai video
@@ -47,6 +47,13 @@ In this article, we have compiled the best solutions for you to get rid of Windo
 
 ## How to fix Windows 10 Photos app crashes
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 1: Use the Troubleshooter
 
 The Windows Troubleshooter is an inbuilt troubleshooting feature embedded with Windows 10 computers. It allows a simple interface to help you choose any application for troubleshooting. Windows Troubleshooter resolves basic issues with the Windows computer so that users can seamlessly use all Windows 10 system features and functionalities.
@@ -58,8 +65,28 @@ Here is how to troubleshoot –
 
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/Troubleshooter.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. From the list of Apps displayed on the screen, click ‘Windows Store Apps’ and press the ‘Next’ button.
 2. Now, the troubleshooter will troubleshoot every app within the Windows Store Applications and fix them in a jiffy.
+
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 2: Restore Default Libraries
 
@@ -74,13 +101,6 @@ Restoring the default libraries would resolve the Windows 10 Photos App crash is
 
 1. Lastly, click on ‘Apply’ followed by ‘OK’ and the issue will be resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Solution 3: Reset it
 
 When you reset the Windows Photo App itself, your issue gets resolved. Plenty of Windows users have mentioned that resetting the Photo App has fixed the unresponsive or crashing app problems.
@@ -92,10 +112,10 @@ Here is how can you reset it –
 3. Now, you got to restart your Windows system, so that Windows 10 Photos App crashing problem can be easily resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Solution 4: Repair Photos App package
@@ -126,21 +146,7 @@ From the above article, we have concluded that experiencing Windows 10 Photos Ap
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -167,18 +173,24 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-simplify-your-schedule-using-free-clocks-wisely/"><u>[New] In 2024, Simplify Your Schedule Using FREE Clocks Wisely</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-revenue-revolution-joining-elite-at-500-subs-level/"><u>2024 Approved Revenue Revolution Joining Elite at 500 Subs Level</u></a></li>
-<li><a href="https://article-helps.techidaily.com/deep-dive-into-the-best-ways-to-speed-up-facebook-videos/"><u>Deep Dive Into The Best Ways to Speed Up Facebook Videos</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-update-ch340g-usb-to-serial-adapter-drivers-for-windows-11/"><u>Download & Update CH340G USB-to-Serial Adapter Drivers for Windows 11</u></a></li>
-<li><a href="https://article-helps.techidaily.com/eco-friendly-visuals-for-film-enthusiasts/"><u>Eco-Friendly Visuals for Film Enthusiasts</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/essential-links-for-obtaining-high-quality-ding-sound-samples/"><u>Essential Links for Obtaining High-Quality Ding Sound Samples</u></a></li>
-<li><a href="https://article-helps.techidaily.com/essential-techniques-to-avert-windows-11-photos-crashes/"><u>Essential Techniques to Avert Windows 11 Photos Crashes</u></a></li>
-<li><a href="https://article-helps.techidaily.com/exploring-the-boundaries-of-true-black-on-asuss-professional-screen-for-2024/"><u>Exploring the Boundaries of True Black on ASUS's Professional Screen for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Tecno Phantom V Fold | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-c55withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme C55with/without a PC</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-lenovo-ideapad-130s-power-constraints-and-usability-surprises/"><u>Unveiling the Lenovo IdeaPad 130S: Power Constraints and Usability Surprises</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-and-macmovgif/"><u>Windows & MacのMOVファイルからGIFへ完全変換ガイド - オススメツールとコツ</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-innovating-education-with-virtual-immersion/"><u>[New] 2024 Approved Innovating Education with Virtual Immersion</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-exploring-premium-gif-software-for-iphone-users-for-2024/"><u>[New] Exploring Premium GIF Software for iPhone Users for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-how-augmentation-changes-our-reality-view/"><u>[New] How Augmentation Changes Our Reality View</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-voice-changers-for-vtubers-two-best-app-recommended/"><u>[Updated] 2024 Approved Voice Changers for Vtubers Two Best App Recommended</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-clearing-tactics-for-youtubes-stored-video-queue/"><u>[Updated] Clearing Tactics for YouTube's Stored Video Queue</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-essential-zoom-techniques-for-chromebook-proficiency/"><u>[Updated] In 2024, Essential Zoom Techniques for Chromebook Proficiency</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-ultimate-guide-to-clearing-digital-photo-borders/"><u>[Updated] The Ultimate Guide to Clearing Digital Photo Borders</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-affiliate-marketing-how-to-make-money-with-it/"><u>[Updated] YouTube Affiliate Marketing How to Make Money with It</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-next-level-cinema-selection-youtube-edition/"><u>2024 Approved Next-Level Cinema Selection - YouTube Edition</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-pc-videography-leveraging-windows-hdr/"><u>2024 Approved PC Videography Leveraging Windows HDR</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-unlocking-the-power-of-thumbnails-creating-visual-appeal-for-youtube-content/"><u>2024 Approved Unlocking the Power of Thumbnails Creating Visual Appeal for YouTube Content</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/compile-of-premium-tiktok-backdrop-options/"><u>Compile of Premium TikTok Backdrop Options</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-major-flaws-in-openais-chatgpt-platform/"><u>Exploring the Major Flaws in OpenAI's ChatGPT Platform</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-comprehensive-srt-breakdown-for-professionals/"><u>In 2024, Comprehensive SRT Breakdown for Professionals</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-from-iphone-6s-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password From iPhone 6s</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/iphone-tips-achieving-extended-exposure-images-for-2024/"><u>IPhone Tips Achieving Extended Exposure Images for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-future-is-now-examining-hp-envy-27s-innovations-for-2024/"><u>The Future Is Now Examining HP Envy 27'S Innovations for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722967746128-update-your-canon-pixma-ts3322-driver-today-with-a-fresh-download/"><u>Update Your Canon PIXMA TS3322 Driver Today with a Fresh Download</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-vivo-y100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Vivo Y100 | Dr.fone</u></a></li>
 </ul></div>
 
