@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Design Humorous Graphics with Adobe for 2024"
-date: 2024-09-13T18:16:28.624Z
-updated: 2024-09-15T18:42:01.199Z
+date: 2024-10-04T16:45:19.008Z
+updated: 2024-10-07T16:33:22.642Z
 tags: 
   - screen-recording
   - ai video
@@ -51,6 +51,13 @@ Step3 There are a number of actions that can be applied on the template, in the 
 
 Step4 Even if you do not download it, it will be stored in the Adobe cloud and you can retrieve it anywhere using your email login.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: Using Photoshop for Meme Making
 
 Adobe Photoshop was created as a graphic manipulator and modifier; and released by Adobe Inc. for Windows and macOS. Since the release, the program has progressed into an industry standard for editing images, videos as well as all forms of digital art. Adobe Photoshop supports masks, alpha compositing, and a variety of color models, including RGB, CMYK, CIELAB, spot color, and duotone. It can also edit and compose pictures and add multiple layers to it.
@@ -65,6 +72,19 @@ Step1 Launch a new Photoshop project. Set your image's dimensions to any appropr
 
 ![open new docs ps](https://images.wondershare.com/filmora/article-images/2022/07/open-new-docs-ps.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 Download the image you want to use and drag it onto the Photoshop workspace. Select your image in the layer panel after that, then adjust the image's size to fit in the appropriate location. Create the text and place it above the picture. Use the Duplicate Layer option to duplicate the top text rather than writing the bottom content.
 
 ![drag image to workplace ps](https://images.wondershare.com/filmora/article-images/2022/07/drag-image-to-workplace-ps.jpg)
@@ -72,6 +92,13 @@ Step2 Download the image you want to use and drag it onto the Photoshop workspac
 Step3 The meme can then be enhanced by applying different actions after selection. Any layer can be accessed. By double clicking on a specific layer, you can select blending parameters like outer glow, stroke, drop shadow, etc.
 
 Step4 Finally, save the meme. Go to file and choose "save". Select any extension you want and save.
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: Create Meme with After Effects
 
@@ -91,16 +118,16 @@ Step3 Select your image in the layer panel and then change its size to fit in th
 
 ![change image size ae](https://images.wondershare.com/filmora/article-images/2022/07/change-image-size-ae.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step4 After embellishments, you can save the file in your desired extension: By clicking on the file button and saving it.
 
 ![save meme file ae](https://images.wondershare.com/filmora/article-images/2022/07/save-meme-file-ae.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4: Using Adobe Premiere Pro to Create Meme
 
@@ -110,51 +137,32 @@ It can be used to generate new or edited versions of videos, that can be exporte
 
 ![create meme adobe premiere](https://images.wondershare.com/filmora/article-images/2022/07/create-meme-adobe-premiere.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Steps to Use Adobe Premiere Pro as Meme Maker:**
 
 Step1 By clicking on ‘project’, launch a new Premiere Pro project Set the dimensions of your image to a reasonable size.
 
 ![launch new project pr](https://images.wondershare.com/filmora/article-images/2022/07/launch-new-project-pr.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 After downloading the selected image, drag it onto the Premiere pro workspace. After choosing your image in the layer panel, adjust its size to make it fit in the designated area.
 
 ![adjust image premiere](https://images.wondershare.com/filmora/article-images/2022/07/adjust-image-premiere.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3 Create the project by clicking on ‘create’ which will complete the work.
 
 ![start creating meme premiere](https://images.wondershare.com/filmora/article-images/2022/07/start-creating-meme-premiere.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 5: Adobe Alternative to Create Memes - [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -184,10 +192,10 @@ Step3 Complete your meme and download it.
 ![complete meme and download it](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Bottom Line
@@ -211,6 +219,13 @@ Step2 Add your desired text and put it in the right position.
 Step3 Complete your meme and download it.
 
 ![complete meme and download it](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -238,5 +253,19 @@ There are a number of different tools available on internet for meme making. And
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-camtech-dive-looking-for-improved-alternatives/"><u>[New] In 2024, CamTech Dive Looking for Improved Alternatives</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-innovative-shooting-modes-smart-hdr-3-and-4-explained-simply/"><u>[New] In 2024, Innovative Shooting Modes Smart HDR 3 & 4 Explained Simply</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-solitary-producers-guide-to-viral-audio-success/"><u>[New] The Solitary Producer's Guide to Viral Audio Success</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-creating-stunning-overlays-in-photoshop/"><u>[Updated] Creating Stunning Overlays in Photoshop</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-ultimate-live-streaming-mic-guide-choosing-from-the-best-6/"><u>[Updated] The Ultimate Live-Streaming Mic Guide Choosing From the Best 6</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-honor-70-lite-5g-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Honor 70 Lite 5G? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-steps-for-resolving-missing-msvcr100dll-files-and-not-found-warnings/"><u>Easy Steps for Resolving Missing msvcr100.dll Files and Not Found Warnings</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-the-world-of-electronics-with-toms-gadget-insights/"><u>Exploring the World of Electronics with Tom's Gadget Insights</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-magic-5-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Honor Magic 5 Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://article-helps.techidaily.com/secret-strategies-to-outshine-with-canva-photos/"><u>Secret Strategies to Outshine with Canva Photos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/techniques-for-smooth-audio-transitions-for-2024/"><u>Techniques for Smooth Audio Transitions for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/44oo44o844oi44or44k944kz44oz44gu44g44gn57ch5y2y44gq44k544kv44oq44o844oz6yyy55s744og44kv44ol44od44kv/"><u>ノートパソコンのみで簡単なスクリーン録画テクニック</u></a></li>
+</ul></div>
 

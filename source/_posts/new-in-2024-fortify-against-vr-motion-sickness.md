@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Fortify Against VR Motion Sickness"
-date: 2024-09-17T01:10:37.871Z
-updated: 2024-09-20T18:04:08.340Z
+date: 2024-10-02T17:26:20.622Z
+updated: 2024-10-07T16:43:18.767Z
 tags: 
   - screen-recording
   - ai video
@@ -55,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/104fcc0c1e7ba0020bac11684b73c47c97661f3e4
 
 **10\. Try not to move your head a lot.** Since motion sickness directly corresponds to movement, reducing your head movement left and right and up and down in one place can help you lower the chances of sickness.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Oculus have done to reduce motion sickness
 
  With the new, innovative VR devices and the head gear technology has taken a huge leap. Oculus Rift has become widely popular among its enthusiastic users. When Oculus released its first Development kit (DevKit 1) the users experienced the symptoms such as nausea, dizziness, sweating and vomiting. Even Oculus CEO Brendan Iribe experienced “motion sickness” with his own product, while using last year’s “DevKit 1” prototype. These sickness issues were so common while using DevKit 1 that its users called it the “Rift Sickness”.
@@ -62,6 +69,19 @@ thumbnail: https://thmb.techidaily.com/104fcc0c1e7ba0020bac11684b73c47c97661f3e4
  Since Oculus Rift DK1 came to the market, people were really unhappy with the sickness it gave to them. Oculus saw that issue as a big threat, and started to develop DK2 with a much better display. In the original DK1, Oculus Rift used the liquid crystal display (LCD) to display visual in its devices. LCD screen had been of very much advantage because of its brightness, geometric distortion, and less electricity consumption. But it still had been promoting to the sickness issue because of its sluggish motion time response. In replacement of LCD screens, Oculus Rift has introduced OLED (organic light emitting diode) screens which have proved to be a much better idea. Experiments of Oculus Rift with OLED screens have been successful so far in reducing motion sickness to its minimal. OLED has a much faster rate and thus much enhanced positional tracking.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -86,12 +106,22 @@ Follow @Benjamin Arango
      data-full-width-responsive="true"></ins>
 
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-perfect-harmony-how-to-add-audio-content-in-adobe-premiere/"><u>[New] In 2024, Perfect Harmony How To Add Audio Content in Adobe Premiere</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/kyrocket-your-subscriber-count-6-proven-ways-to-keep-audiences-coming-back/"><u>[New] Skyrocket Your Subscriber Count 6 Proven Ways to Keep Audiences Coming Back</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-smooth-transition-from-skype-to-zoom-for-better-collaboration-for-2024/"><u>[New] Smooth Transition From Skype to Zoom for Better Collaboration for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-no-cost-endless-chuckles-the-meme-makers-manual/"><u>[Updated] In 2024, No Cost, Endless Chuckles The Meme Makers' Manual</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-top-200-action-cameras-thrillers-on-a-shoestring/"><u>[Updated] Top $200 Action Cameras - Thrillers on a Shoestring</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-optimized-approach-to-delete-unwanted-youtube-posts/"><u>2024 Approved Optimized Approach to Delete Unwanted YouTube Posts</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-optimizing-profits-on-youtube-studio-for-all-device-users/"><u>2024 Approved Optimizing Profits on YouTube Studio for All-Device Users</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/fine-tuning-your-frames-with-videoleap/"><u>Fine-Tuning Your Frames with Videoleap</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-iphone-14-plus-by-drfone-ios/"><u>How Many Attempts To Unlock iPhone 14 Plus</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Lava Blaze 2 5G? | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/how-to-master-free-online-and-offline-text-animations/"><u>How to Master Free Online & Offline Text Animations</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-nokia-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Nokia ?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-harmonizing-hues-the-filmmakers-palette-guide/"><u>In 2024, Harmonizing Hues The Filmmaker's Palette Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/stay-ahead-in-micromobility-event-schedule-industry-news-and-expert-rumors-unveiled/"><u>Stay Ahead in Micromobility: Event Schedule, Industry News & Expert Rumors Unveiled</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-ultimate-list-of-8-free-video-editing-programs-for-creatives/"><u>The Ultimate List of 8 FREE Video Editing Programs for Creatives</u></a></li>
+</ul></div>
 

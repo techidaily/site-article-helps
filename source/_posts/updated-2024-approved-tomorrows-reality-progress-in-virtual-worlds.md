@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Tomorrow's Reality  Progress in Virtual Worlds\""
-date: 2024-09-08T17:08:55.125Z
-updated: 2024-09-15T18:50:32.720Z
+date: 2024-09-30T17:45:55.571Z
+updated: 2024-10-07T17:07:40.475Z
 tags: 
   - screen-recording
   - ai video
@@ -46,9 +46,23 @@ thumbnail: https://thmb.techidaily.com/7bb5cd6c098dcc354a1616a8cf729a503ba552ba0
 
 ![vr-gaming ](https://images.wondershare.com/filmora/resource/vr-gaming1.jpg )
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This clears the air that VR is turning to be an emerging platform for the European game developers but, which one is preferred more by the professional game developers – is it the Oculus Rift or HTC Vive or something else for that matter? The survey also includes a detailed report on that as well. Asking about which VR platform they are using – 23.1 percent developers said they are using Rift, Vive is slightly behind with 22 percent developers’ preferences. There is PlayStation VR headset as well with 11.8 percent preferences.
 
  However, despite having such acceptance by the professional game developers, the confidence for the VR games market seems to have dropped a bit – at least the recent survey is showing something like that. Last year, 71.7 percent of the game developers considered VR to be a sustainable long-term market while in this year, it slipped a little with 68.8 percent developers are thinking VR could be a long sustaining gaming market.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## About the European VR game makers and their funding
 
@@ -56,11 +70,25 @@ thumbnail: https://thmb.techidaily.com/7bb5cd6c098dcc354a1616a8cf729a503ba552ba0
 
 ![ vr-developer](https://images.wondershare.com/filmora/resource/vr-developer.jpg )
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  We know that crowdsourced funding is also a preferable way to manage funds but, this seems not very convenient for the VR game developers since a very poor percentage (5.2) of the developers replied that they are working on games the fund of which is crowdsourced. While some developers consider this as an awful idea, some mentioned this to be a tricky process.
 
  Overall, this is what cooking inside the VR gaming world and this survey report explains the different aspects of virtual reality that clearly presents the state of the VR industry on this year – 2016\. Hopefully, we will come across much more advancement to this process in the coming years since gaming on VR headsets is massively exciting and fun.
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -85,18 +113,23 @@ Follow @Liza Brown
      data-full-width-responsive="true"></ins>
 
 
-
-
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-extensive-insights-deconstructing-the-dji-inspire-1/"><u>[New] 2024 Approved Extensive Insights Deconstructing the DJI Inspire 1</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-canonayers-guide-to-color-gratification-paid-and-no-cost-luts-for-2024/"><u>[New] Canon'ayer’s Guide to Color Gratification – Paid & No-Cost LUTs for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-crescendo-to-connectivity-linking-song-lists-across-platforms/"><u>[New] Crescendo to Connectivity Linking Song Lists Across Platforms</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-top-8-linux-screenshot-utilities-compared/"><u>[New] Top 8 Linux Screenshot Utilities Compared</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-instant-adjustment-match-youtube-to-mac-aspects-for-2024/"><u>[Updated] Instant Adjustment Match YouTube to Mac Aspects for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-revenue-rising-the-essential-guide-for-youtubers/"><u>[Updated] Revenue Rising The Essential Guide for YouTubers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/dissecting-haptic-feedback-in-digital-environments/"><u>Dissecting Haptic Feedback in Digital Environments</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-oneplus-nord-n30-5g-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of OnePlus Nord N30 5G Without PUK Codes</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-key-elements-to-successful-mobile-app-design/"><u>In 2024, Key Elements to Successful Mobile App Design</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/last-login-last-tweet-how-to-prep-for-fb-deletion/"><u>Last Login, Last Tweet: How to Prep for FB Deletion</u></a></li>
+<li><a href="https://article-helps.techidaily.com/streammastery-101-the-beginners-path-to-livestrancing-podcasts-for-2024/"><u>StreamMastery 101 The Beginner's Path to Livestrancing Podcasts for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-the-winscomrssvrdll-anomaly-during-boot-up/"><u>Tackling the Winscomrssvr.dll Anomaly During Boot-Up</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-art-of-captivating-6-powerful-video-genres-for-2024/"><u>The Art of Captivating 6 Powerful Video Genres for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/unleash-your-podcast-potential-with-cutting-edge-techniques/"><u>Unleash Your Podcast Potential with Cutting-Edge Techniques</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/why-cant-i-install-the-ipogo-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>Why cant I install the ipogo On Apple iPhone 15 Pro | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Expertise in Easel Alterations - Color Command\""
-date: 2024-09-24T17:02:13.695Z
-updated: 2024-10-02T04:45:04.496Z
+date: 2024-10-06T16:54:35.473Z
+updated: 2024-10-07T16:23:21.379Z
 tags: 
   - screen-recording
   - ai video
@@ -39,6 +39,13 @@ On the tab of hue and saturation, you can use hue, saturation, and brightness to
 
 ![change the hue to change color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Another way to change the color of the shirt is by navigating to the “Solid Color Adjustment Layer.” After that, you just need to apply the "Hue and Saturation Layer" to the previous layer to make the color changes quickly. Now blend the colors by either using hue or color mode to adjust the layers.
 
 ![select hue or color mode](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-2.jpg)
@@ -54,29 +61,23 @@ Now do the tuning by navigating to the layer mask and also select the layers. Af
 ![use sliders to black or white](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-3.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Tip 3: Add Color to White Object
@@ -84,13 +85,6 @@ Now do the tuning by navigating to the layer mask and also select the layers. Af
 If you want to add color to your black or white shirt, you can do it by “Hue and Saturation Adjustment Layer.” On this layer, tap on “Colorize” and choose the color you want to add. Another technique is to create a “Fill Adjustment Layer” and then change the blending mode into “Multiple.” Now, click on the “Color Picker,” and you can pick and choose your preferred color. If you want to add a dark color rather than a subtle color, change the mode to “Screen.”
 
 ![ pick the color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Tip 4: Use Direct Selection Color Picker
 
@@ -101,10 +95,10 @@ At the bottom of the options, you can see two points that will tell you about yo
 ![ change specific color to another color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Tip 5: Choose Object Color Range
@@ -113,27 +107,20 @@ Do you want to change the color of a specific part of the image? You can do this
 
 ![access color range option](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 After clicking on the color range option, a pop-up window will appear from which tap on “Selection.” You can view your image on the preview window and can select the whole back using the “Selection” tool.
 
 ![select complete object](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Afterward, create a group in which add layers, mask, and adjustment layers to change the saturation, color, and brightness of the selected area accurately. To only change the color, drag the sliders of hue to do it instantly.
 
 ![change hue for changing color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 6\. Tip 6: Use Blend IF
 
@@ -151,6 +138,13 @@ It helps the user create transparency across the layer. After hiding the layer a
 
 ![select your new color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 7\. Tip 7: Use Online Photo Editor to Change Colors
 
 If you don’t have an offline tool like Adobe Photoshop, you can use an online photo color editor to replace the colors quickly. In this part, we will suggest [BeFunky](https://www.befunky.com/) photo color editor change the photo colors efficiently.
@@ -160,10 +154,16 @@ To change the color, navigate to this tool and upload the images. Then, head to 
 ![select source color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-12.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 To increase or decrease the intensity of your color, use the “Tolerance” option, and drag it accordingly. If you want to change the hue of the source color, click on the box next to “Target Color.” If you have accidentally applied any color on some part, you can head to erase tab and can remove the alterations from the brush.
@@ -198,24 +198,22 @@ Changing the color of a photo can save us a lot of work done and effort. To effo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-iconic-building-blueprints-for-mc-players/"><u>[New] In 2024, Iconic Building Blueprints for MC Players</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-youngest-millionaire-on-youtube-ryans-unprecedented-wealth-accumulation/"><u>[New] Youngest Millionaire on YouTube Ryan's Unprecedented Wealth Accumulation</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-realizing-your-cinematic-dreams-the-art-of-perfect-sound-in-videos/"><u>[Updated] 2024 Approved Realizing Your Cinematic Dreams The Art of Perfect Sound in Videos</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-editors-dream-machine-top-portable-video-edits-tools/"><u>[Updated] Editor's Dream Machine Top Portable Video Edits Tools</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-essential-podcast-scriptwriting-skills-demystified-examples-included/"><u>2024 Approved Essential Podcast Scriptwriting Skills Demystified (Examples Included)</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-from-speedy-to-steady-on-iphone-a-compreomed-guide-for-slowed-down-visuals/"><u>2024 Approved From Speedy to Steady on iPhone A Compreomed Guide for Slowed-Down Visuals</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-seamless-cuts-with-m1-the-future-of-video-editing-unveiled/"><u>2024 Approved Seamless Cuts with M1 The Future of Video Editing Unveiled</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-the-future-of-audio-extraction-with-pazera-tools-analysis/"><u>2024 Approved The Future of Audio Extraction with Pazera Tools Analysis</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-ultimate-list-where-to-pull-off-ringtone-files/"><u>2024 Approved Ultimate List Where To Pull Off Ringtone Files</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-ultimate-plugins-list-after-effects-edition/"><u>2024 Approved Ultimate Plugins List After Effects Edition</u></a></li>
-<li><a href="https://change-location.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Vivo V30 Pro | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Realme 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/become-an-audio-concealer-expert-tips-on-altering-your-characters-voice-for-enhanced-competitive-play-for-2024/"><u>Become an Audio Concealer Expert Tips on Altering Your Character's Voice for Enhanced Competitive Play for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/best-of-the-best-hexacopter-drone-reviews-for-2024/"><u>Best of the Best Hexacopter Drone Reviews for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/brief-blueprints-iphone-content-for-desktop/"><u>Brief Blueprints IPhone Content for Desktop</u></a></li>
-<li><a href="https://article-helps.techidaily.com/craft-professional-videos-with-free-intros/"><u>Craft Professional Videos with Free Intros</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-hot-40-pro-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Hot 40 Pro Get Deleted photos Back with Ease and Safety?</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Nokia C12 | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/top-review-for-power-and-reliability-the-nzxt-c1email-protected-platinum-psu/"><u>Top Review for Power and Reliability: The NZXT C1[email Protected] Platinum PSU</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-deciphering-whatsapp-talk-mechanics/"><u>[New] 2024 Approved Deciphering WhatsApp Talk Mechanics</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-best-martial-arts-videogames-comparison-mastery-edition/"><u>[New] Best Martial Arts Videogames Comparison Mastery Edition</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-gaiety-media-download-review-for-2024/"><u>[New] Gaiety Media Download Review for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harmonizing-soundscape-and-unboxing-footage/"><u>[New] Harmonizing Soundscape and Unboxing Footage</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-mastering-slug-lines-for-effective-storytelling/"><u>[New] In 2024, Mastering Slug Lines for Effective Storytelling</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-when-youre-not-who-you-think-during-a-facebook-call/"><u>[New] In 2024, When You're Not Who You Think During a Facebook Call</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-optimize-your-social-media-with-autoplay-vids-on-fb/"><u>[New] Optimize Your Social Media with Autoplay Vids on FB</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-best-of-both-worlds-exclusive-11-bridge-camera-guide/"><u>[Updated] 2024 Approved Best of Both Worlds Exclusive 11 Bridge Camera Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-best-3d-model-suites-for-animation-artists/"><u>[Updated] In 2024, Best 3D Model Suites for Animation Artists</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-from-conceptualization-to-production-writing-engaging-documentary-stories/"><u>[Updated] In 2024, From Conceptualization to Production Writing Engaging Documentary Stories</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-melody-filled-visuals-the-fusion-project/"><u>[Updated] In 2024, Melody-Filled Visuals The Fusion Project</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-complete-transformation-handbook-using-morphvox-tech/"><u>2024 Approved Complete Transformation Handbook Using MorphVOX Tech</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/2024-approved-your-roadmap-to-monetization-mastery-the-straightforward-strategy-for-analyzing-youtube-earnings/"><u>2024 Approved Your Roadmap to Monetization Mastery The Straightforward Strategy for Analyzing YouTube Earnings</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/endless-footage-freedom-smartphones-that-keep-videos-crisp-with-ois/"><u>Endless Footage Freedom Smartphones That Keep Videos Crisp with OIS</u></a></li>
+<li><a href="https://article-helps.techidaily.com/top-picks-affordable-high-quality-4k-home-theatres/"><u>Top Picks Affordable, High Quality 4K Home Theatres</u></a></li>
+<li><a href="https://article-helps.techidaily.com/turning-social-media-sounds-into-functional-phone-alarms/"><u>Turning Social Media Sounds Into Functional Phone Alarms</u></a></li>
 </ul></div>
 

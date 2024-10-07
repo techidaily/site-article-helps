@@ -1,7 +1,7 @@
 ---
 title: "[New] The Ultimate Guide to Leveraging Preview Capabilities on a Mac"
-date: 2024-09-27T23:11:33.962Z
-updated: 2024-10-01T22:21:10.966Z
+date: 2024-10-01T16:40:46.673Z
+updated: 2024-10-07T16:53:54.721Z
 tags: 
   - screen-recording
   - ai video
@@ -42,10 +42,10 @@ Being the default image editor for Mac, Apple tried to make the **Preview app** 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to View and Edit Photos in Preview on Mac
@@ -92,13 +92,6 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Rotate Image in Preview
 
 Rotating an image in the **Preview app** is fairly simple. To do so:
@@ -112,10 +105,10 @@ Use the method explained above to open the photo in Preview.
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Add Text to Image in Preview
@@ -134,13 +127,6 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Remove Background in Preview
 
 As it is with some of the advanced image manipulation programs, even the **Preview app** allows you to remove background from a photo, and that too pretty easily. To get this done:
@@ -156,6 +142,19 @@ Once the background portion of the image gets selected (colored in red), without
 **Note:** Removing background requires the image to be in PNG format. If the photo you are working on is JPG, Preview prompts with a confirmation box asking your permission to convert the photo from JPG to PNG. You must allow this conversion in order to proceed with the background removal process.
 
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
+
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Combine Images into One
 
@@ -219,6 +218,13 @@ Choose a destination folder in the **Where** field, select your preferred format
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -244,24 +250,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-boosting-zoom-outputs-with-top-three-conversion-tactics/"><u>[New] In 2024, Boosting Zoom Outputs with Top Three Conversion Tactics</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-flipping-photo-lightness-for-an-alternate-look/"><u>[New] In 2024, Flipping Photo Lightness for an Alternate Look</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-simplify-collaboration-with-mematics-cloud-notes/"><u>[New] In 2024, Simplify Collaboration with Mematic’s Cloud Notes</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-why-visual-narratives-from-customers-boost-business-appeal/"><u>[New] In 2024, Why Visual Narratives From Customers Boost Business Appeal</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-the-ultimate-list-for-google-pixel-tones/"><u>[New] The Ultimate List for Google Pixel Tones</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-google-meet-go-live-your-youtube-broadcast-companion/"><u>[Updated] Google Meet Go Live - Your YouTube Broadcast Companion</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-to-discovering-whatsapp-hacks/"><u>[Updated] The Ultimate Guide to Discovering WhatsApp Hacks</u></a></li>
-<li><a href="https://techtrends.techidaily.com/amd-radeon-graphics-driver-version-2410-download-and-installation-guide/"><u>AMD Radeon Graphics Driver Version 24.10: Download and Installation Guide</u></a></li>
-<li><a href="https://article-helps.techidaily.com/brightening-edge-of-android-videos-easy-steps-unveiled/"><u>Brightening Edge of Android Videos - Easy Steps Unveiled</u></a></li>
-<li><a href="https://article-tips.techidaily.com/eliminate-unwanted-podcast-suggestions-on-spotify-for-2024/"><u>Eliminate Unwanted Podcast Suggestions on Spotify for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-successfully-resolve-intel-dptf-driver-installation-issues-a-comprehensive-guide/"><u>How to Successfully Resolve Intel DPTF Driver Installation Issues - A Comprehensive Guide</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-dissonant-designs-mastering-on-a-mac/"><u>In 2024, Dissonant Designs Mastering on a Mac</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-securing-smooth-airdrop-transfers-across-various-apple-devices/"><u>In 2024, Securing Smooth AirDrop Transfers Across Various Apple Devices</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-sonys-financial-options-for-games/"><u>Navigating Sony's Financial Options for Games</u></a></li>
-<li><a href="https://article-helps.techidaily.com/rethinking-wirecast-choices-for-2024/"><u>Rethinking WireCast Choices for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/syncing-socials-a-step-by-step-guide-to-linking-instagram-and-tiktok-for-2024/"><u>Syncing Socials A Step-by-Step Guide to Linking Instagram and TikTok for 2024</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/transferer-gratuitement-un-fichier-ifc-a-laudio-m4r-le-guide-simple-de-line-converter/"><u>Transférer Gratuitement Un Fichier IFC À L'audio M4R : Le Guide Simple De Line-Converter</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-creativity-with-anthropics-ai-store/"><u>Unlocking Creativity with Anthropic's AI Store</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-fcp-2023-the-ultimate-guide-to-reversing-video-footage/"><u>Updated 2024 Approved FCP 2023 The Ultimate Guide to Reversing Video Footage</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-spearheading-immersive-worlds-top-vr-minds/"><u>[New] 2024 Approved Spearheading Immersive Worlds Top VR Minds</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-visionary-8-tools-transforming-gameplay/"><u>[New] 2024 Approved Visionary 8 Tools Transforming Gameplay</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-skyline-secrets-expert-iphone-landscape-tips-unveiled/"><u>[New] In 2024, Skyline Secrets Expert iPhone Landscape Tips Unveiled</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-meme-magic-crafting-topical-laughs-for-every-scenario-for-2024/"><u>[New] Meme Magic Crafting Topical Laughs for Every Scenario for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-optimal-conclusion-to-vr-journeys/"><u>[New] Optimal Conclusion to VR Journeys</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-quicklooker-windows-11s-speedy-photo-viewer/"><u>[New] QuickLooker Windows 11'S Speedy Photo Viewer</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-top-20-moments-of-laughter-best-fb-jail-gems-for-a-sunny-outlook/"><u>[Updated] 2024 Approved Top 20 Moments of Laughter Best FB Jail Gems for a Sunny Outlook</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-on-the-spot-aspect-ratio-switcheroo-tips/"><u>[Updated] On-the-Spot Aspect Ratio Switcheroo Tips</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-honor-magic-v2-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Honor Magic V2</u></a></li>
+<li><a href="https://facebook.techidaily.com/creating-a-personalized-digital-id/"><u>Creating a Personalized Digital ID</u></a></li>
+<li><a href="https://fox-http.techidaily.com/efficiently-edit-your-tiktok-age-settings/"><u>Efficiently Edit Your TikTok Age Settings</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-13-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 13 without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-paramountplus-streaming-malfunction-on-your-firestick/"><u>Troubleshooting Guide: Paramount+ Streaming Malfunction on Your Firestick</u></a></li>
 </ul></div>
 

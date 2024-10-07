@@ -1,7 +1,7 @@
 ---
 title: "[New] Intro to Drone Flying? Check Out the Syma X5C Review for 2024"
-date: 2024-09-14T00:26:59.510Z
-updated: 2024-09-21T03:28:16.150Z
+date: 2024-10-04T17:37:50.634Z
+updated: 2024-10-07T17:57:34.956Z
 tags: 
   - screen-recording
   - ai video
@@ -65,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 
  There are so many incredible features inside Syma X5C that make it suitable device for [aerial photography](https://tools.techidaily.com/wondershare/filmora/download/). The intuitive controls are much easier to explore even for beginners. The remote control is user friendly and all other latest features make it a must buy product for drone lovers.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Complete Review for Syma X5C
 
 #### 1\.  Basic Specs Info
@@ -96,13 +103,34 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 
 ![syma x5c controller](https://images.wondershare.com/filmora/article-images/syma-x5c-controller.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The remote unit or transmitter works with a 2.4GHz frequency setting with 4 channel type control. It helps pilots to enjoy wider flying range with spread spectrum technology. The maximum flying range falls between 30 to 50 meters and no lags have been reported yet in control selection and quadcopter reactions. Using flip switch, you can directly adjust the movements in air.
 
 #### 6\.  Camera
 
 ![syma x5c camera](https://images.wondershare.com/filmora/article-images/syma-x5c-camera.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Syma H5C camera is rated as moderately stable and it is capable enough to take impressive pictures from air. This device is equipped with a 2GB MicroSD card that offers personal storage space to all recorded videos and images. The sad part is here that controller unit of this device is able to send signals to drone only; it cannot control the camera actions. Thus your camera stays focused in only one direction all the time and have fixed focus during shoots. You cannot apply zoom, direction sensing inputs or focus adjustment controls when your device is in air. If you are searching for a highly controlled footage generator then it is good to go for other Phantom series and other competing models as per your budget. But Syma H5C is really a good choice to start with.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -133,12 +161,22 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-journey-of-joyrides-top-6-easy-mc-habitats-revealed/"><u>[New] In 2024, Journey of Joyrides Top 6 Easy MC Habitats Revealed</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-live-stream-heroes-face-off-xsplit-vs-obs-showcase-for-2024/"><u>[New] Live Stream Heroes Face Off – XSplit Vs. OBS Showcase for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-beginners-blueprint-achieving-superior-image-clarity-in-videos/"><u>[New] The Beginner’s Blueprint Achieving Superior Image Clarity in Videos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-ultimate-meme-design-collection/"><u>[New] The Ultimate Meme Design Collection</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-storage-space-used-for-daily-extended-videography/"><u>[Updated] 2024 Approved Storage Space Used for Daily Extended Videography</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-advanced-editing-guide-for-creating-compelling-360-degree-videos-using-premiere-pro/"><u>[Updated] Advanced Editing Guide for Creating Compelling 360-Degree Videos Using Premiere Pro</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-crafting-virtual-laughter-the-metaverse-meme-journey-for-2024/"><u>[Updated] Crafting Virtual Laughter The Metaverse Meme Journey for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-cutting-edge-pc-editing-techniques-enhancing-your-youtube-presence-for-2024/"><u>[Updated] Cutting-Edge PC Editing Techniques Enhancing Your YouTube Presence for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-best-sfpr-settings-to-boost-sluggish-clips/"><u>[Updated] In 2024, Best SFPR Settings to Boost Sluggish Clips</u></a></li>
+<li><a href="https://article-posts.techidaily.com/essential-vr-equipment-for-your-metaverse-adventures-for-2024/"><u>Essential VR Equipment for Your Metaverse Adventures for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1721971928199-fixing-iphone-issues-with-chatgpt-discover-these-9-effective-tips/"><u>Fixing iPhone Issues with ChatGPT: Discover These 9 Effective Tips</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-samsung-galaxy-s23plus-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Samsung Galaxy S23+ Pattern Lock Screen</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-poco-c65-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Poco C65 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Infinix Note 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/unleashing-creativity-making-photo-based-videos-using-pixiz-for-2024/"><u>Unleashing Creativity Making Photo-Based Videos Using Pixiz for 2024</u></a></li>
+</ul></div>
 

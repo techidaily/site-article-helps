@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  What Are LUTs and How They Change Your Photo\""
-date: 2024-09-10T17:13:38.463Z
-updated: 2024-09-15T16:11:52.613Z
+date: 2024-10-01T17:37:11.428Z
+updated: 2024-10-07T17:30:14.300Z
 tags: 
   - screen-recording
   - ai video
@@ -63,6 +63,13 @@ LUTs come pre-installed with programs, but you may also purchase them online and
 
 ![how to use luts using Photoshop cc](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Choose Adjustment Layer
 
 1. Opt for Color Lookup.
@@ -79,6 +86,13 @@ load 3d lut
 
 LUTs come pre-installed in Photoshop, and you can use them as adjustment layers. As mentioned earlier, they'll alter the image's colors, and some of them will also alter the contrast. But what if you want to add LUTs? To add LUTs to Photoshop, you have two options. The first is really simple; all you have to do is discover the LUT and apply it to that specific project. The alternative is a little more difficult, but it enables you to access your LUTs at all times.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Here's the first method
 
 1. It would be best to unzip the LUT before using it in your project. This is relatively simple, and you may either use specialized software or the built-in unzipping utility in Windows.
@@ -87,10 +101,10 @@ LUTs come pre-installed in Photoshop, and you can use them as adjustment layers.
 4. Select the 'Load 3D LUT' button, then navigate to the directory where you unpacked the LUT files.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Here's the second one
@@ -109,13 +123,6 @@ Grow Together
 
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Closing Thoughts:
 
 LUTs are extremely useful since they allow photographers to save time by using the same LUTs or a set of LUTs for several photographs. Instead of making individual modifications to your photographs, you may color grade them all with the same LUTs. This gives a series a more unified vibe. You can even put them up as Actions in Photoshop.
@@ -125,6 +132,13 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](#)
 
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Closing Thoughts:
 
@@ -154,5 +168,22 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-streamline-your-storage-with-these-30-great-android-video-compressors/"><u>[New] 2024 Approved Streamline Your Storage with These 30 Great Android Video Compressors</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-exclusive-roundup-best-hdmi-21-tvs-compared-directly-for-2024/"><u>[New] Exclusive Roundup Best HDMI 2.1 TVs Compared Directly for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-free-football-filming-and-editing-essentials/"><u>[New] Free-Football Filming & Editing Essentials</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-pajama-plots-performed-a-critical-study-of-bedtime-storytelling-vids-for-2024/"><u>[New] Pajama Plots Performed A Critical Study of Bedtime Storytelling Vids for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-techniques-for-interpreting-video-reactions-on-youtube/"><u>[Updated] 2024 Approved Techniques for Interpreting Video Reactions on YouTube</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-laughter-loop-a-pocketful-of-humorous-short-film-ideas/"><u>[Updated] Laughter Loop A Pocketful of Humorous Short Film Ideas</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-top-techniques-for-incorporating-hyperlinks-into-tiktok-profiles-for-2024/"><u>[Updated] Top Techniques for Incorporating Hyperlinks Into TikTok Profiles for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-unveiling-the-secrets-of-zoom-success-for-2024/"><u>[Updated] Unveiling the Secrets of Zoom Success for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-the-non-functional-mic-on-a-steelseries-arctis-7-headset/"><u>Diagnosing and Repairing the Non-Functional Mic on a SteelSeries Arctis 7 Headset</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-new-horizons-with-toms-technology-insights/"><u>Exploring New Horizons with Tom's Technology Insights</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-vivo-v29-pro-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Vivo V29 Pro Through Google Earth?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-olympic-short-track-glory-the-pinnacle-of-2022-speed-skating/"><u>In 2024, Olympic Short Track Glory The Pinnacle of 2022 Speed Skating</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/programmers-dilemma-evaluating-chatgpt-and-gemini-for-top-notch-coding-performance/"><u>Programmer's Dilemma: Evaluating ChatGPT and Gemini for Top-Notch Coding Performance</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-fixes-to-overcome-common-airplay-setup-challenges/"><u>Step-by-Step Fixes to Overcome Common AirPlay Setup Challenges</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-poco-x6-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Poco X6 Bricked Devices | Dr.fone</u></a></li>
+</ul></div>
 

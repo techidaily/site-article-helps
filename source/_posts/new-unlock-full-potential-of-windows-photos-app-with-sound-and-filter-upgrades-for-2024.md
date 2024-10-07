@@ -1,7 +1,7 @@
 ---
 title: "[New] Unlock Full Potential of Windows Photos App with Sound & Filter Upgrades for 2024"
-date: 2024-09-29T16:15:33.805Z
-updated: 2024-10-02T10:25:04.883Z
+date: 2024-09-30T16:04:28.627Z
+updated: 2024-10-07T17:19:02.281Z
 tags: 
   - screen-recording
   - ai video
@@ -71,10 +71,16 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 ![ add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-music-to-video-photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 4**: Pick ‘Your music’ so that you can set up a custom track. There are over 20 music you can choose. You can also sync music to video's beat. You can visit ‘Recommended’ section for adding default ones.
@@ -82,19 +88,19 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 ![add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/choose-music-to-video-photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 5**: Hit the ‘Done’ button.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -104,10 +110,16 @@ From the above article, we conclude that Windows 10 Photos app is an amazing app
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -135,21 +147,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-comedy-crusade-youtubes-hottest-laughter-leaders/"><u>[New] 2024 Approved Comedy Crusade YouTube's Hottest Laughter Leaders</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-step-by-step-to-stunning-photomontages/"><u>[New] Step-by-Step to Stunning Photomontages</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-boost-your-social-interaction-skills-with-these-simple-snapchat-steps/"><u>[Updated] In 2024, Boost Your Social Interaction Skills with These Simple Snapchat Steps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-industry-leaders-top-10-free-lut-resource-list/"><u>[Updated] Industry Leaders’ Top 10 FREE LUT Resource List</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-advanced-steps-for-securing-stock-photo-borders/"><u>2024 Approved Advanced Steps for Securing Stock Photo Borders</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-complete-guide-mastering-voice-recognition-in-google-documents/"><u>2024 Approved Complete Guide Mastering Voice Recognition in Google Documents</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-comprehensive-analysis-of-syma-x5c-best-starter-drone-pick/"><u>2024 Approved Comprehensive Analysis of Syma X5C Best Starter Drone Pick</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-inside-hand-tracking-techniques-and-varieties/"><u>2024 Approved Inside Hand Tracking Techniques & Varieties</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-integrating-songs-and-snaps-online/"><u>2024 Approved Integrating Songs and Snaps Online</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-kinemaster-proficiency-unleashed-strategies-features-and-10-online-rivals/"><u>2024 Approved KineMaster Proficiency Unleashed Strategies, Features & 10 Online Rivals</u></a></li>
-<li><a href="https://article-helps.techidaily.com/best-metaverse-tech-the-ultimate-goggles-and-hmds-list/"><u>Best Metaverse Tech The Ultimate Goggles and HMDs List</u></a></li>
-<li><a href="https://app-tips.techidaily.com/boosting-employer-appeal-with-low-code-solutions-insights-from-zdnet/"><u>Boosting Employer Appeal with Low-Code Solutions: Insights From ZDNet</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-14-pro-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>How To Unlock Apple iPhone 14 Pro Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-master-the-art-of-streamlined-screen-recordings-on-mac/"><u>In 2024, Master the Art of Streamlined Screen Recordings on Mac</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-silent-transitions/"><u>In 2024, The Ultimate Guide to Silent Transitions</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-lava-blaze-curve-5g-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Lava Blaze Curve 5G Phone Hassle-Free</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-a-rundown-top-8-exceptional-free-online-translation-platforms/"><u>[New] A Rundown Top 8 Exceptional Free Online Translation Platforms</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-free-3d-text-psd-goldmine-top-selections/"><u>[New] Free 3D Text PSD Goldmine - Top Selections</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-how-to-block-facebook-video-ads/"><u>[New] In 2024, How to Block Facebook Video Ads?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-microsoft-hololens-review-a-glimpse-of-holographic-future-for-2024/"><u>[New] Microsoft HoloLens Review- a Glimpse of Holographic Future for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-crafting-compelling-narratives-in-instagram-ads-top-10-tips-for-success/"><u>[Updated] 2024 Approved Crafting Compelling Narratives in Instagram Ads Top 10 Tips for Success</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-remove-default-podcast-listings-from-spotify-playlists/"><u>[Updated] 2024 Approved Remove Default Podcast Listings From Spotify Playlists</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-level-quick-fixes-the-ultimate-5-diy-filmmaking-tricks/"><u>[Updated] Expert-Level Quick Fixes The Ultimate 5 DIY Filmmaking Tricks</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-channel-compendium-best-of-the-bunch-historical-youtubes-for-study/"><u>[Updated] In 2024, Channel Compendium Best of the Bunch - Historical YouTubes For Study</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-insight-dji-paper-bird-goggles-functionality-for-2024/"><u>[Updated] Insight DJI Paper Bird Goggles Functionality for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-pinnacle-graphics-cards-for-4k-entertainment-for-2024/"><u>[Updated] Pinnacle Graphics Cards for 4K Entertainment for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-ultimate-list-of-ios-tools-for-erasing-intrusive-images-for-2024/"><u>[Updated] The Ultimate List of iOS Tools for Erasing Intrusive Images for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-a-comprehensive-review-of-9-iphone-photo-watermark-apps/"><u>2024 Approved A Comprehensive Review of 9 iPhone Photo Watermark Apps</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/aesthetics-meet-utility-in-our-in-depth-analysis-of-acers-xf2-40/"><u>Aesthetics Meet Utility in Our In-Depth Analysis of Acer's XF2-40</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-easy-recording-guide-powerpoints-and-webcams-unite/"><u>In 2024, Easy Recording Guide PowerPoints & Webcams Unite</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-step-by-step-walkthrough-incorporating-subtitles-in-mp4s/"><u>In 2024, Step-by-Step Walkthrough Incorporating Subtitles in MP4s</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-vob-files-on-pc-la-tua-guida-essenziale-ai-letti-multimedia-piu-performanti-per-sistemi-windows-e-macos/"><u>Mastering VOB Files on PC: La Tua Guida Essenziale Ai Letti Multimedia Più Performanti per Sistemi Windows E MacOS</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-role-of-arvr-in-medical-training/"><u>The Role of AR/VR in Medical Training</u></a></li>
 </ul></div>
 

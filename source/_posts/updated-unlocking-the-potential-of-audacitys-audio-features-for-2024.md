@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unlocking the Potential of Audacity's Audio Features for 2024"
-date: 2024-09-17T22:40:32.717Z
-updated: 2024-09-20T19:54:52.105Z
+date: 2024-10-05T16:23:01.016Z
+updated: 2024-10-07T17:30:50.951Z
 tags: 
   - screen-recording
   - ai video
@@ -41,6 +41,13 @@ Step3To choose the kind of track you want, click "Tracks" at the top of the page
 
 Step4To begin the recording, simply click the "Record" button. As soon as you press record, an audio graph of your voice should start to display. Using the "Shift + R" hotkeys on your keyboard, you can add a new recording if you'd like to.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Recording using Mac
 
 To record audio on your Mac, you might need to install Audacity and additional plugins. The best option is to use the Soundflower program, which enables you to send sound to other apps rather than your computer's speakers. Here's how to use Soundflower and Audacity to record audio on a Mac.
@@ -52,6 +59,19 @@ Step2The Soundflower app must then be set up. To achieve this, choose "Sounds" f
 Step3In the "Device" section of the Audacity preferences box, choose "Soundflower (2ch)". From the recording area, choose "Software playthrough." Click "OK" to save the options you've selected.
 
 Step4Launch audacity, then open the app whose audio you wish to record. To begin the recording, click the "Record" button.
+
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Export your audio
 
@@ -99,12 +119,16 @@ Simply select the necessary file format from the drop-down box that appears next
      data-full-width-responsive="true"></ins>
 
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2023-guide-ios-device-live-recording-techniques/"><u>[New] 2023 Guide IOS Device Live Recording Techniques</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-start-at-vectors-beginning-a-short-overview-of-forms-and-tools/"><u>[New] In 2024, Start at Vector's Beginning A Short Overview of Forms & Tools</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-lens-kings-battle-sj6-vs-the-four-k-creators-of-xiaomi/"><u>[Updated] 2024 Approved Lens Kings Battle SJ6 Vs. The Four-K Creators of Xiaomi</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-aspect-ratios-unveiled-a-complete-youtube-manual-for-2024/"><u>[Updated] Aspect Ratios Unveiled A Complete YOUTUBE Manual for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-unlocked-mac-capture-tool-no-cost/"><u>[Updated] In 2024, Unlocked Mac Capture Tool - No Cost</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-mastering-online-methods-to-perfect-vhs-picture-editing/"><u>[Updated] Mastering Online Methods to Perfect VHS Picture Editing</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/dive-deep-into-youtube-shorts-essentials-for-2024/"><u>Dive Deep Into YouTube Shorts Essentials for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-gmail-password-on-realme-c53-devices-by-drfone-android/"><u>How to Reset Gmail Password on Realme C53 Devices</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-prime-windows-rapid-photo-displayer/"><u>In 2024, Prime Window's Rapid Photo Displayer</u></a></li>
+</ul></div>
 
