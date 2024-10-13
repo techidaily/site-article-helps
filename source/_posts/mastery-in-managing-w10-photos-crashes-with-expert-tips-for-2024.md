@@ -1,7 +1,7 @@
 ---
 title: "Mastery in Managing W10 Photos Crashes with Expert Tips for 2024"
-date: 2024-09-11T18:34:37.471Z
-updated: 2024-09-15T19:12:04.780Z
+date: 2024-10-09T16:34:45.673Z
+updated: 2024-10-13T01:45:30.074Z
 tags: 
   - screen-recording
   - ai video
@@ -47,6 +47,13 @@ In this article, we have compiled the best solutions for you to get rid of Windo
 
 ## How to fix Windows 10 Photos app crashes
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 1: Use the Troubleshooter
 
 The Windows Troubleshooter is an inbuilt troubleshooting feature embedded with Windows 10 computers. It allows a simple interface to help you choose any application for troubleshooting. Windows Troubleshooter resolves basic issues with the Windows computer so that users can seamlessly use all Windows 10 system features and functionalities.
@@ -61,6 +68,13 @@ Here is how to troubleshoot –
 1. From the list of Apps displayed on the screen, click ‘Windows Store Apps’ and press the ‘Next’ button.
 2. Now, the troubleshooter will troubleshoot every app within the Windows Store Applications and fix them in a jiffy.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 2: Restore Default Libraries
 
 Restoring the default libraries would resolve the Windows 10 Photos App crash issues. Resetting the Photo App to its default source to a valid network, path fixes the case.
@@ -71,6 +85,13 @@ Restoring the default libraries would resolve the Windows 10 Photos App crash is
    4. Tap ‘Restore Defaults’ from the bottom-right portion of the screen.
 
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/windows-10-photos-app-crashes-restore.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Lastly, click on ‘Apply’ followed by ‘OK’ and the issue will be resolved.
 
@@ -107,10 +128,10 @@ Here is how to reinstall the Windows 10 Photos App –
 3. Install ‘Microsoft Photos’ after downloading it from there. Your Windows 10 Photos App crashing issue is well taken care of now.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -120,19 +141,6 @@ From the above article, we have concluded that experiencing Windows 10 Photos Ap
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -157,5 +165,23 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-enhancing-podcast-appeal-crafting-effective-intros/"><u>[New] 2024 Approved Enhancing Podcast Appeal Crafting Effective Intros</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-from-anonymous-to-iconic-solo-podcast-blueprint-for-fame/"><u>[New] 2024 Approved From Anonymous to Iconic Solo Podcast Blueprint for Fame</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-quick-fix-for-disabled-photo-viewer-back-on-win-11/"><u>[New] 2024 Approved Quick Fix for Disabled Photo Viewer Back on Win 11</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-beginners-guide-to-mesmerizing-bokeh-in-instagram-stories-for-2024/"><u>[New] The Beginner’s Guide to Mesmerizing Bokeh in Instagram Stories for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-a-deep-dive-into-windows-hd-color-and-hdr-editing-excellence/"><u>[Updated] 2024 Approved A Deep Dive Into Windows HD Color and HDR Editing Excellence</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-distinguished-audible-collection-for-filmmakers/"><u>[Updated] 2024 Approved Distinguished Audible Collection for Filmmakers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-bandicam-in-depth-review-for-the-modern-user-for-2024/"><u>[Updated] Bandicam In Depth Review for the Modern User for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-drone-footage-battlegrounds-djis-pro-vs-gopro-hero3/"><u>[Updated] Drone Footage Battlegrounds DJI's Pro VS GoPro HERO3</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-quantum-hdr-phenomenon-in-digital-photography-for-2024/"><u>[Updated] Quantum HDR Phenomenon in Digital Photography for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-unveiling-the-pathway-to-high-quality-images-on-deal-for-2024/"><u>[Updated] Unveiling the Pathway to High-Quality Images on Deal for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-which-gopro-is-better-max-360-or-hero-11-for-2024/"><u>[Updated] Which GoPro Is Better, Max 360 or Hero 11 for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-starting-with-simple-tricks-auditions-fade-techniques/"><u>2024 Approved Starting with Simple Tricks Audition's Fade Techniques</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/effective-strategies-shrink-your-pdf-file-effortlessly-and-exactly/"><u>Effective Strategies: Shrink Your PDF File Effortlessly & Exactly</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-realme-v30-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Realme V30 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/online-tv-downloading-a-complete-recording-blueprint/"><u>Online TV Downloading A Complete Recording Blueprint</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transforming-mkv-videos-to-mpeg-a-guide-for-seamless-playback-on-windows-media-player/"><u>Transforming MKV Videos to MPEG: A Guide for Seamless Playback on Windows Media Player</u></a></li>
+</ul></div>
 

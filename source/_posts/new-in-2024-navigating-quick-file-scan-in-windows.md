@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Navigating Quick File Scan in Windows"
-date: 2024-09-08T20:19:32.106Z
-updated: 2024-09-15T17:33:53.167Z
+date: 2024-10-08T08:54:34.810Z
+updated: 2024-10-13T01:55:00.054Z
 tags: 
   - screen-recording
   - ai video
@@ -45,6 +45,13 @@ Step3 After successfully installing QuickLook, head to File Explorer and select 
 
 Unfortunately, you won’t preview the content inside the document file. Instead, you’ll only see details like the file type/format, size, image name, and more. You can also directly choose the opening app. As for videos and audio, the media file will automatically play on the QuickLook media player. But don’t fret because the following section will teach you to read your documents, presentations, PDFs, and other files on QuickLook without opening the file.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: Get the App on GitHub
 
 If you can’t find QuickLook on Microsoft Store for one reason or another, download the program from GitHub. It’s an open-source community where millions of software developers converge to distribute and share their work. Here, you can download and install multiple desktop programs and plugins for free. However, you must be a registered member to contribute any content.
@@ -59,6 +66,13 @@ Step2 Scroll down and download the .msi file. After downloading the installation
 
 ![install the quicklook for windows msi](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 Now go back to the QuickLook GitHub home page and click [plugin](https://github.com/QL-Win/QuickLook/wiki/Available-Plugins). Then, download the plugins to add additional preview capabilities to Microsoft QuickLook. For example, install the FontViewer, FFmpeg, and OfficeViewer plugins by clicking the respective “Link” buttons.
 
 ![install quicklook for windows plugins](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-5.jpg)
@@ -66,6 +80,13 @@ Step3 Now go back to the QuickLook GitHub home page and click [plugin](https://g
 Step4 After a successful installation, find the file you want to preview and select it. Then, tap the space bar to preview the files. And remember, browse ZIP files to view all content.
 
 **Pro tip**: We recommend installing the QuickLook OfficeViewer plugin to rip open your Office files and view the content inside. This method is recommended if you haven’t installed Microsoft Office on your PC. However, you might notice that the OfficeViewer plugin isn’t supported on your Windows PC. So to install OfficeViewer, select the file and click the space bar to preview it on QuickLook. Then, tap the “Click here to install this plugin” button. Now restart QuickLook and view all your office documents without opening them on their respective programs.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: Should We Expect Built-in Quick Look on Windows in the Future?
 
@@ -76,10 +97,10 @@ Meanwhile, it’s expected that QuickLook will come with a small preview screen.
 In other related news, Microsoft will be answering the prayers of their loyal patrons to get tabbed browsing. This is another feature similar to what you currently have on macOS, where you can open new tabs for numerous file locations. In return, this makes moving and copying files more straightforward. This easy-to-navigate addition will definitely make Microsoft Windows users more productive than before.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4: Frequently Asked Questions
@@ -95,19 +116,6 @@ Unfortunately, Microsoft QuickLook doesn’t offer native support for E-books. B
 #### 3\. Can QuickLook for Mac edit files?
 
 Now this is one of the primary advantages of using the Mac QuickLook. You can trim video and audio clips, rotate photos, and use markups directly on the program. We hope that the Windows version will add these convenient features as well.
-
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -141,5 +149,24 @@ This guidepost is another testament that your PC has massive hidden abilities. W
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-economical-choices-in-action-cinematography/"><u>[New] 2024 Approved Economical Choices in Action Cinematography</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-introducing-high-quality-capture-with-yi/"><u>[New] 2024 Approved Introducing High-Quality Capture with YI</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-a-collection-of-trendy-tiktok-backgrounds/"><u>[New] A Collection of Trendy TikTok Backgrounds</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-brief-blend-of-film-blueprints/"><u>[New] In 2024, Brief Blend of Film Blueprints</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-evaluating-sns-hdr-pros-value-and-comparisons/"><u>[New] In 2024, Evaluating SNS HDR Pro's Value & Comparisons</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-unlocking-luminous-images-a-comprehensive-lightroom-guide/"><u>[New] In 2024, Unlocking Luminous Images A Comprehensive Lightroom Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-master-review-unveiling-the-full-potential-of-android-lightroom/"><u>[New] Master Review Unveiling the Full Potential of Android Lightroom</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-leading-20-anime-theme-anthems/"><u>[Updated] 2024 Approved Leading 20 Anime Theme Anthems</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-unlock-fb-videos-instant-mp4-format-conversion/"><u>[Updated] 2024 Approved Unlock FB Videos Instant MP4 Format Conversion</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigate-the-world-of-video-conferencing/"><u>[Updated] Navigate the World of Video Conferencing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/end-the-annoyance-instant-ways-to-resolve-titanfall-2s-frequent-crashes/"><u>End the Annoyance! Instant Ways to Resolve Titanfall 2'S Frequent Crashes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/frame-your-moment-iphone-apps-for-efficient-photo-cropping-for-2024/"><u>Frame Your Moment IPhone Apps for Efficient Photo Cropping for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/high-definition-hits-top-8k-cameras-for-professionals/"><u>High-Definition Hits Top 8K Cameras for Professionals</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hp-thunderbolt-dock-station-g2-latest-driver-downloads-and-compatibility/"><u>HP Thunderbolt Dock Station G2 - Latest Driver Downloads & Compatibility</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-rapid-shot-mastery-the-ultimate-guide-to-homemade-cinematography/"><u>In 2024, Rapid Shot Mastery The Ultimate Guide to Homemade Cinematography</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-step-by-step-guide-importing-audio-for-inshot-edits/"><u>In 2024, Step-by-Step Guide Importing Audio for InShot Edits</u></a></li>
+<li><a href="https://network-issues.techidaily.com/smooth-sailing-amds-detection-driver-now-functions-on-win10/"><u>Smooth Sailing: AMD's Detection Driver Now Functions on Win10</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Reinstate Windows Photo Viewer on Windows 10  Dual Fixes Explained for 2024\""
-date: 2024-10-06T16:41:57.704Z
-updated: 2024-10-07T16:41:59.815Z
+date: 2024-10-09T09:00:51.386Z
+updated: 2024-10-12T19:07:23.504Z
 tags: 
   - screen-recording
   - ai video
@@ -70,16 +70,22 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2**: Click on the present photo viewer app over there and look for ‘Windows Photo Viewer’. We assume that you have upgraded from an older version on Windows and Windows Photo Viewer is there in the options.
 
 **Step 3**: Tap on ‘Windows Photo Viewer’ and then exit ‘Settings’. Now, you have successfully restored Windows Photo Viewer and you can open photos in Windows Photo Viewer.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 2 to get Windows Photo Viewer back
 
@@ -96,15 +102,22 @@ Here is the detailed guide –
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-back.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note**: If the Windows Photo Viewer isn't there, here is a backup. You need to change Windows Registry to make Windows Photo Viewer returned. You need to go to [Edwin over on Ten Forums](https://www.tenforums.com/software-apps/8930-windows-photo-viewer-gone-2.html#post290818) to add code on your PC.
 
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -113,20 +126,13 @@ From the above article, we found out that restoring Windows Photo Viewer on your
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -153,14 +159,17 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-the-synergy-of-business-and-virtual-experience-design/"><u>[Updated] 2024 Approved The Synergy of Business and Virtual Experience Design</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-average-playback-period-in-high-res-20mb-content/"><u>[Updated] In 2024, Average Playback Period in High-Res 20MB Content</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/experience-enhanced-security-with-the-budget-friendly-remobell-video-doorbell-review/"><u>Experience Enhanced Security with the Budget-Friendly RemoBell Video Doorbell Review</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-clean-up-computer-to-make-it-run-faster/"><u>How to Clean Up Computer to Make It Run Faster</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-honor-magic-6-pro-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Honor Magic 6 Pro Phone without PIN</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Oppo Phone without Google Account?</u></a></li>
-<li><a href="https://article-helps.techidaily.com/tips-for-unlocking-youtube-video-comments/"><u>Tips for Unlocking YouTube Video Comments</u></a></li>
-<li><a href="https://media-tips.techidaily.com/ultimate-guide-transferring-videos-to-your-playstation-portable-psp-with-easy-to-follow-steps/"><u>Ultimate Guide: Transferring Videos to Your PlayStation Portable (PSP) with Easy-to-Follow Steps</u></a></li>
-<li><a href="https://article-helps.techidaily.com/who-takes-the-prize-for-best-cinematic-recording-in-extreme-sports-in-2024/"><u>Who Takes the Prize for Best Cinematic Recording in Extreme Sports, In 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-personalize-vr-gear-with-homemade-google-headgear/"><u>[New] 2024 Approved Personalize VR Gear with Homemade Google Headgear</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-making-money-from-youtube-shorts-key-elements-and-profit-possibilities/"><u>[New] Making Money From YouTube Shorts Key Elements & Profit Possibilities</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-mp3-masterclass-easy-audio-to-video-for-youtube-enthusiasts-for-2024/"><u>[Updated] MP3 Masterclass Easy Audio to Video for YouTube Enthusiasts for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-entrepreneurs-mobile-advantage-streamlined-steps-to-establish-youtube-channels-for-2024/"><u>[Updated] The Entrepreneur's Mobile Advantage Streamlined Steps to Establish YouTube Channels for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-top-alert-tones-superior-download-sites-list-for-2024/"><u>[Updated] Top Alert Tones Superior Download Sites List for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-windows-movie-maker-the-spectrum-of-releases-for-2024/"><u>[Updated] Windows Movie Maker The Spectrum of Releases for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-polaroid-camplus-cube-analysis-when-life-is-on-screen/"><u>2024 Approved Polaroid Cam+ Cube Analysis When Life Is on Screen</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-fixes-to-solve-iphone-14-pro-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>Complete Fixes To Solve iPhone 14 Pro Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/drones-decoded-an-owners-primer-for-first-time-buyers/"><u>Drones Decoded An Owner's Primer for First-Time Buyers</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-fixing-non-working-hp-laptop-camera-on-a-windows-10-device/"><u>Expert Tips for Fixing Non-Working HP Laptop Camera on a Windows 10 Device</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Vivo S17? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-free-and-fantastic-the-best-flv-video-editors-for-2024/"><u>Updated Free and Fantastic The Best FLV Video Editors for 2024</u></a></li>
 </ul></div>
 

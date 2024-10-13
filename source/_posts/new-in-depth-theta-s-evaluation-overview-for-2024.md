@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In-Depth Theta S Evaluation Overview for 2024\""
-date: 2024-09-13T18:02:15.077Z
-updated: 2024-09-15T20:42:45.858Z
+date: 2024-10-06T17:03:28.842Z
+updated: 2024-10-12T21:17:58.329Z
 tags: 
   - screen-recording
   - ai video
@@ -75,6 +75,13 @@ The picture quality is simply outstanding and is rated to be much better than al
 
 As this device provides easy connectivity to other iOS, Android devices as well as to PCs so it becomes much easier to transfer captured images and videos for further editing. Theta App allows users to create wonders out of spherical imaging where panning and zooming features are commonly used. The desktop version of Theta app limits users to just view and share their data without any editing feature whereas the third app known as Theta+ Video is capable enough to work for editing on iOS devices.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2 Pros and Cons at a glance
 
 | Pros                                                                                   | Cons                                                                  |
@@ -87,6 +94,13 @@ As this device provides easy connectivity to other iOS, Android devices as well 
 | Great still image quality                                                              |                                                                       |
 | Cloud service for image sharing                                                        |                                                                       |
 | Remote control (via App)                                                               |                                                                       |
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3 Basic specs of Ricoh Theta S
 
@@ -105,10 +119,10 @@ As this device provides easy connectivity to other iOS, Android devices as well 
 | **Image format**         | JPEG (EXIF 2.3)- The most commonly used format.           | **Video File Format** | Live streaming via HDMI supported (L:1920x1080/30fps M: 1280x720/30fps S: 720x480/30fps); Live streaming (USB): MP4 (video: MPEG-4 AVC); Motion JPEG (1280x720/15fps) |
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4 Should I buy Ricoh Theta S
@@ -120,10 +134,10 @@ Theta S is one of the most useful products for photography lovers whether they a
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -149,5 +163,26 @@ Follow @Liza Brown
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-master-windows-10s-native-features-to-cut-videos-instantly/"><u>[New] 2024 Approved Master Windows 10'S Native Features to Cut Videos Instantly</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-360-degree-cameras-vs-3d-cameras-what-are-the-differences/"><u>[New] 360 Degree Cameras Vs 3D Cameras What Are the Differences</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-modulating-murmurs-for-free-fire-success-for-2024/"><u>[New] Modulating Murmurs for Free Fire Success for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-top-9-iphone-tools-expertly-watermarking-your-pics/"><u>[Updated] 2024 Approved Top 9 iPhone Tools Expertly Watermarking Your Pics</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-building-a-solid-foundation-windows-10s-video-creation-basics/"><u>[Updated] Building a Solid Foundation Windows 10'S Video Creation Basics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-flawless-online-invitation-crafting-youtube-subscription-buttons-for-2024/"><u>[Updated] Flawless Online Invitation Crafting YouTube Subscription Buttons for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-gratitude-archive-complete-collection-freepaid/"><u>[Updated] In 2024, Gratitude Archive Complete Collection (Free/Paid)</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-m1-pro-and-m1-max-exploring-their-significant-differences/"><u>[Updated] In 2024, M1 Pro & M1 Max Exploring Their Significant Differences</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-photographic-precision-optimal-websites-and-tools-for-frame-upgrades/"><u>[Updated] In 2024, Photographic Precision Optimal Websites and Tools for Frame Upgrades</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-prime-retro-elements-reviving-classic-vhs-tricks-for-2024/"><u>[Updated] Prime Retro Elements Reviving Classic VHS Tricks for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-inventory-management/"><u>2024 Approved Inventory Management</u></a></li>
+<li><a href="https://some-tips.techidaily.com/audacitys-guide-to-complimentary-audio-file-upgrade-from-au-to-high-quality-flac-streaming/"><u>Audacity's Guide to Complimentary Audio File Upgrade From AU to High-Quality FLAC Streaming</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/deep-dive-into-sharex-feedback-and-substitutes-for-2024/"><u>Deep Dive Into ShareX Feedback & Substitutes for 2024</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-realme-10t-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Realme 10T 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-install-guide-zexmtes-high-performance-bluetooth-adapter-driver-for-windows-os/"><u>Easy Install Guide: Zexmte's High-Performance Bluetooth Adapter Driver for Windows OS</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-clip-content-wizard/"><u>Flash Clip Content Wizard</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-unlocking-visual-potential-perfect-aspect-ratios-revealed/"><u>In 2024, Unlocking Visual Potential Perfect Aspect Ratios Revealed</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-youtube-creator-summit-a-getaway-for-youtubes-top-talent-for-2024/"><u>The YouTube Creator Summit - A Getaway for YouTube's Top Talent for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/unleash-potential-essential-windows-10-skills-review/"><u>Unleash Potential Essential Windows 10 Skills Review</u></a></li>
+</ul></div>
 

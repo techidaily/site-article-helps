@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Isolating Subject with Affinity"
-date: 2024-10-03T16:52:39.873Z
-updated: 2024-10-07T17:49:38.629Z
+date: 2024-10-06T20:13:28.749Z
+updated: 2024-10-13T04:18:15.977Z
 tags: 
   - screen-recording
   - ai video
@@ -46,10 +46,10 @@ Step2 Go to the **"Layers"** tab in the right pane, right-click your layer, and 
 ![unlocking the image layer in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/unlocking-the-image-layer-in-affinity-designer.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step3 To make a selection around your subject, first enable the **"Snap To Edges"** and **"Soft Edges"** feature from the top toolbar. This will help you automatically detect the edges and give it a more tapered finish.
@@ -65,10 +65,10 @@ Click the **"Refine"** option in the toolbar to open the **"Refine Selection"** 
 ![refining the outline around the image to remove background in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/refining-the-outline-around-the-image-to-remove-background-in-affinity-designer.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step5 In the last step, press the **"Delete"** key on your keyboard to remove the background, or click **"Edit"** and choose the **"Cut"** option.
@@ -102,14 +102,14 @@ Finally, click **"File"** and select the **"Export"** option from the drop-down 
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
-**Note:** To save your image with a transparent background, do not export it in JPG file format.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+**Note:** To save your image with a transparent background, do not export it in JPG file format.
 
 ## The Best Alternative of Affinity Photo
 
@@ -118,13 +118,6 @@ Since Affinity Photo is a desktop software available for a one-time purchase of 
 Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.com/), an advanced AI-based online tool developed by[Wondershare Technology.](https://www.wondershare.com/)
 
 ![wondershare pixcut for removing image background](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut-for-removing-image-background.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Editing experts recommend Wondershare PixCut as the best alternative to many editing problems. An AI-powered automatic editing tool, this software has quicker solutions for you when it comes to removing an image's background. Some of its many benefits are:
 
@@ -143,10 +136,10 @@ Editing experts recommend Wondershare PixCut as the best alternative to many edi
 * Customized categories that include e-commerce, car dealership, social media, graphic designing, personal, and marketing use.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -182,6 +175,13 @@ Editing experts recommend Wondershare PixCut as the best alternative to many edi
 * Create a free account for easier future access.
 * Paid and customized accounts for premium benefits.
 * Customized categories that include e-commerce, car dealership, social media, graphic designing, personal, and marketing use.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -217,18 +217,19 @@ Hopefully, this article and video can help you create ideal images!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-comprehensive-compilation-of-world-class-e-learning-sites-minus-udemy-for-2024/"><u>[New] Comprehensive Compilation of World-Class E-Learning Sites (Minus Udemy) for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-fading-out-sounds-effectively-using-lumafusion/"><u>[New] Fading Out Sounds Effectively Using Lumafusion</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-leading-14-creative-text-animation-cases/"><u>[Updated] 2024 Approved Leading 14 Creative Text Animation Cases</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-top-viral-tactics-key-tags-for-boosting-youtube-short-clips/"><u>[Updated] 2024 Approved Top Viral Tactics Key Tags for Boosting YouTube Short Clips</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-unveiling-vr-the-creation-gap/"><u>[Updated] 2024 Approved Unveiling VR The Creation Gap</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-use-video-titles-and-youtube-tags/"><u>[Updated] How to Use Video Titles and YouTube Tags?</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-max-360-or-hero-11-decoding-the-superior-gopro-video-quality/"><u>[Updated] Max 360 or Hero 11? Decoding the Superior GoPro Video Quality</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-navigating-the-process-of-avi-to-gif-conversion-using-filmora-software/"><u>[Updated] Navigating the Process of AVI-to-GIF Conversion Using Filmora Software</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Samsung Galaxy A14 4G | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Oppo Find X6? | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/unraveling-best-practices-for-effective-fb-healthcare-promos/"><u>Unraveling Best Practices for Effective FB Healthcare Promos</u></a></li>
-<li><a href="https://article-helps.techidaily.com/unveiling-virtual-excellence-top-5-upcoming-playstation-vr-titles/"><u>Unveiling Virtual Excellence Top 5 Upcoming PlayStation VR Titles</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-begin-installing-xps-key-visual-storytelling-app-for-2024/"><u>[New] Begin Installing XP’s Key Visual Storytelling App for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-a-guide-to-unwavering-visual-captures/"><u>[Updated] A Guide to Unwavering Visual Captures</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-mastering-podcast-submission-googles-steps/"><u>[Updated] In 2024, Mastering Podcast Submission Google's Steps</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-enhance-user-experience-top-free-speech-to-text-apps-for-mac-revealed/"><u>2024 Approved Enhance User Experience Top Free Speech-to-Text Apps for Mac Revealed</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-steps-to-disable-auto-recommended-podcasts-in-spotify/"><u>2024 Approved Steps to Disable Auto-Recommended Podcasts in Spotify</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/creative-auditory-shifts-with-premiere-pro/"><u>Creative Auditory Shifts with Premiere Pro</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/essential-offline-ios-game-list-unplugged-fun-awaits-in-2024/"><u>Essential Offline iOS Game List - Unplugged Fun Awaits, In 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/harnessing-the-power-of-zooms-video-features-on-youtube-platform-for-2024/"><u>Harnessing the Power of Zoom's Video Features on YouTube Platform for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/hue-harmony-the-definitive-guide-to-video-coloring/"><u>Hue Harmony The Definitive Guide to Video Coloring</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-dive-into-crossfade-excellence-with-audacitys-comprehensive-tutorials/"><u>In 2024, Dive Into Crossfade Excellence with Audacity's Comprehensive Tutorials</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-mastering-computer-monitor-recording-via-zdsoft/"><u>In 2024, Mastering Computer Monitor Recording via ZDSoft</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-illegal-to-archive-your-youtube-watch-history/"><u>Is It Illegal to Archive Your YouTube Watch History?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-infinix-hot-30-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Infinix Hot 30 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-key-to-rapid-likes-smart-bio-hacks-that-really-work-on-tinder/"><u>The Key to Rapid Likes? Smart Bio Hacks that Really Work on Tinder</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Maximum Memory Accessory for Sony A7S II"
-date: 2024-09-09T18:02:27.454Z
-updated: 2024-09-15T18:16:14.203Z
+date: 2024-10-09T23:56:29.768Z
+updated: 2024-10-13T00:23:15.235Z
 tags: 
   - screen-recording
   - ai video
@@ -72,6 +72,13 @@ thumbnail: https://thmb.techidaily.com/4fec1082aae14c609dc25605c639b1fbe3c36aac7
 * Note that there is no money saving deal in memory card price ranges. When you go to buy a 128GB memory card it will naturally cost same as if you buy two 64GB cards.
 * The SD cards are small sized, compact units so whether you carry a 64GB card in your pocket or choose a 128GB package, none of these are going to put additional weight on your pocket.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Best Memory Cards for Sony A7S II
 
 #### 1. Sony 64GB High Performance Class 10 UHS-1/U3 SDXC
@@ -112,6 +119,13 @@ thumbnail: https://thmb.techidaily.com/4fec1082aae14c609dc25605c639b1fbe3c36aac7
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -135,12 +149,24 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-expertise-in-easel-alterations-color-command/"><u>[New] 2024 Approved Expertise in Easel Alterations - Color Command</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-journey-into-virtual-realms-best-8-metaverse-visors-and-goggles/"><u>[New] Journey Into Virtual Realms Best 8 Metaverse Visors & Goggles</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-steps-for-accessing-google-meet-video-conferencing-for-2024/"><u>[New] Steps for Accessing Google Meet Video Conferencing for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2023-convert-facebook-video-to-mp4-720p1080phd-online-and-free-for-2024/"><u>[Updated] 2023 | Convert Facebook Video to MP4 720P/1080p/HD Online and Free for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-contrast-in-colors-crafting-cinematic-moods/"><u>[Updated] Contrast in Colors Crafting Cinematic Moods</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-elite-streaming-methods-for-real-time-cricket-viewing/"><u>[Updated] Elite Streaming Methods for Real-Time Cricket Viewing</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-ultimate-uniting-upskill-utopia/"><u>[Updated] In 2024, Ultimate Uniting Upskill Utopia</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-top-10-best-4k-monitors/"><u>[Updated] Top 10 Best 4K Monitors</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-ultimate-storage-enhancement-for-sony-alpha-7s-ii/"><u>[Updated] Ultimate Storage Enhancement for Sony Alpha 7S II</u></a></li>
+<li><a href="https://games-able.techidaily.com/demystifying-gameplay-boost-in-roblox-platform/"><u>Demystifying Gameplay Boost in Roblox Platform</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/easy-tips-and-tricks-for-saving-hd-videos-as-mp4-with-davinci-resolve-software/"><u>Easy Tips & Tricks for Saving HD Videos as MP4 with DaVinci Resolve Software</u></a></li>
+<li><a href="https://win-studio.techidaily.com/guide-on-accessing-and-downloading-content-from-trutv-safely/"><u>Guide on Accessing and Downloading Content From TruTV Safely</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-crafting-consumer-connection-reimagining-receiving/"><u>In 2024, Crafting Consumer Connection Reimagining Receiving</u></a></li>
+<li><a href="https://fox-info.techidaily.com/the-ultimate-companion-for-online-radio-preservationists/"><u>The Ultimate Companion for Online Radio Preservationists</u></a></li>
+<li><a href="https://article-helps.techidaily.com/tiktokplusinstagram-social-media-fusion-guide-for-2024/"><u>TikTok+Instagram Social Media Fusion Guide for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-ranked-gaming-headphones-and-headsets-of-2/"><u>Top-Ranked Gaming Headphones & Headsets of 2</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-finding-disappeared-iphones-applications-with-ease/"><u>Troubleshooting: Finding Disappeared iPhones Applications with Ease</u></a></li>
+</ul></div>
 

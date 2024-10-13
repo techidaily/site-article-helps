@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Master Windows 10'S Native Features to Cut Videos Instantly\""
-date: 2024-10-02T18:06:17.814Z
-updated: 2024-10-07T16:00:18.343Z
+date: 2024-10-09T16:20:07.480Z
+updated: 2024-10-13T03:01:23.382Z
 tags: 
   - screen-recording
   - ai video
@@ -56,6 +56,19 @@ Here is how to trim videos in [Windows 10 Photos](https://www.microsoft.com/en-u
 
 **Step 4**: Once you are happy with the changes, hit the save icon from the top menu. The clip is saved as a copy without impacting your original video in your Windows computer.
 
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to trim video in Windows 10 with VLC
 
 Well, as we promised you in the beginning, it's time for the bonus tip! You have understood how to trim videos in Windows 10 Photos, let's explore VLC's magic. When Windows 10 Photos allows you basic level easy trimming for advanced features you can try [VLC](https://www.videolan.org/). For operating systems other than Windows, such as Fedora, Ubuntu, or Mac you won't be able to use Windows 10 Photos, so VLC is a good option for cross-platform video editing.
@@ -69,10 +82,10 @@ Here comes the step by step guide to trim video in VLC –
 ![trim videos in windows 10 using VLC](https://images.wondershare.com/filmora/article-images/vlc-trim-video.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Upon activation of the 'Advanced controls' option, four additional buttons appear over the VLC media player's play/pause button. Now, you got to add the video by 'Open File'. Well, you can also do that by dragging and dropping the video as well.
@@ -82,10 +95,10 @@ Here comes the step by step guide to trim video in VLC –
 Note: You won't be trimmed by cutting the video here, rather recording the desired part using the inbuilt VLC decoder. Using the 'Frame by frame' button found under the 'Advanced control' section (the last button from the left) move to the exact frame you wish to begin your recording.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -95,20 +108,13 @@ From the above article, we found that **trimming video in VLC and Windows 10 Pho
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -135,20 +141,17 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-boosting-engagement-adjusting-speed-of-instagram-stories-for-2024/"><u>[New] Boosting Engagement Adjusting Speed of Instagram Stories for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-best-youtube-video-converters-for-high-quality-webm/"><u>[New] In 2024, Best YouTube Video Converters for High-Quality WebM</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-proven-pathways-to-peeling-away-pesky-backdrops-with-affinity-photo-tools/"><u>[New] In 2024, Proven Pathways to Peeling Away Pesky Backdrops with Affinity Photo Tools</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-proven-techniques-in-the-art-of-srt-file-making-for-2024/"><u>[New] Proven Techniques in the Art of SRT File Making for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-disguise-techniques-in-picart/"><u>[Updated] Disguise Techniques in PicArt</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-archive-all-your-images-flawlessly-infinite-no-charge-and-elite-paid-storage/"><u>[Updated] In 2024, Archive All Your Images Flawlessly Infinite, No-Charge & Elite Paid Storage</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-encompassing-explanation-what-is-googles-podcast-service/"><u>[Updated] In 2024, Encompassing Explanation What Is Google's Podcast Service?</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-the-skype-chorus-select-websites-for-rhythmic-calls-for-2024/"><u>[Updated] The Skype Chorus Select Websites for Rhythmic Calls for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-unleash-creativity-transformative-techniques-with-snapchat-photos/"><u>[Updated] Unleash Creativity Transformative Techniques with Snapchat Photos</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-podcast-openings-unveiled-scripted-appeals/"><u>2024 Approved Podcast Openings Unveiled Scripted Appeals</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-vivo-v30-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Vivo V30 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-reviving-the-backlit-functionality-of-your-corsair-board/"><u>Solved! Reviving the Backlit Functionality of Your Corsair Board</u></a></li>
-<li><a href="https://article-helps.techidaily.com/tailored-visual-representation-free-logo-base-for-personal-touches/"><u>Tailored Visual Representation Free Logo Base for Personal Touches</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/top-android-recorder-commercial-free/"><u>Top Android Recorder - Commercial-Free</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/unveiling-common-video-errors-and-simple-remedies/"><u>Unveiling Common Video Errors & Simple Remedies</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-impeccable-console-replication-best-5-emulators/"><u>[New] 2024 Approved Impeccable Console Replication Best 5 Emulators</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-navigating-virtual-realms-iphone-vr-video-playback/"><u>[New] 2024 Approved Navigating Virtual Realms IPhone VR Video Playback</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-the-ultimate-srt-resource-for-complete-understanding/"><u>[New] In 2024, The Ultimate SRT Resource for Complete Understanding</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-prioritize-these-5-facts-when-tiktoking-on-macos/"><u>[Updated] 2024 Approved Prioritize These 5 Facts When TikToking on macOS</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-spotlight-on-youtubes-creme-de-la-creme-of-narratives/"><u>[Updated] In 2024, Spotlight on YouTube’s Crème De La Crème of Narratives</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-top-10-kids-friendly-drones-for-new-flyers-for-2024/"><u>[Updated] Top 10 Kids' Friendly Drones - For New Flyers for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/apple-tv-and-facebook-integration-watching-videos-easily-for-2024/"><u>Apple TV and Facebook Integration Watching Videos Easily for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-huawei-p60-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Huawei P60 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://article-helps.techidaily.com/spectacular-visual-spaces-for-live-videos-for-2024/"><u>Spectacular Visual Spaces for Live Videos for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/virtuality-unveiled-evolution-of-escapism/"><u>Virtuality Unveiled Evolution of Escapism</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/1726221489737-movogv-movavi/"><u>오피스 공간에서 제공되는 무료 MOV/OGV 캡체를 원동으로 바꾸기 - MOVAVI</u></a></li>
 </ul></div>
 
