@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Thoroughly Assessing the Performance of Theta S\""
-date: 2024-09-12T16:32:49.539Z
-updated: 2024-09-15T18:00:52.589Z
+date: 2024-10-11T22:51:57.769Z
+updated: 2024-10-19T06:43:53.322Z
 tags: 
   - screen-recording
   - ai video
@@ -70,6 +70,13 @@ The picture quality is simply outstanding and is rated to be much better than al
 
 As this device provides easy connectivity to other iOS, Android devices as well as to PCs so it becomes much easier to transfer captured images and videos for further editing. Theta App allows users to create wonders out of spherical imaging where panning and zooming features are commonly used. The desktop version of Theta app limits users to just view and share their data without any editing feature whereas the third app known as Theta+ Video is capable enough to work for editing on iOS devices.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2 Pros and Cons at a glance
 
 | Pros                                                                                   | Cons                                                                  |
@@ -82,6 +89,13 @@ As this device provides easy connectivity to other iOS, Android devices as well 
 | Great still image quality                                                              |                                                                       |
 | Cloud service for image sharing                                                        |                                                                       |
 | Remote control (via App)                                                               |                                                                       |
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3 Basic specs of Ricoh Theta S
 
@@ -100,10 +114,10 @@ As this device provides easy connectivity to other iOS, Android devices as well 
 | **Image format**         | JPEG (EXIF 2.3)- The most commonly used format.           | **Video File Format** | Live streaming via HDMI supported (L:1920x1080/30fps M: 1280x720/30fps S: 720x480/30fps); Live streaming (USB): MP4 (video: MPEG-4 AVC); Motion JPEG (1280x720/15fps) |
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4 Should I buy Ricoh Theta S
@@ -115,10 +129,10 @@ Theta S is one of the most useful products for photography lovers whether they a
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -144,5 +158,22 @@ Follow @Liza Brown
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-transition-trails-your-pathway-to-macos-11-big-sur/"><u>[Updated] 2024 Approved Transition Trails Your Pathway to macOS 11 Big Sur</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-strategies-for-video-discovery-boosting-viewership-cost-free/"><u>[Updated] Strategies for Video Discovery Boosting Viewership Cost-Free</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-5-easy-steps-for-altering-game-voices-in-pubg-for-2024/"><u>[Updated] The 5 Easy Steps for Altering Game Voices in PUBG for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-unlock-limitless-space-choose-from-top-20-free-cloud-providers/"><u>[Updated] Unlock Limitless Space Choose From Top 20 Free Cloud Providers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-vanish-3-battle-disguise-4-steps-up/"><u>[Updated] Vanish 3 Battle Disguise 4 Steps Up</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-next-gen-gamers-wealth-wave-predictions/"><u>2024 Approved Next-Gen Gamers' Wealth Wave Predictions</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/black-friday-brings-you-close-to-a-new-world-of-words/"><u>Black Friday Brings You Close to a New World of Words</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-and-retrieve-picturesvideos-from-a-water-damaged-iphone-15-that-wont-turn-on-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix & Retrieve Pictures/Videos From a Water Damaged iPhone 15 That Wont Turn on | Stellar</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-soft-onset-visual-effects/"><u>In 2024, Soft Onset Visual Effects</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/instagram-stardom-a-beginners-blueprint-for-2024/"><u>Instagram Stardom A Beginner's Blueprint for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/microsofts-newest-1080p-touchscreen-computer-featuring-artifical-intelligence-technology/"><u>Microsoft's Newest 1080P Touchscreen Computer Featuring Artifical Intelligence Technology</u></a></li>
+<li><a href="https://article-helps.techidaily.com/shoot-smart-comparing-gopro-models-intensively/"><u>Shoot Smart Comparing GoPro Models Intensively</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/top-10-essential-tools-for-pro-ig-video-editors-for-2024/"><u>Top 10 Essential Tools for Pro IG Video Editors for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-bootup-flaw-bsod-irql-disparity/"><u>Win11 Bootup Flaw: [BSOD] Irql Disparity</u></a></li>
+</ul></div>
 

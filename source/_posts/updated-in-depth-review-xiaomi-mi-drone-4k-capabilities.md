@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In-Depth Review  Xiaomi MI Drone 4K Capabilities\""
-date: 2024-10-10T16:27:12.237Z
-updated: 2024-10-13T07:09:11.196Z
+date: 2024-10-13T23:01:53.918Z
+updated: 2024-10-18T18:04:20.220Z
 tags: 
   - screen-recording
   - ai video
@@ -50,22 +50,15 @@ In the last few years, Xiaomi has developed remarkable performance in the market
 * Its aesthetics are not much appealing.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Features
 
 Even with a reasonable price tag, this advanced drone unit has several features to offer its users. The most impressive one is its 4K recording ability with higher stability whereas still shots are recorded with 1080p resolution level. The wireless transmitter is designed with 2.4GHz frequency range whereas the altitude range goes as high as up to 800m. Control distance offered by Xiaomi MI is 3000m and the overall flight time offered by this tiny drone unit is 27 min. It has 5199mAh rechargeable battery with 17.4 Volt rating that takes total 3 and half hours for complete charging.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Design
 
@@ -81,15 +74,22 @@ Like most of the advanced drone units, Xiaomi Mi also features autonomous flying
 
 The most amazing feature of Xiaomi Mi is its ability to communicate via mobile phone so that users can manage the recording focus of its camera. One more appreciable feature is its surrounded flight ability; you can make it circle around any specific object by sending commands from a smartphone. You will love to capture videos with its 360-degree motion ability that leads to incredible clicks. How can we forget to talk about the most advanced feature of this special drone unit that is Preset Rout following ability! Users can make pre adjustments for all flights and it will capture smooth shots every time. The automatic landing and takeoff feature helps in easy controls whereas if this drone goes far from 3meter range then it will switch back to its preset path. It is possible to bring this drone back with only one button and in order to improve its performance, you can access the calibration settings. Note that, if somehow your drone gets lost then it will take almost 30 to 45 minutes for coming back.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Control Range
 
 As we have discussed earlier that Xiaomi Mi is designed to work on 2.4GHz transmitter frequency range. It has left-hand throttle ability along with the handy built-in type phone clamp. In order to operate this drone from remote distance you simply need to configure its flight settings to Mode 2\. Note that MI is able to fly at a maximum height of 800m and it can go as far as up to 3000 meters from the operator.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Camera
@@ -97,10 +97,10 @@ As we have discussed earlier that Xiaomi Mi is designed to work on 2.4GHz transm
 Xiaomi Mi Drone unit comes with two different variants where the professional one carries 4K camera unit with it and another variant is able to handle 1080P resolution level. Note that the 4K camera comes with 12.4MP sensor from Sony and it works with the Ambarella image processor. You can set its frame rate up to 30fps. Another option is 1080p resolution setting that comes with 16.4 megapixel sensor from Sony along with Ambarella Image Processor. In this case frame rate can go as high as up to 60 fps. The 2.4GHz transmitter further ensures interference free recording in air.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -134,20 +134,17 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-optimal-tactics-for-saving-android-interactions/"><u>[New] Optimal Tactics for Saving Android Interactions</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/erfect-shots-start-with-the-right-camera-and-lens-selection-for-2024/"><u>[New] Perfect Shots Start With The Right Camera & Lens Selection for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-hdr-reality-check-does-aurora-meet-expectations-for-2024/"><u>[Updated] HDR Reality Check Does Aurora Meet Expectations for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-the-enigma-of-unlisted-deciphering-hidden-youtube-footage/"><u>[Updated] In 2024, The Enigma of 'Unlisted' Deciphering Hidden YouTube Footage</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-multitask-media-magic-harnessing-netflixs-picture-in-picture-feature/"><u>[Updated] Multitask Media Magic Harnessing Netflix's Picture-in-Picture Feature</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-selective-best-camera-apps-for-low-speed-photo-and-video/"><u>[Updated] Selective Best Camera Apps for Low Speed Photo and Video</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-the-insiders-handbook-acquiring-high-quality-cost-free-images/"><u>[Updated] The Insider's Handbook Acquiring High-Quality, Cost-Free Images</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/avoid-these-faulty-practices-to-maximize-chatgpts-potential-for-content-generation/"><u>Avoid These Faulty Practices to Maximize ChatGPT's Potential for Content Generation</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/comment-faire-des-copies-sauvegarde-de-la-cle-usb-pour-le-deploiement-de-windows-10-sur-dautres-ordinateurs/"><u>Comment Faire Des Copies Sauvegarde De La Clé USB Pour Le Déploiement De Windows 10 Sur D'autres Ordinateurs ?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Apple iPhone 8 | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-unlock-efficient-remote-streaming-via-vlc-media-player/"><u>In 2024, Unlock Efficient Remote Streaming via VLC Media Player</u></a></li>
-<li><a href="https://article-helps.techidaily.com/perfecting-picture-pizzazz-with-illustrators-motion-blur/"><u>Perfecting Picture Pizzazz with Illustrator's Motion Blur</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-comprehensive-walkthrough-for-imessage-on-your-ipad/"><u>The Comprehensive Walkthrough for iMessage on Your iPad</u></a></li>
-<li><a href="https://article-helps.techidaily.com/the-gopro-editors-blueprint-to-stunning-colored-images/"><u>The GoPro Editor's Blueprint to Stunning Colored Images</u></a></li>
-<li><a href="https://article-helps.techidaily.com/thorough-investigation-into-simple-hdr-imaging-for-2024/"><u>Thorough Investigation Into Simple HDR Imaging for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-the-writers-guide-to-dialogic-depth-in-screenplays/"><u>[New] 2024 Approved The Writers' Guide to Dialogic Depth in Screenplays</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-cutting-edge-techniques-for-captivate-content/"><u>[New] Cutting-Edge Techniques for Captivate Content</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-cheap-yet-superior-4k-equipment/"><u>[New] In 2024, Cheap Yet Superior 4K Equipment</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-no-budget-no-problem-here-are-the-best-vfx-pages/"><u>[New] No Budget? No Problem! Here Are the Best VFX Pages</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-proper-techniques-to-snag-free-secure-vlc-on-a-mac-device/"><u>[New] Proper Techniques to Snag Free, Secure VLC on a Mac Device</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-tapping-humors-potential-with-a-comprehensive-9gag-meme-creation-guide/"><u>[New] Tapping Humor's Potential with a Comprehensive 9GAG Meme Creation Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-high-end-broadcast-decision-pmix-vs-wirecast-for-professionals/"><u>2024 Approved High-End Broadcast Decision PMix Vs. Wirecast for Professionals</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-nokia-g22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-honor-play-7t-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Honor Play 7T Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/efficiently-converting-hd-content-to-mp4-playable-on-kindle-fire-with-mac-top-techniques-explored/"><u>Efficiently Converting HD Content to MP4 Playable on Kindle Fire with Mac: Top Techniques Explored</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-make-a-dvd-from-your-videos-a-beginners-guide-for-windows-and-mac/"><u>New In 2024, Make a DVD From Your Videos A Beginners Guide for Windows and Mac</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-vector-tags-keywords-that-power-up-your-social-media-snaps/"><u>Viral Vector Tags Keywords that Power Up Your Social Media Snaps</u></a></li>
 </ul></div>
 

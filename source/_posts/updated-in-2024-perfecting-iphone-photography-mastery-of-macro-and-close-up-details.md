@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Perfecting iPhone Photography  Mastery of Macro and Close-Up Details\""
-date: 2024-10-10T21:51:43.681Z
-updated: 2024-10-12T21:39:50.842Z
+date: 2024-10-17T23:29:24.384Z
+updated: 2024-10-19T06:36:48.833Z
 tags: 
   - screen-recording
   - ai video
@@ -64,6 +64,19 @@ Shooting in the macro range requires decent lighting, so consider when and how y
 
 ![](https://images.wondershare.com/filmora/article-images/close-up-photography-light.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Image source: Urdu-Mag.com
 
 If you do want to snap some macro images in bright sunlight, try positioning your shadow to create a more indirect lighting of the subject. You can also move your own orientation so that the sun is shining into your shot, rather than behind it.
@@ -96,6 +109,13 @@ When you're shooting macro images with your iPhone, the intention is to make the
 
 ![](https://images.wondershare.com/filmora/article-images/macro-photography-distance.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Image source: GCFLearnFree
 
 Make the subject center stage by positioning your composition to give the least cluttered background possible. Use the sky if you can, or experiment with textured backgrounds such as a wall or fence. Think about how far your subject is from the background, as the further away the background is, the more blurry it will become and the greater the contrast of focus on your subject will appear.
@@ -105,13 +125,6 @@ Make the subject center stage by positioning your composition to give the least 
 If you've researched photography in general, you'll already have heard of the ‘rule of thirds'. This rule is super simple to apply when using an iPhone and is just as relevant in macro photography as it is when shooting landscapes or any other composition.
 
 ![](https://images.wondershare.com/filmora/article-images/macro-photography-composition.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Image source: SmashingHub
 
@@ -124,10 +137,16 @@ iPhone macro photography is all about looking at the world in a different way. T
 ![](https://images.wondershare.com/filmora/article-images/macro-photography-angles.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Image source: Flickr
@@ -156,20 +175,13 @@ Explore, experiment, and practice, and you'll soon find your own style and be th
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -197,24 +209,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-top-picks-hd-recording-with-nintendo-switch/"><u>[New] 2024 Approved Top Picks HD Recording with Nintendo Switch</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-streaming-success-implementing-green-screen-innovations/"><u>[New] In 2024, Streaming Success Implementing Green Screen Innovations</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-taming-audio-volume-peaks-using-fl-studios-mastery/"><u>[New] In 2024, Taming Audio Volume Peaks Using FL Studio's Mastery</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-laughter-lab-free-comic-creation-at-the-gateway/"><u>[Updated] In 2024, Laughter Lab Free Comic Creation at the Gateway</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-shopping-journey-to-visual-storytelling-hauling-edition/"><u>[Updated] In 2024, Shopping Journey to Visual Storytelling Hauling Edition</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/eliminating-blurry-visuals-from-streamed-youtube-content/"><u>Eliminating Blurry Visuals From Streamed YouTube Content</u></a></li>
-<li><a href="https://techtrends.techidaily.com/essential-insights-on-streaming-games-using-microsofts-xbox-game-pass-ultimate/"><u>Essential Insights on Streaming Games Using Microsoft's Xbox Game Pass Ultimate</u></a></li>
-<li><a href="https://article-helps.techidaily.com/fixing-hyperx-cloud-gaming-headset-microphone-issues-solutions-unveiled/"><u>Fixing HyperX Cloud Gaming Headset Microphone Issues: Solutions Unveiled</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-secure-your-wi-fi-network-windows-11-7-81-quickly-and-easily/"><u>How to Secure Your Wi-Fi Network | Windows 11, 7, 8.1 | Quickly & Easily</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/icloud-unlocker-download-unlock-icloud-lock-for-your-iphone-6-by-drfone-ios/"><u>iCloud Unlocker Download Unlock iCloud Lock for your iPhone 6</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-on-apple-iphone-14-plus-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons On Apple iPhone 14 Plus? Find the Best Solution Here</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Xiaomi Redmi Note 12 Pro+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-ideal-ringtone-hunt-prime-downloads/"><u>In 2024, Ideal Ringtone Hunt Prime Downloads</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-visual-victory-apple-and-android-highlight-covers/"><u>In 2024, Visual Victory Apple & Android Highlight Covers</u></a></li>
-<li><a href="https://article-helps.techidaily.com/mythos-makers-circle-top-ten-tales/"><u>Mythos Makers Circle – Top Ten Tales</u></a></li>
-<li><a href="https://article-helps.techidaily.com/optimizing-steam-quick-solutions-for-addressing-lag-and-delay-problems/"><u>Optimizing Steam: Quick Solutions for Addressing Lag and Delay Problems</u></a></li>
-<li><a href="https://article-helps.techidaily.com/premium-sporting-cameras-for-adventure-for-2024/"><u>Premium Sporting Cameras for Adventure for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/stylish-and-trendy-ride-expert-evaluation-of-the-swagtron-swagger-electric-scooter-for-urban-commuters/"><u>Stylish & Trendy Ride: Expert Evaluation of the Swagtron Swagger Electric Scooter for Urban Commuters</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-fine-tuning-focus-closeups-on-teams-for-2024/"><u>[New] Fine-Tuning Focus Closeups on Teams for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-high-quality-sfpr-settings-for-deliberate-moments/"><u>[New] High-Quality SFPR Settings for Deliberate Moments</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-tech-savvy-guide-from-digital-to-physical-dvds-on-mac/"><u>[New] Tech Savvy Guide From Digital to Physical - DVDs on Mac</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-expertise-in-image-colors-pro-techniques-revealed/"><u>[Updated] Expertise in Image Colors Pro Techniques Revealed</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-discovering-the-latest-lg-tv-trends-with-bp550/"><u>[Updated] In 2024, Discovering the Latest LG TV Trends with BP550</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-innovative-8-cameras-transforming-online-broadcasting/"><u>[Updated] In 2024, Innovative 8 Cameras Transforming Online Broadcasting</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-overcoming-fullscreen-malfunctions-in-obs/"><u>[Updated] Overcoming Fullscreen Malfunctions in OBS</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-conquering-challenges-the-comprehensive-guide-to-google-podcasts/"><u>2024 Approved Conquering Challenges The Comprehensive Guide to Google Podcasts</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/breaking-down-how-to-find-your-latest-watched-fb-content-for-2024/"><u>Breaking Down How to Find Your Latest Watched FB Content for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/capture-more-than-memories-adding-fun-filters-to-snaps/"><u>Capture More Than Memories Adding Fun Filters to Snaps</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/elite-selection-of-top-ranked-games-on-your-smartphone/"><u>Elite Selection of Top-Ranked Games on Your Smartphone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exclusive-drone-visuals-free-luts-for-dji-drones/"><u>Exclusive Drone Visuals Free LUTS for DJI Drones</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-complete-guide-to-proficient-kinemaster-use-and-top-digital-services-for-2024/"><u>The Complete Guide to Proficient KineMaster Use and Top Digital Services for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-facetune-experience-enthusiasts-for-2024/"><u>The Ultimate Facetune Experience Enthusiasts for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/why-are-your-video-shorts-thumbnails-not-showing-in-2024/"><u>Why Are Your Video Shorts' Thumbnails Not Showing, In 2024</u></a></li>
 </ul></div>
 

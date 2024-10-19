@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Lighting Setup Tips to Make Great Videos"
-date: 2024-09-14T20:32:59.351Z
-updated: 2024-09-15T19:44:45.797Z
+date: 2024-10-13T02:37:34.701Z
+updated: 2024-10-18T21:57:03.832Z
 tags: 
   - screen-recording
   - ai video
@@ -92,6 +92,19 @@ We usually set the lights around 50% brightness and a color temperature of 5600K
 
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Summary
 
 Hopefully, you learned something about lighting by taking a look at our setup. If you want to know and learn about other lighting tutorials, don’t hesitate to let us know in the comments.
@@ -124,12 +137,18 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-full-width-responsive="true"></ins>
 
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-animated-adventures-easy-steps-for-snapchats-cute-filters/"><u>[New] 2024 Approved Animated Adventures Easy Steps for Snapchat's Cute Filters</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-crafting-a-viral-solo-podcast-step-by-step-guide-for-2024/"><u>[New] Crafting a Viral Solo Podcast Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-subtlety-at-the-helm-lowering-sound-intensity-in-fl-studio/"><u>[New] Subtlety at the Helm Lowering Sound Intensity in FL Studio</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-the-ultimate-roku-guide-to-facebook-live-streams/"><u>[New] The Ultimate Roku Guide to Facebook Live Streams</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-bridging-format-gaps-with-srt-transformations/"><u>[Updated] Bridging Format Gaps with SRT Transformations</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-crafting-a-viral-solo-podcast-step-by-step-guide/"><u>[Updated] Crafting a Viral Solo Podcast Step-by-Step Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-script-crafting-basics/"><u>[Updated] In 2024, Script Crafting Basics</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-mastering-volume-transitions-in-lumafusion-for-2024/"><u>[Updated] Mastering Volume Transitions in Lumafusion for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-rapid-revision-windows-protocol-uncovered/"><u>[Updated] Rapid Revision Windows Protocol Uncovered</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/discovering-the-globe-from-home-via-vr-experience/"><u>Discovering the Globe From Home via VR Experience</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-the-future-of-soundscape-engineering-navigating-through-film-and-video-to-uncover-audio-for-2024/"><u>Updated The Future of Soundscape Engineering Navigating Through Film and Video to Uncover Audio for 2024</u></a></li>
+</ul></div>
 
