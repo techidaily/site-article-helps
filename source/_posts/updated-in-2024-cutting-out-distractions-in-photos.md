@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Cutting Out Distractions in Photos"
-date: 2024-10-17T01:23:28.612Z
-updated: 2024-10-19T05:51:53.646Z
+date: 2024-10-20T01:41:49.899Z
+updated: 2024-10-24T16:49:32.791Z
 tags: 
   - screen-recording
   - ai video
@@ -41,9 +41,23 @@ Now access the **Pixel Persona** section in the left corner of the software scre
 
 ![accessing the pixel persona in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-pixel-persona-in-affinity-designer.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 Go to the **"Layers"** tab in the right pane, right-click your layer, and disable **"Lock."** Now right-click on your layer again, and select **"Rasterize"** to enable editing of specific parts of the image.
 
 ![unlocking the image layer in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/unlocking-the-image-layer-in-affinity-designer.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3 To make a selection around your subject, first enable the **"Snap To Edges"** and **"Soft Edges"** feature from the top toolbar. This will help you automatically detect the edges and give it a more tapered finish.
 
@@ -62,10 +76,10 @@ Step5 In the last step, press the **"Delete"** key on your keyboard to remove th
 Now, hit **"Control+D"** to deselect the selection. Alternatively, you can click **"Select"** in the top toolbar and choose the **"Deselect"** option. Finally, you can export your file using the **"File" > "Export"** option.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Remove a Busy Background in Affinity Designer
@@ -96,10 +110,10 @@ Finally, click **"File"** and select the **"Export"** option from the drop-down 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** To save your image with a transparent background, do not export it in JPG file format.
@@ -113,10 +127,10 @@ Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.co
 ![wondershare pixcut for removing image background](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut-for-removing-image-background.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Editing experts recommend Wondershare PixCut as the best alternative to many editing problems. An AI-powered automatic editing tool, this software has quicker solutions for you when it comes to removing an image's background. Some of its many benefits are:
@@ -134,13 +148,6 @@ Editing experts recommend Wondershare PixCut as the best alternative to many edi
 * Create a free account for easier future access.
 * Paid and customized accounts for premium benefits.
 * Customized categories that include e-commerce, car dealership, social media, graphic designing, personal, and marketing use.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -175,13 +182,6 @@ Editing experts recommend Wondershare PixCut as the best alternative to many edi
 * Create a free account for easier future access.
 * Paid and customized accounts for premium benefits.
 * Customized categories that include e-commerce, car dealership, social media, graphic designing, personal, and marketing use.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -217,20 +217,24 @@ Hopefully, this article and video can help you create ideal images!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-brainy-brigade-top-11-quiz-channels-for-2024/"><u>[New] Brainy Brigade Top 11 Quiz Channels for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-elevate-your-photo-editing-with-lunapic-pro-tips/"><u>[New] In 2024, Elevate Your Photo Editing with Lunapic Pro Tips</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-tapping-into-the-telegraphic-trend-maximizing-your-telegram-presence/"><u>[New] In 2024, Tapping Into the Telegraphic Trend Maximizing Your Telegram Presence</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-the-essential-checklist-purging-backdrops-with-affinity-photo-for-2024/"><u>[New] The Essential Checklist Purging Backdrops with Affinity Photo for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-best-10-action-ready-microphones-reviewed/"><u>[Updated] Best 10 Action-Ready Microphones Reviewed</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-speaking-and-listening-to-create-better-decks/"><u>[Updated] In 2024, Speaking and Listening to Create Better Decks</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-step-by-step-inserting-chapters-in-vimeo-videos-for-2024/"><u>[Updated] Step-by-Step Inserting Chapters in Vimeo Videos for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-in-depth-analysis-simplified-dynamic-range-photography/"><u>2024 Approved In-Depth Analysis Simplified Dynamic Range Photography</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-step-by-step-guide-to-creating-an-eye-catching-collage/"><u>2024 Approved Step-by-Step Guide to Creating an Eye-Catching Collage</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-latest-validity-fingerprint-sensor-driver-fast-and-simple-installation/"><u>Download the Latest Validity Fingerprint Sensor Driver: Fast and Simple Installation</u></a></li>
-<li><a href="https://blog-min.techidaily.com/easy-instructions-how-to-apply-an-emminence-2-interface-for-your-kodi-experience/"><u>Easy Instructions: How To Apply an Emminence 2 Interface for Your Kodi Experience</u></a></li>
-<li><a href="https://driver-install.techidaily.com/elevate-brother-mfp-precision-on-windows-11/"><u>Elevate Brother MFP Precision on Windows 11</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-the-ultimate-drone-marathoners-list-top-10/"><u>In 2024, The Ultimate Drone Marathoners List (Top 10)</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/leading-systems-for-real-time-play-broadcasts-for-2024/"><u>Leading Systems for Real-Time Play Broadcasts for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ultimate-review-of-the-fitbit-charge-3-does-it-measure-up-to-modern-wearables/"><u>The Ultimate Review of the Fitbit Charge 3 – Does It Measure Up to Modern Wearables?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-approach-to-hdr-portraiture-excellence/"><u>[New] Innovative Approach to HDR Portraiture Excellence</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-must-haves-best-android-picture-adjusters-for-2024/"><u>[New] Must-Haves Best Android Picture Adjusters for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-top-15-budget-friendly-webm-players-that-work-flawlessly-for-2024/"><u>[New] Top 15 Budget-Friendly WebM Players That Work Flawlessly for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-navigating-the-path-iphone-file-exchange/"><u>[Updated] 2024 Approved Navigating the Path IPhone File Exchange</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-revel-in-filmoras-top-9-edits-every-editor-loves/"><u>[Updated] 2024 Approved Revel in Filmora's Top 9 Edits Every Editor Loves</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-conduct-a-symphony-on-the-ppt-stage/"><u>[Updated] Conduct a Symphony on the PPT Stage</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-how-to-record-a-podcast-on-iphone-or-ipad-best-for-interviews-and-trave-for-2024/"><u>[Updated] How To Record a Podcast on iPhone or iPad (Best for Interviews & Trave for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-explore-free-options-10-leading-mac-artists-preferences/"><u>[Updated] In 2024, Explore Free Options 10 Leading Mac Artists' Preferences</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-holographic-horizons-reimagined-movies/"><u>[Updated] In 2024, Holographic Horizons Reimagined Movies</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-essential-zombies-unleashed-a-curated-list/"><u>2024 Approved Essential Zombies Unleashed A Curated List</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-exclusive-selection-of-the-top-4k-capture-apps/"><u>2024 Approved Exclusive Selection of the Top 4K Capture Apps</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-unforgettable-stop-motion-films-an-overview/"><u>2024 Approved Unforgettable Stop-Motion Films - An Overview</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/best-screen-capture-alternatives-for-the-cost-conscious-user/"><u>Best Screen Capture Alternatives for the Cost-Conscious User</u></a></li>
+<li><a href="https://article-tips.techidaily.com/best-in-class-8-webcams-perfect-for-streaming-professionals/"><u>Best-in-Class 8 Webcams Perfect For Streaming Professionals</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Lava Blaze Curve 5G? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-pc-gaming-obstacles-fixing-counter-strike-2s-2024-system-crashes/"><u>Overcoming PC Gaming Obstacles: Fixing Counter-Strike 2'S 2024 System Crashes</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-picks-leading-capture-cards-for-enthusiast-streamers/"><u>Proven Picks Leading Capture Cards for Enthusiast Streamers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-art-of-monitors-reimagined-an-insight-into-the-z32x-for-2024/"><u>The Art of Monitors Reimagined An Insight Into the Z32X for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-resolving-non-responsive-windows-11-taskbar-problems/"><u>Troubleshooting Tips: Resolving Non-Responsive Windows 11 Taskbar Problems</u></a></li>
 </ul></div>
 

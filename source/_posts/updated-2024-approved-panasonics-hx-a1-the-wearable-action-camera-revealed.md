@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Panasonic’s HX-A1 - The Wearable Action Camera Revealed\""
-date: 2024-10-13T00:24:32.128Z
-updated: 2024-10-19T11:42:31.715Z
+date: 2024-10-18T21:50:20.001Z
+updated: 2024-10-25T05:30:02.445Z
 tags: 
   - screen-recording
   - ai video
@@ -44,10 +44,16 @@ thumbnail: https://thmb.techidaily.com/bd73d50e5d9ed4daeccbe66a94668b925bf784c3c
  The elongated cylindrical body of this camera is very compact and less quirky and helps in operating it as a single component system. It is available in luminous orange and black colour variants and both of them look smart and classy. Its shock-proof, freeze-proof and dustproof makes it stand out exceptionally. It is compliant with IPX8 and thus you are free from hassles of adding a separate waterproof case! With a weight of only 45 gms, A1 is one of those few smallest action cameras which are easy and safe to carry. There is no built-in screen and the basic three buttons for its functioning rest on top of the camera, which can be termed as one of its shortcoming in design, as it tends to roll from sides when is set down, and thus can damage these controls if not kept carefully. These three buttons help in turning on the device, toggle recording and switch between video, still image and slow motion modes. Its built-in WiFi module allows the camera to connect to the smartphone and then transfer the media easily. This feature can also be used whenever you are framing up your shots, so you don’t feel lack of built-in screen.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specification
@@ -76,10 +82,16 @@ thumbnail: https://thmb.techidaily.com/bd73d50e5d9ed4daeccbe66a94668b925bf784c3c
 | Plenty of optional mounts for any activities to increase its operational feasibility at every location.                                                                | Built-in battery does not allow you to swap out for a fresh one so no scope of improving battery life. |
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Accessories in the box
@@ -120,10 +132,10 @@ thumbnail: https://thmb.techidaily.com/bd73d50e5d9ed4daeccbe66a94668b925bf784c3c
 [Learn more about Action Camera Accessories Buying Guide for 2017](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Features
@@ -163,10 +175,10 @@ thumbnail: https://thmb.techidaily.com/bd73d50e5d9ed4daeccbe66a94668b925bf784c3c
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -194,16 +206,19 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-elevating-film-previews-with-thoughtful-soundtrack-selection/"><u>[New] Elevating Film Previews with Thoughtful Soundtrack Selection</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-joining-jpeg-worlds-with-ease-and-skill/"><u>[New] In 2024, Joining JPEG Worlds with Ease and Skill</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-masterpiece-makers-top-6-innovators-in-digital-art-space/"><u>[New] Masterpiece Makers Top 6 Innovators in Digital Art Space</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-the-beginners-guide-to-stunning-slow-motion-shooting-with-an-android/"><u>[Updated] The Beginner's Guide to Stunning Slow-Motion Shooting with an Android</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-wallet-friendly-4k-camera-and-camcorder-deals-for-2024/"><u>[Updated] Wallet-Friendly 4K Camera and Camcorder Deals for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/boosting-visual-appeal-in-tiktok-videos/"><u>Boosting Visual Appeal in TikTok Videos</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-t-view-mkv-movies-content-on-htc-u23-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Can’t view MKV movies content on HTC U23</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-an-unresponsive-valorant-display-issue/"><u>How to Fix an Unresponsive Valorant Display Issue</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Vivo Y100A? | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/master-your-data-center-with-top-5-server-rack-systems-of-2024-buyers-selection/"><u>Master Your Data Center with Top 5 Server Rack Systems of 2024 - Buyer's Selection</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-a-deep-dive-into-effective-animoji-utilization-on-iphone-x/"><u>[New] A Deep Dive Into Effective Animoji Utilization on iPhone X</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-az-capture-tool-full-app-testing-and-options-guide/"><u>[New] In 2024, AZ Capture Tool Full App Testing & Options Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-art-of-engaging-crafting-compelling-reddit-content/"><u>[New] The Art of Engaging Crafting Compelling Reddit Content</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-creating-captivating-solo-content-that-strikes-gold/"><u>[Updated] Creating Captivating Solo Content that Strikes Gold</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-curate-visual-content-for-playback-syncopation-for-2024/"><u>[Updated] Curate Visual Content for Playback Syncopation for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-10-best-apps-to-speed-audio-speed-on-mobile/"><u>[Updated] In 2024, 10 Best Apps to Speed Audio Speed on Mobile</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-unlocking-the-full-potential-of-video-creation-with-vida/"><u>2024 Approved Unlocking the Full Potential of Video Creation with Vida</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/framemaster-hd-recording-suite-for-2024/"><u>FrameMaster HD Recording Suite for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-best-10-chinese-video-to-english-translator/"><u>In 2024, Best 10 Chinese Video to English Translator</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-mastering-youtube-link-building-a-strategic-guide/"><u>In 2024, Mastering YouTube Link Building A Strategic Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-battery-maintenance-a-step-by-step-tutorial-for-optimal-performance/"><u>IPhone Battery Maintenance - A Step-by-Step Tutorial for Optimal Performance</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-ultra-30-action-cameras-by-garmin-in-depth-analysis/"><u>The Ultra 30 Action Cameras by Garmin - In Depth Analysis</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726027867880-ts/"><u>TSファイルの切り詰め方 : 正しい手順とテクニック</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unboxing-the-apple-iphone-12-mini-proving-that-size-doesnt-determine-power/"><u>Unboxing the Apple iPhone 12 Mini: Proving That Size Doesn't Determine Power</u></a></li>
 </ul></div>
 

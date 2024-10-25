@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Utilizing Alternate Shots to Elevate Film Quality for 2024"
-date: 2024-10-16T17:21:38.162Z
-updated: 2024-10-19T00:01:40.824Z
+date: 2024-10-17T21:05:54.943Z
+updated: 2024-10-24T20:46:39.423Z
 tags: 
   - screen-recording
   - ai video
@@ -49,19 +49,6 @@ On the other hand, cutaways can show how different people react to what is being
 
 We'll examine the top 5 uses for B rolls across a variety of video genres and discuss how to implement them effectively in your own projects.
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Archival b roll footage
 
 Aerial B roll is the solution when you like to show your viewers where your film is being recorded or when you are changing locations and want them to know it. The plane takes off and lands in another city, and then shots of the city, its landmarks, its famous streets, etc. are shown. You have probably seen this type of B roll footage in movies and TV shows. These images aid in putting the viewer in the character's current location. Check out this collection of setting images from the Neighbors television series.
@@ -70,15 +57,22 @@ Aerial B roll is the solution when you like to show your viewers where your film
 
 Including archival material in your video allows your audience to experience a previously covered or historically significant story as it occurred. Look at this illustration from Netflix's 14 Peaks: Nothing Is Impossible, which was made utilizing old b roll film from the era to help the viewer connect with the narrative.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Storytelling b roll footage
 
 B roll footage can be used to tell a story that supports the narrative of your video. For example, in this video interview of Tom DeLonge, the speaker talks about living in a neighborhood. The B rolls show him driving around in his car, skateboarding on the street in the 90's. These add to the story the video creator wants to talk about not seeing people with a disability differently.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Undirected b roll footage
@@ -92,10 +86,10 @@ When you are sharing a narrative that has been told in the past or that has hist
 Have a look at the scenes from the episode "14 Peaks: Nothing Is Impossible" that can be found on Netflix. As a result of the use of archive film footage of b roll from the relevant time period in its production, the audience is able to connect with the narrative on a deeper level.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 6\. Pick-up shots
@@ -105,10 +99,10 @@ A pick-up is a tiny shot added to previously captured material. Re-shoots involv
 If flaws were discovered during primary photography, the directors could have requested another take. The producer and director should weigh the cost of rejoining cast and crew against the need for pick-ups or re-shoots to address storyline flaws (or worse) in the final edit.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 7\. A roll vs b roll
@@ -149,17 +143,19 @@ We sincerely hope that this post will be of use to you in making your films more
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-pinnacle-artist-studio-overview/"><u>[New] 2024 Approved Pinnacle Artist Studio Overview</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-best-picture-editing-dynamic-wallpaper-finder-for-2024/"><u>[New] Best Picture Editing Dynamic Wallpaper Finder for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-highlighted-visions-is-intensified-lighting-the-future-of-hd-in-hdr/"><u>[Updated] In 2024, Highlighted Visions Is Intensified Lighting the Future of HD in HDR?</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-majestic-celestial-images-at-your-command/"><u>[Updated] Majestic Celestial Images at Your Command</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-nextgen-android-for-immersive-3d-viewing-for-2024/"><u>[Updated] NextGen Android for Immersive 3D Viewing for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-transforming-mundane-titles-into-visual-marvels-with-ae-for-2024/"><u>[Updated] Transforming Mundane Titles Into Visual Marvels with AE for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/chucklebox-build-memes-free-of-charge/"><u>ChuckleBox Build Memes Free of Charge</u></a></li>
-<li><a href="https://discover-best.techidaily.com/enhanced-user-experience-with-automated-consent-management-powered-by-cookiebot/"><u>Enhanced User Experience with Automated Consent Management: Powered by Cookiebot</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Infinix Smart 7 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-microsoft-print-to-pdf-capabilities-on-your-windows-10-or-11-device/"><u>How to Restore Microsoft Print to PDF Capabilities on Your Windows 10 or 11 Device</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-remedies-for-common-issues-with-your-elgato-hd60-drivers/"><u>Quick Remedies for Common Issues with Your Elgato HD60 Drivers</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-14-pro-prevention-and-solution-drfone-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone 14 Pro Prevention & Solution | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-the-merits-of-sns-hdr-vs-its-industry-contenders/"><u>[New] In 2024, The Merits of SNS HDR Vs. Its Industry Contenders</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-the-ultimate-video-upgrade-with-enhancer-22/"><u>[Updated] 2024 Approved The Ultimate Video Upgrade with Enhancer 2.2</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-breaking-down-snapchats-new-highlight-functionality-for-2024/"><u>[Updated] Breaking Down Snapchat's New Highlight Functionality for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-peculiar-pratfalls-memes-tailored-for-the-perfect-moment/"><u>[Updated] In 2024, Peculiar Pratfalls Memes Tailored for the Perfect Moment</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-lgs-leap-into-limitless-vision-the-4k-spectacle-of-the-31mu97-b/"><u>[Updated] LG's Leap Into Limitless Vision - The 4K Spectacle of the 31MU97-B</u></a></li>
+<li><a href="https://article-helps.techidaily.com/creative-collage-companions-the-top-8-smartphone-apps-for-2024/"><u>Creative Collage Companions The Top 8 Smartphone Apps for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-apple-iphone-6s-plus-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your Apple iPhone 6s Plus Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://media-tips.techidaily.com/easy-steps-creating-iphone-ringtones-from-mp3-files-for-models-x-8-7-6-and-5/"><u>Easy Steps: Creating iPhone Ringtones From MP3 Files for Models X, 8, 7, 6, and 5</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-tecno-spark-10-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-oppo-a79-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-oneplus-ace-2v-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from OnePlus Ace 2V to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/ideal-app-selection-top-10-tools-for-instagram-reel-excellence-for-2024/"><u>Ideal App Selection Top 10 Tools for Instagram Reel Excellence for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-action-camera-showdown-2022-gopro-vs-garmin-virb-face-off/"><u>In 2024, Action Camera Showdown 2022 GoPro Vs. Garmin VIRB Face-Off</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-how-to-chat-on-google-meet/"><u>In 2024, How to Chat on Google Meet</u></a></li>
 </ul></div>
 

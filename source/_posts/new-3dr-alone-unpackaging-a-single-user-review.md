@@ -1,7 +1,7 @@
 ---
 title: "\"[New] '3DR' Alone  Unpackaging a Single User Review\""
-date: 2024-10-15T06:22:21.767Z
-updated: 2024-10-19T02:24:32.748Z
+date: 2024-10-21T03:06:21.623Z
+updated: 2024-10-25T02:03:55.252Z
 tags: 
   - screen-recording
   - ai video
@@ -54,10 +54,10 @@ thumbnail: https://thmb.techidaily.com/d91a8e4d3e328994798cbf4d4f5c1573225bbff13
  The 3DR solo drone is designed to serve with amazing aerial photography functions that is why it is one of the most preferred drones by cinematographers. One can easily connect it with GoPro cameras to get stunning shots on height. But the downside is its short battery life and weak GPS.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Complete Review
@@ -80,10 +80,10 @@ thumbnail: https://thmb.techidaily.com/d91a8e4d3e328994798cbf4d4f5c1573225bbff13
 ![3dr solo design](https://images.wondershare.com/filmora/article-images/3dr-solo-design.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Check at Amazon](https://www.amazon.com/gp/product/B00ZPM7BOG/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00ZPM7BOG&linkId=5a8069fda1f7be3bf48e831452f3ee9d)
@@ -103,10 +103,10 @@ thumbnail: https://thmb.techidaily.com/d91a8e4d3e328994798cbf4d4f5c1573225bbff13
 ![3dr solo controller](https://images.wondershare.com/filmora/article-images/3dr-solo-controller.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The 3DR solo controller appears trendy with just two joysticks that offer direct control to acceleration, yaw, pitch and roll. The fly button can be accessed for initiated automated landing and takeoff. A tiny screen is provided to display continuous information about battery condition and telemetry data. One additional knob is available for adjustments of camera angle controls. Other then this you will find one customizable button to activate autonomous flight mode. It also provides one pause button that helps users to make their drone stable in air. All other controls can be managed from application.
@@ -124,10 +124,10 @@ thumbnail: https://thmb.techidaily.com/d91a8e4d3e328994798cbf4d4f5c1573225bbff13
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -155,16 +155,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-introducing-high-quality-capture-with-yi/"><u>[New] 2024 Approved Introducing High-Quality Capture with YI</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-mastering-whatsapp-key-tricks-and-invisible-functions/"><u>[New] Mastering WhatsApp Key Tricks & Invisible Functions</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-redefining-visual-storytelling-with-virtual-reality/"><u>[New] Redefining Visual Storytelling with Virtual Reality</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-iphone-hacks-for-minimalist-video-presentation/"><u>[Updated] 2024 Approved IPhone Hacks for Minimalist Video Presentation</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-boosted-visuals-a-beginners-guide-to-gopro-video-editing/"><u>[Updated] In 2024, Boosted Visuals A Beginner's Guide to GoPro Video Editing</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-breakthrough-ai-creative-workstation/"><u>[Updated] In 2024, Breakthrough AI Creative Workstation</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-selecting-holy-songs-for-ringtone-amplification/"><u>[Updated] Selecting Holy Songs for Ringtone Amplification</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-x-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone X Passcode without iTunes without Knowing Passcode?</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-breezy-video-capture-testimony/"><u>In 2024, Breezy Video Capture Testimony</u></a></li>
-<li><a href="https://article-helps.techidaily.com/key-components-in-upgrading-from-standard-to-4k-lenses-for-2024/"><u>Key Components in Upgrading From Standard to 4K Lenses for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/keys-fans-ultimate-guide-to-score-lifetime-windows-11-at-unbeatable-price/"><u>Keys Fans' Ultimate Guide to Score Lifetime Windows 11 at Unbeatable Price</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-immersive-worlds-unveiled-jaunt-vr-in-focus/"><u>[New] 2024 Approved Immersive Worlds Unveiled Jaunt VR in Focus</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-detailed-review-navigating-through-polarrs-features-easily-for-2024/"><u>[New] Detailed Review Navigating Through Polarr's Features Easily for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-exploring-soft-cessation-of-audio-tracks-with-audacity-for-2024/"><u>[New] Exploring Soft Cessation of Audio Tracks with Audacity for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-instagram-reels-a-prodigys-blueprint/"><u>[New] Instagram Reels A Prodigy’s Blueprint</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-inside-the-magic-box-how-does-vr-function/"><u>[Updated] 2024 Approved Inside the Magic Box How Does VR Function?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-best-35-funny-photo-editors-and-apps-online-ios-android/"><u>[Updated] Best 35 Funny Photo Editors and Apps [Online, iOS, Android]</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-essential-tips-for-achieving-facebooks-trusted-marker/"><u>[Updated] Essential Tips for Achieving Facebook's Trusted Marker</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-exploring-entertainment-youtubes-integration-with-fb/"><u>2024 Approved Exploring Entertainment YouTube's Integration with FB</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/adding-vibrancy-easy-youtube-subscribe-animations-with-filmora-for-2024/"><u>Adding Vibrancy Easy YouTube Subscribe Animations with Filmora for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-asus-rog-phone-7-ultimate-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Asus ROG Phone 7 Ultimate is off? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/discovering-the-finest-free-srt-translation-tools/"><u>Discovering the Finest FREE SRT Translation Tools</u></a></li>
+<li><a href="https://article-helps.techidaily.com/economys-choice-high-quality-360-video-capabilities-for-2024/"><u>Economy's Choice High-Quality 360° Video Capabilities for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/guide-to-editing-your-childs-messenger-kids-info/"><u>Guide to Editing Your Child’s Messenger Kids Info</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-record-screen-with-audio-on-windows-best-solution/"><u>How to Record Screen with Audio on Windows [Best Solution]</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-expediting-video-aggregation-from-tiktok-in-a-flash/"><u>In 2024, Expediting Video Aggregation From TikTok in a Flash</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-perfect-your-video-nine-essential-filters-for-live-streaming/"><u>In 2024, Perfect Your Video Nine Essential Filters for Live Streaming</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-microsoft-store-issues-error-code-0x80072f17-fix/"><u>Resolving Microsoft Store Issues: Error Code 0X80072f17 Fix</u></a></li>
 </ul></div>
 

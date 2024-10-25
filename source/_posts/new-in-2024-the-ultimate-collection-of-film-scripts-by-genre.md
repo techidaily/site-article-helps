@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, The Ultimate Collection of Film Scripts by Genre"
-date: 2024-10-11T16:16:09.485Z
-updated: 2024-10-18T18:38:21.677Z
+date: 2024-10-23T20:32:18.440Z
+updated: 2024-10-24T20:46:34.184Z
 tags: 
   - screen-recording
   - ai video
@@ -74,13 +74,6 @@ Part of its enduring appeal is the simplicity of its concept: A kid who murdered
 
 **Download the script here:** <https://www.studiobinder.com/blog/halloween-script-screenplay-pdf-download/>
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Best comedy scripts
 
 **_1\. 21 Jump Street_**
@@ -98,13 +91,6 @@ Download the script here: <https://www.scriptslug.com/script/21-jump-street-2012
 **_2\. The Edge of Seventeen_**
 
 ![the edge of seventeen](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Writer:** Kelly Fremon Craig
 
@@ -130,29 +116,22 @@ _**2\. Angel's Poinsettia**_
 
 ![angel's poinsettia](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Writer:** Sally Painter
 
 Angel, a child fairy, learns a valuable lesson about caring for the sick when she runs away from home. Angel ventures into the human world, only her magic goes awry and she finds herself an unloved poinsettia plant. A homeless woman rescues Angel from a trash can and takes care of her back. Angel returns home with a greater appreciation for caring and caring for others. This skit takes approximately five minutes to complete.
 
 **Download the script here:** <https://cf.ltkcdn.net/christmas/files/2502-angels-poinsettia.pdf>
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Best promotional video scripts
 
 ![best promotional video scripts](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 _**1\. Announcement**_
 
@@ -263,13 +242,6 @@ Download the script here: <https://www.takarabio.com/documents/User%20Manual/RR0
 **_2\. UNBREAKABLE_**
 
 ![unbreakable](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-14.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Writer:** M. Night Shyamalan
 
@@ -333,17 +305,38 @@ When you look at the top-grossing movies at the box office, it's no surprise tha
 
 ![reason of picking films](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Sure, we'd all love to write one of those big blockbusters, but it's going to take a lot of blood, sweat, and writing to earn Marvel's trust. That's why I want to draw attention to the movie that is in fourth place: A Quiet Place Part II. The sequel to 2018's A Quiet Place has grossed over $160 million this year and still has three months to go. Why is this significant? I will explain.
 
 As aspiring screenwriters, it is important for us to focus on markets where we can break through. Some genres don't necessarily require a huge budget or an A-list star to be successful, and that's good news. Making a movie is the beginning of the journey to getting hired to write a superhero movie.
 
 ## Part 2\. Scripts examples from 8 genre
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Best horror scripts
 
 **_1\. Annabelle_**
 
 ![annabelle](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Writer:** Gary Dauberman
 
@@ -382,13 +375,6 @@ Download the script here: <https://www.scriptslug.com/script/21-jump-street-2012
 **_2\. The Edge of Seventeen_**
 
 ![the edge of seventeen](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Writer:** Kelly Fremon Craig
 
@@ -514,13 +500,6 @@ Secret Agent James Bond sets out on a mission as 007 in a screenplay that can sh
 
 **Download the script:** <https://thescriptlab.com/script-library/casinoroyale-pdf/>
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Best thriller scripts
 
 **_1\. PRIMER_**
@@ -549,24 +528,24 @@ The film stands out in the now crowded genre by avoiding any cataclysmic showdow
 
 **Download the script here:** <https://www.scripts.com/script/unbreakable%5F1086>
 
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Best animation scripts
 
 **_1\. Cinderella_(1950)**
 
 ![cinderella 1950](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-15.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Writers:** William Peet, Ted Sears, Homer Brightman, Kenneth Anderson, Erdman Penner, Winston Hibler, Harry Reeves, Joe Rinaldi
 
@@ -583,6 +562,13 @@ The money Cinderella made from its release, subsequent record sales, publishing,
 Like any child of the 90s, I admit to having a soft spot for The Lion King. The film was clearly heavily influenced by biblical stories, the Epic of Sundiatus and Shakespeare's Hamlet. It tells the story of Simba, the destined king of Pride Rock, who runs away guilt-ridden after "blaming" his father's death. The film is the highest-grossing hand-drawn film in history and won two Academy Awards for musical score.
 
 **Download the script here:** <https://www.studiobinder.com/blog/the-lion-king-script-screenplay-pdf-download/>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3\. Make your own short movie now
 
@@ -605,6 +591,20 @@ The 4K editing support feature enables users to edit and export videos at a reso
 The [color tuning](https://tools.techidaily.com/wondershare/filmora/download/) feature enables users to adjust the white balance and dynamic range of their clips. The audio mixer feature enables changing the audio of each track. The advanced text editor allows editing the color, size, font, and even animation of the text. The screen recording feature enables recording the screen of the computer and webcam efficiently. The video stabilization feature eliminates the effects of camera shake.
 
 ![color tuning](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-18.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -634,18 +634,22 @@ Creating video content that can potentially go viral is no longer a complicated 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-streaming-software-showdown-choosing-between-obs-and-streamlabs/"><u>[New] 2024 Approved Streaming Software Showdown Choosing Between OBS and Streamlabs</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-cutting-edge-gear-for-vr-enthusiasts/"><u>[New] In 2024, Cutting-Edge Gear for VR Enthusiasts</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-begin-with-class-in-every-screen-best-intro-editor-app/"><u>[Updated] 2024 Approved Begin with Class in Every Screen Best Intro Editor App</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-unveiling-the-truth-apples-face-id-against-samsung-writers-face-matching/"><u>[Updated] 2024 Approved Unveiling the Truth Apple's Face ID Against Samsung’ Writers' Face-Matching</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-audience-engagement-on-demand-top-5-mac-streaming-tools/"><u>[Updated] In 2024, Audience Engagement On Demand Top 5 Mac Streaming Tools</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-revisiting-erased-reddit-topics-fast-and-efficient-ways/"><u>[Updated] Revisiting Erased Reddit Topics Fast & Efficient Ways</u></a></li>
-<li><a href="https://article-helps.techidaily.com/action-camera-bargains-selecting-top-6-for-under-100-costs-for-2024/"><u>Action Camera Bargains Selecting Top 6 for Under $100 Costs for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/at-home-entertainment-with-fandango-on-apple-tv-how-to-watch-with-ease/"><u>At-Home Entertainment with Fandango on Apple TV - How To Watch With Ease</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exclusive-offers-now-score-deals-on-latest-tech-galaxy-s24-included/"><u>Exclusive Offers Now: Score Deals on Latest Tech - Galaxy S24 Included!</u></a></li>
-<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-xiaomi-civi-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Xiaomi Civi 3 | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/overlay-wizardry-on-your-windows-desktop-for-2024/"><u>Overlay Wizardry on Your Windows Desktop for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win11-nightmeow-shadow-issue-solved-with-fall-patch/"><u>Win11 Nightmeow: Shadow Issue Solved with Fall Patch</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/windows-10-dvd-iso-and/"><u>Windows 10 無料 DVD バックアップソフトウェア - ISO への変換 & ディスク保存機能付き</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-beginning-with-adobe-audition-the-fading-start/"><u>[New] 2024 Approved Beginning with Adobe Audition The Fading Start</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-highest-qp-for-gradual-video-playback/"><u>[New] 2024 Approved Highest QP for Gradual Video Playback</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-leading-the-pack-in-instagram-content-crafting-puzzle-feeds/"><u>[New] 2024 Approved Leading the Pack in Instagram Content Crafting Puzzle Feeds</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-vr-todays-core-technologies/"><u>[New] 2024 Approved VR Today's Core Technologies</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-ultimate-guide-to-bandicam-the-2023-comprehensive-overview-for-2024/"><u>[New] Ultimate Guide to Bandicam The 2023 Comprehensive Overview for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-colorful-conga-crow/"><u>[Updated] 2024 Approved Colorful Conga Crow</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-gradual-silence-techniques-in-fl/"><u>[Updated] 2024 Approved Gradual Silence Techniques in FL</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-navigating-final-cut-pro-with-ease-an-insiders-guide/"><u>[Updated] Navigating Final Cut Pro with Ease An Insider's Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-tutorial-for-deleting-windows-11-profiles-using-revo-software/"><u>Complete Tutorial for Deleting Windows 11 Profiles Using Revo Software</u></a></li>
+<li><a href="https://article-helps.techidaily.com/expert-analysis-unpacking-picsarts-capabilities/"><u>Expert Analysis Unpacking PicsArt's Capabilities</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-easy-to-follow-plan-for-5-effective-windows-11-audio-techniques/"><u>In 2024, Easy-to-Follow Plan for 5 Effective Windows 11 Audio Techniques</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-free-easy-tag-extraction-compilation-of-7-best-no-cost-online-tools/"><u>In 2024, Free, Easy Tag Extraction Compilation of 7 Best No-Cost Online Tools</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-magixs-masterpiece-an-in-depth-look-at-video-pro-x/"><u>In 2024, Magix's Masterpiece An In-Depth Look at Video Pro X</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-maximizing-earnings-with-youtube-studio-monetization-on-any-device/"><u>In 2024, Maximizing Earnings with YouTube Studio Monetization on Any Device</u></a></li>
+<li><a href="https://extra-support.techidaily.com/lapscape-dreaming-choosing-the-best-websites-for-aesthetic-backgrounds-for-2024/"><u>Lapscape Dreaming Choosing the Best Websites for Aesthetic Backgrounds for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/perfecting-pics-on-pc-our-top-5-snipping-apps-unveiled-for-2024/"><u>Perfecting Pics on PC Our Top 5 Snipping Apps Unveiled for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Understanding Mixed Reality's Impact on Interaction"
-date: 2024-10-12T19:52:54.326Z
-updated: 2024-10-19T03:08:52.189Z
+date: 2024-10-20T01:49:10.752Z
+updated: 2024-10-24T16:33:21.007Z
 tags: 
   - screen-recording
   - ai video
@@ -38,25 +38,38 @@ thumbnail: https://thmb.techidaily.com/dd1b377f0a177d81939c2e9879a9449aa15d2816c
  In mixed reality, the user is given the ability to explore the virtual environment and the real world seamlessly at the same time. Through the use space and coordinates, the virtual objects will be positioned on the real world and whenever you move towards the virtual objects, they become larger while moving away from them makes them smaller. Moving around the virtual objects will also give you different angles and perspectives. Additionally, mixed reality will allow users to manipulate the virtual objects and interact with them as if they were with them in the same place.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How does Mixed Reality work
 
  With the development of the technology is shrouded in secrecy by the major players, all that is known on the operations of the technology is that it uses virtual reality and augmented reality as well as space and coordinates. Magic Leap is the company at the forefront in the development of mixed reality and they have remained tight lipped about the finer details of what they are doing or developing. The scanty details we know however, suggests that just like Hololens, mixed reality will use a projector for displaying images on semi transparent materials which will then be reflected to the eye with the help of beam-splitting technology.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Applications of Mixed Reality
 
  Due to the unique features and experiences offered by mixed reality, businesses, developers and the world in general is beginning to explore the various ways to utilize the technology for the best possible results. Currently, fields such as medicine, architecture and urban planning and education and training appear to be the greatest beneficiary of mixed reality technology.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Mixed Reality for sharing real-world virtual workspaces
@@ -65,22 +78,15 @@ thumbnail: https://thmb.techidaily.com/dd1b377f0a177d81939c2e9879a9449aa15d2816c
 
  Sharing real world virtual spaces through mixed reality can be especially beneficial for sales team when making a pitch for a new offer. For instance, a pharmaceutical sales rep can carry along two mixed reality devices to an appointment with the doctor. The doctor and the sales rep can then both wear the devices and see a model of the new drug as explained by the sales rep. Through this, they can then visualize the chemical composition of the drug and also simulate how the drug will move in the body to fight diseases. Through such a shared experience, the sales rep will not only build deeper connections with the doctor, but also offer a more detailed explanation on the product being offered.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Mixed reality for remote experts – over the shoulder coaching
 
  Most enterprises usually find it difficult to address all the support requests from all the clients in need of expert advice. It is not only costly to fly in specialists to fix things in different locations, but also time consuming. Besides, it is never adequate to troubleshoot an issue over the phone and video conferencing in such situations also have its limitations. But all these can now be avoided through the application of mixed reality for offering over the shoulder coaching remotely. With mixed reality, access to experts can be done quickly and inexpensively. For example, doctors in the healthcare industry can offer guidance and decisions to students or other doctors without the need of being in the actual locations.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The future of mixed reality
@@ -118,24 +124,16 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-metaverse-musings-arvr-inclusive-quotes-collection/"><u>[New] 2024 Approved Metaverse Musings AR/VR-Inclusive Quotes Collection</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-creating-compelling-visual-collections-from-single-images/"><u>[New] Creating Compelling Visual Collections From Single Images</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-cutting-edge-transitions-for-kinemaster-users-for-2024/"><u>[New] Cutting Edge Transitions for Kinemaster Users for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-elevate-your-visual-storytelling-mastering-pixizs-video-capabilities-for-2024/"><u>[New] Elevate Your Visual Storytelling Mastering Pixiz's Video Capabilities for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-experience-a-bundle-of-9-whole-film-christmas-treasures-for-free/"><u>[New] Experience a Bundle of 9 Whole-Film Christmas Treasures for Free</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-communication-mastery-for-impactful-interviews/"><u>[New] In 2024, Communication Mastery For Impactful Interviews</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-switch-from-youtube-thumbnail-view-to-live-stream/"><u>[New] In 2024, Switch From YouTube Thumbnail View to Live Stream</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-unleash-pure-content-how-to-block-youtube-ads-effectively/"><u>[New] In 2024, Unleash Pure Content How to Block YouTube Ads Effectively</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-boost-your-gaming-presence-with-easy-and-cost-effective-character-voice-alteration-in-free-fire/"><u>[Updated] Boost Your Gaming Presence with Easy and Cost-Effective Character Voice Alteration in Free Fire</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-best-eco-savvy-movie-capture-tools-usage-methods/"><u>[Updated] In 2024, Best Eco-Savvy Movie Capture Tools Usage Methods</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-gimbal-guide-to-elevate-dslrmirrorless-footage/"><u>[Updated] In 2024, Gimbal Guide to Elevate DSLR/Mirrorless Footage</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-step-into-the-details-the-quickest-ways-to-zoom-in-minecraft-for-2024/"><u>[Updated] Step Into the Details The Quickest Ways to ZOOM in Minecraft for 2024</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/come-installare-o-riparare-il-master-boot-record-su-uefi-con-windows-gpt-per-windows-1187/"><u>Come Installare O Riparare Il Master Boot Record Su UEFI Con Windows (GPT) per Windows 11/8/7</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-unlock-apple-iphone-8-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Apple iPhone 8 without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-essential-tools-free-online-youtuber-starters/"><u>In 2024, Essential Tools Free Online Youtuber Starters</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-exchanging-visuals-android-iphone-content-transfer/"><u>In 2024, Exchanging Visuals Android-iPhone Content Transfer</u></a></li>
-<li><a href="https://fox-search.techidaily.com/mastering-document-management-within-windows-explorers-file-system/"><u>Mastering Document Management Within Windows Explorer's File System</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/ultimate-list-of-free-cross-platform-uhd-software-for-windows/"><u>Ultimate List of Free, Cross-Platform UHD Software for Windows</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unleashing-ultra-fast-wifi-with-netgear-nighthawk-x10-ad7200-a-comprehensive-review/"><u>Unleashing Ultra-Fast WiFi with Netgear Nighthawk X10 AD7200: A Comprehensive Review</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/evel-in-the-rhythm-of-rising-text/"><u>[New] Revel in the Rhythm of Rising Text</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-heaviest-heroes-in-the-air-drone-power-list/"><u>[Updated] Heaviest Heroes in the Air Drone Power List</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-polarr-photo-magic-your-complete-image-processing-manual/"><u>2024 Approved Polarr Photo Magic Your Complete Image Processing Manual</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/assessing-the-performance-of-the-fitbit-charge-year-an-updated-buyers-guide/"><u>Assessing the Performance of the Fitbit Charge ([Year]): An Updated Buyer's Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/crafting-cinematic-magic-essential-tips-for-creating-stunning-slow-motion-media-on-instagram/"><u>Crafting Cinematic Magic Essential Tips for Creating Stunning Slow-Motion Media on Instagram</u></a></li>
+<li><a href="https://article-helps.techidaily.com/fastest-audio-playback-speed-controlers-collection-for-2024/"><u>Fastest Audio Playback Speed Controlers Collection for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/htc-vive-unveiled-mastering-your-3d-world-for-2024/"><u>HTC Vive Unveiled Mastering Your 3D World for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-9-best-4k-monitors-for-video-editing/"><u>In 2024, 9 Best 4K Monitors for Video Editing</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/instas-power-players-a-guide-to-your-niches-movers-and-shakers-for-2024/"><u>Insta’s Power Players A Guide to Your Niche's Movers & Shakers for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/wwe-2k22-pc-version-why-is-it-continuously-freezing-troubleshooting-tips/"><u>WWE 2K22 PC Version: Why Is It Continuously Freezing? - Troubleshooting Tips</u></a></li>
 </ul></div>
 

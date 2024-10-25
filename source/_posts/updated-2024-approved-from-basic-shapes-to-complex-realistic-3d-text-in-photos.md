@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  From Basic Shapes to Complex, Realistic 3D Text in Photos\""
-date: 2024-10-15T08:10:50.976Z
-updated: 2024-10-18T23:12:37.302Z
+date: 2024-10-22T20:56:48.753Z
+updated: 2024-10-24T16:13:46.319Z
 tags: 
   - screen-recording
   - ai video
@@ -83,6 +83,13 @@ There is. It's called [Filmora](https://tools.techidaily.com/wondershare/filmora
 
 Compared to Photoshop, Filmora is not only easier to use, but it's significantly more affordable as well. With that said, let's find out how you can create a 3D text effect in Filmora.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Make a 3D Text Effect in Filmora
 
 The steps are extremely simple. Just follow each exactly as you see it here and you will be done in no more than 5 minutes.
@@ -96,10 +103,10 @@ Step2 Import a background video or image by going to **My Media** and selecting 
 ![import media files filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step3 Next, head over to **Titles** and search for "3D". Select any option you like and drag it to the Timeline, above your background clip.
@@ -111,13 +118,26 @@ Step4 Lastly, double-click on the 3D Title clip in the Timeline and edit its set
 ![3d titles filmora](https://images.wondershare.com/filmora/guide/3d-title.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 That's it! Congratulations!. You've created a 3D text effect with Filmora in just four simple steps.
+
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -127,13 +147,6 @@ Creating 3D text with Photoshop is a good idea if you already know how to use th
 
 Compared to Photoshop, Filmora is not only easier to use, but it's significantly more affordable as well. With that said, let's find out how you can create a 3D text effect in Filmora.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Make a 3D Text Effect in Filmora
 
 The steps are extremely simple. Just follow each exactly as you see it here and you will be done in no more than 5 minutes.
@@ -146,27 +159,20 @@ Step2 Import a background video or image by going to **My Media** and selecting 
 
 ![import media files filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step3 Next, head over to **Titles** and search for "3D". Select any option you like and drag it to the Timeline, above your background clip.
 
 ![title option filmora](https://images.wondershare.com/filmora/guide/types-of-titles-win-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step4 Lastly, double-click on the 3D Title clip in the Timeline and edit its settings. Type in your custom text, change its font, color, and other features.
 
 ![3d titles filmora](https://images.wondershare.com/filmora/guide/3d-title.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 That's it! Congratulations!. You've created a 3D text effect with Filmora in just four simple steps.
 
@@ -198,22 +204,24 @@ Creating 3D text with Photoshop is a good idea if you already know how to use th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-mastering-gopro-timelapse-a-step-by-step-guide-for-2024/"><u>[New] Mastering GoPro Timelapse A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-capture-clarity-boost-photos-with-zero-cost/"><u>[Updated] 2024 Approved Capture Clarity Boost Photos with Zero Cost</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-easy-start-8-great-beginner-friendly-filming-cameras/"><u>[Updated] 2024 Approved Easy Start 8 Great Beginner-Friendly Filming Cameras</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-expert-advice-on-crafting-an-ideal-video-conference-room/"><u>[Updated] In 2024, Expert Advice on Crafting an Ideal Video Conference Room</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-premium-video-experience-best-tools-to-upgrade-your-downloads/"><u>[Updated] Premium Video Experience Best Tools to Upgrade Your Downloads</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-social-media-blend-adding-youtube-content-to-stories-for-2024/"><u>[Updated] Social Media Blend Adding YouTube Content to Stories for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-video-platforms-at-a-glance-comparing-vimeo-and-youtube/"><u>2024 Approved Video Platforms at a Glance Comparing Vimeo & YouTube</u></a></li>
-<li><a href="https://change-location.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Vivo X100 Pro | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/hideous-heroes-black-vs-gleaming-guardians-silver/"><u>Hideous Heroes (Black) VS Gleaming Guardians (Silver)</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-crafting-perfect-ringtones-from-popular-tiktok-audio-tracks/"><u>In 2024, Crafting Perfect Ringtones From Popular TikTok Audio Tracks</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-elevate-your-visual-content-a-guide-to-videoleap-zooming/"><u>In 2024, Elevate Your Visual Content A Guide to Videoleap Zooming</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-quotes-for-a-new-dimension-a-metaverse-visionary-collection/"><u>In 2024, Quotes for a New Dimension A Metaverse Visionary Collection</u></a></li>
-<li><a href="https://common-error.techidaily.com/nba-2k21s-viridian-flaw-unveiled-solutions-inside/"><u>NBA 2K21's Viridian Flaw Unveiled - Solutions Inside!</u></a></li>
-<li><a href="https://article-helps.techidaily.com/the-essential-guide-to-playstation-45-audio-tweaks-for-2024/"><u>The Essential Guide to PlayStation 4/5 Audio Tweaks for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-11-laptop-gpu-activation-success/"><u>Windows 11 Laptop: GPU Activation Success</u></a></li>
-<li><a href="https://win-answers.techidaily.com/xboxpc-fixes-for-warzone-memory-error-understanding-and-resolving-code-0-1766/"><u>Xbox/PC Fixes for 'Warzone' Memory Error: Understanding and Resolving Code 0-1766</u></a></li>
-<li><a href="https://article-helps.techidaily.com/zoom-meets-tiktok-streamlining-video-sharing/"><u>Zoom Meets TikTok Streamlining Video Sharing</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-expert-picked-screen-capturers-of-movies/"><u>[New] 2024 Approved Expert-Picked Screen Capturers of Movies</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-crafting-the-ultimate-documentary-experience/"><u>[New] Crafting the Ultimate Documentary Experience</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlocking-creativity-through-intense-iphone-photos/"><u>[New] Unlocking Creativity Through Intense iPhone Photos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-a-guide-to-unwavering-visual-captures/"><u>[Updated] A Guide to Unwavering Visual Captures</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-dive-into-telegram-marketing-a-first-timers-primer-for-2024/"><u>[Updated] Dive Into Telegram Marketing A First Timer's Primer for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-elevating-engagement-the-dos-and-donts-of-fb-giveaways/"><u>[Updated] In 2024, Elevating Engagement The Do's and Don'ts of FB Giveaways</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-mastering-podcast-submission-googles-steps/"><u>[Updated] In 2024, Mastering Podcast Submission Google's Steps</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-melodious-memories-capturing-songs-in-your-snaps-for-2024/"><u>[Updated] Melodious Memories Capturing Songs in Your Snaps for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-enhance-user-experience-top-free-speech-to-text-apps-for-mac-revealed/"><u>2024 Approved Enhance User Experience Top Free Speech-to-Text Apps for Mac Revealed</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-tecno-pova-5-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Tecno Pova 5 Pro to iPhone | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/cutting-edge-filtration-mondly-pearson-tech-alliance/"><u>Cutting-Edge Filtration: Mondly-Pearson Tech Alliance</u></a></li>
+<li><a href="https://article-helps.techidaily.com/diminuendo-techniques-for-digital-ears/"><u>Diminuendo Techniques for Digital Ears</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722968596385-effortless-asus-bluetooth-driver-downloads-and-upgrades-at-your-fingertsip/"><u>Effortless ASUS Bluetooth Driver Downloads & Upgrades at Your Fingertsip</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/gazescope-grading-guide/"><u>GazeScope Grading Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/harnessing-the-power-of-zooms-video-features-on-youtube-platform-for-2024/"><u>Harnessing the Power of Zoom's Video Features on YouTube Platform for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-12-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix iPhone 12 Passcode not Working?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-switch-to-the-future-capture-cards-guide/"><u>In 2024, Switch to the Future Capture Cards Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/rec-room-microphone-troubleshooting-fix-and-optimize-your-setup/"><u>Rec Room Microphone Troubleshooting: Fix & Optimize Your Setup</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-key-to-rapid-likes-smart-bio-hacks-that-really-work-on-tinder/"><u>The Key to Rapid Likes? Smart Bio Hacks that Really Work on Tinder</u></a></li>
 </ul></div>
 

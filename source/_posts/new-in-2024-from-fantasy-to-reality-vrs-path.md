@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, From Fantasy to Reality  VR’s Path\""
-date: 2024-10-17T04:18:47.572Z
-updated: 2024-10-19T08:38:49.483Z
+date: 2024-10-18T22:29:22.913Z
+updated: 2024-10-25T00:19:23.503Z
 tags: 
   - screen-recording
   - ai video
@@ -45,10 +45,10 @@ _[Virtual Reality Technology: Current State and Future Challenges](https://tools
 In Pygmalions Spectacles, Stanley G. Weinbaum explains a goggle based game in which individuals can watch a holographic recording of virtual stories including touch and smell. This amazing vision of the future would actually turn into what we think of as virtual-reality today. While it's difficult to introduce touch and smell elements into the average virtual-reality experience, these are visions that creators have in mind for the very near future of virtual-reality experiences. It's amazing to think that 85+ years ago, people were already thinking about creating simulation experiences using technology. We still think of these types of plans as we look towards the future of VR. With rapidly changing technology however, these improvements to the VR simulation experience may be far closer than decades away.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## VR development in 1960s
@@ -56,10 +56,10 @@ In Pygmalions Spectacles, Stanley G. Weinbaum explains a goggle based game in wh
 VR headsets actually started development in the 1960s. Just 30 years from the original thought of a VR headset, Ivann Sutherland created the very first VR headset for use with military applications. Using a specialized military software as well as a motion control platform, the first VR headsets were designed for use in training exercises. These VR training tools have now become the standard in the military for training for flight exercises, combat situations and more. An immersive experience is definitely required to push military personnel and prepare them in a safe training environment before they enter into the field. Many air forces around the world require an extensive amount of VR training simulations before they will even let a pilot into one of their aircraft. With the initial development using specialized software and motion controls, VR research would continue to pave the way for training in the military and beyond. Today’s military VR headsets are far more advanced, compact and immersive and these training programs as well as the technology will continue to develop a little bit faster than some of the products that we might find as regular consumers.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## VR development in 1990s
@@ -71,10 +71,10 @@ VR headsets begin to make their way into a few arcade games for simulations and 
 Oculus VR represents the latest revolution in VR technology. When Facebook officially acquired the Oculus VR system, this showed that virtual-reality was becoming a huge concern for many of the world's top developers. Although the Oculus Rift was formed out of a kickstarter campaign in 2012, the deal in 2014 represented a huge boost in their funding and confidence. Later in 2015, Oculus began to acquire other companies like Surreal Vision and built partnerships with Samsung to develop the Samsung gear VR. As one of the leading companies in VR development, Oculus has fully functioning VR systems for consumers to purchase and use at home. With support for a wide range of applications and further applications being developed for specific use with their VR systems, this was a huge leap forward for VR. After gaining international attention with the demand after the Facebook deal, this would propel many other developers into creating their own VR development firms. Oculus in a way started a brand-new VR renaissance with a call to create immersive and simulated experiences for the average consumer. Previous VR headsets were very technical and inaccessible for the average computer user, but with plug-and-play compatibility and a wide host of supported applications, Oculus gave the average consumer hope that they can enjoy VR again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## VR development in 2016 and beyond
@@ -86,16 +86,10 @@ The future of VR looks very bright and with so many new devices in development i
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -123,24 +117,20 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-bridging-worlds-a-deep-dive-into-vr-developments/"><u>[New] Bridging Worlds A Deep Dive Into VR Developments</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-in-depth-look-at-12-techniques-for-storing-web-based-songs/"><u>[New] In 2024, In-Depth Look at 12 Techniques for Storing Web-Based Songs</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-the-audiophiles-companion-to-top-tier-audio-equipment/"><u>[New] In 2024, The Audiophile's Companion to Top-Tier Audio Equipment</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-photovideo-tips-manipulating-text-with-style/"><u>[Updated] 2024 Approved Photo/Video Tips Manipulating Text with Style</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-expand-horizons-freshest-wins11-apps-and-games/"><u>[Updated] In 2024, Expand Horizons Freshest Wins11 Apps & Games</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-the-filmmakers-edge-mastering-kinemasters-zoom-functionality/"><u>[Updated] In 2024, The Filmmaker's Edge Mastering Kinemaster's Zoom Functionality</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-the-art-of-color-grading-employing-luts-from-cg-central-for-2024/"><u>[Updated] The Art of Color Grading Employing LUTs From CG Central for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-insta-pros-guide-accelerate-your-path-to-social-media-stardom/"><u>2024 Approved Insta Pro's Guide Accelerate Your Path to Social Media Stardom</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-asus-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Asus?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-xiaomi-redmi-13c-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Xiaomi Redmi 13C 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-nextgen-vision-optimal-4k-displays-for-professional-edits/"><u>In 2024, NextGen Vision Optimal 4K Displays for Professional Edits</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/leading-waterproof-phone-sleeves-and-cases-market-review-2024-edition/"><u>Leading Waterproof Phone Sleeves and Cases Market Review - 2024 Edition</u></a></li>
-<li><a href="https://article-helps.techidaily.com/mastering-haul-vids-creation-and-editing-basics/"><u>Mastering Haul Vids Creation & Editing Basics</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcome-windows-11-casting-hurdles-successful-connection-tips/"><u>Overcome Windows 11 Casting Hurdles - Successful Connection Tips</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/pioneering-tools-to-embellish-photos-with-words/"><u>Pioneering Tools to Embellish Photos with Words</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Samsung Galaxy A25 5G? | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/ultimate-mac-guide-to-saving-roblox-adventures-for-2024/"><u>Ultimate Mac Guide to Saving Roblox Adventures for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/ultimate-selection-the-top-15plus-vr-games-on-google-cardboard-for-2024/"><u>Ultimate Selection The Top 15+ VR Games on Google Cardboard for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/unlocking-fb-video-content-sharing-from-windows-pc-ios-android/"><u>Unlocking FB Video Content Sharing From Windows PC, iOS, Android</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-excellence-in-ai-based-photo-transformations/"><u>[New] Excellence in AI-Based Photo Transformations</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-facebook-story-viewer-view-facebook-stories-anonymously/"><u>[Updated] 2024 Approved Facebook Story Viewer View Facebook Stories Anonymously</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-from-single-shots-to-unified-visions-a-mosaic-story/"><u>[Updated] 2024 Approved From Single Shots to Unified Visions A Mosaic Story</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-stealthy-photo-editing-with-picsart/"><u>[Updated] 2024 Approved Stealthy Photo Editing with Picsart</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-transition-techniques-for-flawless-inshot-videos/"><u>[Updated] 2024 Approved Transition Techniques for Flawless Inshot Videos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-breaking-ground-in-vr-content-development-for-2024/"><u>[Updated] Breaking Ground in VR Content Development for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-exploring-top-tier-no-cost-webm-video-streamers-for-browsers/"><u>[Updated] In 2024, Exploring Top-Tier, No-Cost WebM Video Streamers for Browsers</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-maximize-zooms-value-triad-of-conversion-mastery-for-2024/"><u>[Updated] Maximize Zoom's Value Triad of Conversion Mastery for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-from-overflow-to-organization-editing-giant-tiktok-files-with-precision/"><u>2024 Approved From Overflow to Organization Editing Giant TikTok Files with Precision</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-smoothly-stitching-images-together/"><u>2024 Approved Smoothly Stitching Images Together</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-whats-new-in-vr/"><u>2024 Approved What's New in VR?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-technology-with-tom-detailed-guides-on-the-latest-gadgets/"><u>Exploring Technology with Tom: Detailed Guides on the Latest Gadgets</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-honor-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Honor Phone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-samsung-galaxy-a05s-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Samsung Galaxy A05s for Streaming | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-vivo-x90s-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Vivo X90S</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Highest Quality Images  10 Premium 4K Cameras in Smartphones\""
-date: 2024-09-09T14:46:24.449Z
-updated: 2024-09-10T14:46:24.449Z
+date: 2024-10-19T00:36:13.078Z
+updated: 2024-10-25T06:04:30.403Z
 tags: 
   - screen-recording
   - ai video
@@ -22,12 +22,6 @@ thumbnail: https://thmb.techidaily.com/230adad01721806c33e8b8bec3c60db44af37ad23
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Max Wales
 
  Mar 27, 2024• Proven solutions
@@ -65,18 +59,6 @@ In terms of photography, Sony is one of those respected names in the industry. T
 
 ![Huawei P10](https://images.wondershare.com/filmora/article-images/huawei-p10-full-color-range.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Check P10 at Amazon](https://www.amazon.com/gp/product/B06XY74463/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B06XY74463&linkId=7531f8fc07ef1629ff22b01c39267bf2)
 
 One of the best partnerships Huawei did in the last few years was with Leica. And now, you can take advantage of their amazing cameras. The Huawei P10 comes with one front camera with 8Mp and two back cameras: one with 12MP and another one with 20MP. Just like it already happened with the previous Huawei models, you can use the 20MP one to take black-and-white photos. However, when you use both rear cameras, your photos will have a better clarity. Although the Huawei P10 comes with the feature that allows you to shoot 4K videos, the fact is that it doesn't offer any [stabilization](https://tools.techidaily.com/wondershare/filmora/download/) when you're recording at this resolution. As if this wasn't enough, if you use Windows, you won't be able to open them by using Windows's 10 Photos app, VLC, and you won't even be able to upload it directly to YouTube. Another thing that we notice is that the Huawei P10 camera doesn't deal very well with low light. Even though you'll have fun playing with the different modes of the Huawei P10 camera, the truth is that there are better smartphone cameras in the market these days.
@@ -87,18 +69,6 @@ One of the best partnerships Huawei did in the last few years was with Leica. An
 
 ![Samsung Galaxy S8](https://images.wondershare.com/filmora/article-images/galaxy-s8-model.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Check Galaxy S8 at Amazon](https://www.amazon.com/gp/product/B06Y14T5YW/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B06Y14T5YW&linkId=01db8297751893b9921ba30138d3f180)
 
 Samsung has been a leader in what comes to the cameras they use on their smartphones. So, we weren't really expecting anything less than that. The Samsung Galaxy S8 comes with a front camera with 8Mp and a rear camera with 12Mp. In what concerns to the menu itself, although you will only see the main icons on the screen, they included a lot of features that you can use. The Samsung Galaxy S8 camera works very well in the outdoors. The photos are sharp and show a lot of details and textures. And one of the main reasons why they achieve this major success is because their camera is using the HDR as default. Plus, since they also include the electronic stabilization, this ensures that your photos will be great even though you shake or the light is a bit low. In case you're serious about shooting 4K videos, you need to know that the sound quality is not the best in the market and that you might have a few problems with the hybrid stabilization system. However, the Samsung Galaxy S8 camera still is one of the best in the market.
@@ -109,12 +79,6 @@ Samsung has been a leader in what comes to the cameras they use on their smartph
 
 ![Google Pixel XL 4K Phone](https://images.wondershare.com/filmora/article-images/google-pixel-xl-4k-phone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Check Pixel XL at Amazon](https://www.amazon.com/gp/product/B01M0PADR4/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01M0PADR4&linkId=081b7999011d308daca1275227511832)
 
 While the Google Pixel XL already has one year, it continues to have one of the best cameras on the market. The Google Pixel XL includes a front camera with 8Mp and a rear camera with 12.3Mp. Although you might find some excessive sharpness on some of your photos, most people seem to like it. One of the things that allow the Google Pixel XL to remain as one of the best on the market until today is the fact that the smartphone features the Snapdragon 821\. And since it is so powerful, the Google Pixel XL is able to run HDR+ all the time. If there is something we love about the Google Pixel XL camera is the ability it has to combine different "raw" images and produce a high-quality JPG without any ghosting or blurring. In the 4K videos, you can count with some pretty smooth and nice videos although it doesn't include optical stabilization. The difference is that Google chose to use gyro-based stabilization instead. The Google Pixel XL camera also works pretty well not only with low light photos as well as selfies that come with a lot of detail.
@@ -139,18 +103,6 @@ The OnePlus 5 comes with a double rear camera - one with 16Mp and the other one 
 
 ![HTC U11 4K Phone](https://images.wondershare.com/filmora/article-images/htc-u11-design.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Check HTC U11 at Amazon](https://www.amazon.com/gp/product/B07144ZQ87/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07144ZQ87&linkId=904935237c80d28c01866b82ef2345aa)
 
 When you're looking for a smartphone that has a great camera, one of the things that you really need to look at is how are the images they produce with low light. And in what comes to this, the HTC U11 is definitely the winner. Featuring a front camera with 16Mp and a rear camera with 12Mp, the HTC U11 is perfect if you like to take "normal" photos. Since it includes the "dual-pixel" feature (just like the Samsung S8) that allows you to quickly focus, you can view them in every screen size that they will look amazing. In what concerns to video, although the default is set to 1080p, you can easily select the 4K option. One of the good things is that the HTC U11 includes image stabilization; one bad thing is that it doesn't really work well when you're using the 4K resolution (it works best when you're using the default resolution - 1080p). Overall, the HTC U11 doesn't disappoint at all. Yes, it could be better, especially in what concerns with 4K video shooting. However, the photos you get, especially with low light, are pretty amazing.
@@ -165,42 +117,18 @@ One of the most attractive things about the Xiaomi Mi 6 is the price. It's about
 
 ![iPhone 7 Plus 4K Phone](https://images.wondershare.com/filmora/article-images/iphone-7-plus-4k-smartphone.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Featuring a 7Mp camera in the front and 2 back cameras, both with 12Mp, the iPhone 7 Plus was the first Apple smartphone to include 2 cameras in the back. The only feature added to the camera of the iPhone 7 Plus is the telephoto lens. This feature allows you to have a 2x optical zoom and it works pretty well. However, rather than that, the features continue to be all the same that was already included on the previous versions of the iPhone. One of the things that we really don't like is the fact that the video resolution settings aren't where they were supposed to be. Instead, you need to open the Setting's app of the smartphone and scroll until you find the Photos & Camera. Other than this, we are quite happy with the iPhone experience. The main camera photos are absolutely great in terms of color accuracy, sharpness, focus, and contrast. After all, it enables the HDR by default and it works pretty quickly. In what concerns to 4K videos, we are happy to say that they are detailed and sharp, just like the photos we already mentioned. The audio is high-quality and the stabilization is impressive. But not all is good with the iPhone 7 Plus camera. Low light photos may show you a low-quality level, especially when compared with these top smartphones. They will look very noisy.
 
 #### 10. MOTO Z2 Play
 
 ![Moto Z2 Play 4K Phone](https://images.wondershare.com/filmora/article-images/moto-z2-play-4k-phone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Check MOTO Z2 Play at Amazon](https://www.amazon.com/gp/product/B073SBYMK7/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B073SBYMK7&linkId=8688020d43707610af045a46cdb025ad)
 
 Featuring a 5MP camera on the front and a 12Mp camera on the back, we can say that the photos taken with the MOTO Z2 Play are among average. While the rear camera includes phase detection autofocus, dual-pixel autofocus, laser autofocus, and a dual-tone LED flash, this should imply that low light photos would have an awesome quality. However, this is not always the case since you sometimes, just need to keep tapping to focus what you want. One of the things we noticed was the difference when you're looking at the photos on the smartphone itself and on another device. The truth is that they look a lot better on the AMOLED screen of the MOTO Z2 Play. When you're trying to take a photo with low light, the auto night mode will activate. Again, the results weren't always good or always bad. They kept changing. In what concerns video capabilities, the MOTO Z2 Play allows you to shoot using Full-HD or 4K. Although the videos could be a lot better, they are quite ok. Besides, one of the things that you can easily do is to use the Go Live mode and go live directly on YouTube.
 
 Check[MOTO Z2 Play 4K Smartphone Complete Review >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Recommended Video Editor App for Your New 4K Camera Phones
 
 After unboxing your favorite 4K camera phone, it is time to install various apps. No matter you are looking for an App to create funny videos or make an aesthetic photo collage, it is necessary to install an easy-to-use yet versatile video editor. Luckily, [Wondershare Filmora](https://filmorago.onelink.me/4M4O/34b09bf4) is a great choice considering its powerful features and numerous video effects to match your needs.
@@ -211,6 +139,19 @@ After unboxing your favorite 4K camera phone, it is time to install various apps
 4. Amazing templates update weekly
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -223,12 +164,20 @@ So, which smartphone should you get? Which one has the best camera? Which one is
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -253,4 +202,26 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-simplifying-display-images-with-screencapture-techniques/"><u>[New] 2024 Approved Simplifying Display Images with ScreenCapture Techniques</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-time-honored-top-15-in-the-world-of-stop-motion/"><u>[New] 2024 Approved Time-Honored Top 15 in the World of Stop-Motion</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-duration-formula-20mb-video-in-secs/"><u>[New] In 2024, Duration Formula 20MB Video in Secs</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-join-anytime-easy-zoom-integration-with-android-devices/"><u>[New] Join Anytime Easy Zoom Integration with Android Devices</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-prime-choice-of-low-cost-hd-action-recorders-for-2024/"><u>[New] Prime Choice of Low-Cost HD Action Recorders for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-best-practices-for-safe-no-cost-vlc-player-download-on-apple-systems/"><u>[Updated] 2024 Approved Best Practices for Safe, No-Cost VLC Player Download on Apple Systems</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-synchronizing-realism-advanced-green-screen-applications-for-viewers/"><u>[Updated] 2024 Approved Synchronizing Realism Advanced Green Screen Applications for Viewers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-visionboost-converter-windows-mac-online-version/"><u>[Updated] 2024 Approved VisionBoost Converter – Windows, Mac, Online Version</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-discovering-the-immersive-world-of-lg-27ud68/"><u>[Updated] Discovering the Immersive World of LG 27UD68</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-fix-lonely-beats-airpod-solution/"><u>[Updated] In 2024, Fix Lonely Beats Airpod Solution</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-instructions-windows-movie-maker-version-6-installation/"><u>[Updated] Instructions Windows Movie Maker Version 6 Installation</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-techniques-to-write-persuasive-videographic-dialogues/"><u>[Updated] Techniques to Write Persuasive Videographic Dialogues</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-the-beginners-guide-to-weekly-virtual-office-hours/"><u>2024 Approved The Beginner's Guide to Weekly Virtual Office Hours</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1728497338249-dropbox/"><u>外付けハードディスクからDropbox上での安全なデータ移行ガイド</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/download-free-tools-for-converting-fb-video-to-premium-mp4-quality/"><u>Download-Free Tools for Converting FB Video to Premium MP4 Quality</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elite-media-reader-unmatched-for-all-devices-type/"><u>Elite Media Reader - Unmatched for All Devices Type</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-avoiding-unwanted-image-ripples/"><u>In 2024, Avoiding Unwanted Image Ripples</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-emotive-algorithmic-enigma-can-ai-feel-recognize-understand/"><u>The Emotive Algorithmic Enigma: Can AI Feel, Recognize, Understand?</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-burstsplit-pro-speedy-methods-for-efficient-mp3-file-partitioning/"><u>Updated In 2024, BurstSplit Pro Speedy Methods for Efficient MP3 File Partitioning</u></a></li>
+</ul></div>
 

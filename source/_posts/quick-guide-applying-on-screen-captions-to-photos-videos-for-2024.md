@@ -1,7 +1,7 @@
 ---
 title: "\"Quick Guide  Applying On-Screen Captions to Photos Videos for 2024\""
-date: 2024-10-17T08:23:48.348Z
-updated: 2024-10-18T16:33:58.688Z
+date: 2024-10-22T20:08:14.314Z
+updated: 2024-10-24T16:10:13.557Z
 tags: 
   - screen-recording
   - ai video
@@ -57,10 +57,10 @@ Do you wish to add titles/text to video on Photos in Windows 10 for your video p
 * For addition of credits, try to use the Classic text style. Put each of the credits in a new line and do give credits to yourself as well
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Make Text Move in Windows 10 Photos App
@@ -74,6 +74,13 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/effects-photos.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Some of the effects might not have the option to move or anchor but if you choose the one that does allow moving of texts, you get an option to attach once you select it
 * Pin the slider in Attach to a point at the On position
 * To add the 3D moving image, drag the blue anchor to the object you’d like to attach and wait as it process
@@ -81,30 +88,29 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/attach-effects-photos-min.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * To increase or decrease the length of animation time, adjust the slider
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/edit-text-photos.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -138,24 +144,16 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-craft-natural-motion-depth-in-ps/"><u>[New] 2024 Approved Craft Natural Motion Depth in PS</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-explore-the-best-spots-for-acquiring-got-tones/"><u>[New] 2024 Approved Explore the Best Spots for Acquiring GoT Tones</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-best-practices-top-5-audio-recording-approaches-on-windows-11-platform-for-2024/"><u>[New] Best Practices Top 5 Audio Recording Approaches on Windows 11 Platform for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-crafting-with-colors-principles-in-action-for-2024/"><u>[New] Crafting with Colors Principles in Action for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-cutting-edge-6-software-choices-for-effortless-background-erasing/"><u>[New] Cutting-Edge 6 Software Choices for Effortless Background Erasing</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-efficient-techniques-for-screen-shotting-and-video-recording/"><u>[New] Efficient Techniques for Screen Shotting and Video Recording</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-minimizing-noise-subtle-audio-tweaks-for-pc-mac/"><u>[New] Minimizing Noise Subtle Audio Tweaks for PC, Mac</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-sound-system-personalizations-on-ps-games-for-2024/"><u>[New] Sound System Personalizations on PS Games for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-streamlining-the-process-of-updating-tiktok-profile-age-for-2024/"><u>[New] Streamlining the Process of Updating TikTok Profile Age for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-the-ultimate-guide-to-leveraging-preview-capabilities-on-a-mac/"><u>[New] The Ultimate Guide to Leveraging Preview Capabilities on a Mac</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-soar-with-the-pros-top-9-drone-editors-at-every-experience-level/"><u>[Updated] 2024 Approved Soar with the Pros Top 9 Drone Editors at Every Experience Level</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-cutting-edge-tips-for-the-aspiring-gopro-4k-editor-for-2024/"><u>[Updated] Cutting-Edge Tips for the Aspiring GoPro 4K Editor for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-sky-high-broadcasting-your-first-steps-in-youtube-live-via-obs/"><u>[Updated] Sky-High Broadcasting Your First Steps in Youtube Live via OBS</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-does-money-flow-into-shopping-guides-vids/"><u>2024 Approved Does Money Flow Into Shopping Guides Vids?</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/a-closer-look-at-leadership-challenges-in-tropico-6s-envisioned-tropical-utopia/"><u>A Closer Look at Leadership Challenges in Tropico 6'S Envisioned Tropical Utopia</u></a></li>
-<li><a href="https://article-posts.techidaily.com/how-to-block-spotifys-predicted-podcast-selections/"><u>How to Block Spotify's Predicted Podcast Selections</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-xiaomi-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Xiaomi Pictures An Easy Method Explained.</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-a-comprehensive-guide-to-crafting-memes-on-9gag/"><u>In 2024, A Comprehensive Guide to Crafting Memes on 9GAG</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-the-art-of-digital-alterations-tips-for-text-in-pictures/"><u>In 2024, The Art of Digital Alterations Tips for Text in Pictures</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-infinite-snaps-ensuring-a-lasting-snapchat-connection/"><u>[New] In 2024, Infinite Snaps Ensuring a Lasting Snapchat Connection</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-mastering-pexels-a-photographers-toolkit/"><u>[New] In 2024, Mastering Pexels A Photographer's Toolkit</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-exploring-animated-selfies-snapchats-fun-face-filters-explained/"><u>[Updated] Exploring Animated Selfies Snapchat's Fun Face Filters Explained</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-newbies-pathway-to-stunning-photo-edits-in-ps/"><u>[Updated] Newbie's Pathway to Stunning Photo Edits in PS</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-the-reality-of-now-vrs-evolution-and-challenges/"><u>2024 Approved The Reality of Now VR's Evolution and Challenges</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-upgrade-iphone-photographyfilm-expertise-with-essential-gear/"><u>2024 Approved Upgrade iPhone Photography/Film Expertise With Essential Gear</u></a></li>
+<li><a href="https://solve-help.techidaily.com/hd1080p1080i/"><u>HD画質1080pと1080iの違い：どちらを選ぶべきか？メリットとデメリット分析。</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-bringing-virtuality-closer-a-tale-of-two-cardboards-and-gear-vrs/"><u>In 2024, Bringing Virtuality Closer A Tale of Two Cardboards & Gear VRs</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-the-ultimate-sourcebook-on-valheim-farming-techniques/"><u>In 2024, The Ultimate Sourcebook on Valheim Farming Techniques</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-mastering-the-art-of-tiktok-duets/"><u>Ultimate Guide: Mastering the Art of TikTok Duets</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unleashing-power-and-brilliance-a-comprehensive-guide-to-the-linksys-ea9500-router-technology/"><u>Unleashing Power and Brilliance - A Comprehensive Guide to the Linksys EA9500 Router Technology</u></a></li>
 </ul></div>
 
