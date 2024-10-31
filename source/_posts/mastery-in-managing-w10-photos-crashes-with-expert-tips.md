@@ -1,7 +1,7 @@
 ---
 title: "Mastery in Managing W10 Photos Crashes with Expert Tips"
-date: 2024-09-04T23:47:40.760Z
-updated: 2024-09-05T23:47:40.760Z
+date: 2024-10-24T20:14:45.508Z
+updated: 2024-10-30T21:42:19.859Z
 tags: 
   - screen-recording
   - ai video
@@ -42,6 +42,13 @@ In this article, we have compiled the best solutions for you to get rid of Windo
 
 ## How to fix Windows 10 Photos app crashes
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 1: Use the Troubleshooter
 
 The Windows Troubleshooter is an inbuilt troubleshooting feature embedded with Windows 10 computers. It allows a simple interface to help you choose any application for troubleshooting. Windows Troubleshooter resolves basic issues with the Windows computer so that users can seamlessly use all Windows 10 system features and functionalities.
@@ -56,12 +63,6 @@ Here is how to troubleshoot –
 1. From the list of Apps displayed on the screen, click ‘Windows Store Apps’ and press the ‘Next’ button.
 2. Now, the troubleshooter will troubleshoot every app within the Windows Store Applications and fix them in a jiffy.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 2: Restore Default Libraries
 
 Restoring the default libraries would resolve the Windows 10 Photos App crash issues. Resetting the Photo App to its default source to a valid network, path fixes the case.
@@ -73,20 +74,15 @@ Restoring the default libraries would resolve the Windows 10 Photos App crash is
 
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/windows-10-photos-app-crashes-restore.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1. Lastly, click on ‘Apply’ followed by ‘OK’ and the issue will be resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Solution 3: Reset it
 
 When you reset the Windows Photo App itself, your issue gets resolved. Plenty of Windows users have mentioned that resetting the Photo App has fixed the unresponsive or crashing app problems.
@@ -96,6 +92,13 @@ Here is how can you reset it –
 1. Go to ‘Windows 10 Start Menu’ and then click ‘Settings’. Now, click the ‘Apps (Apps & Features)’ option followed by the ‘Photos’ app.
 2. Hit ‘Advanced Options’ and click ‘Reset’ button thereafter.
 3. Now, you got to restart your Windows system, so that Windows 10 Photos App crashing problem can be easily resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 4: Repair Photos App package
 
@@ -108,12 +111,6 @@ Let’s fix the issue by repairing the Photos App package installed on your comp
 3. Allow few minutes to make the changes effective and then restart the Windows 10 computer.
 4. Now, the Windows 10 Photos App won’t crash.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 5: Reinstall Windows 10 Photos app
 
 Alternatively, if nothing works out in your favor, you can always fix Windows 10 Photos App crash issue by reinstalling Windows 10 Photos App. A corrupted Photos App might create disturbance for you, so reinstalling would get a fresh and bug free version on your system from the Microsoft Store.
@@ -125,26 +122,21 @@ Here is how to reinstall the Windows 10 Photos App –
 2. Now, visit the ‘Microsoft Store on your computer and find ‘Microsoft Photos.’
 3. Install ‘Microsoft Photos’ after downloading it from there. Your Windows 10 Photos App crashing issue is well taken care of now.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 From the above article, we have concluded that experiencing Windows 10 Photos App crashes is not uncommon. But, resolving them shouldn’t give you nightmares as well. From the above-mentioned process guides, you can fix the Windows 10 Photos App crashes effectively without any hassle. Try following each method until you get the Photos App crash issue fixed, so you can view your photos without any trouble.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
@@ -168,4 +160,26 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-elevate-your-graphic-design-skills-master-canvas-background-trimming/"><u>[New] 2024 Approved Elevate Your Graphic Design Skills Master Canva's Background Trimming</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-high-def-mastery-the-leading-blu-ray-devs-for-2024/"><u>[New] High-Def Mastery The Leading Blu-Ray Devs for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-enhancing-your-social-media-footprint-upload-success-tips-for-stories/"><u>[New] In 2024, Enhancing Your Social Media Footprint Upload Success Tips for Stories</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-the-layers-of-a-great-humorous-poster/"><u>[New] In 2024, The Layers of a Great Humorous Poster</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-iphone-photo-techniques-mastering-leading-lines/"><u>[Updated] 2024 Approved IPhone Photo Techniques Mastering Leading Lines</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-mastering-tiktok-updating-numbers-effectively/"><u>[Updated] 2024 Approved Mastering TikTok Updating Numbers Effectively</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-recovery-of-windows-photo-viewer-functionality-on-win10/"><u>[Updated] 2024 Approved Recovery of Windows Photo Viewer Functionality on Win10</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-5-key-strategies-for-impactful-titles-today-for-2024/"><u>[Updated] 5 Key Strategies for Impactful Titles Today for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-free-red-eye-correction-for-iphone-users-tips-and-tricks/"><u>[Updated] In 2024, Free Red-Eye Correction for iPhone Users - Tips and Tricks</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-unleashing-the-potential-of-iphone-photos-through-motion-blur/"><u>[Updated] Unleashing the Potential of iPhone Photos Through Motion Blur</u></a></li>
+<li><a href="https://win-docs.techidaily.com/1-free-oracle-training-resources-access-and-download-educational-video-content-from-oracle-u/"><u>1. Free Oracle Training Resources: Access and Download Educational Video Content From Oracle U.</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-fading-out-sounds-effectively-using-lumafusion/"><u>2024 Approved Fading Out Sounds Effectively Using Lumafusion</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-mastering-social-media-a-focus-on-snapchat-business/"><u>2024 Approved Mastering Social Media A Focus on SnapChat Business</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-look-how-microsofts-next-gen-ai-processor-could-surpass-the-power-of-a-macbook/"><u>Exclusive Look: How Microsoft’s Next-Gen AI Processor Could Surpass the Power of a MacBook</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-through-a-photographers-eye-our-best-10-lenses-list/"><u>In 2024, Through a Photographer's Eye Our Best 10 Lenses List</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/quick-mac-screenshot-methods-a-comprehensive-list-for-2024/"><u>Quick Mac Screenshot Methods A Comprehensive List for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-art-of-narrative-on-film/"><u>The Art of Narrative on Film</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-14-pro-max-drfone-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-speed-up-your-videos-best-time-lapse-apps-for-iphone-and-android/"><u>Updated In 2024, Speed Up Your Videos Best Time-Lapse Apps for iPhone and Android</u></a></li>
+</ul></div>
 

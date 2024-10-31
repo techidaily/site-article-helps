@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Capture the Moment  IPhone X's Revolutionary Camera\""
-date: 2024-10-19T16:52:10.034Z
-updated: 2024-10-24T17:51:02.540Z
+date: 2024-10-27T17:14:17.535Z
+updated: 2024-10-30T18:36:58.497Z
 tags: 
   - screen-recording
   - ai video
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/5350e79af12b414e304e4335d5b2d88e62b5e0973
 
  The phone has a brand new rear [camera with two lenses](https://tools.techidaily.com/wondershare/filmora/download/) in a vertical orientation. This new orientation has been chosen to provide more space for the front-facing TrueDepth camera. This camera is tasked with powering the Face ID feature. The TrueDepth system also has a f/2.2 7-megapixel camera for selfies. The feature means Portrait Mode and Portrait Lighting are supported in front-facing mode. With Portrait Lighting, you can dynamically adjust your photo’s lighting with ease. TrueDepth uses an infrared emitter to project more than 30,000 in a recognised pattern onto users’ faces, before photographing the dots for analysis. The function is strengthened with a proximity sensor as well as an ambient light sensor which allows output light levels to be set.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: The importance of depth
 
  With previous versions of the iPhone Plus, the depth maps were only used to blur backgrounds and make subjects pop against them. However, the iPhone X takes the depth information from the two lenses as well as the efficiency of the A11 Bionic chip to offer outstanding new special effects.
@@ -49,17 +56,10 @@ thumbnail: https://thmb.techidaily.com/5350e79af12b414e304e4335d5b2d88e62b5e0973
 ![depth camera](https://images.wondershare.com/filmora/article-images/depth-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: How to use portrait mode
@@ -81,10 +81,10 @@ thumbnail: https://thmb.techidaily.com/5350e79af12b414e304e4335d5b2d88e62b5e0973
 ![portrait lighting](https://images.wondershare.com/filmora/article-images/PortraitLighting.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4: Video improvement
@@ -92,6 +92,13 @@ thumbnail: https://thmb.techidaily.com/5350e79af12b414e304e4335d5b2d88e62b5e0973
  The iPhone X is also noted for its first-class video shooting capabilities, including its 4K video feature. Though previous iterations of the iPhone were already rather adept at shooting in 4K, the new devices are even more impressive and have been favourably compared to the GH5 in terms of quality and clarity. The new device has been complimented for its vibrant colour profile and its ability to deliver 4K video that matches a wide range of leading DSLR and mirrorless cameras. It’s possible to capture video in 240fps slo-mo at 1080p and 4K at 60fps.
 
 ![video improvement](https://images.wondershare.com/filmora/article-images/video-improvement.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **You may also like:** [Best iPhone Stabilizers for Video Shooting >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -102,13 +109,6 @@ thumbnail: https://thmb.techidaily.com/5350e79af12b414e304e4335d5b2d88e62b5e0973
  The phone has also been praised for its wide range between light and dark colours. The Face ID function has proved to be incredibly secure, unlike earlier facial recognition systems which could easily be tricked by with the use of photographs or videos. It’s now possible to be more creative than ever with your iPhone’s camera whilst benefiting from a wealth of robust security features.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -135,24 +135,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-ai-powered-podcast-names-the-ultimate-selection-list/"><u>[New] AI-Powered Podcast Names The Ultimate Selection List</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-budget-videography-choosing-the-best-panoramic-cameras-for-2024/"><u>[New] Budget Videography Choosing the Best Panoramic Cameras for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-expert-e-learning-title-engineer/"><u>[New] Expert E-Learning Title Engineer</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-kodi-streaming-service-windows-media-replacement/"><u>[New] In 2024, Kodi Streaming Service Windows Media Replacement</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-ignite-your-youtube-streams-no-subscriber-count-needed/"><u>[Updated] 2024 Approved Ignite Your Youtube Streams – No Subscriber Count Needed</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-prime-voice-activated-transcription-tools/"><u>[Updated] In 2024, Prime Voice-Activated Transcription Tools</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-speedy-vimeo-videos-at-a-glance/"><u>2024 Approved Speedy Vimeo Videos at a Glance</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Vivo S18e? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-lava-blaze-2-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Lava Blaze 2 5G Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-xiaomi-redmi-a2plus-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Xiaomi Redmi A2+ PC | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-exclusive-perk-dji-miniair-2-owners-get-20-free-luts/"><u>In 2024, Exclusive Perk DJI Mini/Air 2 Owners Get 20 Free LUTS</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-from-waves-to-words-navigating-the-world-of-audio-editing-in-garageband/"><u>In 2024, From Waves to Words Navigating the World of Audio Editing in GarageBand</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-innovating-education-with-virtual-immersion/"><u>In 2024, Innovating Education with Virtual Immersion</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-vivo-t2-5g-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Vivo T2 5G Phone? Unlock It Now</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-proven-picks-the-top-5-online-title-makers-you-need-to-know/"><u>In 2024, Proven Picks The Top 5 Online Title Makers You Need to Know</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-from-apple-iphone-x-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes From Apple iPhone X?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/inflammation-is-a-protective-response-that-involves-immune-cells-blood-vessels-and-molecular-mediators/"><u>Inflammation Is a Protective Response that Involves Immune Cells, Blood Vessels, and Molecular Mediators.</u></a></li>
-<li><a href="https://article-helps.techidaily.com/the-ultimate-guide-to-video-editing-inshots-place/"><u>The Ultimate Guide to Video Editing - InShot's Place</u></a></li>
-<li><a href="https://article-helps.techidaily.com/unlock-creative-vision-with-lunapics-tutorial-for-2024/"><u>Unlock Creative Vision with LunaPic's Tutorial for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-perfecting-projects-through-music-addition-in-premiere-pro/"><u>[New] 2024 Approved Perfecting Projects Through Music Addition in Premiere Pro</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-supercharged-visuals-video-content-plus-filter-amplification-pcmobile/"><u>[New] Supercharged Visuals Video Content + Filter Amplification (PC/Mobile)</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-unveiling-snapchat-video-feeds-from-twitter-for-2024/"><u>[New] Unveiling Snapchat Video Feeds From Twitter for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-win11s-leading-free-screen-capture-software-ranked-1-5/"><u>[New] Win11's Leading Free Screen Capture Software Ranked #1-5</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-az-screen-recorder-comprehensive-app-review-and-alternative/"><u>[Updated] 2024 Approved AZ Screen Recorder | Comprehensive App Review & Alternative</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-tweaking-sound-on-ps5ps4-games/"><u>[Updated] 2024 Approved Tweaking Sound on PS5/PS4 Games</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-decoding-the-complexities-of-drone-photography-and-gimbals/"><u>[Updated] In 2024, Decoding the Complexities of Drone Photography and Gimbals</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-prime-freefire-content-creation-on-youtube/"><u>[Updated] In 2024, Prime FreeFire Content Creation on YouTube</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/addressing-the-complexities-of-chatgpt-usage-laws-google-news-feed-innovations-and-strategies-for-staying-connected-on-vacation/"><u>Addressing the Complexities of ChatGPT Usage Laws, Google News Feed Innovations, and Strategies for Staying Connected on Vacation</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/comprehensive-guide-troubleshooting-and-eliminating-everspace-2-crashes-on-windows-computers/"><u>Comprehensive Guide: Troubleshooting and Eliminating Everspace 2 Crashes on Windows Computers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ethereal-3-clash-veil-4-arises/"><u>Ethereal 3 Clash Veil 4 Arises</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-best-sfpr-settings-for-leisurely-scenes/"><u>In 2024, Best SFPR Settings for Leisurely Scenes</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-ensuring-every-detail-is-visible-during-google-meets/"><u>In 2024, Ensuring Every Detail Is Visible During Google Meets</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-oppo-a38-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Oppo A38</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-the-art-of-recording-your-steam-gaming-sessions/"><u>In 2024, The Art of Recording Your Steam Gaming Sessions</u></a></li>
+<li><a href="https://article-helps.techidaily.com/orbital-design-kit/"><u>Orbital Design Kit</u></a></li>
+<li><a href="https://article-helps.techidaily.com/prime-resources-for-text-style-adjustment-files-for-2024/"><u>Prime Resources for Text Style Adjustment Files for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-ultimate-guide-to-product-revelation-best-15-unboxing-channels-for-2024/"><u>The Ultimate Guide to Product Revelation Best 15 Unboxing Channels for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-the-razer-manowar-headset-solutions-for-nonfunctional-mic/"><u>Troubleshooting the Razer ManO'War Headset - Solutions for Nonfunctional Mic</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, X-Ology  Vintage iPhone Xx Photography\""
-date: 2024-10-21T04:35:14.188Z
-updated: 2024-10-24T19:56:42.314Z
+date: 2024-10-25T17:36:01.136Z
+updated: 2024-10-31T02:40:43.908Z
 tags: 
   - screen-recording
   - ai video
@@ -40,6 +40,13 @@ In this article, we are going to show you how to take photos in Portrait Mode, o
 * [Part 1: For iPhone 7 Plus/8 Plus/X users](#part1)
 * [Part 1: For iPhone 8, 7 or older iPhones users](#part2)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### For iPhone 7 Plus/8 Plus/X users
 
  **Using the Portrait Mode on an iPhone**
@@ -51,10 +58,10 @@ However, the Portrait Mode is only featured on iOS 10.1 or some more recent vers
 ![portrait-mode-iphone](https://images.wondershare.com/filmora/article-images/portrait-mode-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Image resource: 9to5mac
@@ -67,18 +74,18 @@ The iPhone X can also take Portrait selfies thanks to the TrueDepth front camera
 
 ![portrait-mode-selfie-iphone-x](https://images.wondershare.com/filmora/article-images/portrait-mode-selfie-iphone-x.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Image resource: imore
 
 Launch the Camera app, and swipe to the Portrait option, and then tap on the Camera Swap feature to start using the front camera on your iPhone. Find the Portrait Lightning feature in the camera's Portrait mode, then select one of the options provided by the Portrait Lightning such as Studio Light or Natural light, and proceed to snap a selfie by tapping on the shutter button.
 
 If there is not enough light or if you are too far away from the camera, the app will show messages that remind you to add more light to your shot or hold the camera closer to the subject of the photo. It is worth noting that the app will not let you take a photo until you do everything that messages on the screen demand from you. However, the Portrait Mode doesn't allow you to take several photos at once, but it still produces amazing pictures that can be easily shared on social media.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### For iPhone 8, 7 or older iPhones users
 
@@ -101,10 +108,10 @@ Older iPhone models may not have a twin-lens system, but with the aid of a camer
 ![iwatermark-watermark-photos](https://images.wondershare.com/filmora/article-images/iwatermark-watermark-photos.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Advertised as the best depth-of-field app for iPhones on the market today, Tadaa SLR sets high photography standards. To make things even better, the app is so easy to use that you just need to set the focal point of the photo and tap on the shutter button to snap a photo. However, Tadaa SLR is only a camera app that doesn't offer a lot of photo editing options.
@@ -131,13 +138,6 @@ The plethora of blur options provided by the Defocus camera app is impressive. D
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -163,15 +163,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-master-your-captions-the-top-10-precision-subtitle-editors-for-2024/"><u>[New] Master Your Captions The Top 10 Precision Subtitle Editors for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-securing-photo-libraries-without-copyright-notices/"><u>[New] Securing Photo Libraries Without Copyright Notices</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-a-brief-guide-to-download-install-and-use-ez-grabber-for-2024/"><u>[Updated] A Brief Guide to Download, Install, and Use EZ Grabber for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-detailed-analysis-of-dynamic-actions-capture/"><u>[Updated] Detailed Analysis of Dynamic Actions Capture</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-thorough-reconnaissance-the-full-review-for-bublcams-panoramic-masterpiece/"><u>[Updated] In 2024, Thorough Reconnaissance The Full Review for Bublcam's Panoramic Masterpiece</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-the-adventure-begins-with-panasonics-hx-a1-action-recorder/"><u>[Updated] The Adventure Begins with Panasonic's HX-A1 Action Recorder</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-sony-xperia-1-v-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Sony Xperia 1 V to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/steam-deck-is-it-a-must-have-portable-game-hub/"><u>Steam Deck: Is It a Must-Have Portable Game Hub?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/step-by-step-guide-successfully-adding-your-dvd-content-onto-google-drive/"><u>Step-by-Step Guide: Successfully Adding Your DVD Content Onto Google Drive</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-instructions-downloading-and-updating-your-mbox-ter-for-windows-systems/"><u>Step-by-Step Instructions: Downloading & Updating Your MBox Ter for Windows Systems</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-visualize-your-vision-embrace-win11s-movie-maker-capabilities/"><u>[New] 2024 Approved Visualize Your Vision Embrace Win11's Movie Maker Capabilities</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-15-crucial-strategies-for-accessing-international-sport-events/"><u>[New] In 2024, 15 Crucial Strategies for Accessing International Sport Events</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-efficient-meeting-management-with-slack-and-filmora-tools/"><u>[New] In 2024, Efficient Meeting Management with Slack & Filmora Tools</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-bring-your-images-alive-on-android-with-these-5-powerful-editors/"><u>[Updated] 2024 Approved Bring Your Images Alive on Android with These 5 Powerful Editors</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-a-guide-to-recording-streams-discovering-the-best-7-approaches/"><u>[Updated] A Guide to Recording Streams Discovering the Best 7 Approaches</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-vimeos-edge-over-youtube-what-the-data-says/"><u>[Updated] In 2024, Vimeo’s Edge Over YouTube? What the Data Says</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-slick-quick-fades-in-premiere/"><u>[Updated] Slick Quick Fades in Premiere</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-industrys-leading-heavy-duty-drone-picks/"><u>2024 Approved Industry's Leading Heavy-Duty Drone Picks</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/dissecting-the-divide-full-sphere-vs-immersive-films/"><u>Dissecting the Divide Full Sphere Vs. Immersive Films</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-techniques-to-transform-your-footage-in-gopro-studio/"><u>In 2024, Innovative Techniques to Transform Your Footage in GoPro Studio</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Poco X5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-scaling-up-content-convert-youtube-to-igtv/"><u>In 2024, Scaling Up Content Convert YouTube to IGTV</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-speedy-windowed-image-viewer/"><u>In 2024, Speedy Windowed Image Viewer</u></a></li>
 </ul></div>
 
