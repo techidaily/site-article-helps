@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Comprehensive Overview  Merging SRT with MP4 Files and Videos\""
-date: 2024-09-04T23:43:44.687Z
-updated: 2024-09-05T23:43:44.687Z
+date: 2024-11-02T16:55:37.167Z
+updated: 2024-11-05T18:01:42.591Z
 tags: 
   - screen-recording
   - ai video
@@ -68,6 +68,13 @@ Step3 Up next, you need to Drag-n-drop the .srt file into the Timeline and right
 
 ![select advanced edit](https://images.wondershare.com/filmora/article-images/2022/07/how-to-add-srt-to-mp4-with-filmora-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step4 Edit the SRT file according to your requirements. You can edit time.code, change subtitles, and do lots more.
 
 ![edit the srt file](https://images.wondershare.com/filmora/article-images/2022/07/how-to-add-srt-to-mp4-with-filmora-3.jpg)
@@ -90,12 +97,6 @@ Step2 Click on the ‘Add’ button to upload the MP4 video file that you want t
 
 ![click on add button](https://images.wondershare.com/filmora/article-images/2022/07/add-srt-to-mp4-with-clideo-online-tool-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step3 Once you've successfully uploaded the MP4 video file, you'll be given options that you want to use to add SRT to MP4\. You can use ‘Add Manually’, to add the subtitles manually, ‘Upload SRT’ to upload the SRT file, or ‘Generate Automatically’ to allow the Clideo to generate the subtitles automatically.
 
 ![add subtitles manually](https://images.wondershare.com/filmora/article-images/2022/07/add-srt-to-mp4-with-clideo-online-tool-2.jpg)
@@ -116,12 +117,6 @@ Step5 After adding SRT to MP4, click the ‘Download’ button to save the outpu
 
 ![click on download button](https://images.wondershare.com/filmora/article-images/2022/07/add-srt-to-mp4-with-clideo-online-tool-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: SRT file format is just right for you, if…
 
 If you're a content creator, YouTube, or more, adding subtitles to your videos will help viewers understand the information you're passing more concisely. Although there are lots of subtitles formats available, SRT is the best we recommend you should always opt for because it's a universal subtitle format, making it usable on any platform be it YouTube, Twitter, Facebook, Vimeo, Premiere Pro, etc.
@@ -139,6 +134,13 @@ Regardless of whatever you're planning to do with your video, it's important you
 | Tiktok       | √                  |
 | Snapchat     | √                  |
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### ● Use subtitles in a video-editing tool
 
 | **Platform**  | **SRT Compatible** |
@@ -148,6 +150,13 @@ Regardless of whatever you're planning to do with your video, it's important you
 | EditSubtitles | √                  |
 | Premiere Pro  | √                  |
 | Jubler        | √                  |
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### ● Display videos and subtitles with a media player
 
@@ -165,42 +174,18 @@ Regardless of whatever you're planning to do with your video, it's important you
 
 ## Part 4: Hot FAQs on adding SRT to MP4
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. What is an SRT file?
 
 SRT file is a simple text file used with video data and contains no video or audio data.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. How do I permanently add SRT files to a movie?
 
 [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is the best tool that allows users to add SRT files to a movie without compromising quality.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Can MP4 have embedded subtitles?
 
 Yes, MP; can have embedded subtitles. All you need to perform such an operation is the Filmora software.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Final Words
 
 Gone are the days when adding SRT to MP4 was considered a very difficult task. Now, you can add subtitles to as many MP4 videos as you want easily without requiring any technical knowledge. All you need is advanced software like [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) or an online tool like Clideo. Irrespective of the tool you're looking to use, we advise you follow the steps explained on this page correctly. However, we recommend using Filmora for a more efficient SRT to MP4 conversion.
@@ -227,18 +212,6 @@ Today, the [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmor
 * Add subtitles to MP4 in over 18 different languages including English.
 * Clean user interface.
 
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to Add SRT to MP4 with [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Step1 Download and install Filmora software on your PC or Mac > Launch the Program and click on ‘New Project’.
@@ -253,26 +226,35 @@ Step3 Up next, you need to Drag-n-drop the .srt file into the Timeline and right
 
 ![select advanced edit](https://images.wondershare.com/filmora/article-images/2022/07/how-to-add-srt-to-mp4-with-filmora-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step4 Edit the SRT file according to your requirements. You can edit time.code, change subtitles, and do lots more.
 
 ![edit the srt file](https://images.wondershare.com/filmora/article-images/2022/07/how-to-add-srt-to-mp4-with-filmora-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step5 After you've completed the editing process, right-click on the ‘SRT’ file from the timeline. Then, choose ‘Export Subtitle File’ from the pop-up list and save it the SRT file to a preferred location on your computer.
 
 ![choose export subtitle file](https://images.wondershare.com/filmora/article-images/2022/07/how-to-add-srt-to-mp4-with-filmora-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How do I add subtitles to a video without any software?
 
 Although using [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) software is the best way to add SRT to MP4, you can also get the job done without downloading any software. One of the few online tools that allows this kind of operation is Clideo. Yes, Clideo can be used to attach SRT files to MP4 quickly and easily.
@@ -287,12 +269,6 @@ Step2 Click on the ‘Add’ button to upload the MP4 video file that you want t
 
 ![click on add button](https://images.wondershare.com/filmora/article-images/2022/07/add-srt-to-mp4-with-clideo-online-tool-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step3 Once you've successfully uploaded the MP4 video file, you'll be given options that you want to use to add SRT to MP4\. You can use ‘Add Manually’, to add the subtitles manually, ‘Upload SRT’ to upload the SRT file, or ‘Generate Automatically’ to allow the Clideo to generate the subtitles automatically.
 
 ![add subtitles manually](https://images.wondershare.com/filmora/article-images/2022/07/add-srt-to-mp4-with-clideo-online-tool-2.jpg)
@@ -303,28 +279,17 @@ Step4 Now, click on ‘Styles’ to choose how you want the text to appear on yo
 
 ![click on styles](https://images.wondershare.com/filmora/article-images/2022/07/add-srt-to-mp4-with-clideo-online-tool-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030391/7443" target="_top" id="2030391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Then, click ‘Format’ at the bottom left corner of your PC or Mac screen to choose the format in which you want the output of your file to be.
 
 ![click on format](https://images.wondershare.com/filmora/article-images/2022/07/add-srt-to-mp4-with-clideo-online-tool-4.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Hit the ‘Export’ button at the bottom right corner to start burning subtitles into the MP4 video.
 
 Step5 After adding SRT to MP4, click the ‘Download’ button to save the output file to your device. You can also upload the file to Dropbox or Google Drive cloud storage by clicking the drop-down icon next to Download.
@@ -332,29 +297,18 @@ Step5 After adding SRT to MP4, click the ‘Download’ button to save the outpu
 ![click on download button](https://images.wondershare.com/filmora/article-images/2022/07/add-srt-to-mp4-with-clideo-online-tool-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## Part 3: SRT file format is just right for you, if…
 
 If you're a content creator, YouTube, or more, adding subtitles to your videos will help viewers understand the information you're passing more concisely. Although there are lots of subtitles formats available, SRT is the best we recommend you should always opt for because it's a universal subtitle format, making it usable on any platform be it YouTube, Twitter, Facebook, Vimeo, Premiere Pro, etc.
 
 Regardless of whatever you're planning to do with your video, it's important you know the right subtitle format that's supported on the platform you're looking to upload videos. The table below shows different platforms that support the SRT subtitle format;
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### ● Display subtitles with the video online
 
 | **Platform** | **SRT Compatible** |
@@ -366,12 +320,6 @@ Regardless of whatever you're planning to do with your video, it's important you
 | Tiktok       | √                  |
 | Snapchat     | √                  |
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### ● Use subtitles in a video-editing tool
 
 | **Platform**  | **SRT Compatible** |
@@ -396,12 +344,6 @@ Regardless of whatever you're planning to do with your video, it's important you
 
 **Note:** if you’re using a different hosting site, check the support documentation for that site to see which subtitling formats they support.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: Hot FAQs on adding SRT to MP4
 
 ### 1\. What is an SRT file?
@@ -412,12 +354,6 @@ SRT file is a simple text file used with video data and contains no video or aud
 
 [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is the best tool that allows users to add SRT files to a movie without compromising quality.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Can MP4 have embedded subtitles?
 
 Yes, MP; can have embedded subtitles. All you need to perform such an operation is the Filmora software.
@@ -448,4 +384,16 @@ Gone are the days when adding SRT to MP4 was considered a very difficult task. N
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-innovate-with-ease-top-sites-for-downloadable-text-extensions/"><u>[New] 2024 Approved Innovate with Ease Top Sites for Downloadable Text Extensions</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-innovative-approaches-to-efficiently-capture-and-save-your-screens-with-mobizen-for-2024/"><u>[New] Innovative Approaches to Efficiently Capture and Save Your Screens with Mobizen for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-breaking-the-silence-crafting-powerful-film-dialogues/"><u>[Updated] 2024 Approved Breaking the Silence Crafting Powerful Film Dialogues</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-visual-cutting-edge-extracting-frames-from-films-on-windows-10/"><u>[Updated] 2024 Approved Visual Cutting Edge Extracting Frames From Films on Windows 10</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-flash-through-files-on-your-windows-pc/"><u>[Updated] Flash Through Files on Your Windows PC</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/handbrake-vlc-20-error-fixes-comprehensive-tutorial-for-smooth-video-conversion/"><u>HandBrake VLC 2.0 Error Fixes - Comprehensive Tutorial for Smooth Video Conversion</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-limitless-design-gratuitous-premiere-pro-templates/"><u>In 2024, Limitless Design Gratuitous Premiere Pro Templates</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-11-hints-to-reveal-invisible-seagate-hd/"><u>Windows 11 Hints to Reveal Invisible Seagate HD</u></a></li>
+</ul></div>
 

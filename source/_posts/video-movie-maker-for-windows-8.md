@@ -1,7 +1,7 @@
 ---
 title: "Video Movie Maker for Windows 8"
-date: 2024-10-24T00:22:19.775Z
-updated: 2024-10-31T02:59:00.458Z
+date: 2024-11-02T17:08:20.183Z
+updated: 2024-11-05T16:09:30.401Z
 tags: 
   - screen-recording
   - ai video
@@ -43,24 +43,37 @@ Filmora is compatible for Windows 7/8/8.1/10 64-bit PC and Mac OSX 10.11 or abov
 
 We have written so many articles about [how to edit videos](https://tools.techidaily.com/wondershare/filmora/download/) with Filmora on Windows, to keep the content clean, you can check our guide about How to Edit videos. But if you have any questions about editing videos in Filmora, leave a comment below and I’ll reply the comment soon.
 
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to use DVD slideshow Builder on Windows 8
 
 The content below will tell you how to make a video movie using [DVD Slideshow Builder](https://tools.techidaily.com/wondershare/dvd-slideshow-builder-deluxe/download/).
 
 [![Download Win Version](https://images.wondershare.com/style/images/download-btn-win.png) ](https://download.wondershare.com/dsb%5Fdeluxe%5Ffull18.exe)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### 1.Install video movie software and import files
 
 Download and install [DVD Slideshow Builder](https://tools.techidaily.com/wondershare/dvd-slideshow-builder-deluxe/download/), in "Organize" tab, drag and drop your digital photos to the storyboard (you can also add videos from computer or camera as you like).
 
 ![video movie maker](https://images.wondershare.com/images/multimedia/dvd-slideshow-builder/dvd-slideshow-organize.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Then add background music in "Personalize" tab. You can click "Music" button to add or just drag the music to the background track. You can add sounds or your own record by clicking "Voice Over".
 
@@ -72,16 +85,16 @@ You can also add some adorable elements to make your movie video more funny and 
 
 ![DVD Slideshow Personalize](https://images.wondershare.com/filmora/article-images/dvd-slideshow-personalize.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### 3.Save your own video movie or share online
 
 ![DVD Slideshow Create](https://images.wondershare.com/filmora/article-images/dvd-slideshow-create.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now hit "Create", and preview your video movie. Then choose a way to output. Here are some options for you:
 
@@ -94,25 +107,18 @@ Ok, that's done. You see, with this **video movie maker for windows 8**, making 
 
 ![video movie maker for windows 8](https://images.wondershare.com/guide/images/dvd-slideshow-builder-deluxe-ug3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [![Download Win Version](https://images.wondershare.com/style/images/download-btn-win.png) ](https://download.wondershare.com/dsb%5Fdeluxe%5Ffull18.exe)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Interested in Filmora video editor? Check the YouTube tutorial about Filmora from tutvide and download it to try.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
@@ -141,22 +147,16 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-complete-scrutiny-gopro-silver-hero4-version/"><u>[New] 2024 Approved Complete Scrutiny GoPro Silver Hero4 Version</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-understanding-the-edge-of-av1-in-video-encoding/"><u>[New] 2024 Approved Understanding the Edge of AV1 in Video Encoding</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-panoramic-lenses-vs-depth-filled-images/"><u>[New] Panoramic Lenses vs Depth-Filled Images</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-vrs-essentials-the-trending-gear-list/"><u>[New] VR's Essentials The Trending Gear List</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-maximizing-monetary-gains-with-youtubes-short-form-videos/"><u>[Updated] 2024 Approved Maximizing Monetary Gains with YouTube's Short-Form Videos</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-content-creation-hacks-for-rapid-youtubers-growth-for-2024/"><u>[Updated] Content Creation Hacks for Rapid Youtubers' Growth for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-top-30-metaverse-meme-creation-tips-and-trends/"><u>[Updated] In 2024, Top 30 Metaverse Meme Creation Tips & Trends</u></a></li>
-<li><a href="https://facebook.techidaily.com/avoiding-hidden-dangers-in-the-digital-marketplace/"><u>Avoiding Hidden Dangers in the Digital Marketplace</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-sony-xperia-10-v-phone-without-password-by-drfone-android/"><u>How To Unlock Sony Xperia 10 V Phone Without Password?</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-a-closer-look-at-apples-m1-computing-powerhouse/"><u>In 2024, A Closer Look at Apple’s M1 Computing Powerhouse</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-lava-blaze-2-pro-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Lava Blaze 2 Pro Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-title-generators-for-youtube-visionaries/"><u>In 2024, Innovative Title Generators for YouTube Visionaries</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-the-essence-of-time-stretching-detailed-review-of-slomo-2e1924/"><u>In 2024, The Essence of Time Stretching Detailed Review of SloMo, 2E1924</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-checklist-for-excellent-monitors/"><u>The Ultimate Checklist for Excellent Monitors</u></a></li>
-<li><a href="https://win-web3.techidaily.com/ultimate-tutorial-setting-up-bewbsandbeer-extension-on-your-kodi-20-device/"><u>Ultimate Tutorial: Setting Up Bewbsandbeer Extension on Your Kodi 20 Device</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-and-reducing-high-cpu-usage-from-wudfhostexe-in-windows-10/"><u>Understanding and Reducing High CPU Usage From wudfhost.exe in Windows 10</u></a></li>
-<li><a href="https://article-helps.techidaily.com/what-are-the-best-sites-to-download-text-effects/"><u>What Are The Best Sites To Download Text Effects?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-handheld-vr-camera-stability-enhancer/"><u>[New] 2024 Approved Handheld VR Camera Stability Enhancer</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-zoom-meets-tiktok-streamlining-video-sharing/"><u>[New] In 2024, Zoom Meets TikTok Streamlining Video Sharing</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-how-to-optimize-your-viewing-a-guide-to-high-definition-cricket-live-streaming/"><u>[Updated] 2024 Approved How to Optimize Your Viewing A Guide to High-Definition Cricket Live Streaming</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-ultimate-20-pubg-photo-mashups-without-copyrights/"><u>[Updated] In 2024, Ultimate 20 PUBG Photo Mashups, Without Copyrights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/cyber-monday-deals-unbeatable-price-on-apples-newest-13-inch-macbook-air-with-m2-chip-exclusive-report-from-zdnet/"><u>Cyber Monday Deals: Unbeatable Price on Apple's Newest 13-Inch MacBook Air with M2 Chip - Exclusive Report From ZDNet</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/how-to-create-an-iphone-data-backup-on-external-hard-drive-for-windows-111087/"><u>How To Create An iPhone Data Backup On External Hard Drive For Windows 11/10/8/7</u></a></li>
+<li><a href="https://win-answers.techidaily.com/lenovo-ideapad-3-15-inch-i7-gtx-1660-ti-in-depth-analysis-of-an-affordable-powerhouse-for-gamers/"><u>Lenovo IdeaPad 3 15-Inch (I7, GTX 1660 Ti) - In-Depth Analysis of an Affordable Powerhouse for Gamers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ize-your-video-sound-best-free-wav-extractors-from-youtube-for-2024/"><u>Maximize Your Video Sound Best Free WAV Extractors From YouTube for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-iphones-stuck-standby-issue-with-these-4-expert-tips/"><u>Solve iPhone's Stuck 'Standby' Issue with These 4 Expert Tips</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-leading-online-networks-for-communication-facebook-twitter-instagram-youtube/"><u>The Leading Online Networks for Communication: Facebook | Twitter | Instagram | Youtube</u></a></li>
+<li><a href="https://article-helps.techidaily.com/top-6-best-4k-full-frame-camera/"><u>Top 6 Best 4K Full Frame Camera</u></a></li>
 </ul></div>
 

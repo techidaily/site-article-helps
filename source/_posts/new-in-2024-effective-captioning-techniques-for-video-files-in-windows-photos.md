@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Effective Captioning Techniques for Video Files in Windows Photos"
-date: 2024-09-04T23:42:29.098Z
-updated: 2024-09-05T23:42:29.098Z
+date: 2024-11-03T20:03:41.760Z
+updated: 2024-11-05T16:11:09.626Z
 tags: 
   - screen-recording
   - ai video
@@ -51,6 +51,13 @@ Do you wish to add titles/text to video on Photos in Windows 10 for your video p
 * Select the best-animated text fonts to suit the background. There are different layouts for each of the font style. Preview the animation by using Playback Control. If the text is not animating, you may try to increase the duration to 3-4 seconds that works well
 * For addition of credits, try to use the Classic text style. Put each of the credits in a new line and do give credits to yourself as well
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Make Text Move in Windows 10 Photos App
 
 The Photos app in Windows 10 is even easier than the old Windows Movie Maker. You do not need a sharp learning curve for using this app and any beginner can use it with ease and comfort. The Photos app has an anchoring system along with the text tool that makes the text move with the video images. Here’s how you can make the text move in Windows 10 Photos app-
@@ -68,30 +75,39 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/attach-effects-photos-min.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * To increase or decrease the length of animation time, adjust the slider
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/edit-text-photos.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 To add titles/text to video on Photos in Windows 10 and to make the text move with the Windows 10 Photos app, follow the above steps and get going easily. The steps are really simple and you just need to understand and apply the steps for successfully adding texts to your videos.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
@@ -115,4 +131,24 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-balancing-width-and-height-for-ultimate-videography/"><u>[Updated] In 2024, Balancing Width and Height for Ultimate Videography</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-digital-frontier-exploration-selecting-best-tools-for-turning-images-into-nfts/"><u>[Updated] In 2024, Digital Frontier Exploration Selecting Best Tools for Turning Images Into NFTs</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-tailoring-the-spectrum-of-light-in-windows-based-video-editing/"><u>[Updated] In 2024, Tailoring the Spectrum of Light in Windows-Based Video Editing</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-newest-compatible-cameras-to-match-samsung-gear-360-for-2024/"><u>[Updated] Newest Compatible Cameras to Match Samsung Gear 360 for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-pinterest-video-downloader-guide-the-leading-no-cost-alternatives-for-2024/"><u>[Updated] Pinterest Video Downloader Guide The Leading No-Cost Alternatives for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-your-virtual-future-awaits-essential-vr-devices-10/"><u>[Updated] Your Virtual Future Awaits Essential VR Devices (10)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-excellent-online-screen-recorders-ranked-1plus/"><u>2024 Approved Excellent Online Screen Recorders Ranked #1+</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-infinix-hot-40-pro-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Infinix Hot 40 Pro</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/convert-and-download-mp4-mkv-avi-to-wavmp3-for-free-with-movavis-web-based-tool/"><u>Convert and Download MP4, MKV, AVI to WAV/MP3 for Free with Movavi's Web-Based Tool</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/from-concept-to-reality-polarr-photo-editor-simplified/"><u>From Concept to Reality Polarr Photo Editor Simplified</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-sync-oculus-quest-2-with-a-smartphone-best-practices/"><u>How To Sync Oculus Quest 2 With A Smartphone - Best Practices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-backdrop-be-gone-guide-for-images/"><u>In 2024, Step-by-Step Backdrop Be Gone Guide for Images</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-the-ultimate-guide-to-audiofreexer-extraction-for-2-point-zero-two-four/"><u>In 2024, The Ultimate Guide to AudioFreexer Extraction for 2 Point Zero Two Four</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resetting-your-ipad-security-a-guide-when-you-cant-remember-the-password/"><u>Resetting Your iPad Security - A Guide When You Can’t Remember the Password</u></a></li>
+<li><a href="https://article-helps.techidaily.com/step-by-step-to-mastering-adobes-cloud-storage-capabilities-and-options/"><u>Step-by-Step to Mastering Adobe's Cloud Storage Capabilities & Options</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleash-your-creativity-with-dall-e-for-unique-breathtaking-smartphone-backgrounds/"><u>Unleash Your Creativity with DALL-E for Unique, Breathtaking Smartphone Backgrounds</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/wma-wmv-movavi/"><u>WMA 向 WMV 自由在線轉換服務 - Movavi 編碼工具</u></a></li>
+</ul></div>
 

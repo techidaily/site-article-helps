@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  How to Get Windows Photo Viewer Running Smoothly on Win 11\""
-date: 2024-10-27T19:16:23.647Z
-updated: 2024-10-30T17:51:49.636Z
+date: 2024-11-01T20:05:42.449Z
+updated: 2024-11-05T16:23:47.256Z
 tags: 
   - screen-recording
   - ai video
@@ -62,13 +62,6 @@ Here is why they want to restore Windows Photo Viewer –
 
 Though, Windows 10 Photos offers a dark theme, the effectiveness, responsiveness and features available with Windows Photo Viewer are hard to compromise.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 1 to restore Windows Photo Viewer
 
 The first method speaks about, when you have upgraded from a Windows 7/8/8.1 computer to Windows 10\. You can easily swing back to your most loved Windows Photo Viewer within no time. Here is the detailed guide –
@@ -80,6 +73,13 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 **Step 2**: Click on the present photo viewer app over there and look for ‘Windows Photo Viewer’. We assume that you have upgraded from an older version on Windows and Windows Photo Viewer is there in the options.
 
 **Step 3**: Tap on ‘Windows Photo Viewer’ and then exit ‘Settings’. Now, you have successfully restored Windows Photo Viewer and you can open photos in Windows Photo Viewer.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 2 to get Windows Photo Viewer back
 
@@ -95,28 +95,15 @@ Here is the detailed guide –
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-back.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note**: If the Windows Photo Viewer isn't there, here is a backup. You need to change Windows Registry to make Windows Photo Viewer returned. You need to go to [Edwin over on Ten Forums](https://www.tenforums.com/software-apps/8930-windows-photo-viewer-gone-2.html#post290818) to add code on your PC.
 
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -125,13 +112,26 @@ From the above article, we found out that restoring Windows Photo Viewer on your
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -159,17 +159,21 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-top-free-video-template-resources/"><u>[New] 2024 Approved Top Free Video Template Resources</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-elevate-your-presentations-10-best-places-to-download-slideshow-designs-for-2024/"><u>[New] Elevate Your Presentations 10 Best Places to Download Slideshow Designs for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-reliable-strategy-to-infuse-direct-urls-in-tiktok-bio/"><u>[New] In 2024, Reliable Strategy to Infuse Direct URLs in TikTok Bio</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-mastering-iphone-burst-photography/"><u>[Updated] 2024 Approved Mastering iPhone Burst Photography</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-top-rated-pc-and-mobile-mkv-reader/"><u>[Updated] Top-Rated PC & Mobile MKV Reader</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-one-voice-many-listeners-a-solo-podcast-blueprint/"><u>2024 Approved One Voice, Many Listeners A Solo Podcast Blueprint</u></a></li>
-<li><a href="https://extra-information.techidaily.com/bridging-audio-artistry-in-visual-formats-for-2024/"><u>Bridging Audio Artistry in Visual Formats for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-oneplus-12r-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast OnePlus 12R to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-ultimate-screen-logger-az-audits-and-diversions/"><u>In 2024, Ultimate Screen Logger - AZ Audits & Diversions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mpow-microphone-troubleshooting-for-windows-users-solutions-and-tips/"><u>MPOW Microphone Troubleshooting for Windows Users – Solutions and Tips</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/optimal-quick-glance-windows-photo-app/"><u>Optimal Quick Glance Window's Photo App</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/unboxing-the-year-in-tweet-videos-complete-23-package/"><u>Unboxing the Year in Tweet Videos - Complete '23 Package</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-scrutinizing-hero5s-performance-throughout-day/"><u>[New] 2024 Approved Scrutinizing Hero5's Performance Throughout Day</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-exploring-top-20-anime-opener-hits-for-2024/"><u>[New] Exploring Top 20 Anime Opener Hits for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-eye-catching-podcast-logos-step-by-step-creation-for-2024/"><u>[New] Eye-Catching Podcast Logos Step-by-Step Creation for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-top-trending-and-most-viewed-prime-videos-twitterreactions/"><u>[New] Top-Trending & Most Viewed Prime Videos, #TwitterReactions</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-foobar2000-wave-router/"><u>[Updated] 2024 Approved Foobar2000 Wave Router</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-past-paints-legal-freedoms-for-classics/"><u>[Updated] 2024 Approved Past Paints Legal Freedoms for Classics</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-discover-the-7-premier-tools-to-convert-digital-work-as-nfts/"><u>[Updated] Discover the 7 Premier Tools to Convert Digital Work as NFTs</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-vlogging-made-simple-top-30-video-concepts-for-2024/"><u>[Updated] Vlogging Made Simple Top 30 Video Concepts for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726028573468-m4pwav/"><u>簡単にM4PをWAVに変更する方法｜オーディオファイル変換の究極ガイド</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/boldly-step-up-claim-your-set-of-50-exquisite-cost-free-youtube-promo-materials-for-2024/"><u>Boldly Step Up Claim Your Set of 50 Exquisite, Cost-Free YouTube Promo Materials for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/google-nest-audio-vs-apple-homepod/"><u>Google Nest Audio Vs. Apple HomePod</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-any-realme-12-5g-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Realme 12 5G Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-securing-quieter-steadier-photo-screenshots/"><u>In 2024, Securing Quieter, Steadier Photo Screenshots</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-google-pixel-7a-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Google Pixel 7a Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-tips-addressing-lg-display-driver-issues-on-various-windows-versions/"><u>Troubleshooting Tips: Addressing LG Display Driver Issues on Various Windows Versions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Vivo X Fold 2 | Dr.fone</u></a></li>
 </ul></div>
 

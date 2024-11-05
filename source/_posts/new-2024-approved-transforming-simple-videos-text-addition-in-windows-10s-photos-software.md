@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Transforming Simple Videos  Text Addition in Windows 10'S Photos Software\""
-date: 2024-10-29T20:21:13.647Z
-updated: 2024-10-30T17:55:08.706Z
+date: 2024-11-01T16:52:47.890Z
+updated: 2024-11-05T16:47:48.280Z
 tags: 
   - screen-recording
   - ai video
@@ -57,10 +57,10 @@ Do you wish to add titles/text to video on Photos in Windows 10 for your video p
 * For addition of credits, try to use the Classic text style. Put each of the credits in a new line and do give credits to yourself as well
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Make Text Move in Windows 10 Photos App
@@ -75,10 +75,10 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/effects-photos.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Some of the effects might not have the option to move or anchor but if you choose the one that does allow moving of texts, you get an option to attach once you select it
@@ -88,21 +88,22 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/attach-effects-photos-min.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * To increase or decrease the length of animation time, adjust the slider
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/edit-text-photos.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
 
@@ -111,13 +112,6 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 To add titles/text to video on Photos in Windows 10 and to make the text move with the Windows 10 Photos app, follow the above steps and get going easily. The steps are really simple and you just need to understand and apply the steps for successfully adding texts to your videos.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -144,17 +138,24 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-cutting-edge-tips-for-making-masterpieces-with-snaps/"><u>[New] In 2024, Cutting-Edge Tips for Making Masterpieces with Snaps</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-smart-shoppers-what-to-evaluate-for-a-4k-lens/"><u>[New] In 2024, Smart Shoppers What to Evaluate for a 4K Lens</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-the-converters-cornerstone-for-srt-transformations-for-2024/"><u>[New] The Converter's Cornerstone for SRT Transformations for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-visual-verse-top-10-writing-apps-for-photo-lovers-iosandroid-for-2024/"><u>[New] Visual Verse Top 10 Writing Apps for Photo Lovers (iOS/Android) for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-elevate-your-gaming-choose-the-best-free-voice-modifier-to-sharpen-skills/"><u>[Updated] 2024 Approved Elevate Your Gaming - Choose the Best Free Voice Modifier to Sharpen Skills</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-unbox-the-joy-of-9-premium-complete-christmas-movies-for-free/"><u>[Updated] Unbox the Joy of 9 Premium, Complete Christmas Movies for Free</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/best-screenplays-from-8-genre-for-2024/"><u>Best Screenplays From 8 Genre for 2024</u></a></li>
-<li><a href="https://fox-search.techidaily.com/comment-retrouver-votre-informations-sur-un-toshiba-canvio-portable-perdu/"><u>Comment Retrouver Votre Informations Sur Un Toshiba Canvio Portable Perdu</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-gearing-up-for-a-leisurely-view-three-methods-to-tame-video-speed-on-youtube-60-chars-minor-exception-due-to-title-length-but-offers-comprehensive-i/"><u>In 2024, Gearing Up for a Leisurely View Three Methods to Tame Video Speed on YouTube (60 Chars, Minor Exception Due to Title Length but Offers Comprehensive Insight)</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-stylish-methodology-combining-gopro-imagery-into-360-video-tapestry/"><u>In 2024, Stylish Methodology Combining GoPro Imagery Into 360 Video Tapestry</u></a></li>
-<li><a href="https://techtrends.techidaily.com/tech-rumors-flare-up-discover-speculations-surrounding-the-launch-date-price-range-and-specifications-of-teslas-new-phone/"><u>Tech Rumors Flare Up: Discover Speculations Surrounding the Launch Date, Price Range, and Specifications of Tesla's New Phone</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-best-free-video-shrinking-software-for-windows-10-users-for-2024/"><u>Updated Best Free Video Shrinking Software for Windows 10 Users for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-exploring-every-frame-a-deep-dive-into-polaroids-xs-action-camera/"><u>[New] 2024 Approved Exploring Every Frame A Deep Dive Into Polaroid's XS Action Camera</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-leading-apps-to-monitor-facebook-twitter-and-instagram-tags/"><u>[New] 2024 Approved Leading Apps to Monitor Facebook, Twitter and Instagram Tags</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-essential-techniques-for-computer-based-vhs-image-transformation/"><u>[New] Essential Techniques for Computer-Based VHS Image Transformation</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-pro-film-quality-the-seven-top-cameras-for-action/"><u>[New] In 2024, Pro Film Quality The Seven Top Cameras for Action</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-pro-tips-making-your-ipad-screen-capture-faster-and-hassle-free/"><u>[New] In 2024, Pro Tips Making Your iPad Screen Capture Faster and Hassle-Free</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-beyond-boundaries-revisited-assessing-current-realm-future-challenges/"><u>[Updated] 2024 Approved Beyond Boundaries Revisited Assessing Current Realm, Future Challenges</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-live-stream-showdown-pick-your-favorite-vmix-or-wirecast/"><u>[Updated] 2024 Approved Live Stream Showdown Pick Your Favorite, VMix or Wirecast</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-vlc-utility-guide-for-mp4-to-multiple-file-types-transformation/"><u>[Updated] 2024 Approved VLC Utility Guide for MP4 to Multiple File Types Transformation</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-total-gaze-coverage-camera-analysis/"><u>[Updated] In 2024, Total Gaze Coverage Camera Analysis</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-scaling-video-size-without-quality-loss-on-youtube/"><u>2024 Approved Scaling Video Size Without Quality Loss on YouTube</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/cease-windows-tally-of-new-software-activities/"><u>Cease Windows' Tally of New Software Activities</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-infinite-professional-slideshow-resource-for-businesses/"><u>In 2024, Infinite Professional Slideshow Resource for Businesses</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-windows-11-expert-strategies-for-recording-high-quality-sounds/"><u>In 2024, Windows 11 Expert Strategies for Recording High-Quality Sounds</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectifying-window-margins-problems-in-windows-10/"><u>Rectifying Window Margins Problems in Windows 10</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722973769050-surface-book-driver-update-made-simple-download-now/"><u>Surface Book Driver Update Made Simple – Download Now!</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-ultimate-guide-to-superior-4ks-for-2024/"><u>The Ultimate Guide to Superior 4Ks for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/troubleshooting-guide-overcoming-2017-macbook-pro-upgrade-challenges-expert-fixes-and-tips/"><u>Troubleshooting Guide: Overcoming 2017 MacBook Pro Upgrade Challenges - Expert Fixes & Tips</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Comparing Syma X8C to Previous Models for 2024"
-date: 2024-09-04T23:40:45.276Z
-updated: 2024-09-05T23:40:45.276Z
+date: 2024-11-03T19:17:37.265Z
+updated: 2024-11-05T19:48:42.595Z
 tags: 
   - screen-recording
   - ai video
@@ -89,20 +89,35 @@ thumbnail: https://thmb.techidaily.com/b57bdcbb41c7763c82190be25c28d361f666df503
 
 ![syma x8c controller](https://images.wondershare.com/filmora/article-images/syma-x8c-controller.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Controller or the transmitter of X8C device is small enough that fits perfectly in user’s hands. Construction is completed with ABS plastic material that leads to light weight structure and this controller makes use of 2.4GHz frequency band to send control signals towards drone in air. The best thing to know about Syma X8C is that it can cover the 100 meter range impressively.
 
 #### 6\.  Camera
 
 ![syma x8c camera](https://images.wondershare.com/filmora/article-images/syma-x8c-camera.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  A drone cannot be complete without a camera mounted on its top; hence Syma has taken care of users need and they developed Syma X8C with a camera that can record everything in air. Although, it is not able to collect video information with HD quality but you will be glad to know that it is detachable and one can also make additional adjustments over its angles to adjust focus. All the recorded videos are stored inside a 4GB MicroSD card. Further, the attached gimbal assists in much stable footage.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
  By considering all above factors, we must say that Syma X8C is a well designed drone unit that can serve with much better results as an entry level aerial shoot recorder. As the price tag keeps it below $100 range so beginners find it most affordable for their learning needs and the gimbal protection leads to highly stable footage that can be shared on social media sites to impress friends. The control mechanisms is rated as highly responsive so will all these satisfactory features it becomes a must buy product for your air flight adventures.
@@ -110,11 +125,12 @@ thumbnail: https://thmb.techidaily.com/b57bdcbb41c7763c82190be25c28d361f666df503
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -138,4 +154,24 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-boost-your-visual-language-with-premium-affects-extensions/"><u>[New] 2024 Approved Boost Your Visual Language with Premium Affects Extensions</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-classroom-visuals-cutting-edge-video-edits-for-teachers-for-2024/"><u>[New] Classroom Visuals Cutting Edge Video Edits for Teachers for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-high-gear-comparison-gopros-best-match-ghost-s-drift-for-2024/"><u>[New] High Gear Comparison GoPro's Best Match? Ghost-S Drift for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-best-script-innovation-place/"><u>[New] In 2024, Best Script Innovation Place</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-creative-composition-concepts-fostering-joyful-spaces/"><u>[New] In 2024, Creative Composition Concepts Fostering Joyful Spaces</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-enhancing-imagery-with-smart-layers-in-photoshop/"><u>[Updated] 2024 Approved Enhancing Imagery with Smart Layers in Photoshop</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-is-splitcam-the-ultimate-in-video-capture/"><u>[Updated] 2024 Approved Is SplitCam The Ultimate in Video Capture?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-detailed-review-the-ultimate-5-low-frame-rate-gear/"><u>[Updated] In 2024, Detailed Review The Ultimate 5 Low Frame Rate Gear</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-enhancing-viewer-experience-vertical-videos-in-final-cut-pro-x/"><u>[Updated] In 2024, Enhancing Viewer Experience Vertical Videos in Final Cut Pro X</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-powerdirector-elite-edition-review-the-ultimate-2024/"><u>[Updated] PowerDirector Elite Edition Review - The Ultimate 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-transform-your-online-reputation-and-increase-your-social-media-following/"><u>[Updated] Transform Your Online Reputation and Increase Your Social Media Following</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-photo-perfection-for-newbies-the-lunapic-way/"><u>2024 Approved Photo Perfection for Newbies The LunaPic Way</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/enhancing-engagement-30-outstanding-video-concepts/"><u>Enhancing Engagement 30 Outstanding Video Concepts</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-realtek-graphics-card-software-update-for-windows-11-now/"><u>Get Your Realtek Graphics Card Software Update for Windows 11 Now</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-naming-gems-top-strategies-for-exceptional-podcast-titles/"><u>In 2024, Naming Gems Top Strategies for Exceptional Podcast Titles</u></a></li>
+<li><a href="https://article-helps.techidaily.com/pioneering-techniques-in-hand-based-tracking-for-2024/"><u>Pioneering Techniques in Hand-Based Tracking for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/time-warp-techniques-harnessing-classic-80s-visual-flair-in-videos-for-2024/"><u>Time Warp Techniques Harnessing Classic 80S Visual Flair in Videos for 2024</u></a></li>
+</ul></div>
 
