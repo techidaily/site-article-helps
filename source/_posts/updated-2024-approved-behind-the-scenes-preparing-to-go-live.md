@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Behind the Scenes  Preparing to Go Live\""
-date: 2024-10-30T20:08:25.171Z
-updated: 2024-11-05T18:51:41.660Z
+date: 2024-11-09T01:52:20.952Z
+updated: 2024-11-15T20:56:22.592Z
 tags: 
   - screen-recording
   - ai video
@@ -42,10 +42,10 @@ Panasonic LUMIX GH4
 A camcorder or webcam will work perfectly for live streaming as long as the camera able to shoot at a minimum of 720p HD, 24fps. It's totally fine to start off with the webcam on your laptop, or a better webcam. I have used the Logitech C922 for streaming and it works like a charm. The Mevo Plus helps you on great quality when you use a mobile device. After that you run your program into a software such as OBS where you can apply filters to improve your image, which you will be using to also live stream onto the actual platform such as YouTube or Twitch. A plus is that you don't need a memory card for streaming as you're not recording on the camera itself.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2\. What microphone do you need?
@@ -55,6 +55,13 @@ When talking about audio, it's one of the most important elements of your overal
 USB microphones are the best choice for at-home streaming. Fanatics will rather use XLR microphones because of its sound quality. Good XLR microphones are a lot of the times way more expensive than regular USB microphones. XLRs also need an external sound card/audio interface to be powered to your computer, like the Focusrite Scarlett Solo, starting at around $130.
 
 Budget microphones give you great streaming quality. The only downside is that they lack certain features like a mute button and voltage/gain controls, which forces you to find another solution to make up for that such as using plugins in your streaming software to give more gain to your microphone and or use hotkeys to mute.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3\. What streaming software do you need?
 
@@ -67,10 +74,16 @@ OBS Studio is open-source software used for recording and streaming. It is free 
 ![obs studio](https://images.wondershare.com/filmora/article-images/obs-screen-recorder.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If you are prepared to devote time to learning its functionality, OBS Studio has a lot more strength than most of the other free software, that's why it is so popular under content creators. You will also find other plugins that people have created to add to OBS Studio's functionality and flexibility to enhance your recording or streaming experience.
@@ -82,10 +95,10 @@ Streamlabs was originally a live streaming tool that streamers use with other li
 ![streamlabs](https://images.wondershare.com/filmora/article-images/streamlabs-desktop.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Nvidia ShadowPlay**
@@ -93,13 +106,6 @@ Streamlabs was originally a live streaming tool that streamers use with other li
 Nvidia ShadowPlay is designed for gamers and comes combined with Nvidia GeForce graphics cards. It allows people to stream high-quality livestreams and videos. It's suitable for platforms such as Facebook Live, YouTube and Twitch.
 
 ![nivdia shadowplay](https://images.wondershare.com/filmora/article-images/shadowplay-record.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ShadowPlay's DVR-style Instant Replay mode can be used by pressing a hotkey to save the last 30 seconds of your content to your hard drive or share to Twitch or YouTube. You can manually record videos for as long as you like because ShadowPlay is hardware accelerated. You can make up to a 15-second GIFs from your ShadowPlay video to ceate highlights, edit them afterwards with color grading effects, adding music, text, and upload it to Facebook, YouTube or Vimeo.
 
@@ -171,20 +177,19 @@ Live streaming is quite a wide topic, and each streaming experience is different
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-banishing-blackout-blues-from-youtube-videos-for-2024/"><u>[Updated] Banishing Blackout Blues From YouTube Videos for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-drone-buying-101-critical-facts-for-the-aspiring-owner/"><u>2024 Approved Drone Buying 101 Critical Facts for the Aspiring Owner</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-google-cardboard-vs-samsung-gear-vr/"><u>2024 Approved Google Cardboard Vs. Samsung Gear VR</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-leading-online-tools-select-your-new-photo-background/"><u>2024 Approved Leading Online Tools Select Your New Photo Background</u></a></li>
-<li><a href="https://fox-http.techidaily.com/a-comprehensive-guide-standing-out-in-reddit-discussions-for-2024/"><u>A Comprehensive Guide Standing Out in Reddit Discussions for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/capture-and-save-video-images-on-windows-11-for-2024/"><u>Capture and Save Video Images on Windows 11 for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/choosing-between-the-m1-and-m2-ipad-pro-a-comprehensive-guide-on-performance-features-and-value/"><u>Choosing Between the M1 and M2 iPad Pro: A Comprehensive Guide on Performance, Features, and Value</u></a></li>
-<li><a href="https://article-helps.techidaily.com/cinematic-supreme-our-selection-of-top-7-4k-cameras/"><u>Cinematic Supreme Our Selection of Top 7 4K Cameras</u></a></li>
-<li><a href="https://article-helps.techidaily.com/crafting-memes-with-ease-on-9gag-platform/"><u>Crafting Memes with Ease on 9GAG Platform</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-tecno-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from Tecno</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-cut-to-perfection-a-detailed-guide-on-youtube-short-video-making/"><u>In 2024, Cut to Perfection A Detailed Guide on YouTube Short Video Making</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-honor-100withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Honor 100with/without a PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-rectify-microsoft-store-error-0x80072f30-on-pcs/"><u>Steps to Rectify Microsoft Store Error 0X80072F30 on PCs</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/supreme-display-quality-top-10-ranking-of-4k-screens-for-2024/"><u>Supreme Display Quality #Top 10 Ranking of 4K Screens for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-pixel-percussion-finding-sound-cues-from-button-presses/"><u>Updated 2024 Approved Pixel Percussion Finding Sound Cues From Button Presses</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-windows-11-video-editing-simplified-utilizing-storyremix-features/"><u>[New] 2024 Approved Windows 11 Video Editing Simplified Utilizing StoryRemix Features</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-next-level-graphic-cards-for-4k-titles/"><u>[New] Next-Level Graphic Cards for 4K Titles</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-strategies-to-promote-vimeo-films/"><u>[New] Strategies to Promote Vimeo Films</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-snapshots-of-life-compreenasive-guide-to-capturing-the-journey-of-playing-sims-4/"><u>[Updated] 2024 Approved Snapshots of Life Compreenasive Guide to Capturing the Journey of Playing Sims 4</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-unveiling-the-art-of-converting-still-images-into-engaging-videos-with-pixiz/"><u>[Updated] 2024 Approved Unveiling the Art of Converting Still Images Into Engaging Videos with Pixiz</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-discover-top-10-enhanced-visual-experiences-on-macs/"><u>[Updated] Discover Top 10 Enhanced Visual Experiences on Macs</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-fixing-windows-11-photo-app-glitches-quickly-for-2024/"><u>[Updated] Fixing Windows 11 Photo App Glitches Quickly for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-utilizing-alternate-shots-to-elevate-film-quality/"><u>[Updated] Utilizing Alternate Shots to Elevate Film Quality</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-the-magic-behind-procedurally-crafted-games/"><u>Decoding the Magic Behind Procedurally Crafted Games</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-from-doodles-to-dollars-the-graphic-artists-guide/"><u>In 2024, From Doodles to Dollars The Graphic Artist's Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/mastering-the-download-of-epson-xp-830-drivers-a-comprehensive-guide/"><u>Mastering the Download of Epson XP-830 Drivers - A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-voice-chat-with-in-game-audio-on-discord-platforms/"><u>Mastering Voice Chat with In-Game Audio on Discord Platforms</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-for-nvidias-geforce-error-0x0003/"><u>Troubleshooting Guide for NVIDIA's GeForce Error 0X0003</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/virtualdub-the-good-the-bad-and-the-best-alternatives-for-you-for-2024/"><u>Virtualdub The Good, the Bad, and the Best Alternatives for You for 2024</u></a></li>
 </ul></div>
 

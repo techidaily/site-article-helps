@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Proven Techniques to Stand Out in Podcast Imagery"
-date: 2024-10-31T16:29:26.937Z
-updated: 2024-11-05T19:29:06.846Z
+date: 2024-11-08T17:21:11.814Z
+updated: 2024-11-16T02:10:09.193Z
 tags: 
   - screen-recording
   - ai video
@@ -86,6 +86,13 @@ Another thing to review is the color palettes used by the entrepreneurs. The col
 
 Comedy podcasts don’t seem like much, but they have a huge user following. Do you know how? Well, they attract users in bulk with their funky, impressive, and immersive cover images. Notice the clever use of colors on all the podcast cover designs. Moreover, the typography used in these cover images is also unsophisticated and often conveys that this isn’t something serious.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Avoid Inappropriate Words or Imagery
 
 Swearing and inappropriate imagery is part of today’s taboo culture. However, it offends users. You have to retain that the podcast-listening community is an informed one. It’s not about becoming cool, but it's about delivering cool information.
@@ -93,13 +100,6 @@ Swearing and inappropriate imagery is part of today’s taboo culture. However, 
 Not to mention, using explicit languages is also restricted by podcast directories, like Apple Podcast and Spotify. So, you may also get banned for using offensive words or imagery in your podcast cover photos.
 
 ![podcast explicit covers](https://images.wondershare.com/filmora/article-images/2023/01/design-podcast-cover-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The recent policies of podcast directories like Apple Podcast have changed drastically. For instance, you could have gotten away with using asterisk marks in some words (like sh\*t); however, it is not the case today. Your podcast will receive multiple notifications from the platform managers to remove the banner, and in some cases, the directories can also ban you from the platform. So, it is best to play it safe and use professional language, at least in the podcast cover photos.
 
@@ -127,29 +127,9 @@ Blue is the color of trust, competency, and quality. To loosely translate its ps
 
 ![podcast blue covers](https://images.wondershare.com/filmora/article-images/2023/01/design-podcast-cover-9.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 There are numerous other examples like this. For instance, even black ink on a grey palette is a trend. After studying their psychological effects on your users, you can choose from any number of colors and combinations.
 
 It is important to retain that color psychology is not about tricking people. Instead, it is about learning the effects of color on people mind’s and using one that best describes your episodes. So, research this in-depth and choose a color that resonates with your content and also impresses users.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. Typography will help
 
@@ -159,18 +139,18 @@ For instance, serif fonts have long been used in newspapers, magazines, and even
 
 ![podcast typography covers](https://images.wondershare.com/filmora/article-images/2023/01/design-podcast-cover-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Sans serif is the new thing. It is all about throwing the tradition of using Serif fonts out of the window and using a fun and exciting and allowing users to read conveniently on the web-pages.
 
 But typography does not mean it's all about the font itself. The size of the font, the spaces in between the fonts, and the color of the font all play a differential role. So, ensure to learn about all the intricacies of typography and accordingly use fonts, their size, the gap in between them, their color, and so on.
 
 ![podcast typography blendcovers](https://images.wondershare.com/filmora/article-images/2023/01/design-podcast-cover-11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Additionally, you should focus on blending the typography with imagery. The combination of both often becomes messy and unreadable; of course, the creativity lies in
 
@@ -246,10 +226,16 @@ Step5 A pop-up window should appear on your screen. Click Title > Basic > then e
 ![create podcast cover photo filmora 4](https://images.wondershare.com/filmora/article-images/2023/01/design-podcast-cover-15.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step6 Once you complete the settings. Click OK > Export. Then, from the pop-up that appears, enter the file name in the relevant area and select a preferred location to save the p\[ocast cover photo. Then, click Export to finish.
@@ -257,10 +243,10 @@ Step6 Once you complete the settings. Click OK > Export. Then, from the pop-up t
 ![create podcast cover photo filmora 5](https://images.wondershare.com/filmora/article-images/2023/01/design-podcast-cover-16.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Summing Up
@@ -284,6 +270,19 @@ Above all, Filmora is a self-explanatory tool with a clean and modern interface 
 * Color correct the image.
 * Export in any resolution, format, and custom dimension (dedicated options available).
 
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to make a podcast cover with Filmora?
 
 As indicated, Filmora is really simple to use. Regardless of whether you’ve used a podcast cover-making tool before or not, Filmora will feel easy and quick. Here’s how to make a podcast cover with Filmora:
@@ -293,6 +292,19 @@ Step1 Download and Install the Filmora Video Editor on your Mac or Windows compu
 Step2 Launch the installed app and click Create a New Project. Then, click Stock Media at the top.
 
 ![create podcast cover photo filmora 1](https://images.wondershare.com/filmora/article-images/2023/01/design-podcast-cover-12.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3 You should see a list of the royalty-free image platforms that are supported on Filmora on the left side of the screen. Click a preferred platform (We used Unsplash for this stepwise guide.) and type Podcast in the search bar. Then, drag-n-drop a preferred photo that you wish to use for your podcast cover photo to the Timeline.
 
@@ -306,22 +318,22 @@ Step5 A pop-up window should appear on your screen. Click Title > Basic > then e
 
 ![create podcast cover photo filmora 4](https://images.wondershare.com/filmora/article-images/2023/01/design-podcast-cover-15.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step6 Once you complete the settings. Click OK > Export. Then, from the pop-up that appears, enter the file name in the relevant area and select a preferred location to save the p\[ocast cover photo. Then, click Export to finish.
 
 ![create podcast cover photo filmora 5](https://images.wondershare.com/filmora/article-images/2023/01/design-podcast-cover-16.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Summing Up
@@ -354,21 +366,19 @@ However, your podcast cover image can outshine competitors if you work on all th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-simultaneous-screen-and-camera-capture-guide/"><u>[New] In 2024, Simultaneous Screen & Camera Capture Guide</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-streamline-your-workflow-with-these-5-obs-editing-hacks/"><u>[New] In 2024, Streamline Your Workflow with These 5 OBS Editing Hacks</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-5-best-photo-editing-app-for-android-phone/"><u>2024 Approved 5 Best Photo Editing App for Android Phone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-an-in-depth-examination-of-samsungs-picture-editing-tech/"><u>2024 Approved An In-Depth Examination of Samsung’s Picture Editing Tech</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-experience-the-future-of-action-videos-sj7s-star-4k-review/"><u>2024 Approved Experience the Future of Action Videos SJ7's Star 4K Review</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-funnyframefarm-digital-jokes-galore/"><u>2024 Approved FunnyFrameFarm Digital Jokes Galore</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-melodious-modulation-techniques-in-free-fire/"><u>2024 Approved Melodious Modulation Techniques in Free Fire</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-playstation-vrs-coming-stars-predicted-top-5-titles-to-track/"><u>2024 Approved PlayStation VR's Coming Stars Predicted Top 5 Titles to Track</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-the-inconspicuous-footprint-of-social-media-engagements/"><u>2024 Approved The Inconspicuous Footprint of Social Media Engagements</u></a></li>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-infinix-hot-30i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Infinix Hot 30i | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/demystifying-drone-technology-operations-and-purposes/"><u>Demystifying Drone Technology Operations and Purposes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discovering-claude-ai-your-gateway-to-enhanced-productivity/"><u>Discovering Claude AI: Your Gateway to Enhanced Productivity</u></a></li>
-<li><a href="https://win11.techidaily.com/leveraging-the-power-of-apples-messaging-protocol-in-windows-os/"><u>Leveraging the Power of Apple's Messaging Protocol in Windows OS</u></a></li>
-<li><a href="https://extra-information.techidaily.com/optimal-steadicams-for-professional-grade-dslr-shoots/"><u>Optimal Steadicams for Professional-Grade DSLR Shoots</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/the-ultimate-fix-resolving-directx-troubles-with-fifa-20-on-pc/"><u>The Ultimate Fix: Resolving DirectX Troubles with FIFA 20 on PC</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-the-sound-engineers-toolkit-in-depth-strategies-for-effective-mp3-manipulation-for-2024/"><u>Updated The Sound Engineers Toolkit In-Depth Strategies for Effective MP3 Manipulation for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-perfecting-iphone-photography-for-vr-spheres/"><u>[New] 2024 Approved Perfecting iPhone Photography for VR Spheres</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-transforming-media-captions-the-creme-de-la-creme-of-top-online-editors/"><u>[New] 2024 Approved Transforming Media Captions The Crème De La Créme of Top Online Editors</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-bringing-your-screens-to-life-with-camstudios-latest-tools/"><u>[New] Bringing Your Screens to Life with CamStudio's Latest Tools</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-macs-high-resolution-vision-the-ultimate-10-screen-companions/"><u>[New] Mac's High-Resolution Vision The Ultimate #10 Screen Companions</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-top-9-invisible-media-extractors-for-2024/"><u>[New] Top 9 Invisible Media Extractors for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-calculating-your-commercial-break-even-as-a-podcaster/"><u>[Updated] Calculating Your Commercial Break-Even as a Podcaster</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-the-pathway-to-discover-your-youtube-supporters/"><u>[Updated] In 2024, The Pathway to Discover Your YouTube Supporters</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-analyzing-the-features-of-vegaspros-latest-release/"><u>2024 Approved Analyzing the Features of VegasPro's Latest Release</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-and-streamlining-windows-based-discord-searches/"><u>Enhancing and Streamlining Windows-Based Discord Searches</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-samsung-galaxy-s23-fe-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/realistic-movement-rendering-for-images-for-2024/"><u>Realistic Movement Rendering for Images for 2024</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/waarom-wijs-je-een-herstelpak-inzamelen-voor-geautomatiseerde-deleties-van-grove-bestanddeelnissen/"><u>Waarom Wijs Je Een Herstelpak Inzamelen Voor Geautomatiseerde Deleties Van Grove Bestanddeelnissen?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Colors Unleashed  Practical Application of Color Theory\""
-date: 2024-11-03T17:00:37.147Z
-updated: 2024-11-05T19:44:12.787Z
+date: 2024-11-14T19:02:23.732Z
+updated: 2024-11-16T02:29:10.671Z
 tags: 
   - screen-recording
   - ai video
@@ -33,6 +33,13 @@ Color theory consists of many elements that could fill a library on its own but 
 
 There are many color wheels out there and all require understanding and research into that particular color arrangement but for this guide I will be focusing on the more widely used RGB which derives from the primary colors red green and blue, If you're thinking why red green and blue not red yellow and blue then you are observant, while RYB is taught as the three primary colors we will be using what is known as additive primary colors of light meaning the more you add of these colors the closer to white you get, the reason we will be using this combination is due to the fact RYB misses a lot of hues around the violet area and the blue-greens meaning we achieve a higher range of color to pick from. With this in mind let's start.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The Color Wheel
 
 Using red, green and blue as primary colors we can mix the colors to one another to get our secondary colors giving us yellow, magenta and cyan. We can mix these to one another to create our tertiary colors which are raspberry, orange, sprig green, turquoise, ocean and violet giving us something which looks like this
@@ -40,10 +47,10 @@ Using red, green and blue as primary colors we can mix the colors to one another
 ![colcor wheel](https://images.wondershare.com/filmora/article-images/2024/color-wheel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 As you can see, we have every color available in this wheel and they are arranged in a unison with the mixed colors starting with red, green and blue and working towards each other.
@@ -54,6 +61,19 @@ So now we know how the wheel is made and what it looks like. What does it do? We
 
 ![color harmony](https://images.wondershare.com/filmora/article-images/2022/08/color-harmony.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 One such harmony is complementary colors and luckily for us this is very easy to find. You take your base color and find the opposite color on the wheel. In this example the complementary color to blue is yellow depicted with a red line.
 
 These colors always work as they create contrast and stability.
@@ -62,25 +82,11 @@ The blue lines represent what is known as split contrasting colors and these wil
 
 The corners of the black rectangle land on what is known as tetradic complement and allows you to add four colors with the understanding that they will complement each other perfectly. Lastly is the purple line which represents the analogous complementary colors, you can pick these neighboring colors with the peace of mind that they will harmonize with each other. There are many more but these four are the main ones that you will use more often than any other, by selecting colors using these four main types you can create a palette for your scenes and allow the viewer to effortlessly enjoy your content. These types work no matter where you start from on the wheel so long as you keep the distances the same.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## But How Do I Use This
 
 You may still be unsure as to how to implement color theory into your videos. Let's look at some scenarios that color theory may help your creations.
 
 ![apply color theory video](https://images.wondershare.com/filmora/article-images/2022/08/apply-color-theory-video.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 In this scene the director decided that the backdrop should complement the top the actor is wearing, looking at our wheel we can see the complementary color would be dark purple so they started with that, to create a more dynamic scene they then used the analogous colors of that purple being pink and red and created the backdrop. This creates a harmony within the scene and makes it effortless to see all the key elements straight away.
 
@@ -91,10 +97,16 @@ As you can see from this example the base color for the scene is a dark blue/pur
 As you can see from all the movie covers above, they all use complementary colors from the blues to the war yellows and oranges, this creates high contrast and balance and is something done within the movie industry in every scene. It's no coincidence that the joker is purple and green or that the iron man is red and gold, this is well prepared and researched in the planning stages of everything a visual artist creates.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -131,15 +143,15 @@ By including this into your thought process when creating videos with [Filmora](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-reimagine-the-way-you-take-notes-with-mematic/"><u>[New] 2024 Approved Reimagine the Way You Take Notes with Mematic</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-revamped-podcast-chats-attracting-true-fans-for-2024/"><u>[New] Revamped Podcast Chats Attracting True Fans for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-sound-capture-device-audit/"><u>[New] Sound Capture Device Audit</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-transform-trivial-images-into-masterpieces-online/"><u>[New] Transform Trivial Images Into Masterpieces Online</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-efficient-techniques-for-saving-online-meeting-transcripts/"><u>[Updated] Efficient Techniques for Saving Online Meeting Transcripts</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-simplifying-the-process-of-creating-time-lapses-with-gopro-for-2024/"><u>[Updated] Simplifying the Process of Creating Time Lapses with GoPro for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-iphone-15-pro-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My iPhone 15 Pro After Forgetting my PIN Code?</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-setting-up-windows-11-for-automatic-hdr-activation/"><u>In 2024, Setting Up Windows 11 for Automatic HDR Activation</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/innovations-in-podcasting-generating-custom-rss-files-for-2024/"><u>Innovations in Podcasting Generating Custom RSS Files for 2024</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/wie-man-dateien-von-iphone-ipad-oder-ipod-sicher-auf-eine-externe-festplatte-ubertragen/"><u>Wie Man Dateien Von iPhone, iPad Oder iPod Sicher Auf Eine Externe Festplatte Übertragen</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-artful-stop-motion-animation-the-best-15-films/"><u>[New] 2024 Approved Artful Stop-Motion Animation - The Best 15 Films</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-elevate-mobile-film-and-photo-quality-choose-wisely-accessories-for-2024/"><u>[New] Elevate Mobile Film & Photo Quality Choose Wisely Accessories for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-city-planning-for-climate-action-a-comprehensive-guide-for-2024/"><u>[Updated] City Planning for Climate Action A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-how-to-organize-photo-album-on-iphone-and-icloud-for-2024/"><u>[Updated] How To Organize Photo Album On iPhone And iCloud for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-affordable-full-rotational-camera-systems-enhancing-media/"><u>2024 Approved Affordable, Full Rotational Camera Systems Enhancing Media</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207741788-astro-a40-microphone-not-working-heres-how-you-can-get-it-up-and-running/"><u>Astro A40 Microphone Not Working? Here's How You Can Get It Up & Running</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/curated-top-picks-top-6-mac-video-capture-tools/"><u>Curated Top Picks Top 6 Mac Video Capture Tools</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1725287253989-dvd/"><u>DVD二層記録手法紹介 - 容易な方法とそのコンパクト化</u></a></li>
+<li><a href="https://article-helps.techidaily.com/mastering-nighttime-shots-iphone-photo-tactics-for-2024/"><u>Mastering Nighttime Shots IPhone Photo Tactics for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-troubleshooting-companion-restoring-srt-functionality-in-premiere/"><u>The Troubleshooting Companion Restoring SRT Functionality in Premiere</u></a></li>
 </ul></div>
 

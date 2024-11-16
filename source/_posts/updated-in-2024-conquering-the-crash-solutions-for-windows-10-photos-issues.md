@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Conquering the Crash  Solutions for Windows 10 Photos Issues\""
-date: 2024-10-29T17:41:35.135Z
-updated: 2024-11-05T17:39:31.634Z
+date: 2024-11-12T00:07:51.967Z
+updated: 2024-11-15T16:49:00.072Z
 tags: 
   - screen-recording
   - ai video
@@ -58,15 +58,15 @@ Here is how to troubleshoot –
 
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/Troubleshooter.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. From the list of Apps displayed on the screen, click ‘Windows Store Apps’ and press the ‘Next’ button.
 2. Now, the troubleshooter will troubleshoot every app within the Windows Store Applications and fix them in a jiffy.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Solution 2: Restore Default Libraries
 
@@ -82,10 +82,10 @@ Restoring the default libraries would resolve the Windows 10 Photos App crash is
 1. Lastly, click on ‘Apply’ followed by ‘OK’ and the issue will be resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Solution 3: Reset it
@@ -98,6 +98,13 @@ Here is how can you reset it –
 2. Hit ‘Advanced Options’ and click ‘Reset’ button thereafter.
 3. Now, you got to restart your Windows system, so that Windows 10 Photos App crashing problem can be easily resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 4: Repair Photos App package
 
 A corrupted Photos App package might wreak havoc in your photo viewing, as the app doesn’t buzz follow your commands. The least you can do here is repair the package to fix minor glitches within and get it going.
@@ -108,6 +115,13 @@ Let’s fix the issue by repairing the Photos App package installed on your comp
 2. Key in the command followed by ‘Enter’: Get-AppXPackage -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($\_.InstallLocation)\\AppXManifest.xml”}
 3. Allow few minutes to make the changes effective and then restart the Windows 10 computer.
 4. Now, the Windows 10 Photos App won’t crash.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 5: Reinstall Windows 10 Photos app
 
@@ -120,13 +134,6 @@ Here is how to reinstall the Windows 10 Photos App –
 2. Now, visit the ‘Microsoft Store on your computer and find ‘Microsoft Photos.’
 3. Install ‘Microsoft Photos’ after downloading it from there. Your Windows 10 Photos App crashing issue is well taken care of now.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 From the above article, we have concluded that experiencing Windows 10 Photos App crashes is not uncommon. But, resolving them shouldn’t give you nightmares as well. From the above-mentioned process guides, you can fix the Windows 10 Photos App crashes effectively without any hassle. Try following each method until you get the Photos App crash issue fixed, so you can view your photos without any trouble.
@@ -134,13 +141,6 @@ From the above article, we have concluded that experiencing Windows 10 Photos Ap
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -167,16 +167,24 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-capture-the-moment-enhancing-and-cutting-video-for-instagram-impact-for-2024/"><u>[New] Capture the Moment Enhancing and Cutting Video for Instagram Impact for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-not-just-carjacking-fun-the-best-non-gta-games-for-2024/"><u>[Updated] Not Just Carjacking Fun The Best Non-GTA Games for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-strategic-insights-for-triumph-in-smm-for-2024/"><u>[Updated] Strategic Insights for Triumph in SMM for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-artisanfusion-8k-montage-magic-toolkit/"><u>2024 Approved ArtisanFusion 8K Montage Magic Toolkit</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-elite-5-cameras-for-slow-motion-magic/"><u>2024 Approved Elite 5 Cameras for Slow Motion Magic</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-high-dynamic-range-battle-black-hero5-and-sj7/"><u>2024 Approved High Dynamic Range Battle Black Hero5 & SJ7</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-music-management-made-simple-in-inshot/"><u>2024 Approved Music Management Made Simple in InShot</u></a></li>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-xiaomi-14-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Xiaomi 14 | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-from-apple-iphone-11-pro-max-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock From Apple iPhone 11 Pro Max Online</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-6s-plus-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone 6s Plus with a Broken Screen?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-how-to-fix-communication-issues-with-a-missing-dhcp-server/"><u>Resolved: How to Fix Communication Issues with a Missing DHCP Server</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-exploring-magix-pixel-mastery-review/"><u>[New] Exploring MAGIX Pixel Mastery Review</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-evolving-strategies-the-forecast-for-fb-advertising/"><u>[New] In 2024, Evolving Strategies The Forecast for FB Advertising</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-the-ultimate-guide-to-hyperlapse-storytelling/"><u>[New] In 2024, The Ultimate Guide to Hyperlapse Storytelling</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-introducing-the-ultimate-intro-edits-app-of-2023-for-2024/"><u>[New] Introducing the Ultimate Intro Edits App of 2023 for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-10-best-zero-cost-videochats-collaboration-at-your-desk-for-2024/"><u>[Updated] 10 Best Zero-Cost Videochats Collaboration at Your Desk for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-a-comprehensive-manual-on-motion-detection-systems/"><u>[Updated] 2024 Approved A Comprehensive Manual on Motion Detection Systems</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-audio-craftsmanship-weaving-voiceovers-into-visual-tapestries/"><u>[Updated] Audio Craftsmanship Weaving Voiceovers Into Visual Tapestries</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-merge-audio-files-into-powerpoint-staging/"><u>[Updated] In 2024, Merge Audio Files Into PowerPoint Staging</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-the-spectacular-lg-ud88w-4k-widescreen-monitor-review/"><u>[Updated] The Spectacular LG UD88W 4K Widescreen Monitor Review</u></a></li>
+<li><a href="https://win-answers.techidaily.com/get-a-no-risk-trial-of-the-ultimate-youtube-converter-software-factory-pro-edition/"><u>Get a No-Risk Trial of the Ultimate YouTube Converter Software - Factory Pro Edition</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/how-to-downsample-high-quality-wav-files-from-2432-bit-48khz-to-standard-16-bit441khz-audio-format/"><u>How to Downsample High-Quality WAV Files From 24/32-Bit 48kHz to Standard 16-Bit/44.1kHz Audio Format</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-from-apple-iphone-15-plus-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock From Apple iPhone 15 Plus? How to Fix it?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-decades-best-car-surveillance-camera-list/"><u>In 2024, Decade's Best Car Surveillance Camera List</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-screenplay-genius-weaving-compelling-narratives-and-dialogues/"><u>In 2024, Screenplay Genius Weaving Compelling Narratives and Dialogues</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-strategies-for-full-time-workers-who-create-videos/"><u>In 2024, Strategies for Full-Time Workers Who Create Videos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-superior-workplace-data-cloud-hubs/"><u>In 2024, Superior Workplace Data Cloud Hubs</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-the-apple-books-ereader-platform/"><u>In-Depth Analysis of the Apple Books eReader Platform</u></a></li>
+<li><a href="https://article-helps.techidaily.com/mastering-the-art-of-shopping-spree-videography/"><u>Mastering the Art of Shopping Spree Videography</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722993105228-stop-game-crashing-effortless-tips-to-get-league-of-legends-running-smoothly-again/"><u>Stop Game-Crashing: Effortless Tips to Get League of Legends Running Smoothly Again!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Reactivating Windows Photo Viewer in Windows 10 - Methods Unveiled\""
-date: 2024-10-31T20:09:06.792Z
-updated: 2024-11-05T18:45:53.088Z
+date: 2024-11-11T16:15:29.749Z
+updated: 2024-11-16T00:53:03.330Z
 tags: 
   - screen-recording
   - ai video
@@ -62,13 +62,6 @@ Here is why they want to restore Windows Photo Viewer –
 
 Though, Windows 10 Photos offers a dark theme, the effectiveness, responsiveness and features available with Windows Photo Viewer are hard to compromise.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 1 to restore Windows Photo Viewer
 
 The first method speaks about, when you have upgraded from a Windows 7/8/8.1 computer to Windows 10\. You can easily swing back to your most loved Windows Photo Viewer within no time. Here is the detailed guide –
@@ -78,21 +71,22 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 2**: Click on the present photo viewer app over there and look for ‘Windows Photo Viewer’. We assume that you have upgraded from an older version on Windows and Windows Photo Viewer is there in the options.
 
 **Step 3**: Tap on ‘Windows Photo Viewer’ and then exit ‘Settings’. Now, you have successfully restored Windows Photo Viewer and you can open photos in Windows Photo Viewer.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 2 to get Windows Photo Viewer back
 
@@ -108,6 +102,19 @@ Here is the detailed guide –
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-back.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note**: If the Windows Photo Viewer isn't there, here is a backup. You need to change Windows Registry to make Windows Photo Viewer returned. You need to go to [Edwin over on Ten Forums](https://www.tenforums.com/software-apps/8930-windows-photo-viewer-gone-2.html#post290818) to add code on your PC.
 
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
@@ -119,20 +126,13 @@ From the above article, we found out that restoring Windows Photo Viewer on your
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -159,18 +159,21 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-leading-edge-the-top-10-mobile-video-chat-platforms/"><u>[New] Leading Edge The Top 10 Mobile Video Chat Platforms</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-in-depth-look-at-best-videographer-selection/"><u>[Updated] In-Depth Look at Best Videographer Selection</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-transformative-power-of-vlc-from-mp4-to-a-multitude-of-formats/"><u>[Updated] Transformative Power of VLC From MP4 to a Multitude of Formats</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-critical-look-at-outstanding-online-streams/"><u>2024 Approved Critical Look at Outstanding Online Streams</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-smilesliceart-funnyphotofacility/"><u>2024 Approved SmileSliceArt FunnyPhotoFacility</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/a-guide-to-cellular-operators-how-do-they-facilitate-phone-communication/"><u>A Guide to Cellular Operators: How Do They Facilitate Phone Communication?</u></a></li>
-<li><a href="https://article-helps.techidaily.com/analyzing-huawei-p10s-impact-on-mobile-photography-trends-for-2024/"><u>Analyzing Huawei P10's Impact on Mobile Photography Trends for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/assemble-films-for-streaming-organization-for-2024/"><u>Assemble Films for Streaming Organization for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/banish-coffee-stains-free-iphone-app-to-remove-red-eyes-for-2024/"><u>Banish Coffee Stains Free iPhone App to Remove Red Eyes for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/maximizing-performance-optimal-settings-for-logitech-webcam-for-2024/"><u>Maximizing Performance Optimal Settings for Logitech Webcam for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-future-of-mental-health-care-can-ai-provide-better-assistance/"><u>The Future of Mental Health Care: Can AI Provide Better Assistance?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlocking-iphone-14-pro-max-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>Unlocking iPhone 14 Pro Max Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/vlc-capture-tool-assessment/"><u>VLC Capture Tool Assessment</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-full-review-of-picsart-app-a-step-by-step-guide/"><u>[New] Full Review of PicsArt App - A Step-by-Step Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-hues-in-harmony-applying-color-principles/"><u>[New] Hues in Harmony Applying Color Principles</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-legends-of-warfare-the-top-7-total-war-game-series-for-2024/"><u>[New] Legends of Warfare The Top 7 Total War Game Series for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-starting-up-in-periscope-tips-to-launch-your-wealth-journey/"><u>[New] Starting Up in Periscope Tips to Launch Your Wealth Journey</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-twitter-video-download-tool-for-mp3-conversion-for-2024/"><u>[New] Twitter Video Download Tool for MP3 Conversion for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-sparkle-with-style-personalize-brands-using-pre-set-graphics/"><u>[Updated] 2024 Approved Sparkle with Style Personalize Brands Using Pre-Set Graphics</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-from-cinema-scenes-to-speaking-scenes-discovering-the-top-32-tools-for-video-translation-for-2024/"><u>[Updated] From Cinema Scenes to Speaking Scenes Discovering the Top 32 Tools for Video Translation for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-angular-adjustments-on-youtube-videos-the-ultimate-2023-guide/"><u>[Updated] In 2024, Angular Adjustments on YouTube Videos - The Ultimate 2023 Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-vlc-for-pc-and-mac-universal-media-solution/"><u>[Updated] VLC for PC & Mac Universal Media Solution</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722992379204-god-of-war-performance-issues-heres-how-to-lower-cpu-usage-effectively/"><u>God of War Performance Issues? Here's How to Lower CPU Usage Effectively</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-djis-miniair-series-blend-like-a-pro-with-free-creative-luts/"><u>In 2024, DJI's Mini/Air Series Blend Like a Pro with Free, Creative LUTS</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-insightful-review-the-comprehensive-theta-s-experience/"><u>In 2024, Insightful Review The Comprehensive Theta S Experience</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-visionaries-of-marvellous-marvel-realities/"><u>In 2024, Visionaries of Marvellous Marvel Realities</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-honor-magic-5-lite-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Honor Magic 5 Lite Screen | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/tuxera-nero-reader-comprehensive-multimedia-tool/"><u>Tuxera Nero Reader Comprehensive Multimedia Tool</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/value-oriented-pc-visual-logging-suites/"><u>Value-Oriented PC Visual Logging Suites</u></a></li>
 </ul></div>
 

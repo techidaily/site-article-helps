@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering B-Cut Scenarios in Filmmaking\""
-date: 2024-11-02T19:10:55.676Z
-updated: 2024-11-05T17:41:15.419Z
+date: 2024-11-10T01:34:30.683Z
+updated: 2024-11-15T17:02:40.238Z
 tags: 
   - screen-recording
   - ai video
@@ -45,16 +45,16 @@ The ideal way to use B roll is to put it behind interviews. This kind of footage
 
 On the other hand, cutaways can show how different people react to what is being said in an interview. After all, transitions are commonly used to switch from one person's experience with a certain topic to another person's experience with the same topic. All of these different kinds of footage give filmmakers and videographers more freedom to tell their stories without relying too much on dialogue or narration.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. What types of b roll are there?
 
 We'll examine the top 5 uses for B rolls across a variety of video genres and discuss how to implement them effectively in your own projects.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Archival b roll footage
 
@@ -65,10 +65,10 @@ Aerial B roll is the solution when you like to show your viewers where your film
 Including archival material in your video allows your audience to experience a previously covered or historically significant story as it occurred. Look at this illustration from Netflix's 14 Peaks: Nothing Is Impossible, which was made utilizing old b roll film from the era to help the viewer connect with the narrative.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Storytelling b roll footage
@@ -76,28 +76,34 @@ Including archival material in your video allows your audience to experience a p
 B roll footage can be used to tell a story that supports the narrative of your video. For example, in this video interview of Tom DeLonge, the speaker talks about living in a neighborhood. The B rolls show him driving around in his car, skateboarding on the street in the 90's. These add to the story the video creator wants to talk about not seeing people with a disability differently.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Undirected b roll footage
 
 This particular kind of B roll film is captured without any direction being given to your character, as the name suggests. For the purposes of an interview video, for instance, these can be straightforward close-up views of your character's hands and facial expressions. On the other hand, while you're doing a documentary, you might record your subject participating in everyday activities.
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5\. Atmospheric b roll footage
 
 When you are sharing a narrative that has been told in the past or that has historical significance, incorporating archival material into your video gives your audience the opportunity to see the story as it occurred at the time. This is especially useful when you are discussing a narrative that has been experienced in the past or that has futuristic relevance.
 
 Have a look at the scenes from the episode "14 Peaks: Nothing Is Impossible" that can be found on Netflix. As a result of the use of archive film footage of b roll from the relevant time period in its production, the audience is able to connect with the narrative on a deeper level.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 6\. Pick-up shots
 
@@ -143,20 +149,18 @@ We sincerely hope that this post will be of use to you in making your films more
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-enhancing-memories-date-insertion-techniques-for-photos/"><u>[Updated] Enhancing Memories Date Insertion Techniques for Photos</u></a></li>
-<li><a href="https://games-able.techidaily.com/adventure-awaits-in-augmented-reality/"><u>Adventure Awaits in Augmented Reality</u></a></li>
-<li><a href="https://article-helps.techidaily.com/cutting-out-clutter-the-picsart-bg-eraser-method-for-2024/"><u>Cutting Out Clutter The Picsart Bg Eraser Method for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/cutting-edge-tools-for-inserting-text-into-pictures/"><u>Cutting-Edge Tools for Inserting Text Into Pictures</u></a></li>
-<li><a href="https://article-helps.techidaily.com/digital-delight-dive-from-snapshots-to-sprites-easy-and-fast/"><u>Digital Delight Dive From Snapshots to Sprites, Easy & Fast</u></a></li>
-<li><a href="https://article-helps.techidaily.com/download-powerhouse-top-free-quick-vids-extraction-for-pinterest/"><u>Download Powerhouse Top Free, Quick Vids Extraction for Pinterest</u></a></li>
-<li><a href="https://win-able.techidaily.com/dying-light-2-performance-optimization-tips-for-pc-players-dealing-with-fps-drops-and-gameplay-hiccups/"><u>Dying Light 2 Performance Optimization Tips for PC Players Dealing with FPS Drops & Gameplay Hiccups</u></a></li>
-<li><a href="https://article-helps.techidaily.com/effortlessly-download-free-skype-tones-online-for-2024/"><u>Effortlessly Download Free Skype Tones Online for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/elevate-live-streaming-add-streamlabs-to-your-macs-obs/"><u>Elevate Live Streaming Add Streamlabs to Your Mac's OBS</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/ending-asus-display-glitch-a-step-by-step-guide/"><u>Ending ASUS Display Glitch: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-http.techidaily.com/fixing-non-functional-airdrop-between-iphones-ipads-and-macs/"><u>Fixing Non-Functional AirDrop Between iPhones, iPads & Macs</u></a></li>
-<li><a href="https://article-helps.techidaily.com/from-novice-to-pro-your-journey-with-hdr-in-ps-for-2024/"><u>From Novice to Pro Your Journey with HDR in PS for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-common-problems-with-the-battlenet-launcher-for-windows-users/"><u>Solving Common Problems with the Battle.net Launcher for Windows Users</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-tecno-camon-20-premier-5g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Tecno Camon 20 Premier 5G Phone</u></a></li>
-<li><a href="https://techidaily.com/unlock-iphone-6-lock-with-icloud-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 6 lock with iCloud</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-ace-video-editing-with-kinemaster-skills-plus-10-leading-online-competitors/"><u>[New] 2024 Approved Ace Video Editing with KineMaster Skills + 10 Leading Online Competitors</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-maximizing-engagement-a-pathway-to-higher-subscriber-numbers/"><u>[New] 2024 Approved Maximizing Engagement A Pathway to Higher Subscriber Numbers</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-proper-steps-for-incorporating-previous-sessions-in-live-views/"><u>[New] 2024 Approved Proper Steps for Incorporating Previous Sessions in Live Views</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-balancing-act-weaving-b-roll-into-main-scenes-for-2024/"><u>[New] Balancing Act Weaving B Roll Into Main Scenes for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-clean-slate-creations-guide-to-the-psx-eraser-tool-for-2024/"><u>[New] Clean Slate Creations Guide to the PSX Eraser Tool for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-mental-wellness-through-virtual-environments/"><u>[Updated] Mental Wellness Through Virtual Environments</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-capture-the-crown-of-highlights-iosandroid-covers/"><u>2024 Approved Capture the Crown of Highlights IOS/Android Covers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-this-new-startups-virtual-reality-tech-takes-on-apples-vision-pro-and-wins-over-business-users-exclusive-insights/"><u>How This New Startup's Virtual Reality Tech Takes on Apple's Vision Pro and Wins Over Business Users – Exclusive Insights</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-instagram-glitch-reverse-angle-video-mystery/"><u>In 2024, Instagram Glitch Reverse-Angle Video Mystery</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-pixels-of-peaceful-bedtime-narratives/"><u>In 2024, Pixels of Peaceful Bedtime Narratives</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-there-an-end-in-sight-for-conventional-essays-the-impact-of-chatgpt-on-academia/"><u>Is There an End in Sight for Conventional Essays: The Impact of ChatGPT on Academia?</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/m4a-vbo-versterking-kostenloze-onlinedienst-movavi-om-audios-na-bijna-te-passen/"><u>M4A-VBO Versterking: Kostenloze Onlinedienst Movavi Om Audios Na Bijna Te Passen</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/windows-server-sysimage/"><u>Windows Server SysImage 異なるコンピュータへの復元方法</u></a></li>
 </ul></div>
 

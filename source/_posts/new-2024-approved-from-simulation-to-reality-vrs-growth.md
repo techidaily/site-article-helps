@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  From Simulation to Reality  VR's Growth\""
-date: 2024-10-30T20:22:14.921Z
-updated: 2024-11-05T18:53:49.387Z
+date: 2024-11-08T17:21:10.829Z
+updated: 2024-11-15T21:38:00.373Z
 tags: 
   - screen-recording
   - ai video
@@ -49,10 +49,10 @@ In Pygmalions Spectacles, Stanley G. Weinbaum explains a goggle based game in wh
 VR headsets actually started development in the 1960s. Just 30 years from the original thought of a VR headset, Ivann Sutherland created the very first VR headset for use with military applications. Using a specialized military software as well as a motion control platform, the first VR headsets were designed for use in training exercises. These VR training tools have now become the standard in the military for training for flight exercises, combat situations and more. An immersive experience is definitely required to push military personnel and prepare them in a safe training environment before they enter into the field. Many air forces around the world require an extensive amount of VR training simulations before they will even let a pilot into one of their aircraft. With the initial development using specialized software and motion controls, VR research would continue to pave the way for training in the military and beyond. Today’s military VR headsets are far more advanced, compact and immersive and these training programs as well as the technology will continue to develop a little bit faster than some of the products that we might find as regular consumers.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## VR development in 1990s
@@ -60,10 +60,10 @@ VR headsets actually started development in the 1960s. Just 30 years from the or
 VR headsets begin to make their way into a few arcade games for simulations and Nintendo announced the first home VR system. Virtual Boy was one of the first home systems available for use with a widespread appeal. Sega also introduced a Sega VR headset for the Sega Genesis console in the year 1993\. These wraparound prototypes had stereo sound, LCD screens and head tracking. Technical development in this VR headset doom the project and the cost of the headset was extensive making it a massive flop for Sega. The Virtual Boy however was a 3-D game console that experienced a little more success. Virtual Boy was released in North America at a price of $180\. The games were entirely made in red and black and there were only a few pieces of software available with the device. Users would wear a VR headset and control the action on a regular Nintendo controller. Unfortunately the console was very uncomfortable to use and because of the lack of games as well as the lack of color, it didn't present the same strong sales as the other Nintendo consoles out at the time.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## VR development in 2014
@@ -71,10 +71,10 @@ VR headsets begin to make their way into a few arcade games for simulations and 
 Oculus VR represents the latest revolution in VR technology. When Facebook officially acquired the Oculus VR system, this showed that virtual-reality was becoming a huge concern for many of the world's top developers. Although the Oculus Rift was formed out of a kickstarter campaign in 2012, the deal in 2014 represented a huge boost in their funding and confidence. Later in 2015, Oculus began to acquire other companies like Surreal Vision and built partnerships with Samsung to develop the Samsung gear VR. As one of the leading companies in VR development, Oculus has fully functioning VR systems for consumers to purchase and use at home. With support for a wide range of applications and further applications being developed for specific use with their VR systems, this was a huge leap forward for VR. After gaining international attention with the demand after the Facebook deal, this would propel many other developers into creating their own VR development firms. Oculus in a way started a brand-new VR renaissance with a call to create immersive and simulated experiences for the average consumer. Previous VR headsets were very technical and inaccessible for the average computer user, but with plug-and-play compatibility and a wide host of supported applications, Oculus gave the average consumer hope that they can enjoy VR again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## VR development in 2016 and beyond
@@ -86,10 +86,10 @@ The future of VR looks very bright and with so many new devices in development i
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -117,14 +117,21 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-discover-retro-your-path-to-facebook-archives/"><u>[New] Discover Retro Your Path to Facebook Archives</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-maximize-learning-free-tools-for-online-video-texts/"><u>[New] Maximize Learning Free Tools for Online Video Texts</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-unmatched-clarity-best-blu-ray-players-of-24-for-2024/"><u>[Updated] Unmatched Clarity Best Blu-Ray Players of '24 for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/decelerating-music-dynamics-step-by-step-guide-in-premiere-pro/"><u>Decelerating Music Dynamics Step-by-Step Guide in Premiere Pro</u></a></li>
-<li><a href="https://article-helps.techidaily.com/echoed-calls-recorder-iphone-model-2024/"><u>Echoed Calls Recorder - iPhone Model 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/engaging-podcast-openers-captivating-intro-lines-for-2024/"><u>Engaging Podcast Openers Captivating Intro Lines for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/hack-high-speed-videos-for-engaging-instagram-stories/"><u>Hack High-Speed Videos for Engaging Instagram Stories</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-realme-c53-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Realme C53 to Protect Your Individual Information</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-powerful-impact-of-paying-discover-the-5-advantages-in-mobile-games/"><u>The Powerful Impact of Paying: Discover the 5 Advantages in Mobile Games</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-m1-pro-vs-m1-max-a-side-by-side-comparison-of-apple-chip-tech/"><u>[New] In 2024, M1 Pro Vs. M1 Max - A Side-by-Side Comparison of Apple Chip Tech</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-produce-personalized-internet-chuckles-for-2024/"><u>[New] Produce Personalized Internet Chuckles for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-a-deep-dive-into-ffmpeg-for-authentic-unaltered-audio-extraction/"><u>[Updated] 2024 Approved A Deep Dive Into FFmpeg for Authentic, Unaltered Audio Extraction</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-illuminate-canon-cameras-combining-freebies-and-paid-lut-sets/"><u>[Updated] 2024 Approved Illuminate Canon Cameras Combining Freebies and Paid LUT Sets</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-compile-of-premium-tiktok-backdrop-options/"><u>[Updated] Compile of Premium TikTok Backdrop Options</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-enhancing-team-conferencing-with-zoom-techniques-in-microsoft-teams/"><u>[Updated] Enhancing Team Conferencing with ZOOM Techniques in Microsoft Teams</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-how-to-convert-twitter-videos-to-gifs/"><u>[Updated] How To Convert Twitter Videos To GIFS?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-top-5-free-video-effects-sites/"><u>[Updated] In 2024, Top 5 Free Video Effects Sites</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-recording-success-a-step-by-step-approach-to-capturing-chats-on-messenger/"><u>[Updated] Recording Success A Step-by-Step Approach to Capturing Chats on Messenger</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-perfect-blend-of-style-and-functionality-in-free-macdrawers-for-2024/"><u>[Updated] The Perfect Blend of Style & Functionality in Free MacDrawers for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/determining-ai-generated-works-legal-stewards/"><u>Determining AI-Generated Works' Legal Stewards</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722972072517-easy-and-immediate-access-to-intel-82579v-device-drivers-no-cost-instant-download/"><u>Easy & Immediate Access to Intel 82579V Device Drivers - No Cost, Instant Download</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/how-to-securely-delete-everything-a-list-of-the-top-10-iphone-data-wipe-tools/"><u>How to Securely Delete Everything: A List of the Top 10 iPhone Data Wipe Tools</u></a></li>
+<li><a href="https://article-helps.techidaily.com/pro-3-in-perspective-the-latest-from-ion-air-reviewed-for-2024/"><u>Pro 3 in Perspective The Latest From ION Air Reviewed for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionary-step-forward-with-openais-new-gpt-3-enhancement/"><u>Revolutionary Step Forward with OpenAI's New GPT-3 Enhancement</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/what-is-ai-text-to-video/"><u>What Is AI Text to Video?</u></a></li>
 </ul></div>
 

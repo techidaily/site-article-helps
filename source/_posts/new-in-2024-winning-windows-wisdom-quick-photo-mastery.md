@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Winning Window's Wisdom  Quick Photo Mastery\""
-date: 2024-09-04T23:35:52.082Z
-updated: 2024-09-05T23:35:52.082Z
+date: 2024-11-11T01:13:47.867Z
+updated: 2024-11-15T20:09:56.770Z
 tags: 
   - screen-recording
   - ai video
@@ -61,20 +61,35 @@ Are you looking forward to drawing on Photos online? [LunaPic](https://www140.lu
 
 ![draw on photos in windows 10](https://images.wondershare.com/filmora/article-images/lunapic-drawing.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Select the color from the range of palette available
 * Select the pen size using the given number scroll option
 * Click on apply if you are all set to draw or click on clear if you wish to make changes
 
 ![draw on photos in windows 10](https://images.wondershare.com/filmora/article-images/editing-drawings-on-windows-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * To save your drawing on the image, you must click on Apply after each action you make with the tool
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 The Photos app has an interface that is restructured with dark theme options and new drawing and editing features making it a great tool. If you want to draw on Photos in Windows 10, follow the above steps and make your actions easier. If you want to have more options to edit videos with drawing in Windows 10, why not choose [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)? You can edit your video with various drawing and text style.
@@ -82,25 +97,14 @@ The Photos app has an interface that is restructured with dark theme options and
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
@@ -124,4 +128,26 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-drones-buying-guide-thing-you-need-to-know-before-buying-a-drone/"><u>[New] In 2024, Drones Buying Guide Thing You Need to Know Before Buying a Drone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-sound-engineering-simplified-gradual-diminishment-in-lumafusion/"><u>[New] In 2024, Sound Engineering Simplified Gradual Diminishment in Lumafusion</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-timelapse-excellence-iphones-quick-guide-for-2024/"><u>[New] Timelapse Excellence IPhone's Quick Guide for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-capture-creativity-with-smartphones-best-apps-for-2024/"><u>[Updated] Capture Creativity with Smartphones' Best Apps for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-exploiting-b-roll-for-visual-impact-on-projects-for-2024/"><u>[Updated] Exploiting B Roll for Visual Impact on Projects for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-go-live-with-google-meet-youtube-broadcasting-steps-for-2024/"><u>[Updated] Go Live with Google Meet YouTube Broadcasting Steps for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-how-to-make-slow-motion-videos-for-instagram-for-2024/"><u>[Updated] How to Make Slow Motion Videos for Instagram for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-iphone-x-a-complete-animoji-guide-for-proficient-users/"><u>2024 Approved IPhone X A Complete Animoji Guide for Proficient Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transform-your-digital-portfolio-with-onscreen-cropping/"><u>2024 Approved Transform Your Digital Portfolio with Onscreen Cropping</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-ultimate-free-screen-cast-tools-for-windows-ranked-1-5/"><u>2024 Approved Ultimate Free Screen Cast Tools for Windows, Ranked #1-5</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/best-nintendo-switch-fighter-ranks-max-156/"><u>Best Nintendo Switch Fighter Ranks (Max 156)</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-getting-acquainted-with-picsarts-latest-a-comprehensive-guide-and-review/"><u>In 2024, Getting Acquainted with PicsArt's Latest - A Comprehensive Guide and Review</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Honor Magic Vs 2? | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-the-evolution-of-video-sharing-tiktok-vs-snap/"><u>In 2024, The Evolution of Video Sharing TikTok vs Snap</u></a></li>
+<li><a href="https://article-helps.techidaily.com/prowl-these-top-ranked-sites-for-generous-vector-imagery-access-for-2024/"><u>Prowl These Top-Ranked Sites for Generous Vector Imagery Access for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-no-dns-response-issue-top-4-fixes/"><u>Solving the 'No DNS Response' Issue: Top 4 Fixes</u></a></li>
+<li><a href="https://article-helps.techidaily.com/standout-literary-book-videos/"><u>Standout Literary Book Videos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-best-of-the-best-exciting-windows-10-apps-and-games/"><u>The Best of the Best Exciting Windows 10 Apps & Games</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/what-to-know-about-the-new-iphone-17-expected-costs-release-schedule-tech-specs-and-hidden-gossip/"><u>What to Know About the New iPhone 17: Expected Costs, Release Schedule, Tech Specs & Hidden Gossip</u></a></li>
+</ul></div>
 

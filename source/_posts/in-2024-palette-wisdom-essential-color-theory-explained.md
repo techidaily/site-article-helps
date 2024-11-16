@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Palette Wisdom  Essential Color Theory Explained\""
-date: 2024-10-31T18:16:10.082Z
-updated: 2024-11-05T17:44:07.494Z
+date: 2024-11-09T16:36:19.440Z
+updated: 2024-11-15T18:28:54.562Z
 tags: 
   - screen-recording
   - ai video
@@ -33,13 +33,6 @@ Color theory consists of many elements that could fill a library on its own but 
 
 There are many color wheels out there and all require understanding and research into that particular color arrangement but for this guide I will be focusing on the more widely used RGB which derives from the primary colors red green and blue, If you're thinking why red green and blue not red yellow and blue then you are observant, while RYB is taught as the three primary colors we will be using what is known as additive primary colors of light meaning the more you add of these colors the closer to white you get, the reason we will be using this combination is due to the fact RYB misses a lot of hues around the violet area and the blue-greens meaning we achieve a higher range of color to pick from. With this in mind let's start.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The Color Wheel
 
 Using red, green and blue as primary colors we can mix the colors to one another to get our secondary colors giving us yellow, magenta and cyan. We can mix these to one another to create our tertiary colors which are raspberry, orange, sprig green, turquoise, ocean and violet giving us something which looks like this
@@ -49,10 +42,10 @@ Using red, green and blue as primary colors we can mix the colors to one another
 As you can see, we have every color available in this wheel and they are arranged in a unison with the mixed colors starting with red, green and blue and working towards each other.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Color Harmony
@@ -62,10 +55,10 @@ So now we know how the wheel is made and what it looks like. What does it do? We
 ![color harmony](https://images.wondershare.com/filmora/article-images/2022/08/color-harmony.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 One such harmony is complementary colors and luckily for us this is very easy to find. You take your base color and find the opposite color on the wheel. In this example the complementary color to blue is yellow depicted with a red line.
@@ -88,13 +81,20 @@ As you can see from this example the base color for the scene is a dark blue/pur
 
 ![movie cover with color theory](https://images.wondershare.com/filmora/article-images/2022/08/movie-cover-with-color-theory.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 As you can see from all the movie covers above, they all use complementary colors from the blues to the war yellows and oranges, this creates high contrast and balance and is something done within the movie industry in every scene. It's no coincidence that the joker is purple and green or that the iron man is red and gold, this is well prepared and researched in the planning stages of everything a visual artist creates.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -131,24 +131,22 @@ By including this into your thought process when creating videos with [Filmora](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-captivating-startups-discovering-the-best-15-video-intros/"><u>[New] 2024 Approved Captivating Startups Discovering the Best 15 Video Intros</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-amplify-aspirations-top-10-motivation-movies/"><u>2024 Approved Amplify Aspirations Top 10 Motivation Movies</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-asmr-insights-understanding-its-health-benefits/"><u>2024 Approved ASMR Insights Understanding Its Health Benefits</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-best-practices-where-to-download-text-overlays/"><u>2024 Approved Best Practices Where to Download Text Overlays</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-deconstructing-the-viva-video-experience/"><u>2024 Approved Deconstructing the Viva Video Experience</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-make-a-living-with-reddit-even-for-novices-top-13-easy-strategies/"><u>2024 Approved Make a Living with Reddit (Even for Novices!) Top 13 Easy Strategies</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-mastering-close-up-views-in-minecraft/"><u>2024 Approved Mastering Close-Up Views in Minecraft</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-next-gen-home-cinema-top-blu-ray-machines-of-24/"><u>2024 Approved Next-Gen Home Cinema Top Blu-Ray Machines of '24</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-virtual-voyages-101-starting-your-journey-with-vr-tours/"><u>2024 Approved Virtual Voyages 101 Starting Your Journey with VR Tours</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-unlock-from-iphone-xs-max-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock From iPhone XS Max? How to Fix it?</u></a></li>
-<li><a href="https://article-helps.techidaily.com/best-investments-elite-4k-dslr-mounting-solutions/"><u>Best Investments Elite 4K DSLR Mounting Solutions</u></a></li>
-<li><a href="https://article-helps.techidaily.com/budget-savvy-shooters-top-5-under-200-cameras/"><u>Budget-Savvy Shooters Top 5 Under $200 Cameras</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-guide-mastering-the-art-of-post-sharing-on-instagram/"><u>Comprehensive Guide: Mastering the Art of Post Sharing on Instagram</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Xiaomi Redmi Note 12T Pro? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-itel-s23-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Itel S23 | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-audio-interruptions-from-bluetooth-devices-on-your-pc-with-windows-1110/"><u>Resolving Audio Interruptions From Bluetooth Devices on Your PC with Windows 11/10</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-oppo-find-x6-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Oppo Find X6 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unveiling-immersion-the-lg-360-virtual-reality-experience/"><u>Unveiling Immersion The LG 360 Virtual Reality Experience</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/-platforms-at-a-glance-comparing-vimeo-and-youtube/"><u>Video Platforms at a Glance Comparing Vimeo & YouTube</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-superb-simple-countdown-apps-for-free/"><u>[New] 2024 Approved Superb Simple Countdown Apps for Free</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-achieving-stunning-iphone-hdr-results/"><u>[New] Achieving Stunning iPhone HDR Results</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-from-bland-to-breatited-the-ultimate-video-title-guide-for-2024/"><u>[New] From Bland to Breatited The Ultimate Video Title Guide for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-artful-expression-on-tablets-leading-ios-drawers/"><u>[New] In 2024, Artful Expression on Tablets Leading iOS Drawers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-creating-an-impactful-entry-for-your-podcast/"><u>[New] In 2024, Creating an Impactful Entry for Your Podcast</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-discover-the-best-photo-frame-software/"><u>[New] In 2024, Discover the Best Photo Frame Software</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-navigating-mac-screenshot-file-type-changes/"><u>[New] In 2024, Navigating Mac Screenshot File Type Changes</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-unleash-creativity-free-premiere-pro-2023-templates-for-2024/"><u>[New] Unleash Creativity Free Premiere Pro 2023 Templates for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-building-endorsements-strategically/"><u>[Updated] Building Endorsements Strategically</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-camera-and-accessories-guide-for-travel-vids/"><u>[Updated] In 2024, Camera & Accessories Guide for Travel Vids</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-comprehensive-look-celebrating-15-outstanding-unboxing-vloggers/"><u>2024 Approved A Comprehensive Look Celebrating 15 Outstanding Unboxing Vloggers</u></a></li>
+<li><a href="https://windows11.techidaily.com/bridging-linux-and-windows-gap-with-shared-tools/"><u>Bridging Linux & Windows Gap with Shared Tools</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-how-to-prevent-and-mend-live-stream-glitches-fb/"><u>In 2024, How to Prevent & Mend Live Stream Glitches (FB)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-increasing-visibility-with-strategic-reddit-posts/"><u>In 2024, Increasing Visibility with Strategic Reddit Posts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-restoring-clarity-resolving-iphones-blurry-photos/"><u>In 2024, Restoring Clarity Resolving iPhone's Blurry Photos</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/navigating-instagrams-voice-customization-features/"><u>Navigating Instagram's Voice Customization Features</u></a></li>
+<li><a href="https://program-issues.techidaily.com/prevent-your-game-nightmares-defeating-garrys-mod-crashes-with-these-pro-tips/"><u>Prevent Your Game Nightmares: Defeating Garry's Mod Crashes with These Pro Tips</u></a></li>
 </ul></div>
 

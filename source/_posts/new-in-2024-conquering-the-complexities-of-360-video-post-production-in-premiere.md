@@ -1,0 +1,145 @@
+---
+title: "\"[New] In 2024, Conquering the Complexities of 360° Video Post-Production in Premiere\""
+date: 2024-11-09T01:12:35.237Z
+updated: 2024-11-15T20:53:35.500Z
+tags: 
+  - screen-recording
+  - ai video
+  - ai audio
+  - ai auto
+categories: 
+  - ai
+  - screen
+description: "\"This Article Describes [New] In 2024, Conquering the Complexities of 360° Video Post-Production in Premiere\""
+excerpt: "\"This Article Describes [New] In 2024, Conquering the Complexities of 360° Video Post-Production in Premiere\""
+keywords: "\"Video Post-Prod -360°,Prevue 360 Complexity,Premiering 360 Edit,Advanced 360 Edits,Premiere 360 Challenges,360D Video Production,Post-Vid in Premiere\""
+thumbnail: https://thmb.techidaily.com/1441934e237c52f497a6fd0ab6f056661ecffacc05322a198ecbbd0ad48fbaf8.jpg
+---
+
+## Conquering the Complexities of 360° Video Post-Production in Premiere
+
+# How to Edit 360 Degree Video in Premiere Pro
+
+![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+##### Benjamin Arango
+
+ Mar 27, 2024• Proven solutions
+
+ Adobe Premiere Pro is without a doubt one of the most popular applications for editing videos today. To the convenience of many, especially those involved with VR, it now comes with an improved workflow for editing virtual reality videos. While you will be required to use your favorite tools to stitch videos together for a 360 degree view, Adobe Premier Pro allows for the importation of such videos with an equirectangular projection that makes it possible to edit them just as you would work with any other video file.
+
+**Related article:** [How to Stitch GoPro Clips into 360 Videos >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## Editing 360 degrees videos in Premiere Pro
+
+ Consider the following steps when editing 360 degree videos using Premiere Pro from Adobe-:
+
+#### 1. Import your 360 footage
+
+ After starting the application, the first step towards editing your videos is to import your footages into the application. Premiere Pro allows you to import equirectanglular video footages, which are just like the normal footages. To import your footages into the application, double click on the project panel or simply click Command + I.
+
+#### 2. Adjust your settings
+
+![Edit 360 videos with Premiere Pro - Settings](https://images.wondershare.com/filmora/article-images/360-editing-settings.jpg)
+
+ Premiere Pro allows you to view any video by double clicking on the video in the project panel. Be default, the equirectanglular video clips will appear on the preview panel, but they will be distorted. To change how the videos appear on the preview panel, it is imperative to adjust the settings. This is done by clicking on the wrench icon located at the bottom right of window then navigating to VR Video>Settings. This will pull up the menu to let you adjust the various settings you need to proceed with the editing.
+
+#### 3. Set the Preview Window to VR Mode
+
+![Edit 360 videos with Premiere Pro - Enable VR mode](https://images.wondershare.com/filmora/article-images/enable-vr-mode.jpg)
+
+ After you have established the right settings for your project, the next thing you need to do is to set the preview window into VR Mode. There are two ways to do this and they include-:
+
+* Click the wrench icon and choose Video > VR Mode or,
+* From the button menu, select the VR Mode button, which can also be found by selecting the “+ icon”
+
+ To navigate around the preview window in the VR Mode, use the sliders along the edges of the frame or simply click and drag when you are inside the frame. You should be familiar with these settings and actions if you have had some experience with YouTube VR in the past.
+
+#### 4. Edit your footage
+
+ After importing your footage and adjusting the settings as well as setting the preview window into VR Mode, you are now ready to begin the actual editing of the 360 degree video in Premier Pro. In as much as VR editing sounds like a new phenomenon in video creation, it shouldn’t be viewed any differently from working with a video footage in the timeline. As long as the video footage remains equirectangular, you will be able to trim, slice and add color to the footage just as you would do when working with the normal videos. However, don’t forget that transformational effects such as warp stabilizer will not be available for your 360 video.
+
+#### 5. Exporting the VR Footage
+
+![Edit 360 videos with Premiere Pro - Export VR footage]( https://images.wondershare.com/filmora/article-images/export-vr-footage.jpg)
+
+ A while back, exporting VR footages to YouTube was possible only through third party applications. But now, such capabilities have been included in Adobe Premiere Pro and you can now apply all the Meta data directly inside the application. To export your edited footage, navigate to File>Export>Media or simply hit Command + M to pop up the export window. Select your desired codecs and navigate to the video tab and ensure that you have selected the VR Video Checkbox.
+
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Best Video Editor: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Benjamin Arango
+
+Benjamin Arango is a writer and a lover of all things video.
+
+Follow @Benjamin Arango
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-full-mastery-guide-adobe-cloud-and-its-rival-services/"><u>[New] In 2024, Full Mastery Guide Adobe Cloud and Its Rival Services</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-altering-visuals-in-teams-calls-timely-setup-adjustments-for-2024/"><u>[Updated] Altering Visuals in Teams Calls Timely Setup Adjustments for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-optimal-live-video-distributors-suite-for-2024/"><u>[Updated] Optimal Live Video Distributors' Suite for 2024</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/comment-installer-et-preserver-votre-packaging-dactivation-de-windows-11-version-23h2/"><u>Comment Installer Et Préserver Votre Packaging D'activation De Windows 11, Version 23H2</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/empower-your-video-creation-blending-youtube-and-imovie-for-impressive-results/"><u>Empower Your Video Creation Blending YouTube and iMovie for Impressive Results</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-are-camera-shakes-less-troublesome-after-photostable-effects/"><u>In 2024, Are Camera Shakes Less Troublesome After PhotoStable Effects?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-how-to-add-crop-and-edit-music-to-canva-video/"><u>In 2024, How To Add, Crop, And Edit Music To Canva Video?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-lock-your-nokia-g42-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Nokia G42 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-optimal-youtube-playback-adjusting-speed-settings/"><u>In 2024, Optimal YouTube Playback Adjusting Speed Settings</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-prime-platforms-3d-models-in-animation/"><u>In 2024, Prime Platforms 3D Models in Animation</u></a></li>
+<li><a href="https://article-helps.techidaily.com/outlining-expenses-creating-a-music-video-for-2024/"><u>Outlining Expenses Creating a Music Video for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/self-driven-japanese-study-explore-free-web-based-tools/"><u>Self-Driven Japanese Study - Explore Free Web-Based Tools</u></a></li>
+</ul></div>
+
