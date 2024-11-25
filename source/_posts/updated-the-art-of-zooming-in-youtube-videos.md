@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Art of Zooming in YouTube Videos"
-date: 2024-11-10T02:59:13.052Z
-updated: 2024-11-15T17:58:43.987Z
+date: 2024-11-23T11:39:47.715Z
+updated: 2024-11-25T03:23:51.564Z
 tags: 
   - screen-recording
   - ai video
@@ -60,28 +60,30 @@ Step2Drag and drop the target YouTube video on Filmora into Project Media folder
 ![drag video into project media folder ](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step3Thereafter, drag and drop the YouTube video file from Project Media folder into Timeline. Click on Crop icon located at the top of the timeline.
 
 ![drag video file into timeline](https://images.wondershare.com/filmora/guide/filmora-split-button.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4From Crop window, go to Pan & Zoom section. Place the rectangular box on that portion of the video which you want to zoom in. Mark the start and end of the video for pan and zoom effect. Play the video to watch how the effect unfolds. Finally, click on OK button.
 
 ![go to pan zoom section](https://images.wondershare.com/filmora/guide/crop-video-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If you want, you can export the edited video in any desired file format directly from [Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Way 3\. Use YouTube Built-in Editor
 
@@ -98,13 +100,6 @@ Step3After uploading, click on the Video and select Editor option from the left 
 Step4You will find Zoom in and Zoom out icon below the video preview. Here, zoom in means the timeline gets zoomed so that you can check out the video frame by frame to find out all the details in any portion of the video.
 
 ![zoom in out youtube video](https://images.wondershare.com/filmora/article-images/2022/07/zoom-in-youtube-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -122,22 +117,12 @@ Step3Thereafter, drag and drop the YouTube video file from Project Media folder 
 
 ![drag video file into timeline](https://images.wondershare.com/filmora/guide/filmora-split-button.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step4From Crop window, go to Pan & Zoom section. Place the rectangular box on that portion of the video which you want to zoom in. Mark the start and end of the video for pan and zoom effect. Play the video to watch how the effect unfolds. Finally, click on OK button.
 
 ![go to pan zoom section](https://images.wondershare.com/filmora/guide/crop-video-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If you want, you can export the edited video in any desired file format directly from [Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -157,6 +142,10 @@ Step3After uploading, click on the Video and select Editor option from the left 
 Step4You will find Zoom in and Zoom out icon below the video preview. Here, zoom in means the timeline gets zoomed so that you can check out the video frame by frame to find out all the details in any portion of the video.
 
 ![zoom in out youtube video](https://images.wondershare.com/filmora/article-images/2022/07/zoom-in-youtube-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -186,24 +175,20 @@ There are several ways you can zoom into YouTube videos to check out the desired
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-achieving-professional-editing-without-the-price-tag/"><u>[New] 2024 Approved Achieving Professional Editing Without the Price Tag</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-benq-sw320-monitor-review-a-leap-into-4k-territory/"><u>[New] 2024 Approved BenQ SW320 Monitor Review A Leap Into 4K Territory</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-discover-the-best-of-photo-stickering-ios-and-android-leaders-for-2024/"><u>[New] Discover the Best of Photo Stickering IOS & Android Leaders for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-exploring-snapseeds-power-for-everyday-photos-for-2024/"><u>[New] Exploring Snapseed's Power for Everyday Photos for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-master-image-enhancement-10-pro-tips-for-using-pixlr-effectively/"><u>[New] In 2024, Master Image Enhancement 10 Pro Tips for Using Pixlr Effectively</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-verifying-ad-revenue-on-yt-a-step-by-step-tutorial/"><u>[New] In 2024, Verifying Ad Revenue on YT A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-the-cutting-edge-recording-sounds-in-the-mac-era/"><u>[Updated] 2024 Approved The Cutting Edge Recording Sounds in the Mac Era</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-unlocking-the-potential-of-gopros-burst-functionality/"><u>[Updated] 2024 Approved Unlocking the Potential of GoPro's Burst Functionality</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-bring-out-the-magic-leading-frames-for-your-images/"><u>[Updated] Bring Out the Magic Leading Frames for Your Images</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-ultimate-list-selecting-excellent-webcams-for-podcasts/"><u>[Updated] Ultimate List Selecting Excellent Webcams for Podcasts</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/best-editing-app-for-iphones-choose-between-cameo-and-filmorago/"><u>Best Editing App for iPhones Choose Between Cameo & FilmoraGo</u></a></li>
-<li><a href="https://fox-http.techidaily.com/changing-photo-colors-with-ease-for-2024/"><u>Changing Photo Colors with Ease for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-your-latest-corsair-h80i-v2-gpu-fan-driver-here/"><u>Get Your Latest Corsair H80i V2 GPU Fan Driver Here</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-vivo-v30-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Vivo V30 to iPhone | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-apple-iphone-7-with-a-broken-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking Apple iPhone 7 with a Broken Screen? | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-jumpstart-to-joyous-animation-a-guide-in-movie-maker-world/"><u>In 2024, Jumpstart to Joyous Animation A Guide in Movie Maker World</u></a></li>
-<li><a href="https://article-helps.techidaily.com/simplify-multitasking-with-picture-in-picture-feature-ios/"><u>Simplify Multitasking with Picture in Picture Feature (iOS)</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-top-10-free-best-quicktime-mov-movie-editors/"><u>Updated 2024 Approved Top 10 Free Best QuickTime (MOV) Movie Editors</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/44kz44oz44ou44ol44o844k44o844o744k544oe44o844oi44ov44kp44oz5pku5b2x5yuv55s744gl44kj6zplusz5rai5y675rov/"><u>コンピューター・スマートフォン撮影動画から音消去法</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-how-to-find-your-comments-on-youtube-on-desktopiphoneandroid/"><u>[New] 2024 Approved How to Find Your Comments on YouTube on Desktop/iPhone/Android</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-the-glare-free-guide-to-stellar-gopro-videos/"><u>[New] 2024 Approved The Glare-Free Guide to Stellar GoPro Videos</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-color-crafting-chronicles-pro-techniques-compilation/"><u>[New] Color Crafting Chronicles Pro Techniques Compilation</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-leaders-list-of-best-12-motion-recording-devices-location-aware/"><u>[New] Leader's List of Best 12 Motion Recording Devices Location Aware</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-premium-audio-modification-solutions-magically-effective-for-2024/"><u>[New] Premium Audio Modification Solutions Magically Effective for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-daylight-deployment-for-increased-indoor-comfort-for-2024/"><u>[Updated] Daylight Deployment for Increased Indoor Comfort for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-captivation-creator-for-articles/"><u>[Updated] In 2024, Captivation Creator for Articles</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-spectacited-sight-top-ranked-phones-with-elite-4k-camera-features/"><u>[Updated] Spectacited Sight Top-Ranked Phones with Elite 4K Camera Features</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-clearer-captures-smartphone-specific-tripods-guide/"><u>2024 Approved Clearer Captures Smartphone-Specific Tripods' Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-honor-x50-gt-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/budgeted-bird-and-dog-dvr-exploration/"><u>Budgeted Bird & Dog DVR Exploration</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/conversor-livre-em-tempo-real-de-fotos-a-filmes-compatibilidade-com-mp4-m2p-mpeg-pela-movavi/"><u>Conversor Livre Em Tempo Real De Fotos a Filmes: Compatibilidade Com MP4, M2P, MPEG Pela Movavi</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-huawei-p60-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Huawei P60 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-the-solo-broadcasters-playbook-for-optimal-live-streams/"><u>In 2024, The Solo Broadcaster's Playbook for Optimal Live Streams</u></a></li>
+<li><a href="https://article-helps.techidaily.com/step-by-step-approach-for-stellar-gopro-videos/"><u>Step-By-Step Approach for Stellar GoPro Videos</u></a></li>
 </ul></div>
 

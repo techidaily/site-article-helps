@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Master Curves  Transforming Photos in PS\""
-date: 2024-08-31T19:54:29.663Z
-updated: 2024-09-01T19:54:29.663Z
+date: 2024-11-17T19:15:49.354Z
+updated: 2024-11-24T22:44:02.212Z
 tags: 
   - screen-recording
   - ai video
@@ -50,13 +50,25 @@ Play around with the settings in the options bar. There are quite a few differen
 
 ![change horizontal distortion photoshop](https://images.wondershare.com/filmora/article-images/2022/09/change-horizontal-distortion-photoshop.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Vertical Distortion** makes the image look as if it's leaning backward.
 
 ![verticle distortion image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/verticle-distortion-image-photoshop.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The **Bend Direction** option rotates the angle of the bend.
 
 ![bend direction image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/bend-direction-image-photoshop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Flip any of these effects in the opposite direction by placing a negative sign in front of the percentage. Here's -20% in the **Bend** box with a vertical bend.
 
@@ -67,6 +79,14 @@ Flip any of these effects in the opposite direction by placing a negative sign i
 Once you're happy with the way your image looks, go to File > Save As in the menu bar or press Ctrl+Shift+S or Command+Shift+S on your keyboard. Choose a file format and location to save your image and click Save. And that's it! You've successfully curved
 
 ![save curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/save-curve-image-photoshop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -100,8 +120,16 @@ We hope this post has helped you learn how to curve an image in Photoshop. The b
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-advanced-cameras-front-screen-center-stage/"><u>[New] Advanced Cameras Front Screen Center Stage</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-industry-insights-top-10-handheld-hd-playback-units/"><u>[New] Industry Insights Top 10 Handheld HD Playback Units</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ubtitles-made-simple-top-10-zero-cost-downloaders-for-2024/"><u>[New] Subtitles Made Simple Top 10 Zero-Cost Downloaders for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-top-5-alternative-editors-beyond-youtubes-limits/"><u>[Updated] 2024 Approved Top 5 Alternative Editors Beyond Youtube's Limits</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-best-apps-for-perfecting-picture-framing-for-2024/"><u>[Updated] Best Apps for Perfecting Picture Framing for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-masters-list-best-sierra-dvd-software/"><u>[Updated] Master's List Best Sierra DVD Software</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-on-your-iphone-13-pro-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID On your iPhone 13 Pro without Security Questions?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-unleash-the-potential-of-videos-with-these-top-10-ios-apps/"><u>In 2024, Unleash the Potential of Videos with These Top 10 iOS Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-the-secrets-of-windows-7-a-step-by-step-guide-to-revealing-concealed-data-and-images/"><u>Unlocking the Secrets of Windows 7: A Step-by-Step Guide to Revealing Concealed Data and Images</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->

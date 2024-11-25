@@ -1,7 +1,7 @@
 ---
 title: "[New] Exploring LUTs for Sophisticated Photographic Changes for 2024"
-date: 2024-11-14T02:54:35.174Z
-updated: 2024-11-15T19:33:56.974Z
+date: 2024-11-23T17:58:33.714Z
+updated: 2024-11-25T04:45:36.512Z
 tags: 
   - screen-recording
   - ai video
@@ -56,10 +56,7 @@ Warm or cold tones and bold or washed-out styles are all options provided by the
 Photographers may now utilize the same techniques that film, and television editors have used for years to achieve the excellent new aesthetics seen in blockbusters. With quick LUT looks, you can now apply LUTs to your photographs to make your editing work stand out.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to use LUTs using Photoshop CC?
@@ -70,13 +67,6 @@ LUTs come pre-installed with programs, but you may also purchase them online and
 
 ![how to use luts using Photoshop cc](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Choose Adjustment Layer
 
 1. Opt for Color Lookup.
@@ -84,6 +74,10 @@ Choose Adjustment Layer
 3. Select Load 3D LUT. A list of LUTs that come with Photoshop will appear.
 
 ![how to use luts using Photoshop cc - load 3d lut](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 load 3d lut
 
@@ -94,16 +88,7 @@ load 3d lut
 LUTs come pre-installed in Photoshop, and you can use them as adjustment layers. As mentioned earlier, they'll alter the image's colors, and some of them will also alter the contrast. But what if you want to add LUTs? To add LUTs to Photoshop, you have two options. The first is really simple; all you have to do is discover the LUT and apply it to that specific project. The alternative is a little more difficult, but it enables you to access your LUTs at all times.
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here's the first method
@@ -112,6 +97,10 @@ LUTs come pre-installed in Photoshop, and you can use them as adjustment layers.
 2. When discussing Photoshop, the project is typically an image, so go ahead and open it. Open a new one by pressing 'Ctrl+O' or importing something from your cloud.
 3. To do so, go to the 'Adjustments' tab and select the 'Color Lookup' button.
 4. Select the 'Load 3D LUT' button, then navigate to the directory where you unpacked the LUT files.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Here's the second one
 
@@ -129,6 +118,10 @@ Grow Together
 
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Closing Thoughts:
 
 LUTs are extremely useful since they allow photographers to save time by using the same LUTs or a set of LUTs for several photographs. Instead of making individual modifications to your photographs, you may color grade them all with the same LUTs. This gives a series a more unified vibe. You can even put them up as Actions in Photoshop.
@@ -138,13 +131,6 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](#)
 
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Closing Thoughts:
 
@@ -176,18 +162,19 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-digital-delight-designer/"><u>[New] 2024 Approved Digital Delight Designer</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-seaside-shots-comparison-gopro-hero5-and-sjcam-sj7/"><u>[New] In 2024, Seaside Shots Comparison GoPro Hero5 & SJCAM SJ7</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-masterful-windows-melodies-for-2024/"><u>[New] Masterful Windows Melodies for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-cheerful-media-extractor-analysis/"><u>[Updated] 2024 Approved Cheerful Media Extractor Analysis</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-high-definition-on-demand-samsungs-ue590-monitor-revisited/"><u>2024 Approved High Definition on Demand Samsung's UE590 Monitor Revisited</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722900332022-discover-the-best-note-taking-solutions-our-expert-picks/"><u>Discover the Best Note Taking Solutions : Our Expert Picks!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/expert-evaluation-logitech-c920-ultra-high-definition-webcam-performance-analysis/"><u>Expert Evaluation: Logitech C920 Ultra High-Definition Webcam Performance Analysis</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-unveiling-the-art-of-digital-broadcasting-in-real-time/"><u>In 2024, Unveiling the Art of Digital Broadcasting in Real Time</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/make-an-informed-decision-ponder-this-first-when-buying-a-dvr/"><u>Make an Informed Decision: Ponder This First when Buying a DVR</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/mastery-in-making-essential-gear-for-yi-4k-enthusiasts-for-2024/"><u>Mastery in Making - Essential Gear for YI 4K Enthusiasts for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/motorola-g54-5g-messages-recovery-recover-deleted-messages-from-motorola-g54-5g-by-fonelab-android-recover-messages/"><u>Motorola G54 5G Messages Recovery - Recover Deleted Messages from Motorola G54 5G</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-do-vhs-effect-with-final-cut-pro-in-the-right-way/"><u>Updated Do VHS Effect with Final Cut Pro in the Right Way</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-infinix-note-30i-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Infinix Note 30i Phones</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-10-affordable-mobile-apps-to-boost-your-images-visual-impact/"><u>[New] 10 Affordable Mobile Apps to Boost Your Image's Visual Impact</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-mastering-youtube-video-cuts-a-beginners-guide/"><u>[New] 2024 Approved Mastering YouTube Video Cuts A Beginner's Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-why-filmora-captivates-its-top-ten-creative-capabilities/"><u>[New] Why Filmora Captivates Its Top Ten Creative Capabilities</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-transform-your-tapes-with-these-top-5-brighteners/"><u>[Updated] 2024 Approved Transform Your Tapes with These Top 5 Brighteners</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-avoiding-pitfalls-in-angled-and-merged-video-manipulation-android-for-2024/"><u>[Updated] Avoiding Pitfalls in Angled & Merged Video Manipulation (Android) for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-key-techniques-for-smooth-inshot-pivots-for-2024/"><u>[Updated] Key Techniques for Smooth Inshot Pivots for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-pictorial-pop-culture-their-tales-for-2024/"><u>[Updated] Pictorial Pop Culture Their Tales for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-instagram-pros-tips-for-bulk-upload-of-images-and-video/"><u>[Updated] The Instagram Pro’s Tips for Bulk Upload of Images and Video</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-strategic-insights-on-making-persuasive-client-centered-videos/"><u>2024 Approved Strategic Insights on Making Persuasive Client-Centered Videos</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-concepts-for-youtube-channels-inspiration-at-its-peak-for-2024/"><u>Fresh Concepts for YouTube Channels Inspiration at Its Peak for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-the-art-of-dramatic-hdr-portraits-explained/"><u>In 2024, The Art of Dramatic HDR Portraits Explained</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/lock-your-vivo-s17-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Vivo S17 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://driver-download.techidaily.com/pci-security-protocol-controller-driver-errors-resolved-techniques/"><u>PCI Security Protocol Controller Driver Errors – Resolved Techniques</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-common-issues-dealing-with-alexas-echo-is-offline-error-message/"><u>Solving Common Issues - Dealing with Alexa's 'Echo Is Offline' Error Message</u></a></li>
 </ul></div>
 

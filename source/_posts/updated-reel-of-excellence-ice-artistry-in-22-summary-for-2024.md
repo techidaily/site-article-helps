@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Reel of Excellence - Ice Artistry in '22 Summary for 2024\""
-date: 2024-08-31T19:51:25.682Z
-updated: 2024-09-01T19:51:25.682Z
+date: 2024-11-20T06:18:23.034Z
+updated: 2024-11-25T04:08:48.429Z
 tags: 
   - screen-recording
   - ai video
@@ -34,9 +34,17 @@ Nathan Chen of the United States reacts to winning the gold medal at the 2022 Be
 
 ![nathan chen skating gold medal](https://images.wondershare.com/filmora/article-images/nathan-chen-skating-gold-medal.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Yuma Kagiyama of Japan reacts to become second to Nathan Chen of the United States. He receives a combined score of 310.05 points and wins the silver medal at the 2022 Beijing Winter Olympics.
 
 ![yuma kagiyama](https://images.wondershare.com/filmora/article-images/yuma-kagiyama.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shoma Uno of Japan won the bronze medal with a combined score of 293 points and he has become the second Japanese to win a medal at the 2022 Beijing Winter Olympics.
 
@@ -53,6 +61,10 @@ Even though Nathan Chen finished first for men's short program of the team event
 Russian Olympic Committee athletes won the gold medal at team event by a margin of 9 points with the combined score of 74\. United States won the silver medal with a combined score of 65 points.
 
 ![japan won the bronze medal](https://images.wondershare.com/filmora/article-images/japan-won-the-bronze-medal.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Japan won the bronze medal with 63 points falling short by 2 points 2 behind the United States. The figure skating competition is held at the Capital Indoor Stadium in Beijing.
 
@@ -76,11 +88,19 @@ Step 1: Download and install Filmora. Launch Filmora and click on New Project.
 
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Go to File > Project Settings and set the parameters as per your requirements.
 
 Step 3: Go to Import > Import with Instant Cutter Tool. It is time to import all the still photos and video footage clips you have collected about figure skating Olympics. You can trim them and maintain uniformity throughout.
 
 ![filmora edit videos](https://images.wondershare.com/filmora/article-images/edit-recordings-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 4: You need to add all imported media files to Video Timeline while you should add background music or voiceover to the Audio Timeline.
 
@@ -88,9 +108,6 @@ Step 5: Select individual or multiple slides and add Transitions, Effects, Title
 
 Step 6: When everything is done, click on Export to save the video and share anywhere you want.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 Figure skating is undoubtedly one of the most followed sport events in the Winter Olympics. Naturally, there is a huge demand for figure skating highlights across the Winter Olympics fans and followers. We have provided figure skating highlights 2022 and we have illustrated the steps to create a highlight video of figure skating easily.
@@ -112,4 +129,24 @@ Figure skating is undoubtedly one of the most followed sport events in the Winte
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-create-captivating-photos-adding-motion-blur-in-photoshop/"><u>[New] 2024 Approved Create Captivating Photos Adding Motion Blur in Photoshop</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/rom-viewers-to-profits-an-authoritative-guide-on-youtube-revenue-and-popularity-analysis/"><u>[New] From Viewers to Profits An Authoritative Guide on YouTube Revenue and Popularity Analysis</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-fast-forward-altering-instagram-stories-tempo/"><u>[New] In 2024, Fast-Forward Altering Instagram Stories' Tempo</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-from-calm-to-captivating-techniques-for-motion-blur-mastery/"><u>[Updated] 2024 Approved From Calm to Captivating Techniques for Motion Blur Mastery</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-the-power-of-words-in-marketing-top-20-essentials/"><u>[Updated] 2024 Approved The Power of Words in Marketing - Top 20 Essentials</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-advanced-speed-adjustment-techniques-in-media-editing-for-2024/"><u>[Updated] Advanced Speed Adjustment Techniques in Media Editing for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-elevate-your-game-14-must-see-vids-for-youtube-gaming-success/"><u>[Updated] Elevate Your Game 14 Must-See Vids for YouTube Gaming Success</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-navigating-through-the-world-of-ar-stickers-highlighting-google/"><u>[Updated] Navigating Through the World of AR Stickers, Highlighting Google</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-screen-replay-spotlight-how-vidma-measures-up-against-others/"><u>[Updated] Screen Replay Spotlight How Vidma Measures Up Against Others</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-how-to-combine-videos-on-iphone/"><u>2024 Approved How to Combine Videos on iPhone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-turbo-tracker-fastest-image-browser-w10/"><u>2024 Approved Turbo Tracker - Fastest Image Browser W10</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/acquire-and-setup-windows-xp-movie-creator-for-2024/"><u>Acquire & Setup Windows XP Movie Creator for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabled-iphone-12-how-to-unlock-a-disabled-iphone-12-drfone-by-drfone-ios/"><u>Disabled iPhone 12 How to Unlock a Disabled iPhone 12? | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-evolution-of-action-cameras-from-gopro-hero4-to-hero5/"><u>In 2024, Evolution of Action Cameras From GoPro (Hero4 to Hero5)</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-secure-your-privacy-with-easy-to-follow-picscanner-methods/"><u>In 2024, Secure Your Privacy with Easy-to-Follow PicScanner Methods</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-thrifty-aetherspace-vault-massive-files-affordably/"><u>In 2024, Thrifty Aetherspace Vault Massive Files Affordably</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/qualitatsbewahranlage-professionelle-dvd-kopiermethode-auf-ihrem-mac-ohne-datenqualitatseinbussen/"><u>Qualitätsbewahranlage - Professionelle DVD-Kopiermethode Auf Ihrem Mac Ohne Datenqualitätseinbußen</u></a></li>
+</ul></div>
 

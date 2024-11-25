@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Streamlined Process for Shaping Photos"
-date: 2024-11-09T23:10:50.727Z
-updated: 2024-11-16T01:38:56.538Z
+date: 2024-11-22T05:39:14.759Z
+updated: 2024-11-25T05:23:31.622Z
 tags: 
   - screen-recording
   - ai video
@@ -27,6 +27,10 @@ In this Photoshop tutorial, we're going to carve an image using four simple step
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Simple Steps to Curve an Image in Photoshop
 
 ##### Step1Create a New Document
@@ -38,6 +42,10 @@ To keep things simple, let's start with a white canvas. Let's open a new documen
 After creating the new document, open the image that you want to curve. You may do so by going to File > Open in the menu bar or pressing Ctrl+O or Command+O on your keyboard. Once the image is open, go to Edit in the menu bar and select Place Embedded from the drop-down menu that appears. Select your image and click Place. The image will be placed on the canvas. If the document's size does not match that of the image, you will see a transformation box surrounding the image.
 
 ![place image in photoshop](https://images.wondershare.com/filmora/article-images/2022/09/place-image-in-photoshop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step3Warp the Image
 
@@ -51,6 +59,10 @@ Play around with the settings in the options bar. There are quite a few differen
 
 ![change image height photoshop](https://images.wondershare.com/filmora/article-images/2022/09/change-image-height-photoshop.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 20% **Horizontal Distortion** makes one side of the image appear larger than the other. This is what my photo looks like at 20%.
 
 ![change horizontal distortion photoshop](https://images.wondershare.com/filmora/article-images/2022/09/change-horizontal-distortion-photoshop.jpg)
@@ -59,9 +71,17 @@ Play around with the settings in the options bar. There are quite a few differen
 
 ![verticle distortion image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/verticle-distortion-image-photoshop.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The **Bend Direction** option rotates the angle of the bend.
 
 ![bend direction image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/bend-direction-image-photoshop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Flip any of these effects in the opposite direction by placing a negative sign in front of the percentage. Here's -20% in the **Bend** box with a vertical bend.
 
@@ -72,13 +92,6 @@ Flip any of these effects in the opposite direction by placing a negative sign i
 Once you're happy with the way your image looks, go to File > Save As in the menu bar or press Ctrl+Shift+S or Command+Shift+S on your keyboard. Choose a file format and location to save your image and click Save. And that's it! You've successfully curved
 
 ![save curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/save-curve-image-photoshop.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -114,19 +127,21 @@ We hope this post has helped you learn how to curve an image in Photoshop. The b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-exploring-the-world-of-animated-image-design/"><u>[New] 2024 Approved Exploring the World of Animated Image Design</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-obs-scheduling-mastery-implementing-a-countdown-clock-for-2024/"><u>[New] Obs Scheduling Mastery Implementing a Countdown Clock for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-podcasts-intros-hook-up-listeners-with-podcast-intro-script/"><u>[New] Podcasts Intros Hook Up Listeners With Podcast Intro Script</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-quick-steps-to-access-high-rate-youtube-likes/"><u>[New] Quick Steps to Access High-Rate YouTube Likes</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-navigate-through-the-best-of-iphones-virtual-reality-games/"><u>[Updated] 2024 Approved Navigate Through The Best of iPhone's Virtual Reality Games</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-how-to-download-whatsapp-ringtone-and-customize-it-on-ios-and-android/"><u>[Updated] How To Download WhatsApp Ringtone And Customize It On iOS And Android</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-eliminating-fisheye-lens-distortions-with-gopro/"><u>[Updated] In 2024, Eliminating Fisheye Lens Distortions with GoPro</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-unveiling-youtubes-mechanism-post-upload/"><u>[Updated] Unveiling YouTube's Mechanism Post-Upload</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-natural-vs-artificial-balancing-your-sets-illumination/"><u>2024 Approved Natural Vs. Artificial Balancing Your Set's Illumination</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-15-indispentic-tools-to-launch-your-youtube-career/"><u>In 2024, 15 Indispentic Tools to Launch Your YouTube Career</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-vanguard-headgear-companies-for-vr/"><u>In 2024, Vanguard Headgear Companies for VR</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/instagram-music-copyright-rules-for-2024/"><u>Instagram Music Copyright Rules for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/mastery-in-migration-transitioning-to-macos-11-big-sur-effortlessly/"><u>Mastery in Migration Transitioning to macOS 11 Big Sur Effortlessly</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-download-brother-hl-3170cdw-printer-driver-software/"><u>Quick Download: Brother HL-3170cdw Printer Driver Software</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-compendium-of-camera-types-for-professional-videos/"><u>[New] 2024 Approved Compendium of Camera Types for Professional Videos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-achieving-flawless-fb-live-via-zoom-streaming-for-2024/"><u>[New] Achieving Flawless FB Live via Zoom Streaming for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-10-sites-for-vector-graphics-collection/"><u>[New] Top 10 Sites for Vector Graphics Collection</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-action-like-never-before-review-the-t5-eye-action-camera/"><u>[Updated] 2024 Approved Action Like Never Before Review the T5 Eye Action Camera</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-breaking-down-the-mechanics-of-meme-dominance/"><u>[Updated] 2024 Approved Breaking Down the Mechanics of Meme Dominance</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-dji-drone-comparison-basic-flight-premium-experience-4k-cinematic-for-2024/"><u>[Updated] DJI Drone Comparison Basic Flight, Premium Experience, 4K Cinematic for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-examining-if-reviewers-get-payed/"><u>[Updated] Examining if Reviewers Get Payed</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-get-ahead-with-these-must-know-pixlr-techniques/"><u>[Updated] Get Ahead with These Must-Know Pixlr Techniques</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-optimal-mac-mpeg-producer/"><u>2024 Approved Optimal Mac MPEG Producer</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/android-lightroom-app-breakdown-a-complete-review-for-2024/"><u>Android Lightroom App Breakdown A Complete Review for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-download-insignia-usb-to-ethernet-converter-software/"><u>Free Download: Insignia USB to Ethernet Converter Software</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-mastering-iphones-mirror-images-in-photos/"><u>In 2024, Mastering iPhone's Mirror Images in Photos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/intrepid-insights-top-10-undiscovered-vlc-commands/"><u>Intrepid Insights Top 10 Undiscovered VLC Commands</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-access-free-picturing-content-streams-for-2024/"><u>Mastering Access Free Picturing Content Streams for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-13-essential-microsoft-excel-datetime-formulas-every-user-must-master/"><u>Top 13 Essential Microsoft Excel Date/Time Formulas Every User Must Master</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/transform-vimeo-videos-top-techniques-to-trim-and-tailor-online-sequences-for-2024/"><u>Transform Vimeo Videos Top Techniques to Trim and Tailor Online Sequences for 2024</u></a></li>
 </ul></div>
 

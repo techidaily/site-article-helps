@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Perfecting iPhone's Close-Up Shots with Ease and Precision\""
-date: 2024-09-04T23:33:14.093Z
-updated: 2024-09-05T23:33:14.093Z
+date: 2024-11-18T22:02:15.423Z
+updated: 2024-11-25T08:08:18.597Z
 tags: 
   - screen-recording
   - ai video
@@ -38,6 +38,10 @@ You May Also Like: [How to Take Underwater Photos with your iPhone 7](https://to
 
 You May Also Like: [Resizing a Photo without Losing Quality](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Section 1. What is close-up and macro photography?
 
 Close-up photography and macro photography are all about photographing things in a way that makes them appear larger than they are in real life. It lets us look in detail at the things around us and can be an exciting and dramatic way to shoot images. But is there a difference between close up and macro in photography terms?
@@ -58,6 +62,10 @@ Taking great photos in macro mode isn't always as easy as it looks. Novice users
 Shooting in the macro range requires decent lighting, so consider when and how you are positioning your images. Early morning and midafternoon are great times of day to plan a shoot, as the soft, natural light is ideal for macro photography. Taking photos in the blazing midday sun can cause overexposure, and your iPhone may struggle to focus too.
 
 ![](https://images.wondershare.com/filmora/article-images/close-up-photography-light.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Image source: Urdu-Mag.com
 
@@ -101,6 +109,10 @@ If you've researched photography in general, you'll already have heard of the â€
 
 ![](https://images.wondershare.com/filmora/article-images/macro-photography-composition.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Image source: SmashingHub
 
 The rule states that if the image were divided into thirds horizontally and vertically, the most important objects in the image should be placed at the points where the lines intersect. This is easy on iPhone, as you can switch on the gridlines and instantly see where to place the subject in the photos. When shooting macro images, place your focal point at one of the intersections to give your photo the professional touch.
@@ -110,6 +122,10 @@ The rule states that if the image were divided into thirds horizontally and vert
 iPhone macro photography is all about looking at the world in a different way. To really accentuate this quality in your work, why not try shooting from a different perspective? Get very low down and shoot your subject from below, with the sky as a background, or snap from directly above to add drama to your images.
 
 ![](https://images.wondershare.com/filmora/article-images/macro-photography-angles.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Image source: Flickr
 
@@ -139,6 +155,10 @@ Explore, experiment, and practice, and you'll soon find your own style and be th
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -162,17 +182,22 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-achieving-peak-engagement-with-strategic-reddit-posting/"><u>[New] 2024 Approved Achieving Peak Engagement with Strategic Reddit Posting</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-bridging-the-gap-with-magix-music-maker-for-beginners/"><u>[New] In 2024, Bridging the Gap with Magix Music Maker for Beginners</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-leading-clearcut-screen-capture-options-no-commercials/"><u>[New] Leading Clearcut Screen Capture Options (No Commercials)</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-proven-approaches-for-pristine-photos-on-the-web-for-2024/"><u>[New] Proven Approaches for Pristine Photos on the Web for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-capturing-the-moment-masterful-techniques-for-excellent-edits/"><u>[Updated] In 2024, Capturing the Moment Masterful Techniques for Excellent Edits</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-optimal-capture-software-showdown-obs-studio-vs-fraps-for-2024/"><u>[Updated] Optimal Capture Software Showdown OBS Studio V/S Fraps for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-sketch-spectacular-top-10-bare-essentials-for-mac-illustrators-for-2024/"><u>[Updated] Sketch Spectacular Top 10 Bare Essentials for Mac Illustrators for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-smaller-brands-bigger-impacts-infographics-for-2024/"><u>[Updated] Smaller Brands, Bigger Impacts (Infographics) for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-top-picks-optimal-sites-for-downloading-alarm-tones/"><u>[Updated] Top Picks Optimal Sites for Downloading Alarm Tones</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-advanced-tips-for-accurate-and-smooth-hp-laptop-screen-capture/"><u>2024 Approved Advanced Tips for Accurate and Smooth HP Laptop Screen Capture</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/harper-lees-to-kill-a-mockingbird/"><u>Harper Lee's To Kill a Mockingbird</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-oppo-reno-11-pro-5g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Oppo Reno 11 Pro 5G Phone?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-through-gesture-detection-methods/"><u>In 2024, Navigating Through Gesture Detection Methods</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-streaming-royalty-ranking-the-top-10-platforms-for-real-time-content/"><u>In 2024, Streaming Royalty Ranking the Top 10 Platforms for Real-Time Content</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-unleash-the-artistry-of-impressive-gopro-timelapse-videos/"><u>In 2024, Unleash the Artistry of Impressive GoPro Timelapse Videos</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

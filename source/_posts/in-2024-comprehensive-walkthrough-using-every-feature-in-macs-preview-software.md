@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Comprehensive Walkthrough  Using Every Feature in Mac's Preview Software\""
-date: 2024-08-31T19:52:02.216Z
-updated: 2024-09-01T19:52:02.216Z
+date: 2024-11-19T01:23:32.762Z
+updated: 2024-11-24T18:07:43.849Z
 tags: 
   - screen-recording
   - ai video
@@ -50,9 +50,6 @@ As mentioned earlier, the **Preview app** is a default photo viewer on Mac that 
 * Use the tools present on the standard toolbar at the top of the interface
 * Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ### How to Show Markup Tools in Preview on Mac
 
 Markup Tools gives easy access to the editing tools the **Preview app** has. By default, Markup Tools is kept hidden, but automatically becomes visible when you make some changes to the image. However, you can follow the process given below to manually show Markup Tools in Preview:
@@ -68,8 +65,9 @@ Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to Crop in Preview
 
 In order to crop a photo in the **Preview app**:
@@ -85,6 +83,10 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 **Step 3: Crop the Photo**
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Rotate Image in Preview
 
@@ -130,9 +132,6 @@ Once the background portion of the image gets selected (colored in red), without
 
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ### How to Combine Images into One
 
 This process is generally used to place an object present in one image over the background of the other photo. A good example could be to place a picture of a fish on to a second photo that has a sea or river. The **Preview app** lets you do this easily using the following steps:
@@ -150,8 +149,9 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to Save Images in Different Formats
 
 The **Preview app** has a built-in image converter as well. To convert an image to a different format with Preview, you must:
@@ -165,8 +165,9 @@ After opening an image, click **File** from the menu bar at the top, and click *
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Part 2: FAQs About Preview App on Mac
 
 #### What is the Preview App?
@@ -202,8 +203,9 @@ Choose a destination folder in the **Where** field, select your preferred format
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -227,4 +229,22 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-accelerated-image-editing-your-path-to-masterful-windows-photo-work-for-2024/"><u>[New] Accelerated Image Editing Your Path to Masterful Windows Photo Work for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-chuckle-chronicles-hilarious-meme-crafting-simplified/"><u>[New] In 2024, Chuckle Chronicles Hilarious Meme Crafting Simplified</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-mastering-screen-sharing-on-windows-11-via-zoom/"><u>[New] Mastering Screen Sharing on Windows 11 via Zoom</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-turn-your-videos-backwards-on-phone-for-2024/"><u>[New] Turn Your Videos Backwards on Phone for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-elevate-engagement-amplify-audience-youtube-marketing/"><u>[Updated] Elevate Engagement, Amplify Audience (YouTube Marketing)</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-expertise-in-action-mastering-iphone-silhouette-art/"><u>[Updated] Expertise in Action Mastering iPhone Silhouette Art</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/50-years-of-europes-voices-celebrating-linguistic-babel/"><u>50 Years of Europe’s Voices - Celebrating Linguistic Babel</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-converter-transform-voc-files-into-mp4-format-with-movavi/"><u>Free Online Converter: Transform VOC Files Into MP4 Format with Movavi</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Apple iPhone SE (2020)? | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/masterclass-seamlessly-integrating-recovered-mailboxes-from-edb-backups-into-live-exchange-servers-watch-and-learn-here/"><u>Masterclass: Seamlessly Integrating Recovered Mailboxes From EDB Backups Into Live Exchange Servers – Watch and Learn Here</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/questioning-the-necessity-of-windows-unveiling-4-key-reasons-to-consider-alternatives/"><u>Questioning the Necessity of Windows: Unveiling 4 Key Reasons to Consider Alternatives</u></a></li>
+<li><a href="https://article-helps.techidaily.com/simplified-path-to-perfect-video-clarity-for-2024/"><u>Simplified Path to Perfect Video Clarity for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-resetting-forgotten-ipad-lock-screen-pin/"><u>Step-by-Step Guide: Resetting Forgotten iPad Lock Screen PIN</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-vivo-s18e-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/unlocking-apples-audio-world-a-download-guide-for-ios-users-for-2024/"><u>Unlocking Apple's Audio World A Download Guide for iOS Users for 2024</u></a></li>
+</ul></div>
 

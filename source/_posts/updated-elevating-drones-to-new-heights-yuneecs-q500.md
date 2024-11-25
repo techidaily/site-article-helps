@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Elevating Drones to New Heights  Yuneec's Q500\""
-date: 2024-09-04T23:33:09.608Z
-updated: 2024-09-05T23:33:09.608Z
+date: 2024-11-21T01:32:20.250Z
+updated: 2024-11-25T02:06:00.805Z
 tags: 
   - screen-recording
   - ai video
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 ![Yuneec Typhoon Q500](https://images.wondershare.com/filmora/article-images/yuneec-q500-typhoon.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B00ZH45ZXG/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00ZH45ZXG&linkId=aa8356bb094b5851f607a986064887ba)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Pros and Cons of Yuneec Typhoon Q500 4K Quadcopter
 
@@ -88,20 +92,26 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 
 ![yuneec typhoon controller](https://images.wondershare.com/filmora/article-images/yuneec-typhoon-controller.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The transmitter as well as personal ground station of this system, both are combined together to form a single device that supports 10 channel functioning at 2.4GHz. Controller helps to make easy adjustments for flight modes and decisions about adventurous activities in air can be done easily. Roughly the control range is reported up to 800 meters. The dynamic return to home buttons offers fast response from drone to get back to its original position and it is very helpful if your device is running out of battery and it is required to make a safe landing as soon as possible. If you are able to understand the surroundings perfectly and learn all the control functions then it will become much easier to avoid crashes on the way and your device will surely work for years with great flight performances.
 
 #### 6\.  Camera
 
 ![yuneec typhoon q500 camera](https://images.wondershare.com/filmora/article-images/yuneec-typhoon-q500-camera.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As already discussed, it supports 4k recording abilities so users can expect breathtaking shoots in air. The camera is designed to offer 115 degree Field of View where 30 fps frame rate is supported for both 4K and 1080p resolution modes. Users can enjoy automatic settings at initial stage and once they are able to learn all advanced controls then it becomes much easier to shift towards classic flights with smart modes. You will be glad to know that this drone also has settings for slow motion videos with 1080p resolution and at frame rate of 120fps. It provides great flexibility to professional videographers for their advanced recording needs.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
  After watching all the incredible features as well as few limitations of Q500 drone, it appears to be the winner in many aspects as compared to other drones in market. If you have great budget and want to buy a classic drone with high camera resolution then Yuneec Q500 is recommended for you. It possesses all incredibly responsive control function and smart modes make flying experiences more interesting. You will love to work with its durable and strong body. But you have to spend more to get this device for your routine needs.
@@ -109,11 +119,9 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -137,4 +145,24 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-converting-ordinary-to-exceptional-lightroom-hdr-tutorial/"><u>[New] 2024 Approved Converting Ordinary to Exceptional Lightroom HDR Tutorial</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-props-to-the-best-android-tools-for-playstation-2-experience/"><u>[New] 2024 Approved Props to the Best Android Tools for PlayStation 2 Experience</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-reviving-rare-memories-turning-photos-into-engaging-videos/"><u>[New] 2024 Approved Reviving Rare Memories Turning Photos Into Engaging Videos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-ultimate-t5-camera-for-extreme-clips/"><u>[New] 2024 Approved Ultimate T5 Camera for Extreme Clips</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-highlight-your-pc-gaming-6-effective-screen-methods/"><u>[New] Highlight Your PC Gaming 6 Effective Screen Methods</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-enhancing-engagement-best-practices-for-b-roll-integration/"><u>[New] In 2024, Enhancing Engagement Best Practices for B Roll Integration</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-ultimate-4k-camera-guide-top-6-dslrs-reviewed/"><u>[New] In 2024, Ultimate 4K Camera Guide Top 6 DSLRs Reviewed</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-advancements-in-quantum-hdr-technology-explained/"><u>[Updated] Advancements in Quantum HDR Technology Explained</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-boosting-channel-success-scaling-for-a-million-viewers-for-2024/"><u>[Updated] Boosting Channel Success Scaling for a Million Viewers for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-cutting-edge-settings-for-online-broadcasts-for-2024/"><u>[Updated] Cutting-Edge Settings for Online Broadcasts for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-infinix-gt-10-pro-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Infinix GT 10 Pro Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/vating-a-brand-identity-youtube-visibility-without-spending/"><u>Cultivating a Brand Identity YouTube Visibility without Spending</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-step-by-step-instructions-on-chromes-pip-across-all-platforms/"><u>In 2024, Step-by-Step Instructions on Chrome’s PIP Across All Platforms</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-on-apple-iphone-14-plus-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue On Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://network-issues.techidaily.com/monstrous-error-hunter-worlds-glitch-fixed-fast/"><u>Monstrous Error: Hunter World's Glitch Fixed Fast</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-oneplus-nord-ce-3-lite-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends OnePlus Nord CE 3 Lite 5G without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/win11s-1-5-pick-for-budget-friendly-screen-capture-apps-for-2024/"><u>Win11's #1-5 Pick for Budget-Friendly Screen Capture Apps for 2024</u></a></li>
+</ul></div>
 

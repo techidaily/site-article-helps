@@ -1,7 +1,7 @@
 ---
 title: "[New] The Syma X8C User Guide Insights"
-date: 2024-08-31T19:53:33.532Z
-updated: 2024-09-01T19:53:33.532Z
+date: 2024-11-21T07:38:39.313Z
+updated: 2024-11-25T09:50:58.210Z
 tags: 
   - screen-recording
   - ai video
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/20c1b79c602928e68eb827f2805a2d6c02102230f
 
 **You may also like:** [Full review for Syma X5C >>](HTTPS://filmora.wondershare.com/drones/syma-x5c-drone-review.html)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Pros and Cons of Syma X8C
 
 **Pros:**
@@ -55,6 +59,10 @@ thumbnail: https://thmb.techidaily.com/20c1b79c602928e68eb827f2805a2d6c02102230f
 
  There are loads of pros as well as cons related Syma H8C device but they appear different to various kinds of users. Professionals may be worried about its camera quality whereas beginners will find its controls little complex. But in case if you need something at low price with all acceptable features then Syma H8C is really a good choice for your needs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Complete Review
 
 #### 1. Basic Specs Info
@@ -73,6 +81,10 @@ thumbnail: https://thmb.techidaily.com/20c1b79c602928e68eb827f2805a2d6c02102230f
 
 ![syma vs phantom design](https://images.wondershare.com/filmora/article-images/syma-vs-phantom-design.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If we consider the appearance then it looks close to the Phantom drone but no doubt to say that few variations exists and they make it unique. The overall dimension of this drone unit is 20x20x6.5 whereas maximum weight goes up to 450 grams thus it cannot be called as a tiny drone. When weighted with camera and prop guards, then this unit has overall weight of 600 grams. This dimension and weight makes this drone much stable in air.
 
  This device can also be used without propeller guards because they do not have much role to play in its flights but the added benefit is that removal of prop guards leads to reduced weight and hence flight time gets little improved. The overall length of propeller is about 9” and they are designed of very high quality material.
@@ -89,6 +101,10 @@ thumbnail: https://thmb.techidaily.com/20c1b79c602928e68eb827f2805a2d6c02102230f
 
 ![syma x8c controller](https://images.wondershare.com/filmora/article-images/syma-x8c-controller.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Controller or the transmitter of X8C device is small enough that fits perfectly in user’s hands. Construction is completed with ABS plastic material that leads to light weight structure and this controller makes use of 2.4GHz frequency band to send control signals towards drone in air. The best thing to know about Syma X8C is that it can cover the 100 meter range impressively.
 
 #### 6\.  Camera
@@ -98,17 +114,15 @@ thumbnail: https://thmb.techidaily.com/20c1b79c602928e68eb827f2805a2d6c02102230f
  A drone cannot be complete without a camera mounted on its top; hence Syma has taken care of users need and they developed Syma X8C with a camera that can record everything in air. Although, it is not able to collect video information with HD quality but you will be glad to know that it is detachable and one can also make additional adjustments over its angles to adjust focus. All the recorded videos are stored inside a 4GB MicroSD card. Further, the attached gimbal assists in much stable footage.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
  By considering all above factors, we must say that Syma X8C is a well designed drone unit that can serve with much better results as an entry level aerial shoot recorder. As the price tag keeps it below $100 range so beginners find it most affordable for their learning needs and the gimbal protection leads to highly stable footage that can be shared on social media sites to impress friends. The control mechanisms is rated as highly responsive so will all these satisfactory features it becomes a must buy product for your air flight adventures.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -132,4 +146,24 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-child-stars-staggering-fortune-from-youtube-success/"><u>[New] 2024 Approved Child Star's Staggering Fortune From YouTube Success</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-cutting-edge-backdrop-swap-selection-roundup/"><u>[New] 2024 Approved Cutting-Edge Backdrop Swap Selection Roundup</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-exploring-luts-for-sophisticated-photographic-changes-for-2024/"><u>[New] Exploring LUTs for Sophisticated Photographic Changes for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-flat-to-framed-achieving-realistic-text-effects-in-photoshop/"><u>[New] From Flat to Framed Achieving Realistic Text Effects in Photoshop</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-capturing-the-skyline-drone-cinematography-tips/"><u>[New] In 2024, Capturing the Skyline Drone Cinematography Tips</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-navigating-apples-screen-recording-tools/"><u>[New] In 2024, Navigating Apple's Screen Recording Tools</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-streamlined-process-for-shaping-photos/"><u>[New] In 2024, Streamlined Process for Shaping Photos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-giroptic-360cam-complete-review/"><u>[Updated] 2024 Approved Giroptic 360Cam Complete Review</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-gopro-deep-dive-side-by-side-specification-comparison-for-2024/"><u>[Updated] GoPro Deep Dive Side-by-Side Specification Comparison for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/full-review-for-hero4-black/"><u>Full Review for Hero4 Black</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-oneplus-12r-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring OnePlus 12R to PC? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-infinix-hot-40-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Infinix Hot 40 FRP Bypass</u></a></li>
+<li><a href="https://article-helps.techidaily.com/innovating-with-3d-text-effects-in-adobe-photoshop/"><u>Innovating with 3D Text Effects in Adobe Photoshop</u></a></li>
+<li><a href="https://article-helps.techidaily.com/maximize-zooms-value-triad-of-conversion-mastery-for-2024/"><u>Maximize Zoom's Value Triad of Conversion Mastery for 2024</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/meilleures-pratiques-pour-sysprep-guide-dinstallation-et-personnalisation-sur-windows-server/"><u>Meilleures Pratiques Pour Sysprep: Guide D'installation Et Personnalisation Sur Windows Server</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-hop-to-it-wondershare-filmora-easter-sale-get-your-discount-now/"><u>New In 2024, Hop to It! Wondershare Filmora Easter Sale - Get Your Discount Now</u></a></li>
+<li><a href="https://win-online.techidaily.com/top-12-utahanuti-pokryvek-pro-chromium-podkladovy-filmova-nahravka/"><u>Top 12 Utahanutí Pokrývek Pro Chromium-Podkladový Filmová Nahrávka</u></a></li>
+</ul></div>
 
