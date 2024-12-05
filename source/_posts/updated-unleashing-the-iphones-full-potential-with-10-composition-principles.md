@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unleashing the iPhone's Full Potential with 10 Composition Principles"
-date: 2024-11-20T16:32:32.180Z
-updated: 2024-11-25T05:46:58.207Z
+date: 2024-11-29T16:31:16.777Z
+updated: 2024-12-04T17:45:30.660Z
 tags: 
   - screen-recording
   - ai video
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/8da4f128772304ca7169e7ed666f281e2ef57e50c
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Rule of Thirds
@@ -42,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/8da4f128772304ca7169e7ed666f281e2ef57e50c
  The Rule of Thirds consists of a set of guidelines to assist a photographer correctly position the subject in a particular scene. It is meant to draw the attention of the viewer directly towards the subject. According to this rule, the picture is divided into nine equal grids that break the entire image with two vertical and two horizontal lines into vertical and horizontal thirds. As per the Rule of Thirds, the subject should be placed at the intersecting points of the grids.
 
 ![rule of third](https://images.wondershare.com/filmora/article-images/rule-of-third.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Leading Lines
 
@@ -62,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/8da4f128772304ca7169e7ed666f281e2ef57e50c
 ![framing](https://images.wondershare.com/filmora/article-images/framing.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Diagonals
@@ -71,11 +75,19 @@ thumbnail: https://thmb.techidaily.com/8da4f128772304ca7169e7ed666f281e2ef57e50c
 
 ![diagonal](https://images.wondershare.com/filmora/article-images/diagonal.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Shape
 
  Speaking of shape in photography composition sounds odd? ‘Rule of Thirds’ and ‘Leading Lines’ are not the only rules that make a photo composition. Line, shape, texture, form, space, color, and pattern also play a key role to make your iPhone photography a real treasure. Shape defines the two dimensional view of the subject and the entire scene as well. A well defined subject with a silhouette and backlighting or a black and white picture looks more appealing than a color picture where the shape of the subject or other objects is not prominent. Forms and shapes play an integral role in photography.
 
 ![shape](https://images.wondershare.com/filmora/article-images/shape.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Leave Empty Space
 
@@ -84,7 +96,7 @@ thumbnail: https://thmb.techidaily.com/8da4f128772304ca7169e7ed666f281e2ef57e50c
 ![space](https://images.wondershare.com/filmora/article-images/Space.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Direction of Subject
@@ -93,33 +105,21 @@ thumbnail: https://thmb.techidaily.com/8da4f128772304ca7169e7ed666f281e2ef57e50c
 
 ![direction](https://images.wondershare.com/filmora/article-images/direction.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fill Your Frame
 
  Making your subject stand out against the entire frame in a photograph creates more impact. You can easily obtain this goal with your iPhone by covering the entire frame with your subject. According to this amazing photography composition technique, all you have to do is move your iPhone closer to the subject and nullify the appearance of the surroundings to take a close shot. Like this, you are able to capture the intricate detailing of a leaf with its vivid colors and texture, the detailing and motif on a wall art and much more.
 
 ![fill the screen](https://images.wondershare.com/filmora/article-images/fill-the-screen.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Break the Rules
 
  Lastly, we would say that forget and break all the rules. Make use of the above mentioned rules in photography, but don’t let your heart stick to it. Explore, experiment and let your imaginations fly high to capture whatever you want and however you can that fills your soul. Photography is a passion and you must enjoy it.
 
 ![breal the rules](https://images.wondershare.com/filmora/article-images/break.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclsion
 
@@ -130,7 +130,7 @@ thumbnail: https://thmb.techidaily.com/8da4f128772304ca7169e7ed666f281e2ef57e50c
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -158,18 +158,19 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-unleash-your-potential-with-top-igtv-creators/"><u>[New] 2024 Approved Unleash Your Potential with Top IGTV Creators</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-amalgamate-ppts-for-video-creation-for-2024/"><u>[New] Amalgamate PPTs for Video Creation for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/new-discovering-if-quick-youtube-subscriptions-really-work/"><u>[New] Discovering if Quick YouTube Subscriptions Really Work</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-expert-evaluation-chilled-delights-playback-tools/"><u>[New] Expert Evaluation Chilled Delights Playback Tools</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-step-by-step-soundtracking-tips-for-premiere-pro-editors/"><u>[New] Step-by-Step Soundtracking Tips for Premiere Pro Editors</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-the-future-of-mobile-entertainment-is-here-discover-the-best-49-free-compression-tools/"><u>[New] The Future of Mobile Entertainment Is Here Discover the Best 49 Free Compression Tools</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-how-to-make-a-photo-video-with-pixiz/"><u>[Updated] In 2024, How to Make a Photo Video with Pixiz?</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-navigating-the-google-podcast-submission-guide/"><u>[Updated] Navigating the Google Podcast Submission Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/drones-to-dream-innovative-editing-approaches/"><u>Drones to Dream Innovative Editing Approaches</u></a></li>
-<li><a href="https://article-helps.techidaily.com/merging-youtube-melodies-in-cinematic-pieces-for-2024/"><u>Merging YouTube Melodies in Cinematic Pieces for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/premiere-sneak-peeks-cinema-edition-for-2024/"><u>Premiere Sneak Peeks - Cinema Edition for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/rising-threats-in-generative-ai-future-security-risks/"><u>Rising Threats in Generative AI: Future Security Risks</u></a></li>
-<li><a href="https://article-helps.techidaily.com/the-eraser-guru-expert-tips-for-psx-users-for-2024/"><u>The Eraser Guru Expert Tips for PSX Users for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-visual-polishing-incorporating-filters-in-digital-media/"><u>[New] 2024 Approved Visual Polishing Incorporating Filters in Digital Media</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-zipped-source-sorted-srt-converting-with-ease/"><u>[New] 2024 Approved Zipped Source, Sorted Srt Converting with Ease</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-secrets-to-exposing-videos-in-the-news-feed/"><u>[New] Secrets to Exposing Videos in the News Feed</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-essential-techniques-to-soften-sound-in-fl-studio/"><u>[Updated] 2024 Approved Essential Techniques to Soften Sound in FL Studio</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-elevate-your-photos-learn-bg-removal-with-picsart-tools/"><u>[Updated] Elevate Your Photos Learn Bg Removal with Picsart Tools</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-unlock-the-power-of-spotifys-advertising-potential/"><u>[Updated] In 2024, Unlock the Power of Spotify’s Advertising Potential</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722960218958-effortless-access-to-amd-smbus-driver-download-and-update-today/"><u>Effortless Access to AMD SMBus Driver Download & Update - Today!</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-ensuring-security-in-converting-youtube-tracks-to-mp3-format/"><u>In 2024, Ensuring Security in Converting YouTube Tracks to MP3 Format</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-number-1-in-the-8th-digital-image-blend-platform/"><u>In 2024, Number 1 in the 8Th Digital Image Blend Platform</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-the-ultimate-guide-to-vr-game-engine-picks-2023/"><u>In 2024, The Ultimate Guide to VR Game Engine Picks, 2023</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instagrams-best-tools-ranked-editors-to-elevate-reels/"><u>Instagram's Best Tools Ranked Editors to Elevate Reels</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/simplified-avi-to-gif-editing-with-filmora-on-windows-and-macos-platforms-for-2024/"><u>Simplified AVI to GIF Editing with Filmora on Windows & macOS Platforms for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/unveiling-the-15-best-free-online-image-enhancement-tools-for-2024/"><u>Unveiling the 15 Best Free Online Image Enhancement Tools for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mka/"><u>무료 MKA 오그 이미지를 원근 동영상으로 전환하는 방법 - 모바비</u></a></li>
 </ul></div>
 

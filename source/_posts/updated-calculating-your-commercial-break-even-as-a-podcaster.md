@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Calculating Your Commercial Break-Even as a Podcaster\""
-date: 2024-08-31T19:48:57.275Z
-updated: 2024-09-01T19:48:57.275Z
+date: 2024-12-03T23:05:11.222Z
+updated: 2024-12-04T17:08:09.523Z
 tags: 
   - screen-recording
   - ai video
@@ -30,6 +30,10 @@ As a result, more people are starting their podcasts, and many are making money.
 4. [Affiliate](#part3-4)
 
 * [Popular Podcasts Earnings in 2024](#part4)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Are Podcasts Profitable?
 
@@ -67,9 +71,17 @@ If you have 5000 download/listeners per episode:
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** These numbers are only speculative and assumptions. Depending on various factors, you could make anywhere from $1,000-$50,000 or more. That includes your reputation, strategy, and niche.
 
 An example of this could include things like how much you want to charge to Patreon or possibly having a higher CPM sponsorship offer, or cost per thousand listeners based on expected performance and other factors.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: All Possible Income Sources for Podcasters
 
@@ -86,12 +98,9 @@ You need at least 5,000 listeners per month to be accepted by Midroll or Authent
 ![marketing charts](https://images.wondershare.com/filmora/article-images/2022/11/how-much-do-podcasters-make-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ### Complementary products
 
 As a podcaster, you are your merchant. There are some obvious items that you need to sell, such as t-shirts, caps, mugs and more.
@@ -101,6 +110,10 @@ You don't have to sell everything; start small and grow. Promoting complementary
 It’s important to know the best ways to market your brand through various platforms like, selling through a third party like eBay or Etsy that allow podcasters to sell their wares at wholesale pricing.
 
 One thing to keep in mind when selling merchandising is that the more niche your podcast is, the less likely you will be able to sell a lot of it. Instead, focus on making quality items that appeal to your target audience.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Listeners' donations
 
@@ -112,9 +125,6 @@ The downside is that, if you reach your fundraising goal, your funds may run out
 
 ![indiegogo funds](https://images.wondershare.com/filmora/article-images/2022/11/how-much-do-podcasters-make-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Affiliate
 
 One of the quickest ways to generate income for your podcast is to monetize it through affiliate marketing. With affiliate marketing, you make money when your audience purchases something through an affiliate link that you provide them.
@@ -125,9 +135,6 @@ In addition to the many affiliate marketing programs, some are specifically for 
 
 ![amazon affiliate program commission rate](https://images.wondershare.com/filmora/article-images/2022/11/how-much-do-podcasters-make-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: Popular Podcasts Earnings in 2024
 
 So many people are trying to figure out the best ways to make money online. So we decided to check out some popular podcasts generating consistent revenue for their hosts. Listen to the top-earning podcasts, according to a study by Forbes and The Richest.
@@ -191,9 +198,6 @@ If you have 5000 download/listeners per episode:
 
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 **Note:** These numbers are only speculative and assumptions. Depending on various factors, you could make anywhere from $1,000-$50,000 or more. That includes your reputation, strategy, and niche.
 
 An example of this could include things like how much you want to charge to Patreon or possibly having a higher CPM sponsorship offer, or cost per thousand listeners based on expected performance and other factors.
@@ -213,8 +217,13 @@ You need at least 5,000 listeners per month to be accepted by Midroll or Authent
 ![marketing charts](https://images.wondershare.com/filmora/article-images/2022/11/how-much-do-podcasters-make-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Complementary products
 
 As a podcaster, you are your merchant. There are some obvious items that you need to sell, such as t-shirts, caps, mugs and more.
@@ -225,9 +234,6 @@ It’s important to know the best ways to market your brand through various plat
 
 One thing to keep in mind when selling merchandising is that the more niche your podcast is, the less likely you will be able to sell a lot of it. Instead, focus on making quality items that appeal to your target audience.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Listeners' donations
 
 If you don’t have any other income sources, consider crowdfunding and/or donations to help you keep producing high-quality content. Crowdfunding is the act of funding a project or venture by raising funds from a large group of people.
@@ -239,11 +245,9 @@ The downside is that, if you reach your fundraising goal, your funds may run out
 ![indiegogo funds](https://images.wondershare.com/filmora/article-images/2022/11/how-much-do-podcasters-make-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ### Affiliate
 
 One of the quickest ways to generate income for your podcast is to monetize it through affiliate marketing. With affiliate marketing, you make money when your audience purchases something through an affiliate link that you provide them.
@@ -255,8 +259,9 @@ In addition to the many affiliate marketing programs, some are specifically for 
 ![amazon affiliate program commission rate](https://images.wondershare.com/filmora/article-images/2022/11/how-much-do-podcasters-make-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 4: Popular Podcasts Earnings in 2024
 
 So many people are trying to figure out the best ways to make money online. So we decided to check out some popular podcasts generating consistent revenue for their hosts. Listen to the top-earning podcasts, according to a study by Forbes and The Richest.
@@ -306,4 +311,26 @@ Many podcasters start as amateurs and make a living doing what they love. You ca
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-professional-photoshop-guide-to-crafting-hdr-images/"><u>[New] 2024 Approved Professional Photoshop Guide to Crafting HDR Images</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-revolutionize-your-visual-experience-top-10-4k-mac-displays/"><u>[New] 2024 Approved Revolutionize Your Visual Experience - Top 10 4K Mac Displays</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-echo-to-etchings-discovering-preeminent-text-apps/"><u>[New] Echo to Etchings Discovering Preeminent Text Apps</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-closing-an-outdated-linkedin-profile-a-step-by-step-guide/"><u>[New] In 2024, Closing an Outdated LinkedIn Profile A Step-by-Step Guide</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-gear-up-for-speedy-tiktok-production-with-this-guide/"><u>[New] In 2024, Gear Up For Speedy TikTok Production with This Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-ultimate-guide-to-zooming-in-on-effective-win11-meetings/"><u>[New] In 2024, Ultimate Guide to Zooming In on Effective Win11 Meetings</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-best-35-funny-photo-editors-and-apps-online-ios-android/"><u>[Updated] 2024 Approved Best 35 Funny Photo Editors and Apps [Online, iOS, Android]</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-top-8-affordable-srt-services-for-flawless-translation/"><u>[Updated] In 2024, Top 8 Affordable SRT Services for Flawless Translation</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-optimal-video-intros-selecting-the-top-16-to-increase-views/"><u>[Updated] Optimal Video Intros Selecting the Top 16 to Increase Views</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-straightforwardsnapper-w10s-easy-tool/"><u>[Updated] StraightforwardSnapper W10's Easy Tool</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-top-tech-best-drone-gimbals-reviewed-for-2024/"><u>[Updated] Top Tech Best Drone Gimbals Reviewed for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-10plus-incredible-free-youtube-intro-makers/"><u>2024 Approved 10+ Incredible Free YouTube Intro Makers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fundamental-tactics-converting-pin-based-videos-to-mp3s/"><u>2024 Approved Fundamental Tactics Converting Pin-Based Videos To MP3s</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/54sh5paz44gn5qw944gx44ka5a2q5l6b5zcr44gr5pig55s7ic0g5a625pep44gr5zac44gz44go5ocd44ge5ye644ks5akx44ke44gb44kl5oml6lu944gq44ki44kv44k744k55pa55rov/"><u>無料で楽しむ子供向け映画 - 家族に喜びと思い出を増やせる手軽なアクセス方法</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-itel-a70-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Itel A70? | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-best-aspect-ratios-to-enhance-video-quality/"><u>In 2024, Best Aspect Ratios to Enhance Video Quality</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-guide-to-vivacuts-video-editing-features/"><u>The Ultimate Guide to VivaCut's Video Editing Features</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-showdown-deciding-whether-to-go-for-a-macbook-pro-or-macbook-air-cnets-latest-review/"><u>The Ultimate Showdown: Deciding Whether to Go for a MacBook Pro or MacBook Air | CNET's Latest Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/undisclosed-steam-game-library/"><u>Undisclosed Steam Game Library</u></a></li>
+</ul></div>
 
