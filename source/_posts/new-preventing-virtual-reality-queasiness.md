@@ -1,7 +1,7 @@
 ---
 title: "[New] Preventing Virtual Reality Queasiness"
-date: 2024-08-27T15:11:03.418Z
-updated: 2024-08-28T15:11:03.418Z
+date: 2024-12-05T16:18:47.225Z
+updated: 2024-12-11T04:46:14.026Z
 tags: 
   - screen-recording
   - ai video
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/6f98ed833e99780ec633017bfd02ba19a6f592b21
 ##### Benjamin Arango
 
  Mar 27, 2024• Proven solutions
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10 ways to prevent Oculus Rift motion sickness
 
@@ -50,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/6f98ed833e99780ec633017bfd02ba19a6f592b21
 
 **10\. Try not to move your head a lot.** Since motion sickness directly corresponds to movement, reducing your head movement left and right and up and down in one place can help you lower the chances of sickness.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Oculus have done to reduce motion sickness
 
  With the new, innovative VR devices and the head gear technology has taken a huge leap. Oculus Rift has become widely popular among its enthusiastic users. When Oculus released its first Development kit (DevKit 1) the users experienced the symptoms such as nausea, dizziness, sweating and vomiting. Even Oculus CEO Brendan Iribe experienced “motion sickness” with his own product, while using last year’s “DevKit 1” prototype. These sickness issues were so common while using DevKit 1 that its users called it the “Rift Sickness”.
@@ -57,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/6f98ed833e99780ec633017bfd02ba19a6f592b21
  Since Oculus Rift DK1 came to the market, people were really unhappy with the sickness it gave to them. Oculus saw that issue as a big threat, and started to develop DK2 with a much better display. In the original DK1, Oculus Rift used the liquid crystal display (LCD) to display visual in its devices. LCD screen had been of very much advantage because of its brightness, geometric distortion, and less electricity consumption. But it still had been promoting to the sickness issue because of its sluggish motion time response. In replacement of LCD screens, Oculus Rift has introduced OLED (organic light emitting diode) screens which have proved to be a much better idea. Experiments of Oculus Rift with OLED screens have been successful so far in reducing motion sickness to its minimal. OLED has a much faster rate and thus much enhanced positional tracking.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -81,8 +93,26 @@ Follow @Benjamin Arango
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-how-to-seamlessly-incorporate-video-game-banners/"><u>[New] 2024 Approved How to Seamlessly Incorporate Video Game Banners</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-homemade-guide-to-google-vr-headset-construction/"><u>[New] Homemade Guide to Google VR Headset Construction</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-premier-tools-for-image-transformation-framecraft-pro/"><u>[New] In 2024, Premier Tools for Image Transformation FrameCraft Pro</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-step-by-step-for-xml-and-ttml-conversion-to-streamlined-srts/"><u>[New] In 2024, Step-by-Step for XML & TTML Conversion to Streamlined SRTs</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-narratives-in-motion-transforming-thoughts-into-words/"><u>[New] Narratives in Motion Transforming Thoughts Into Words</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-premium-selection-top-15-cameras-for-action/"><u>[New] Premium Selection Top 15 Cameras for Action</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-venturing-solo-in-3d-printing-with-3dr-tech-review-for-2024/"><u>[New] Venturing Solo in 3D Printing with '3DR' Tech Review for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-pinnacle-of-camera-quality-top-18-4k-camcorders/"><u>[Updated] 2024 Approved Pinnacle of Camera Quality - Top 18 4K Camcorders</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-6-best-nft-makers-for-artists-to-unleash-imagination-for-2024/"><u>[Updated] 6 Best NFT Makers for Artists to Unleash Imagination for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-harmonious-hits-where-to-find-rare-ringtone-files/"><u>[Updated] Harmonious Hits Where to Find Rare Ringtone Files</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-a-detailed-exploration-into-sourcing-high-quality-backdrops/"><u>[Updated] In 2024, A Detailed Exploration Into Sourcing High-Quality Backdrops</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-premier-sound-storylines/"><u>2024 Approved Top Premier Sound Storylines</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/common-types-include-gear-diaphragm-peristaltic-and-lobe-pumps-each-having-unique-advantages/"><u>Common Types Include Gear, Diaphragm, Peristaltic, and Lobe Pumps, Each Having Unique Advantages.</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/convertissez-gratuitement-un-fichier-swf-en-wav-sur-la-toile-avec-movavi/"><u>Convertissez Gratuitement Un Fichier SWF en WAV Sur La Toile Avec Movavi</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-downloading-fb-videos-made-easy-our-top-5-selection/"><u>In 2024, Downloading FB Videos Made Easy Our Top 5 Selection</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-top-tips-for-webinar-preservation-without-hurdles-windows-macos/"><u>In 2024, Top Tips for Webinar Preservation without Hurdles (Windows, macOS)</u></a></li>
+<li><a href="https://article-helps.techidaily.com/mastering-aerial-footage-a-guide-to-drone-video-editing/"><u>Mastering Aerial Footage A Guide to Drone Video Editing</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-relaxation-through-rustling-leaves-a-top-10-list-of-nature-sound-apps-for-your-smartphone/"><u>New 2024 Approved Relaxation Through Rustling Leaves A Top 10 List of Nature Sound Apps for Your Smartphone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-your-surface-pen-on-pro-4-effective-steps-to-get-it-running-again/"><u>Troubleshooting Your Surface Pen on Pro 4: Effective Steps to Get It Running Again</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "\"Perfect Windows Photos  Implementing Sound & Visual Filters Guide\""
-date: 2024-08-27T15:14:05.166Z
-updated: 2024-08-28T15:14:05.166Z
+date: 2024-12-07T21:50:34.645Z
+updated: 2024-12-11T05:40:01.365Z
 tags: 
   - screen-recording
   - ai video
@@ -51,6 +51,10 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/edit-filters-microsoft-photos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5**: Just select one you like. Preview it and then click Done.
 
 ## Part 2: How to add music on Windows 10 Photos App
@@ -65,15 +69,24 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 
 ![ add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-music-to-video-photos-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4**: Pick ‘Your music’ so that you can set up a custom track. There are over 20 music you can choose. You can also sync music to video's beat. You can visit ‘Recommended’ section for adding default ones.
 
 ![add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/choose-music-to-video-photos-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5**: Hit the ‘Done’ button.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 From the above article, we conclude that Windows 10 Photos app is an amazing app when it comes to photo editing and screen capturing from a video. While there are numerous options out there, you can **_add filters using Windows 10 Photos app_** in the best way possible. Moreover, this application enables you enable to even add music to videos using Windows 10 Photos app. The advantages of Windows 10 are innumerable, and with the right tools, you can get the best out of it.
@@ -81,8 +94,9 @@ From the above article, we conclude that Windows 10 Photos app is an amazing app
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
@@ -106,4 +120,26 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-accelerate-creativity-pro-level-lunapic-techniques-unveiled/"><u>[New] 2024 Approved Accelerate Creativity Pro-Level LunaPic Techniques Unveiled</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-detailed-study-exploring-the-capabilities-of-android-lightroom/"><u>[New] 2024 Approved Detailed Study Exploring the Capabilities of Android Lightroom</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-reversing-live-on-twitch-a-top-ten-guide/"><u>[New] 2024 Approved Reversing Live on Twitch A Top Ten Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-tickletech-instant-creation-of-laughter-graphics/"><u>[New] 2024 Approved TickleTech Instant Creation of Laughter Graphics</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-angle-away-discover-our-top-11-bridge-photography-tools/"><u>[New] Angle Away! Discover Our Top 11 Bridge Photography Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-closing-with-panache-free-youtubes-1-six/"><u>[New] In 2024, Closing with Panache Free YouTube's #1 Six</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/eal-vs-counterfeit-deciphering-authentic-youtube-supports-for-2024/"><u>[New] Real Vs. Counterfeit Deciphering Authentic YouTube Supports for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-best-ranked-cost-free-video-playing-software-for-pc-users-worldwide-for-2024/"><u>[New] The Best-Ranked, Cost-Free Video Playing Software for PC Users Worldwide for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-learners-handbook-of-av1-technology/"><u>[New] The Learner's Handbook of AV1 Technology</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-ultimate-filmmakers-choice-leading-15-creative-gopro-luts-for-2024/"><u>[Updated] Ultimate Filmmaker's Choice Leading 15 Creative GOPRO LUTs for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-visual-impact-the-ultimate-photo-grid-list/"><u>[Updated] Visual Impact The Ultimate Photo Grid List</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-whatsapp-mastery-discovering-surprising-functionality/"><u>[Updated] WhatsApp Mastery Discovering Surprising Functionality</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/combining-forces-how-to-leverage-gpt-for-excel-docs-and-google-sheets-integration/"><u>Combining Forces: How to Leverage GPT for Excel, Docs, and Google Sheets Integration</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-list-of-xsplits-equals/"><u>In 2024, The Ultimate List of Xsplit's Equals</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721458167409-iphone-not-picking-up-calls-heres-how-you-can-fix-it/"><u>IPhone Not Picking Up Calls? Here's How You Can Fix It</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/luxury-meets-practicality-in-michael-kors-access-gen-5e-review-a-comprehensive-evaluation/"><u>Luxury Meets Practicality in Michael Kors Access Gen 5E Review – A Comprehensive Evaluation</u></a></li>
+<li><a href="https://article-helps.techidaily.com/maximizing-multi-display-with-ms-edges-pip/"><u>Maximizing Multi-Display with MS Edge's PIP</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimizing-your-wow-connection-tips-to-overcome-lag-issues-easily/"><u>Optimizing Your WoW Connection: Tips to Overcome Lag Issues Easily</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-vivo-s17-pro-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Vivo S17 Pro | Dr.fone</u></a></li>
+</ul></div>
 

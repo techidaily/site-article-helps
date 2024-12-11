@@ -1,7 +1,7 @@
 ---
 title: "Proven Tips and Tricks to Nail Every Green Screen Scene for 2024"
-date: 2024-08-27T15:09:22.938Z
-updated: 2024-08-28T15:09:22.938Z
+date: 2024-12-03T20:57:37.540Z
+updated: 2024-12-11T01:33:31.252Z
 tags: 
   - screen-recording
   - ai video
@@ -44,6 +44,10 @@ We’ve figured out some useful green screen tricks, have fun and hope you’ll 
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 In the following section, we will share with you five tips when you shooting a video for compositing a green screen video, which covering the lighting tips, the camera tips, the clothing tips, the tips for using green screen sheet, and the tips for resolving motion blur in shooting videos.
 
 #### 1 Lighting tips in shooting a Green Screen Video
@@ -54,11 +58,19 @@ Don’t throw too much light onto the green background. That will create hotspot
 
 ![Lighting tips in shooting a Green Screen Video](https://images.wondershare.com/images/multimedia/video-editor/green-screen-lighting-tips.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Check out our picks of [the best lighting equipment for shooting videos](https://tools.techidaily.com/wondershare/filmora/download/)
 
 #### 2Camera tips in shooting a Green Screen Video
 
 ![Camera tips in shooting a Green Screen Video](https://images.wondershare.com/images/multimedia/video-editor/green-screen-mistake-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 When lighting your key surface, make sure the bounce light is not directed at the camera (as shown in the image above). For example, if your camera faces the key surface directly, set your lights at 45 degree angles to the key surface. This will ensure that the bounce light bounces toward the other light and not at the camera.
 
@@ -84,6 +96,10 @@ Wrinkles in your screen can actually lead to heavy shadows and distorted image q
 
 ![Motion blur problem in shooting a Green Screen Video](https://images.wondershare.com/images/multimedia/video-editor/green-screen-mistake-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If you are planning on shooting a high action scene in front of a green screen with a camera that only has lower shutter speeds, you can run into real problems. When using a camera with a lower shutter speed consider doing action shots in slow motion or getting subjects to not make any sudden movements in front of the green screen. Motion blur from someone moving rapidly on camera in front of a green screen can really ruin the scene and ruin the realism of the scene. Alternately you could also consider renting a high shutter speed camera to avoid this motion blur if you do plan on shooting a lot of action scenes. Ultimately this is something that you will need to test for yourself before shooting a green screen video, so that you can get a feel for how much action your camera can handle with a green screen without motion blur.
 
 Wanna adding a fake camera shake effect to your video? Check our tips of [How to creating camera shake effects in your video](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -93,6 +109,10 @@ Till now, I believe we have basic skills on how to shoot a green screen videos, 
 Besides compositing chroma keying videos in Filmora, you can also[stabilize your shaky videos](https://tools.techidaily.com/wondershare/filmora/download/), [put videos side by side](https://tools.techidaily.com/wondershare/filmora/download/), [blur the face in the video](https://tools.techidaily.com/wondershare/filmora/download/) and even more. Let's watch the video below and find out how people shoot and edit green screen videos. Remember to download Filmora to have a try by yourself.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
@@ -119,8 +139,26 @@ Follow @Liza Brown
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-elevating-film-previews-with-thoughtful-soundtrack-selection/"><u>[New] 2024 Approved Elevating Film Previews with Thoughtful Soundtrack Selection</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-abbreviated-film-dialogue-scheme/"><u>[New] In 2024, Abbreviated Film Dialogue Scheme</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-direct-media-connect-photos-and-videos-from-pc-to-iphone/"><u>[New] In 2024, Direct Media Connect Photos & Videos From PC to iPhone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-improving-box-pull-back-pleasure/"><u>[New] In 2024, Improving Box Pull-Back Pleasure</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-peering-behind-the-scenes-of-youtube-reviews/"><u>[New] Peering Behind the Scenes of YouTube Reviews</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-enhancing-images-made-simple-a-newbies-guide-to-lunapic/"><u>[Updated] In 2024, Enhancing Images Made Simple A Newbie’s Guide to LunaPic</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-mastery-over-moments-jake-pauls-youtube-saga/"><u>[Updated] In 2024, Mastery Over Moments Jake Paul's YouTube Saga</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-ranking-the-best-budget-friendly-live-streaming-options-today/"><u>[Updated] Ranking the Best Budget-Friendly Live Streaming Options Today</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-virtual-enterprise-integrating-vr-tech-in-commerce/"><u>[Updated] Virtual Enterprise Integrating VR Tech in Commerce</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-why-the-samsung-galaxy-s20-fe-is-dominating-as-a-top-5g-phone-in-review/"><u>Discover Why the Samsung Galaxy S20 FE Is Dominating as a Top 5G Phone in Review</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effortless-nvidia-driver-removal-for-windows-10-users/"><u>Effortless Nvidia Driver Removal for Windows 10 Users</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-vivo-y78plus-t1-edition-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Vivo Y78+ (T1) Edition to iPod | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-best-budget-video-players-and-streaming-tools-reviewed-pc-and-mobile/"><u>In 2024, Best Budget Video Players and Streaming Tools Reviewed (PC & Mobile)</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-investigating-cash-for-review-scenarios/"><u>In 2024, Investigating Cash-for-Review Scenarios</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-navigating-color-change-pro-methods-uncovered/"><u>In 2024, Navigating Color Change Pro Methods Uncovered</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-srt-mastery-a-technological-deep-dive-for-media-professionals/"><u>In 2024, SRT Mastery A Technological Deep-Dive for Media Professionals</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unravel-the-mystery-of-tempo-control-in-instagram-stories/"><u>In 2024, Unravel the Mystery of Tempo Control in Instagram Stories</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-8t-video-recovery-recover-deleted-videos-from-play-8t-by-fonelab-android-recover-video/"><u>Play 8T Video Recovery - Recover Deleted Videos from Play 8T</u></a></li>
+<li><a href="https://win-blog.techidaily.com/say-goodbye-to-rdo-crashes-ultimate-troubleshooting-guide-for-players/"><u>Say Goodbye to RDO Crashes: Ultimate Troubleshooting Guide for Players</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->

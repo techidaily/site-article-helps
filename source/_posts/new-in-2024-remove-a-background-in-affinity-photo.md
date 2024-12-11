@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Remove a Background in Affinity Photo"
-date: 2024-11-30T21:45:53.480Z
-updated: 2024-12-05T00:15:45.816Z
+date: 2024-12-06T00:07:16.743Z
+updated: 2024-12-10T21:08:27.533Z
 tags: 
   - screen-recording
   - ai video
@@ -31,6 +31,10 @@ No matter you are a professional content creator or a newbie, we'll be discussin
 
 Affinity Photo is a simple and easy-to-use editing software, and you can remove a background in it under two scenarios: remove a white or a busy background.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Erase a White Background in Affinity Designer
 
 To erase a white background in Affinity Designer, do these steps:
@@ -46,7 +50,7 @@ Step2 Go to the **"Layers"** tab in the right pane, right-click your layer, and 
 ![unlocking the image layer in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/unlocking-the-image-layer-in-affinity-designer.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step3 To make a selection around your subject, first enable the **"Snap To Edges"** and **"Soft Edges"** feature from the top toolbar. This will help you automatically detect the edges and give it a more tapered finish.
@@ -62,12 +66,16 @@ Click the **"Refine"** option in the toolbar to open the **"Refine Selection"** 
 ![refining the outline around the image to remove background in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/refining-the-outline-around-the-image-to-remove-background-in-affinity-designer.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step5 In the last step, press the **"Delete"** key on your keyboard to remove the background, or click **"Edit"** and choose the **"Cut"** option.
 
 Now, hit **"Control+D"** to deselect the selection. Alternatively, you can click **"Select"** in the top toolbar and choose the **"Deselect"** option. Finally, you can export your file using the **"File" > "Export"** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Remove a Busy Background in Affinity Designer
 
@@ -107,7 +115,7 @@ Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.co
 ![wondershare pixcut for removing image background](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut-for-removing-image-background.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Editing experts recommend Wondershare PixCut as the best alternative to many editing problems. An AI-powered automatic editing tool, this software has quicker solutions for you when it comes to removing an image's background. Some of its many benefits are:
@@ -136,10 +144,6 @@ And if you have any interests in finding free images to expand your resource, yo
 
 Hopefully, this article and video can help you create ideal images!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The Best Alternative of Affinity Photo
 
 Since Affinity Photo is a desktop software available for a one-time purchase of $40.99, you might be looking for an online free alternative if you need more space or can afford the subscription fee.
@@ -163,10 +167,6 @@ Editing experts recommend Wondershare PixCut as the best alternative to many edi
 * Create a free account for easier future access.
 * Paid and customized accounts for premium benefits.
 * Customized categories that include e-commerce, car dealership, social media, graphic designing, personal, and marketing use.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -202,17 +202,16 @@ Hopefully, this article and video can help you create ideal images!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-expressive-commentary-utilizing-emojis-on-youtube/"><u>[Updated] 2024 Approved Expressive Commentary Utilizing Emojis on YouTube</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-accelerated-image-viewer-in-windows-environment/"><u>2024 Approved Accelerated Image Viewer in Windows Environment</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-exceptional-sound-value-for-aspiring-asmr-artists/"><u>2024 Approved Exceptional Sound Value for Aspiring ASMR Artists</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-skirting-watermarks-in-stock-photography/"><u>2024 Approved Skirting Watermarks in Stock Photography</u></a></li>
-<li><a href="https://article-helps.techidaily.com/achieving-perfection-mastering-sound-with-audacity/"><u>Achieving Perfection Mastering Sound with Audacity</u></a></li>
-<li><a href="https://article-helps.techidaily.com/clearer-photos-with-blur-effects-apps-for-2024/"><u>Clearer Photos with Blur Effects Apps for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/error-8014-in-dead-by-daylight-explained-with-step-by-step-troubleshooting-solutions/"><u>Error 8014 in Dead by Daylight Explained with Step-by-Step Troubleshooting Solutions</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/expanding-boundaries-with-cross-platform-playstation-vr-2-requesting-an-adaptation-for-windows-pc-users/"><u>Expanding Boundaries with Cross-Platform PlayStation VR 2 - Requesting an Adaptation for Windows PC Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-frame-rate-fluctuations-for-a-smoother-warzone-experience/"><u>Resolving Frame Rate Fluctuations for a Smoother Warzone Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-solutions-for-fixing-the-clownfish-voice-alteration-device/"><u>Step-by-Step Solutions for Fixing the Clownfish Voice Alteration Device</u></a></li>
-<li><a href="https://tools.techidaily.com/tomshardware/products/"><u>Tomshardware's Products</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-llama-2-applications-and-benefits-explained/"><u>Understanding LLaMA 2: Applications & Benefits Explained</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-how-to-change-background-on-teams-before-or-after-calling/"><u>[New] 2024 Approved How to Change Background on Teams Before or After Calling</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-culinary-connoisseurs-must-watch-food-content/"><u>[New] In 2024, Culinary Connoisseurs Must-Watch Food Content</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-facebooks-recent-views-uncovered-for-you-for-2024/"><u>[Updated] Facebook’s Recent Views Uncovered for You for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-free-range-creativity-with-premium-ae-samples/"><u>[Updated] Free-Range Creativity with Premium AE Samples</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-maximizing-efficiency-discover-the-leading-speech-to-text-apps-for-macos/"><u>[Updated] In 2024, Maximizing Efficiency Discover the Leading Speech-to-Text Apps for MacOS</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-ultimate-selection-for-top-tier-hdr-cameras/"><u>[Updated] In 2024, Ultimate Selection for Top-Tier HDR Cameras</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-unleashing-the-power-of-light-advanced-hdr-in-ps-for-2024/"><u>[Updated] Unleashing the Power of Light Advanced HDR in PS for 2024</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/1-easily-modify-display-luminosity-on-your-pc-a-step-by-step-guide-with-windows-settings-yl-computing/"><u>1. Easily Modify Display Luminosity on Your PC: A Step-by-Step Guide with Windows Settings - YL Computing</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-expand-horizons-freshest-wins11-apps-and-games/"><u>2024 Approved Expand Horizons Freshest Wins11 Apps & Games</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/no-more-interruptions-overcoming-new-worlds-stalling-problems-on-your-computer/"><u>No More Interruptions: Overcoming New World's Stalling Problems on Your Computer</u></a></li>
+<li><a href="https://article-helps.techidaily.com/typhoon-h-unveiled-yuneecs-aerial-marvel-for-2024/"><u>Typhoon H Unveiled Yuneec's Aerial Marvel for 2024</u></a></li>
 </ul></div>
 

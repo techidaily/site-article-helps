@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Craft Engaging Titles/Captions with Microsoft's Photos App (Win 11) for 2024"
-date: 2024-08-27T15:10:55.553Z
-updated: 2024-08-28T15:10:55.553Z
+date: 2024-12-08T18:47:21.234Z
+updated: 2024-12-11T06:54:04.390Z
 tags: 
   - screen-recording
   - ai video
@@ -42,14 +42,26 @@ Do you wish to add titles/text to video on Photos in Windows 10 for your video p
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/add-text-photos-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * You may also add the image from the project library to the storyboard if you cannot find the image in the preset categories
 * Resize the image if black parts appear by clicking on resize and then, remove black parts
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/resize-photos-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * To add titles/text to video on Photos in Windows 10 that perfectly match the background, type out the title in the text box at the top right corner
 * Select the best-animated text fonts to suit the background. There are different layouts for each of the font style. Preview the animation by using Playback Control. If the text is not animating, you may try to increase the duration to 3-4 seconds that works well
 * For addition of credits, try to use the Classic text style. Put each of the credits in a new line and do give credits to yourself as well
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Make Text Move in Windows 10 Photos App
 
@@ -68,24 +80,26 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/attach-effects-photos-min.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * To increase or decrease the length of animation time, adjust the slider
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/edit-text-photos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 To add titles/text to video on Photos in Windows 10 and to make the text move with the Windows 10 Photos app, follow the above steps and get going easily. The steps are really simple and you just need to understand and apply the steps for successfully adding texts to your videos.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
@@ -109,4 +123,24 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-from-basic-to-advanced-your-guide-to-system-advancements-for-2024/"><u>[New] From Basic to Advanced Your Guide to System Advancements for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-no-1-choice-of-dvd-and-media-editors-sierra-edition/"><u>[New] No. 1 Choice of DVD and Media Editors, Sierra Edition</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-what-lies-beneath-understanding-trillers-different-tiktok-approach/"><u>[New] What Lies Beneath Understanding Triller's Different TikTok Approach</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-charisma-in-characters-two-ways-to-enliven-text/"><u>[Updated] 2024 Approved Charisma in Characters Two Ways to Enliven Text</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-the-backstage-pass-creating-content-that-works/"><u>[Updated] 2024 Approved The Backstage Pass Creating Content That Works</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-mastering-instagram-video-editing-tips-with-fcpx/"><u>[Updated] In 2024, Mastering Instagram Video Editing Tips with FCPX</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-pioneering-time-lapse-mastery-full-slomo-app-evaluation-2024/"><u>[Updated] Pioneering Time-Lapse Mastery Full SloMo App Evaluation, 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-samsungs-opponent-the-finest-non-gear-360-cameras-for-2024/"><u>[Updated] Samsung's Opponent The Finest Non-Gear 360 Cameras for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-logo-mastery-for-podcasts-elevate-your-visual-impact/"><u>In 2024, Logo Mastery for Podcasts Elevate Your Visual Impact</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-smartest-top-10-free-image-platforms-for-endless-memories/"><u>In 2024, Smartest Top 10 Free Image Platforms for Endless Memories</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-vivo-v30-pro-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Vivo V30 Pro</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/navigating-the-world-of-instagram-filters-a-comprehensive-guide-to-2023/"><u>Navigating the World of Instagram Filters A Comprehensive Guide to 2023</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-and-efficient-downloads-of-amd-drivers-with-built-in-auto-detector/"><u>Quick and Efficient Downloads of AMD Drivers with Built-In Auto Detector</u></a></li>
+<li><a href="https://article-helps.techidaily.com/slumber-series-evaluating-video-adaptations-of-literary-classics/"><u>Slumber Series Evaluating Video Adaptations of Literary Classics</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-secrets-to-subtle-sound-diminishment-in-lumafusion-for-2024/"><u>The Secrets to Subtle Sound Diminishment in Lumafusion for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-ultimate-guide-to-vlogger-vogue-launching-your-cosmetic-channel-for-2024/"><u>The Ultimate Guide to Vlogger Vogue Launching Your Cosmetic Channel for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-ultimate-list-of-shopping-destinations-for-customizable-presents-for-2024/"><u>The Ultimate List of Shopping Destinations for Customizable Presents for 2024</u></a></li>
+</ul></div>
 

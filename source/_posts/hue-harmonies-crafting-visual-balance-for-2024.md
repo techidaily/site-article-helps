@@ -1,7 +1,7 @@
 ---
 title: "\"Hue Harmonies  Crafting Visual Balance for 2024\""
-date: 2024-11-28T04:06:22.865Z
-updated: 2024-12-04T16:56:46.435Z
+date: 2024-12-08T07:49:30.356Z
+updated: 2024-12-10T22:59:38.993Z
 tags: 
   - screen-recording
   - ai video
@@ -35,9 +35,17 @@ In cinematography, color grading refers to the manipulation of film and video im
 
 ![origianl video color grading](https://images.wondershare.com/filmora/article-images/2022/08/origianl-video-color-grading.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Color grading and color correction are processes that happen throughout postproduction. One makes the film look more native, and the other stylizes the footage. After the colorist finishes color correction, they can begin grading the film. During color grading, colorists use editing software to formalize the footage, highlighting a movie's visual tone and ambiance and making it look more cinematic.
 
 ![apply color grading to video](https://images.wondershare.com/filmora/article-images/2022/08/apply-color-grading-to-video.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To summarize, Color grading can be used to make both technical and creative changes. Colorists use color grading for artistic purposes to ensure that the film's carefully curated color palette conveys a specific atmosphere, style, or emotion.
 
@@ -69,23 +77,19 @@ Then select the New Project to create a new project file and click Import to fin
 
 ![put video to filmora cd](https://images.wondershare.com/filmora/article-images/2022/08/put-video-to-filmora-cd.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step2There are 2 ways to color your video in Wondershare Filmora
 
 Advanced Color Tools icon – click the Advanced Color Tools icon in the toolbar to enter the advanced color tools window, where you can apply the preset templates or adjust the color coarsely. It is suggested to start with Presets for beginners, which will save you much time.
 
 ![advanced color tools filmora](https://images.wondershare.com/filmora/article-images/2022/08/advanced-color-tools-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Color Panel Window - to perform color correction in Wondershare Filmora, switch to the Color tab. You can modify the white balance, saturation, tint, contrast, temperature, and brightness and apply 3D LUT immediately and quickly in this editing panel. You see the output in the Preview window.
 
 ![edit color grading video fx](https://images.wondershare.com/filmora/article-images/2022/08/edit-color-grading-video-fx.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Contrast**: is the variance in luminance or color that makes an object identifiable. By modifying this setting, control the dissimilarity in color and brightness in contrary parts of the video image.
 
@@ -106,7 +110,7 @@ Here, there are two options to select: The Color correction. It offers different
 ![open color correction filmora](https://images.wondershare.com/filmora/article-images/2022/08/open-color-correction-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step2Select the specific video portion
@@ -116,10 +120,6 @@ Here, there are two options to select: The Color correction. It offers different
 First, you need to select the specific video portion you want to change the color. Just click the scissor icon or what we call split tool. In this case, I split the 2nd video when I zoom in on the subject.
 
 ![split video into clips fx](https://images.wondershare.com/filmora/article-images/2022/08/split-video-into-clips-fx.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * And I selected the end portion of the video. After that, choose the part of the video.
 
@@ -140,7 +140,7 @@ Once you've finished correcting the video color, press Play and go over the whol
 ![preview and save video filmora](https://images.wondershare.com/filmora/article-images/2022/08/preview-and-save-video-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Using the Color Panel Window**
@@ -223,20 +223,16 @@ Overall, Color grading is the process of video editing to have an excellent look
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-mastering-snapchat-adjust-your-voice-fast-and-simple/"><u>[New] Mastering Snapchat Adjust Your Voice Fast and Simple</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/conversores-mais-populares-e-gratuitos-de-video-do-youtube-para-avi-top-7-recomendados-online/"><u>Conversores Mais Populares E Gratuitos De Vídeo Do Youtube Para Avi, Top 7 Recomendados Online</u></a></li>
-<li><a href="https://article-helps.techidaily.com/deciding-on-a-screen-projectors-and-tvs-at-the-forefront-of-4k-technology-for-2024/"><u>Deciding on a Screen Projectors & TVs at the Forefront of 4K Technology for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/efficient-guide-to-transforming-gifs-into-engaging-whatsapp-and-telegram-stickers-for-2024/"><u>Efficient Guide to Transforming GIFs Into Engaging WhatsApp & Telegram Stickers for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/elevate-video-editing-gratuitous-premiere-pro-tools-for-2024/"><u>Elevate Video Editing Gratuitous Premiere Pro Tools for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/embark-on-an-avatar-journey-crafting-characters-with-ease-and-style-for-2024/"><u>Embark on an Avatar Journey Crafting Characters with Ease and Style for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/from-amateurs-to-pros-transformative-steps-in-gopro-timelapses-for-2024/"><u>From Amateurs to Pros Transformative Steps in GoPro Timelapses for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/hacking-the-meme-game-master-kinemaster-skills-for-2024/"><u>Hacking the Meme Game Master KineMaster Skills for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Oppo Reno 11F 5G? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Google Pixel 8 Pro? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mastering-video-creation-filmoras-key-edits-for-lovers/"><u>Mastering Video Creation Filmora’s Key Edits for Lovers</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-secrets-of-selecting-best-fb-imagery/"><u>The Secrets of Selecting Best FB Imagery</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-12-pro-max-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone 12 Pro Max</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unraveling-electric-vehicles-bev-phev-fcev-and-hybrids-demystified/"><u>Unraveling Electric Vehicles: BEV, PHEV, FCEV & Hybrids Demystified</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-4k-video-conversion-mastery-how-to-download-in-mp4-format/"><u>Updated 2024 Approved 4K Video Conversion Mastery How to Download in MP4 Format</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-scene-reduction-unveiling-imovies-cropping-logic/"><u>[New] In 2024, Scene Reduction Unveiling iMovie's Cropping Logic</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-the-ultimate-method-for-iptv-screen-recordings/"><u>[New] In 2024, The Ultimate Method for IPTV Screen Recordings</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-ultimate-hook-creation-tool-for-online-titles/"><u>[New] In 2024, Ultimate Hook-Creation Tool for Online Titles</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-tailored-treasure-troves-the-ultimate-list-of-online-box-sellers/"><u>[New] Tailored Treasure Troves The Ultimate List of Online Box Sellers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-huawei-p10-a-deep-dive-into-its-artificial-intelligence-capabilities/"><u>[New] The Huawei P10 A Deep Dive Into Its Artificial Intelligence Capabilities</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-daybreaks-dream-10-most-exquisite-websites-for-hd-skies/"><u>[Updated] 2024 Approved Daybreak's Dream 10 Most Exquisite Websites for HD Skies</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-stream-titling-service/"><u>[Updated] In 2024, Stream Titling Service</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/free-online-mpg-to-mp3-converter-by-movavi-easy-and-reliable-file-format-transformation/"><u>Free Online MPG to MP3 Converter by Movavi: Easy and Reliable File Format Transformation</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-review-of-zte-blade-a3y-powerful-performance-meets-budget-pricing/"><u>In-Depth Review of ZTE Blade A3Y - Powerful Performance Meets Budget Pricing</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-instructions-to-download-and-update-canons-mg3022-printer-drivers-effectively/"><u>Step-by-Step Instructions to Download and Update Canon's MG3022 Printer Drivers Effectively</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Secrets to Subtle Sound Diminishment in Lumafusion for 2024"
-date: 2024-12-02T00:19:45.950Z
-updated: 2024-12-04T21:16:12.240Z
+date: 2024-12-04T22:08:14.525Z
+updated: 2024-12-10T21:57:50.264Z
 tags: 
   - screen-recording
   - ai video
@@ -39,13 +39,13 @@ Step2 LumaFusion allows for the automated synchronization of up to 12 camera sou
 
 ![edit sources luma fusion](https://images.wondershare.com/filmora/article-images/2022/07/edit-sources-luma-fusion.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 From the choices, choose the Cross Dissolve (Fade) transition. The transition should be placed at the very end of your music channel timeline. Tap on the Help & Settings menu to do this action. Look for Transition under the Settings menu and edit it to the appropriate duration. If you do this, your transition won't take effect until you add it again.
 
 ![fade audio in luma fusion](https://images.wondershare.com/filmora/article-images/2022/07/fade-audio-in-luma-fusion.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Beyond simple editing, LumaFusion excels in enhancing projects with a wide variety of built-in effects, transitions, titles, and color correction. It also has a limited (but excellent) collection of royalty-free music. Finally, LumaFusion Project Packages are a terrific solution to regularly backup a project for security or to complete altering it. After choosing Export, choose the Project Package from the list.
 
@@ -71,19 +71,11 @@ Drag and drop your sound recordings from the media library to the timeline at th
 
 ![import audios to fade](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step3 Apply Fade Effects
 
 The fade-in audio button inside your audio file may be seen when you just hover over the audio file within the timeline and look for the white circle filled with pink hue at the beginning and finish of your audio file. On the other hand, to choose the fade-out audio, click and drag the pink circle that appears on the opposite end of the audio file in the timeline that you have chosen to fade out the music file.
 
 ![apply fade effects](https://images.wondershare.com/filmora/guide/add-fade-in-fade-out-markers-timeline.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Step4 Share and export
 
@@ -91,19 +83,27 @@ After finishing the method for editing audio in Filmora, click the Export button
 
 In that window, you can select the MP3 format in the format customization box to continue with storing your file to your system. After making any necessary adjustments to the audio file, click the Export button below, which will ultimately direct you to the area on your PC where you want to store the audio.
 
-## Part 3\. Related FAQs about LumaFusion
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Part 3\. Related FAQs about LumaFusion
 
 ### 1\. How do you fade in a title LumaFusion?
 
 Go to Clip Defaults to do that. You may change the Title and Transition lengths here. Check to check whether the updated defaults have been implemented by adding a new title or transition after making the necessary modifications. By cursorily browsing the title in the browser, you can get a preview.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. How do you do transitions in LumaFusion?
 
 There are several eye-catching transitions included with LumaFusion. The transition may simply be dragged into the timeline and placed between the two pertinent segments. You may modify the duration of it after it's on the timeline in the same way that you would any other clip. Simply choose Transitions from the Sources box, that's it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. How to you split audio and video in LumaFusion?
 
@@ -135,23 +135,23 @@ After finishing the method for editing audio in Filmora, click the Export button
 
 In that window, you can select the MP3 format in the format customization box to continue with storing your file to your system. After making any necessary adjustments to the audio file, click the Export button below, which will ultimately direct you to the area on your PC where you want to store the audio.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3\. Related FAQs about LumaFusion
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. How do you fade in a title LumaFusion?
 
 Go to Clip Defaults to do that. You may change the Title and Transition lengths here. Check to check whether the updated defaults have been implemented by adding a new title or transition after making the necessary modifications. By cursorily browsing the title in the browser, you can get a preview.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. How do you do transitions in LumaFusion?
 
 There are several eye-catching transitions included with LumaFusion. The transition may simply be dragged into the timeline and placed between the two pertinent segments. You may modify the duration of it after it's on the timeline in the same way that you would any other clip. Simply choose Transitions from the Sources box, that's it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. How to you split audio and video in LumaFusion?
 
@@ -181,18 +181,24 @@ Within the timeline, tap anywhere and move the mouse left or right to divide a c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-m1-pro-and-m1-max-a-comparative-insight-into-apples-latest-chips/"><u>[New] M1 Pro and M1 Max - A Comparative Insight Into Apple's Latest Chips</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-top-3-tactics-converting-pins-to-audio-clips/"><u>[New] Top 3 Tactics Converting Pins to Audio Clips</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-uncovering-inexpensive-deals-for-your-gopro-camera-for-2024/"><u>[New] Uncovering Inexpensive Deals for Your GoPro Camera for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-aerial-shooting-essentials-for-2024/"><u>[Updated] Aerial Shooting Essentials for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-chrome-os-talk-modifiers-selecting-the-top-5-cloud-speech-services/"><u>2024 Approved Chrome OS Talk Modifiers Selecting the Top 5 Cloud Speech Services</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-embrace-digital-convenience-top-30-free-high-capacity-cloud-storage-choices-1tbplus/"><u>2024 Approved Embrace Digital Convenience Top 30 Free, High-Capacity Cloud Storage Choices (1TB+)</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-enhance-your-workspace-best-8-macbook-wallpapers/"><u>2024 Approved Enhance Your Workspace Best 8 MacBook Wallpapers</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-masterpieces-come-to-life-with-top-photo-frame-tools/"><u>2024 Approved Masterpieces Come to Life with Top Photo Frame Tools</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-the-artisans-guide-mastering-gopro-video-editing/"><u>2024 Approved The Artisan's Guide Mastering GoPro Video Editing</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-adeptness-at-mobile-app-development-for-luts/"><u>In 2024, Adeptness at Mobile App Development for LUTs</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-efficient-editing-for-quick-youtube-content/"><u>In 2024, Efficient Editing for Quick YouTube Content</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-oneplus-12-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your OnePlus 12 Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/launch-free-dvd-playback-capabilities-on-windowsmac-laptops-for-2024/"><u>Launch Free DVD Playback Capabilities on Windows/Mac Laptops for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-effortless-avi-to-gif-migration-with-filmora-on-windows-and-macos-devices/"><u>[New] 2024 Approved Effortless AVI to GIF Migration with Filmora on Windows & macOS Devices</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-navigating-the-nuances-of-simplified-live-streaming/"><u>[New] 2024 Approved Navigating the Nuances of Simplified Live Streaming</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-step-up-your-iphones-selfie-game-with-these-best-free-app-tools/"><u>[New] 2024 Approved Step-Up Your iPhone's Selfie Game with These Best Free App Tools</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-crafting-real-world-stories-an-insight-into-documentary-screenplay-writing/"><u>[New] Crafting Real World Stories An Insight Into Documentary Screenplay Writing</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-remove-a-background-in-affinity-photo/"><u>[New] In 2024, Remove a Background in Affinity Photo</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-the-roadmap-for-effective-advertising-on-facebook/"><u>[New] In 2024, The Roadmap for Effective Advertising on Facebook</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-premier-video-editing-apps-for-the-gopro-community/"><u>[New] Premier Video Editing Apps for the GoPro Community</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-expert-reviews-find-the-best-8-5k-computer-displays/"><u>[Updated] 2024 Approved Expert Reviews - Find the Best 8 5K Computer Displays</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-the-ultimate-guide-to-vivacuts-video-editing-features/"><u>[Updated] 2024 Approved The Ultimate Guide to VivaCut's Video Editing Features</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-through-virtual-lenses-a-historical-view/"><u>[Updated] 2024 Approved Through Virtual Lenses A Historical View</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-crafting-cinematic-memories-with-music/"><u>[Updated] Crafting Cinematic Memories with Music</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-perfecting-onscreen-image-clarity-and-detail/"><u>[Updated] In 2024, Perfecting Onscreen Image Clarity and Detail</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-unveiling-the-power-of-slug-lines-for-2024/"><u>[Updated] Unveiling the Power of Slug Lines for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/enhance-your-live-sessions-with-manycam-advanced-virtual-camcorder-for-seamless-online-presentations/"><u>Enhance Your Live Sessions with ManyCam - Advanced Virtual Camcorder for Seamless Online Presentations</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/improvements-in-apples-independent-repair-initiative-what-you-need-to-know/"><u>Improvements in Apple's Independent Repair Initiative: What You Need to Know</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-test-of-razer-portal-optimizing-wi-fi-speeds-for-serious-gamers/"><u>The Ultimate Test of Razer Portal: Optimizing Wi-Fi Speeds for Serious Gamers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbelievable-deal-save-nearly-300-on-the-latest-msi-gaming-monitor-at-newegg-detailed-review/"><u>Unbelievable Deal: Save Nearly $300 on the Latest MSI Gaming Monitor at Newegg - Detailed Review</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210820531-9781644846155-yes-god-volume-2-mens-edition/"><u>Yes, God! Volume 2 Men's Edition | Free Book</u></a></li>
 </ul></div>
 

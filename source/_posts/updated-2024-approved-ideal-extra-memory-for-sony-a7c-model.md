@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Ideal Extra Memory for Sony A7C Model\""
-date: 2024-11-30T00:07:24.784Z
-updated: 2024-12-05T01:49:21.101Z
+date: 2024-12-06T22:02:46.577Z
+updated: 2024-12-10T19:15:43.406Z
 tags: 
   - screen-recording
   - ai video
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/8eb0a52f331cadec1455be55279efe68c9588c114
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to choose the right memory card for your Sony A7S II
@@ -77,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/8eb0a52f331cadec1455be55279efe68c9588c114
 * The SD cards are small sized, compact units so whether you carry a 64GB card in your pocket or choose a 128GB package, none of these are going to put additional weight on your pocket.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Memory Cards for Sony A7S II
@@ -121,7 +121,7 @@ thumbnail: https://thmb.techidaily.com/8eb0a52f331cadec1455be55279efe68c9588c114
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -149,16 +149,17 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-how-to-stream-in-hd-1080p-on-facebook/"><u>[New] How to Stream in HD 1080P on Facebook?</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-video-capture-pro-for-windows-10-ultimate-quality-for-2024/"><u>[Updated] Video Capture Pro for Windows 10 - Ultimate Quality for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/elevate-your-visual-content-a-guide-to-videoleap-zooming/"><u>Elevate Your Visual Content A Guide to Videoleap Zooming</u></a></li>
-<li><a href="https://article-helps.techidaily.com/elevate-your-visual-storytelling-ios-and-androids-best-image-stickers-for-2024/"><u>Elevate Your Visual Storytelling IOS & Android's Best Image Stickers for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/enhance-video-with-pre-made-tracks-in-premiere-pro-for-2024/"><u>Enhance Video With Pre-Made Tracks in Premiere Pro for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebooks-insight-time-off-for-teens-from-instagram-usage/"><u>Facebook's Insight: Time Off for Teens From Instagram Usage</u></a></li>
-<li><a href="https://article-helps.techidaily.com/fine-tuning-your-audacity-recordings/"><u>Fine-Tuning Your Audacity Recordings</u></a></li>
-<li><a href="https://article-helps.techidaily.com/from-bright-to-deep-premiere-pro-magic/"><u>From Bright to Deep Premiere Pro Magic</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-the-mystery-behind-sudden-car-sound-system-breakdowns/"><u>Solving the Mystery Behind Sudden Car Sound System Breakdowns</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/top-5-car-locator-apps-for-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>Top 5 Car Locator Apps for Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://win-trending.techidaily.com/wie-man-ein-effizientes-onenote-backup-fur-windows-11-erstellt-und-seine-notizen-wiederherstellt/"><u>Wie Man Ein Effizientes OneNote-Backup Für Windows 11 Erstellt Und Seine Notizen Wiederherstellt</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-kickstarting-your-digital-voice-the-complete-process-of-starting-a-youtube-chanel/"><u>[New] Kickstarting Your Digital Voice The Complete Process of Starting a YouTube Chanel</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-reclaim-inaccessible-watch-icon/"><u>[New] Reclaim Inaccessible Watch Icon</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-unleashing-humor-the-kapwing-meme-builder-way/"><u>[Updated] 2024 Approved Unleashing Humor The Kapwing Meme Builder Way</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-unveiling-the-secrets-of-m1-max-clips/"><u>[Updated] 2024 Approved Unveiling the Secrets of M1 Max Clips</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-effortless-angles-and-merge-with-top-android-video-tools/"><u>[Updated] Effortless Angles & Merge with Top Android Video Tools</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-capture-breathtaking-shots-for-fb-livestreaming-with-dji/"><u>[Updated] In 2024, Capture Breathtaking Shots for FB Livestreaming with DJI</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-drone-for-sale-best-drones-to-buy/"><u>[Updated] In 2024, Drone for Sale - Best Drones to Buy</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-sound-windows-10-recorder-tips/"><u>[Updated] Mastering Sound Windows 10 Recorder Tips</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/complete-guide-to-restoring-factory-settings-on-your-printer-tips-from-yl-computing/"><u>Complete Guide to Restoring Factory Settings on Your Printer - Tips From YL Computing</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-lively-captions-how-to-add-motion-to-instagram-posts/"><u>In 2024, Lively Captions How to Add Motion to Instagram Posts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-the-power-of-montage-in-digital-media/"><u>In 2024, Unlock the Power of Montage in Digital Media</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/quick-launch-issue-resolved-troubleshooting-when-iphones-are-invisible-to-fonebackup/"><u>Quick Launch Issue Resolved: Troubleshooting When iPhones Are Invisible to FoneBackup</u></a></li>
 </ul></div>
 

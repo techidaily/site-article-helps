@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Season's Finest Ice Artistry - 2022 Highlights\""
-date: 2024-12-01T17:29:57.294Z
-updated: 2024-12-05T02:55:50.089Z
+date: 2024-12-07T17:11:06.982Z
+updated: 2024-12-11T07:36:00.146Z
 tags: 
   - screen-recording
   - ai video
@@ -36,24 +36,28 @@ Nathan Chen got the combined score of 332.60 in short program and free skate com
 ![nathan chen skating](https://images.wondershare.com/filmora/article-images/nathan-chen-skating.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Nathan Chen of the United States reacts to winning the gold medal at the 2022 Beijing Winter Olympics. He successfully hit five quadruple jumps which helped him outshine others.
 
 ![nathan chen skating gold medal](https://images.wondershare.com/filmora/article-images/nathan-chen-skating-gold-medal.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Yuma Kagiyama of Japan reacts to become second to Nathan Chen of the United States. He receives a combined score of 310.05 points and wins the silver medal at the 2022 Beijing Winter Olympics.
 
 ![yuma kagiyama](https://images.wondershare.com/filmora/article-images/yuma-kagiyama.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Shoma Uno of Japan won the bronze medal with a combined score of 293 points and he has become the second Japanese to win a medal at the 2022 Beijing Winter Olympics.
 
 ![shoma uno](https://images.wondershare.com/filmora/article-images/shoma-uno.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Nathan Chen successful triumph has been four years in the making and it is a perfect combination of seven perfect skating minutes. Back at 2018 Olympics, he botched and ended with disappointment. Therefore, Olympics Games Beijing2022 has been redemption for America's best male skater.
 
@@ -64,7 +68,7 @@ Even though Nathan Chen finished first for men's short program of the team event
 ![russian olympic committee athletes](https://images.wondershare.com/filmora/article-images/russian-olympic-committee-athletes.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Russian Olympic Committee athletes won the gold medal at team event by a margin of 9 points with the combined score of 74\. United States won the silver medal with a combined score of 65 points.
@@ -99,10 +103,6 @@ Step 3: Go to Import > Import with Instant Cutter Tool. It is time to import all
 
 ![filmora edit videos](https://images.wondershare.com/filmora/article-images/edit-recordings-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 4: You need to add all imported media files to Video Timeline while you should add background music or voiceover to the Audio Timeline.
 
 Step 5: Select individual or multiple slides and add Transitions, Effects, Titles and Elements.
@@ -110,7 +110,7 @@ Step 5: Select individual or multiple slides and add Transitions, Effects, Title
 Step 6: When everything is done, click on Export to save the video and share anywhere you want.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -136,18 +136,20 @@ Figure skating is undoubtedly one of the most followed sport events in the Winte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-downloading-vimeo-media-direct-conversion-to-mp3-format/"><u>[New] In 2024, Downloading Vimeo Media Direct Conversion to MP3 Format</u></a></li>
-<li><a href="https://article-helps.techidaily.com/discover-your-future-with-window-11s-innovative-creations-for-2024/"><u>Discover Your Future with Window 11'S Innovative Creations for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/elevate-your-media-creation-skills-with-windows-11-tips/"><u>Elevate Your Media Creation Skills with Windows 11 Tips</u></a></li>
-<li><a href="https://article-helps.techidaily.com/enhance-accessibility-with-top-free-text-conversion-software-for-macs-for-2024/"><u>Enhance Accessibility with Top Free Text Conversion Software for Macs for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/figure-skating-highlights-2022-for-2024/"><u>Figure Skating Highlights 2022 for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fix-a-halted-ios-update-effortlessly-in-just-6-steps/"><u>Fix a Halted iOS Update Effortlessly in Just 6 Steps</u></a></li>
-<li><a href="https://article-helps.techidaily.com/flip-shift-and-merge-videos-for-professional-android-results-for-2024/"><u>Flip, Shift & Merge Videos for Professional Android Results for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/freescape-extraction-revisited-a-look-at-the-latest-update-for-2024/"><u>Freescape Extraction Revisited A Look at the Latest Update for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/hp-victus-15-laptop-now-discounted-by-350-at-best-buy-exclusive-labor-day-sale-offer-on-zdnet/"><u>HP Victus 15 Laptop Now Discounted by $350 at Best Buy: Exclusive Labor Day Sale Offer on ZDNet</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-itel-p55-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Itel P55 to iPhone | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-precision-recording-of-skype-calls-via-obs-network/"><u>In 2024, Precision Recording of Skype Calls via OBS Network</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/maximizing-visual-impact-how-to-display-wide-photos-as-complete-images-on-instagram/"><u>Maximizing Visual Impact: How to Display Wide Photos as Complete Images on Instagram</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-8-best-timecode-calculator-to-use-onlineiphoneandroid-for-2024/"><u>New 8 Best Timecode Calculator to Use (Online/iPhone/Android) for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-champion-complimentary-timer-tech/"><u>[New] Champion Complimentary Timer Tech</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-haul-vids-creation-and-editing-basics/"><u>[New] Mastering Haul Vids Creation & Editing Basics</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-art-of-perfection-in-depth-tutorial-on-utilizing-photoshops-background-eraser-tool-for-2024/"><u>[New] The Art of Perfection In-Depth Tutorial on Utilizing Photoshop's Background Eraser Tool for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-whats-grabbing-twitter-users-attention/"><u>[New] What's Grabbing Twitter Users' Attention</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-securing-success-in-win11-conferences-via-zoom/"><u>[Updated] 2024 Approved Securing Success in Win11 Conferences via Zoom</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-space-saver-protocols-premium-storage-reviewed/"><u>[Updated] 2024 Approved Space Saver Protocols Premium Storage Reviewed</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-haven-for-harmonious-hits-download-classics-now/"><u>[Updated] Haven for Harmonious Hits Download Classics Now</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-proven-methods-for-zooid-creation/"><u>[Updated] Proven Methods for Zooid Creation</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-auditory-anatomy-understanding-video-audio-for-ig-feeds/"><u>2024 Approved Auditory Anatomy Understanding Video Audio for IG Feeds</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/canva-tutorial-for-flawless-image-border-clearance-for-2024/"><u>Canva Tutorial for Flawless Image Border Clearance for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/profit-power-the-secret-of-successful-youtube-marketing-and-500plus-for-2024/"><u>Gain Profit Power The Secret of Successful Youtube Marketing & 500+ for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-get-and-set-up-official-dell-g15-driver-software-for-your-pc/"><u>How to Get and Set Up Official Dell G15 Driver Software for Your PC</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-deciphering-the-process-of-bulk-downloads-from-tiktoks-treasure-trove/"><u>In 2024, Deciphering the Process of Bulk Downloads From TikTok's Treasure Trove</u></a></li>
+<li><a href="https://article-helps.techidaily.com/progressive-procedure-masterful-method-with-applewatch/"><u>Progressive Procedure Masterful Method with AppleWatch</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/tips-for-risk-free-youtube-video-mp4-downloading/"><u>Tips for Risk-Free YouTube Video MP4 Downloading</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Attenuating Audio Gradually in FL Projects\""
-date: 2024-08-27T15:11:31.111Z
-updated: 2024-08-28T15:11:31.111Z
+date: 2024-12-07T23:46:29.957Z
+updated: 2024-12-11T03:31:45.000Z
 tags: 
   - screen-recording
   - ai video
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/e73bb44e853b64ea13a3dc6d94705befdc354ca8d
 Fruity loop studio, also known as FL Studio is a digital audio workstation (DAW) that is one of the best platforms for those who want to learn music production. People who compose audio and produce music mostly prefer FL Studio. It does not matter whether you are an advanced learner in music production or not, you can quickly learn about this as a beginner also. You have to purchase for FL Studio. However, you can try the free trial to get an overview of FL Studio.
 
 There are many features available in FL Studio which help for recording purposes or live performance. You can record your audio to your mac or pc at very ease. It has become a powerful tool for music producers and DJs. Image-Line provides us with another crucial feature for creating professional music. It gives you a clear sound with HD sound for its 64-bit architecture. There is another feature called Delay compensation which creates a fantastic mix without overloading the CPU.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1\. Steps to Fade Audio with FL Studio
 
@@ -60,29 +64,32 @@ Step2 To fade audio in, you have to go to the audio setting. Then drag the point
 
 ![fade audio in](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 If you want your audio to fade out, again go to the audio setting. Then drag the pointer to the fade-out option. Now set your duration and see the fade-out effect.
 
 No matter which audio editing software, what matters is the learning outcome. Learn the features of different editing software and choose what is suitable for you. If you are a beginner, then watch some tutorial videos on YouTube and read some Quora on google. Those who are just interested in audio editing and want to learn more should first try out [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), whereas if you have a basic idea about FL Studio then you can definitely go for it.
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Related FAQs of FL Studio Audio Editing
 
 ### 1\. How to fade out FL studio mobile?
 
 If you want to fade out your audio in FL on your mobile phone, tap on the waveform icon which is present on the top left side of the audio. It will now open the drop-down menu where you can do automation and then select volume.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ### 2\. How to crescendo in FL studio?
 
 If you want to do crescendo in FL Studio, you can apply certain automation on your volume slider and can use that for adding some dynamics. There is another way of doing this by manually changing all the notes’ velocities to the dynamics you want.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. What is declicking mode FL studio?
 
 Declicking is an option that helps to remove ‘Clicks’ in the beginning or end. But when it comes to FL Studio, the meaning is a bit different. If you need to cut a part of your audio in FL Studio and later there arises a jump between two parts. This is known as declicking mode in FL Studio.
@@ -94,8 +101,9 @@ Step1 The first thing you have to do is successfully install the Filmora softwar
 ![install filmora software](https://images.wondershare.com/filmora/guide/adjust-video-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Step2 To fade audio in, you have to go to the audio setting. Then drag the pointer to the fade-in option which is present on the right and then apply the duration.
 
 ![fade audio in](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
@@ -104,14 +112,12 @@ Step3 If you want your audio to fade out, again go to the audio setting. Then dr
 
 No matter which audio editing software, what matters is the learning outcome. Learn the features of different editing software and choose what is suitable for you. If you are a beginner, then watch some tutorial videos on YouTube and read some Quora on google. Those who are just interested in audio editing and want to learn more should first try out [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), whereas if you have a basic idea about FL Studio then you can definitely go for it.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Related FAQs of FL Studio Audio Editing
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. How to fade out FL studio mobile?
 
 If you want to fade out your audio in FL on your mobile phone, tap on the waveform icon which is present on the top left side of the audio. It will now open the drop-down menu where you can do automation and then select volume.
@@ -146,4 +152,23 @@ Declicking is an option that helps to remove ‘Clicks’ in the beginning or en
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-maximizing-image-excellence-zero-price-tag-for-2024/"><u>[New] Maximizing Image Excellence, Zero Price Tag for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-perfect-your-wedding-countdown-experience-with-these-top-apps-androidios/"><u>[New] Perfect Your Wedding Countdown Experience with These Top Apps (Android/iOS)</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-top-cinematographer-secrets-for-exceptional-visuals/"><u>[New] Top Cinematographer Secrets for Exceptional Visuals</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-daybreaks-dream-10-most-exquisite-websites-for-hd-skies/"><u>[Updated] 2024 Approved Daybreak's Dream 10 Most Exquisite Websites for HD Skies</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-best-boutique-online-portals-for-individualized-gift-artistry-for-2024/"><u>[Updated] Best Boutique Online Portals for Individualized Gift Artistry for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-how-to-effortlessly-blur-images-captured-by-iphones-4-methods/"><u>[Updated] How to Effortlessly Blur Images Captured by iPhones (4 Methods)</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-craft-laughs-eyedroppermemes/"><u>[Updated] In 2024, Craft Laughs EyeDropperMemes</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-innovate-with-windows-10s-newest-apps-and-games-for-2024/"><u>[Updated] Innovate with Windows 10'S Newest Apps and Games for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/erfahren-sie-uber-die-besten-video-editing-softwareoptionen-fur-benutzer-von-windows-11-und-10-geraten/"><u>Erfahren Sie Über Die Besten Video-Editing-Softwareoptionen Für Benutzer Von Windows 11 Und 10 Geräten</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-the-value-of-caixuns-75-inch-4k-android-tv-a-comprehensive-affordable-tech-review/"><u>Experience the Value of Caixun's 75 Inch 4K Android TV - A Comprehensive Affordable Tech Review!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-today-to-tomorrow-the-drone-evolution-story-for-2024/"><u>From Today to Tomorrow The Drone Evolution Story for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-apple-iphone-xs-max-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>In 2024, How to Bypass Apple iPhone XS Max Passcode Easily Video Inside | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-inside-polarrs-magic-box-the-ultimate-digital-image-enhancer/"><u>In 2024, Inside Polarr's Magic Box The Ultimate Digital Image Enhancer</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premier-platform-for-seminar-titles/"><u>In 2024, Premier Platform for Seminar Titles</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/iphone-12-showdown-how-apple-redefines-phone-innovation-in-its-newest-release/"><u>IPhone 12 Showdown: How Apple Redefines Phone Innovation in Its Newest Release</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/741499-9781101552520-the-reiki-manual/"><u>The Reiki Manual | Free Book</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  From Novice to Pro  Mastering Mac Preview Features\""
-date: 2024-11-28T23:57:54.681Z
-updated: 2024-12-05T00:51:23.346Z
+date: 2024-12-04T04:29:50.657Z
+updated: 2024-12-10T22:48:57.858Z
 tags: 
   - screen-recording
   - ai video
@@ -41,6 +41,10 @@ Being the default image editor for Mac, Apple tried to make the **Preview app** 
 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to View and Edit Photos in Preview on Mac
 
 As mentioned earlier, the **Preview app** is a default photo viewer on Mac that also has many editing tools. Therefore:
@@ -55,10 +59,6 @@ As mentioned earlier, the **Preview app** is a default photo viewer on Mac that 
 * Use the tools present on the standard toolbar at the top of the interface
 * Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Show Markup Tools in Preview on Mac
 
 Markup Tools gives easy access to the editing tools the **Preview app** has. By default, Markup Tools is kept hidden, but automatically becomes visible when you make some changes to the image. However, you can follow the process given below to manually show Markup Tools in Preview:
@@ -72,10 +72,6 @@ Click the **Show Markup Toolbar** icon present at the upper-right area to reveal
 Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup Toolbar**.
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Crop in Preview
 
@@ -106,7 +102,7 @@ Use the method explained above to open the photo in Preview.
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Add Text to Image in Preview
@@ -125,6 +121,10 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Remove Background in Preview
 
 As it is with some of the advanced image manipulation programs, even the **Preview app** allows you to remove background from a photo, and that too pretty easily. To get this done:
@@ -140,6 +140,10 @@ Once the background portion of the image gets selected (colored in red), without
 **Note:** Removing background requires the image to be in PNG format. If the photo you are working on is JPG, Preview prompts with a confirmation box asking your permission to convert the photo from JPG to PNG. You must allow this conversion in order to proceed with the background removal process.
 
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Combine Images into One
 
@@ -170,7 +174,7 @@ After opening an image, click **File** from the menu bar at the top, and click *
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Part 2: FAQs About Preview App on Mac
@@ -207,10 +211,6 @@ Choose a destination folder in the **Where** field, select your preferred format
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -236,24 +236,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-free-top-10-tiktok-ideas-to-make-your-videos-go-viral/"><u>[New] FREE Top 10 TikTok Ideas to Make Your Videos Go Viral</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-breakthrough-in-video-production-advanced-techniques-for-uploading-360-content-on-youtube/"><u>[New] In 2024, Breakthrough in Video Production Advanced Techniques for Uploading 360° Content on YouTube</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-indoor-brightness-boosted-by-external-radiance/"><u>[New] Indoor Brightness Boosted by External Radiance</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-starlight-and-storms-in-high-fidelity-hdr-sky-websites/"><u>[New] Starlight and Storms in High Fidelity HDR Sky Websites</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-mastering-your-camera-essential-tactics-for-hit-youtube-videos/"><u>[Updated] 2024 Approved Mastering Your Camera Essential Tactics for Hit YouTube Videos</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-conquer-youtube-with-creator-studio-a-comprehensive-guide/"><u>[Updated] Conquer YouTube with Creator Studio A Comprehensive Guide</u></a></li>
-<li><a href="https://win-best.techidaily.com/1-two-easy-ways-to-remove-edited-images-from-your-iphones-camera-roll/"><u>1. Two Easy Ways to Remove Edited Images From Your iPhone's Camera Roll</u></a></li>
-<li><a href="https://article-helps.techidaily.com/discover-the-best-10-top-video-translation-platforms-for-multilingual-professionals-for-2024/"><u>Discover the Best 10 Top Video Translation Platforms for Multilingual Professionals for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/discovering-xs-the-ultimate-100-i-action-movie-maker/"><u>Discovering XS The Ultimate 100 I Action Movie Maker</u></a></li>
-<li><a href="https://article-helps.techidaily.com/elite-tripods-the-best-8-for-4k-video-capture-for-2024/"><u>Elite Tripods The Best 8 for 4K Video Capture for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/enhance-the-listener-experience-advanced-techniques-for-audio-editing/"><u>Enhance the Listener Experience Advanced Techniques for Audio Editing</u></a></li>
-<li><a href="https://article-helps.techidaily.com/from-shoot-to-screen-mastering-360-degree-video-edits-using-premiere-pro-for-2024/"><u>From Shoot to Screen Mastering 360-Degree Video Edits Using Premiere Pro for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/from-single-shots-to-unified-visions-a-mosaic-story/"><u>From Single Shots to Unified Visions A Mosaic Story</u></a></li>
-<li><a href="https://article-helps.techidaily.com/from-still-shots-to-dynamic-visuals-using-ai-effects-for-2024/"><u>From Still Shots to Dynamic Visuals Using AI Effects for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/full-exploration-of-picsarts-new-features-for-2024/"><u>Full Exploration of PicsArt's New Features for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-hp-officejet-pro-69email-protected-free-downloads/"><u>Get Your HP Officejet Pro 69[Email Protected] - Free Downloads!</u></a></li>
-<li><a href="https://article-helps.techidaily.com/gopro-match-up-ultimate-buyers-analysis/"><u>Gopro Match-Up Ultimate Buyer's Analysis</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/harnessing-chatgpt-for-optimal-watchlists/"><u>Harnessing ChatGPT for Optimal Watchlists</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-best-ways-to-bypass-icloud-activation-lock-from-apple-iphone-11-proipadipod-by-drfone-ios/"><u>In 2024, Best Ways to Bypass iCloud Activation Lock from Apple iPhone 11 Pro/iPad/iPod</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-speedy-techniques-for-converting-srt-files-into-text-format/"><u>[New] 2024 Approved Speedy Techniques for Converting SRT Files Into Text Format</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-navigating-the-landscape-of-firefox-picture-in-picture/"><u>[New] In 2024, Navigating the Landscape of Firefox Picture-in-Picture</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/anking-top-10-budget-friendly-video-editing-apps-for-2024/"><u>[New] Ranking Top 10 Budget-Friendly Video Editing Apps for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-unlocking-sound-capture-on-windows-10-for-2024/"><u>[New] Unlocking Sound Capture on Windows 10 for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-the-ultimate-hdtv-showdown-selecting-the-best-8k-models/"><u>[Updated] 2024 Approved The Ultimate HDTV Showdown Selecting the Best 8K Models</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-essential-convertor-list-8-proven-sub-and-srt-solutions/"><u>[Updated] Essential Convertor List 8 Proven Sub and SRT Solutions</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-harmonys-choice-top-10-songs-that-say-yes/"><u>[Updated] Harmony's Choice Top 10 Songs That Say 'Yes!'</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-highest-quality-images-in-4k-with-these-cameras/"><u>[Updated] Highest Quality Images in 4K with These Cameras</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-asus-proart-pa-329q-a-deep-dive-into-high-resolution-monitoring/"><u>[Updated] In 2024, Asus ProArt PA 329Q A Deep Dive Into High-Resolution Monitoring</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-mastering-audio-switches-in-adobe-premiere-for-2024/"><u>[Updated] Mastering Audio Switches in Adobe Premiere for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-top-8-online-photo-montage-maker-for-2024/"><u>[Updated] Top 8 Online Photo Montage Maker for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ideal-sound-compilation-premium-download-locales/"><u>Ideal Sound Compilation Premium Download Locales</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-beneath-the-surface-instagrams-hidden-reality-for-viewers/"><u>In 2024, Beneath the Surface Instagram’s Hidden Reality for Viewers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/origin-app-wont-load-heres-how-to-fix-it/"><u>Origin App Won't Load? Here's How to Fix It!</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/top-13-gratis-audio-creation-tools-for-pc-and-mac-updated-list/"><u>Top 13 Gratis Audio Creation Tools for PC and Mac, Updated List</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/unlocking-your-pdfs-step-by-step-guide-to-bypassing-adobes-drm-protection/"><u>Unlocking Your PDFs: Step-by-Step Guide to Bypassing Adobe's DRM Protection</u></a></li>
+<li><a href="https://techidaily.com/will-samsung-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will Samsung play AVCHD mts files?</u></a></li>
 </ul></div>
 

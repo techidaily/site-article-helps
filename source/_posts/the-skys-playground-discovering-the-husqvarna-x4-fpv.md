@@ -1,7 +1,7 @@
 ---
 title: "\"The Sky's Playground  Discovering the Husqvarna X4 FPV\""
-date: 2024-11-28T01:27:31.126Z
-updated: 2024-12-04T21:16:21.278Z
+date: 2024-12-04T04:20:47.596Z
+updated: 2024-12-10T17:48:14.228Z
 tags: 
   - screen-recording
   - ai video
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/c7c73b7c4a7efc6c835802b5aee6775aac1b5aafc
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Pros and Cons
@@ -66,10 +66,6 @@ thumbnail: https://thmb.techidaily.com/c7c73b7c4a7efc6c835802b5aee6775aac1b5aafc
 #### Verdict
 
  Hubsan H105S X4 is one of the best drone unit with reasonable price range. It is simply the best package with all advanced features including built in GPS. Even if you are a beginner then you will find this drone a good starter.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Complete Review for Hubsan H501S X4
 
@@ -122,7 +118,7 @@ thumbnail: https://thmb.techidaily.com/c7c73b7c4a7efc6c835802b5aee6775aac1b5aafc
 ![hubsan h501S x4 controller](https://images.wondershare.com/filmora/article-images/hubsan-h501S-x4-controller.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Hubsan H501S X4 controller is designed with 4.3 LCD screen and it helps users to enjoy FPV camera operation with ease. This LCD screen can display all telemetry data for flights. It works on 5.8 GHz range to send video signals into MicroSD card whereas the controller itself works on 2.4 GHz frequency range.
@@ -132,7 +128,7 @@ thumbnail: https://thmb.techidaily.com/c7c73b7c4a7efc6c835802b5aee6775aac1b5aafc
 ![hubsan h501s x4 brushless motor](https://images.wondershare.com/filmora/article-images/hubsan-h501s-x4-brushless-motor.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Here is one interesting thing to know about Hubsan H501S, that is its brushless motor design. This motor is powerful enough with durable design so that users can enjoy uninterrupted flights for longer run.
@@ -142,7 +138,7 @@ thumbnail: https://thmb.techidaily.com/c7c73b7c4a7efc6c835802b5aee6775aac1b5aafc
 ![hubsan h501s x4 brushless camera](https://images.wondershare.com/filmora/article-images/hubsan-h501s-x4-brushless-camera.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you are in search of a drone with great camera setup then you will be impressed with Hubsan X4 results. It captures stills with 1080p resolution and live videos need 5.8 GHz frequency from controller and you can view them directly on 4.3” built in screen of controller unit. All photos and videos are directly saved into MicroSD card.
@@ -152,6 +148,10 @@ thumbnail: https://thmb.techidaily.com/c7c73b7c4a7efc6c835802b5aee6775aac1b5aafc
  Wide range of impressive features have been covered in Hubsan H501S X4 review above so that buyers can make best decision about whether it fits their needs or not. Are you a beginner in the drone world? Then you may need to learn few tactics before arranging your first flight. This specially designed drone unit can also be a good choice for gift to someone you really love. Update your opinion so that we can have discussions about what drones are suitable for your general needs. Also, prefer to bookmark our page so that you can easily go through regular updates about drones and their flying tips. Have a great time with your new drone.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -178,17 +178,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-launching-a-youtube-channel-key-pieces-of-equipment/"><u>[New] 2024 Approved Launching a YouTube Channel Key Pieces of Equipment</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-alternative-windows-filmmakers/"><u>[New] Alternative Windows Filmmakers</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-beginner-friendly-steps-to-record-your-mac-display/"><u>[New] In 2024, Beginner-Friendly Steps to Record Your Mac Display</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-musics-big-screen-facebooks-top-ten-vids/"><u>[Updated] 2024 Approved Music's Big Screen Facebook's Top Ten Vids</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-screen-record-wizard-for-win11-enthusiasts/"><u>[Updated] Screen Record Wizard for Win11 Enthusiasts</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210877672-9781088174555-2020-and-beyond-prophetic-breaking-news-2-of-4/"><u>2020 and Beyond Prophetic Breaking News - 2 of 4 | Free Book</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-beyond-basics-advanced-imaging-and-video-with-hero5-black/"><u>2024 Approved Beyond Basics Advanced Imaging & Video with Hero5 Black</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-discovering-why-filmora-captivates-your-heart/"><u>2024 Approved Discovering Why Filmora Captivates Your Heart</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-optimize-accessibility-top-free-speech-conversion-tools-for-macos/"><u>2024 Approved Optimize Accessibility Top Free Speech Conversion Tools for MacOS</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-the-definitive-selection-gopros-top-15-tripod-options/"><u>2024 Approved The Definitive Selection GoPro's Top 15 Tripod Options</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-timely-broadcasts-for-maximum-impact/"><u>In 2024, Timely Broadcasts for Maximum Impact</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210198298-9780760364215-love-spells/"><u>Love Spells | Free Book</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-facetune-photos-app-complete-review-and-guide/"><u>[New] 2024 Approved Facetune Photos App Complete Review and Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-capturing-the-illusion-iphone-tricks-for-reflection-photography-for-2024/"><u>[New] Capturing the Illusion IPhone Tricks for Reflection Photography for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-achieve-stunning-visual-impact-top-color-grading-tutorials/"><u>[New] In 2024, Achieve Stunning Visual Impact - Top Color Grading Tutorials</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-pristine-teaser-trailer-trove/"><u>[New] In 2024, Pristine Teaser Trailer Trove</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-the-brawlers-domain-vs-twitch-territory/"><u>[New] In 2024, The Brawler's Domain Vs. Twitch Territory</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-days-viewing-assessing-file-size-in-gb/"><u>[Updated] 2024 Approved Day's Viewing Assessing File Size in GB</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-screenmasters-unite/"><u>[Updated] 2024 Approved ScreenMasters Unite</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-embellish-photographic-canvas-with-outer-glow-effect-for-2024/"><u>[Updated] Embellish Photographic Canvas With Outer Glow Effect for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-addressing-low-resolution-facebook-media-downloads/"><u>[Updated] In 2024, Addressing Low-Resolution Facebook Media Downloads</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-step-into-the-future-metavisors-for-the-ultimate-experience/"><u>2024 Approved Step Into the Future Metavisors for the Ultimate Experience</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Tecno Pop 7 Pro? | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/streaming-success-implementing-green-screen-innovations-for-2024/"><u>Streaming Success Implementing Green Screen Innovations for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-itel-a60s-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Itel A60s Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-picks-for-streaming-cinema-classics-enjoy-films-for-free-on-any-device/"><u>Top Picks for Streaming Cinema Classics: Enjoy Films for Free on Any Device</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-instagram-how-it-works-and-why-people-love-it/"><u>Unveiling Instagram: How It Works and Why People Love It</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-how-to-remove-vocals-from-any-song-top-8-song-lyrics-removers/"><u>Updated How to Remove Vocals From Any Song Top 8 Song Lyrics Removers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/zooming-up-your-video-game-with-custom-filters-for-2024/"><u>Zooming Up Your Video Game with Custom Filters for 2024</u></a></li>
 </ul></div>
 
