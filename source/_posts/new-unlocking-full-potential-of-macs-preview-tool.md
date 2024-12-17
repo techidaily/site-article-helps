@@ -1,7 +1,7 @@
 ---
 title: "[New] Unlocking Full Potential of Mac's Preview Tool"
-date: 2024-08-27T15:03:57.552Z
-updated: 2024-08-28T15:03:57.552Z
+date: 2024-12-12T05:20:42.109Z
+updated: 2024-12-17T11:01:50.199Z
 tags: 
   - screen-recording
   - ai video
@@ -30,11 +30,19 @@ The **Preview app** is a built-in program in macOS, and works as a default viewe
 
 That said, the sections below explain **how to use Preview on Mac** for elementary picture editing like rotating, cropping, adding annotations, etc.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Use Preview to Edit Images \[Complete Guide\]
 
 Being the default image editor for Mac, Apple tried to make the **Preview app** as simple as possible. Therefore, modifying the photos in the program isn’t much complicated as compared to its competitors from different vendors.
 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to View and Edit Photos in Preview on Mac
 
@@ -51,8 +59,9 @@ As mentioned earlier, the **Preview app** is a default photo viewer on Mac that 
 * Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to Show Markup Tools in Preview on Mac
 
 Markup Tools gives easy access to the editing tools the **Preview app** has. By default, Markup Tools is kept hidden, but automatically becomes visible when you make some changes to the image. However, you can follow the process given below to manually show Markup Tools in Preview:
@@ -95,9 +104,6 @@ Use the method explained above to open the photo in Preview.
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to Add Text to Image in Preview
 
 The **Preview app** even lets you annotate the images with ease. To add text to a photo:
@@ -115,8 +121,9 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to Remove Background in Preview
 
 As it is with some of the advanced image manipulation programs, even the **Preview app** allows you to remove background from a photo, and that too pretty easily. To get this done:
@@ -133,9 +140,6 @@ Once the background portion of the image gets selected (colored in red), without
 
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### How to Combine Images into One
 
 This process is generally used to place an object present in one image over the background of the other photo. A good example could be to place a picture of a fish on to a second photo that has a sea or river. The **Preview app** lets you do this easily using the following steps:
@@ -164,9 +168,6 @@ After opening an image, click **File** from the menu bar at the top, and click *
 
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ### Part 2: FAQs About Preview App on Mac
 
 #### What is the Preview App?
@@ -202,13 +203,9 @@ Choose a destination folder in the **Where** field, select your preferred format
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -232,4 +229,26 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-diving-into-the-depths-of-hdr-with-asus-pa32u/"><u>[New] Diving Into the Depths of HDR with ASUS PA32U</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-taking-your-photo-skills-to-new-heights-creating-timelapse-footage-with-gopro-studio/"><u>[New] In 2024, Taking Your Photo Skills to New Heights Creating Timelapse Footage with GoPro Studio</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-streamlining-image-editing-luts-in-adobe-photoshop-cc/"><u>[New] Streamlining Image Editing LUTs in Adobe PhotoShop CC</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-essence-of-unaltered-audio-ffmpegs-precision/"><u>[New] The Essence of Unaltered Audio FFmpeg’s Precision</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-unlock-instagram-speed-mastering-video-and-likes/"><u>[New] Unlock Instagram Speed - Mastering Video and Likes</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-win11s-1-5-pick-for-budget-friendly-screen-capture-apps/"><u>[Updated] 2024 Approved Win11's #1-5 Pick for Budget-Friendly Screen Capture Apps</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-exploring-the-world-of-green-screens-a-beginners-visual-effect-guide-for-2024/"><u>[Updated] Exploring the World of Green Screens A Beginner’s Visual Effect Guide for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-marketing-mastery-the-unveil-way/"><u>[Updated] In 2024, Marketing Mastery The Unveil Way</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-tunetester-rethinking-dacast-for-2024/"><u>[Updated] TuneTester Rethinking DaCast for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-pioneering-a-dual-perspective-3-innovative-techniques-for-viewpoint-based-youtube-reactions/"><u>2024 Approved Pioneering a Dual Perspective 3 Innovative Techniques for Viewpoint-Based YouTube Reactions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/focus-and-frame-the-art-of-intimate-movie-filming/"><u>Focus & Frame The Art of Intimate Movie Filming</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-honor-x50-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Honor X50 Without Password | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-realme-c53-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Realme C53 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-stop-tower-of-fantasy-from-crashing-your-gaming-experience-on-windowspc/"><u>How to Stop 'Tower of Fantasy' From Crashing Your Gaming Experience on Windows/PC</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-editing-essentials-rectify-faded-iphone-hdr-with-4-key-techniques-in-premiere-pro/"><u>In 2024, [Editing Essentials] Rectify Faded iPhone HDR with 4 Key Techniques in Premiere Pro</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-accelerated-adventures-fastest-flash-games-on-devices/"><u>In 2024, Accelerated Adventures Fastest Flash Games on Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-case-for-and-against-chatgpt-plus/"><u>The Case for & Against ChatGPT Plus</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/the-epicurean-lens-techniques-for-delicious-content/"><u>The Epicurean Lens Techniques for Delicious Content</u></a></li>
+<li><a href="https://article-helps.techidaily.com/tricks-to-faster-periscope-live-feeds-for-2024/"><u>Tricks to Faster Periscope Live Feeds for 2024</u></a></li>
+</ul></div>
 

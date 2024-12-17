@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Understanding Syma X8C Sensor Technology"
-date: 2024-12-09T01:45:50.368Z
-updated: 2024-12-11T03:59:57.200Z
+date: 2024-12-10T09:17:53.492Z
+updated: 2024-12-16T16:53:29.426Z
 tags: 
   - screen-recording
   - ai video
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Pros and Cons of Syma X8C
@@ -65,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
  There are loads of pros as well as cons related Syma H8C device but they appear different to various kinds of users. Professionals may be worried about its camera quality whereas beginners will find its controls little complex. But in case if you need something at low price with all acceptable features then Syma H8C is really a good choice for your needs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Complete Review
@@ -87,7 +87,7 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
 ![syma vs phantom design](https://images.wondershare.com/filmora/article-images/syma-vs-phantom-design.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If we consider the appearance then it looks close to the Phantom drone but no doubt to say that few variations exists and they make it unique. The overall dimension of this drone unit is 20x20x6.5 whereas maximum weight goes up to 450 grams thus it cannot be called as a tiny drone. When weighted with camera and prop guards, then this unit has overall weight of 600 grams. This dimension and weight makes this drone much stable in air.
@@ -107,7 +107,7 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
 ![syma x8c controller](https://images.wondershare.com/filmora/article-images/syma-x8c-controller.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Controller or the transmitter of X8C device is small enough that fits perfectly in user’s hands. Construction is completed with ABS plastic material that leads to light weight structure and this controller makes use of 2.4GHz frequency band to send control signals towards drone in air. The best thing to know about Syma X8C is that it can cover the 100 meter range impressively.
@@ -125,7 +125,7 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -153,22 +153,20 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-crafting-soft-endings-dimming-down-music-tracks-in-premiere-pro/"><u>[New] 2024 Approved Crafting Soft Endings Dimming Down Music Tracks in Premiere Pro</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-diy-video-meme-guide-boost-your-posts-on-fb-and-instagram/"><u>[New] 2024 Approved DIY Video Meme Guide Boost Your Posts on FB & Instagram</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-android-and-ios-the-finest-virtual-experiences/"><u>[New] Android and iOS The Finest Virtual Experiences</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-exploring-the-dynamics-of-canon-timelapse-imagery/"><u>[New] Exploring the Dynamics of Canon Timelapse Imagery</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-influencing-minds-with-music-selection-for-movie-previews/"><u>[New] In 2024, Influencing Minds with Music Selection for Movie Previews</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/tepwise-guide-to-optimizing-youtube-tagging-techniques/"><u>[New] Stepwise Guide to Optimizing YouTube Tagging Techniques</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-the-complete-itunes-radio-downloading-blueprint/"><u>[New] The Complete iTunes Radio Downloading Blueprint</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-top-11-add-ons-for-the-dji-phantom-4-masterclass/"><u>[Updated] 2024 Approved Top 11 Add-Ons for the DJI Phantom 4 Masterclass</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-drone-photography-showdown-dji-spark-vs-hero6-black-for-2024/"><u>[Updated] Drone Photography Showdown DJI Spark Vs Hero6 Black for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-expert-list-superior-gaming-live-options-for-2024/"><u>[Updated] Expert List Superior Gaming Live Options for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/dive-into-color-management-with-ae-luts/"><u>Dive Into Color Management with AE LUTs</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/expert-picks-leading-antivirus-protection-reviewed/"><u>Expert Picks: Leading Antivirus Protection Reviewed</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-15-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone 15 Without iTunes</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-demystifying-best-hdr-cameras-for-professionals/"><u>In 2024, Demystifying Best HDR Cameras for Professionals</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Samsung Galaxy M34 | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/tablet-artistry-top-8-drawing-software-for-ipados/"><u>Tablet Artistry Top 8 Drawing Software for iPadOS</u></a></li>
-<li><a href="https://article-helps.techidaily.com/top-tier-steadicam-options-for-drone-video-production-for-2024/"><u>Top-Tier Steadicam Options for Drone Video Production for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-photoshop-sway-decrease-pivotal-or-superfluous/"><u>[New] 2024 Approved Photoshop Sway Decrease Pivotal or Superfluous?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-master-photo-editing-seamless-integration-of-timestamps/"><u>[New] In 2024, Master Photo Editing Seamless Integration of Timestamps</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-stepwise-quietening-routine-for-mixes/"><u>[New] In 2024, Stepwise Quietening Routine for Mixes</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-depth-theta-s-evaluation-overview-for-2024/"><u>[New] In-Depth Theta S Evaluation Overview for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-understanding-sns-hdr-pros-role-in-hdr-editing/"><u>[New] Understanding SNS HDR Pro's Role in HDR Editing</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-the-ultimate-guide-to-choosing-your-favorite-5-book-vtts/"><u>[Updated] 2024 Approved The Ultimate Guide to Choosing Your Favorite 5 Book VTTs</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-unbox-the-ultimate-experience-master-windows-pc-screen-capturing-and-editing/"><u>[Updated] 2024 Approved Unbox the Ultimate Experience Master Windows PC Screen Capturing and Editing</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-oppo-find-n3-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/how-to-generate-a-bootable-usb-image-on-windows-11-using-an-easy-download-tool/"><u>How to Generate a Bootable USB Image on Windows 11 Using an Easy Download Tool</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-from-iphone-12-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud from iPhone 12 Safe and Legal</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-oppo-f23-5g-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Oppo F23 5G FRP Without Computer</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-5-video-player-apps-fur-macos-integration-mit-apple-tv-fernbedienung-optimieren/"><u>Top 5 Video Player-Apps Für macOS: Integration Mit Apple TV-Fernbedienung Optimieren</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-htc-u23-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from HTC U23 Pro to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-9-drone-video-editing-software-for-different-level-for-2024/"><u>Top 9 Drone Video Editing Software for Different Level for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/unmatched-quality-the-premier-4k-mirrorless-choices-for-2024/"><u>Unmatched Quality The Premier 4K Mirrorless Choices for 2024</u></a></li>
 </ul></div>
 

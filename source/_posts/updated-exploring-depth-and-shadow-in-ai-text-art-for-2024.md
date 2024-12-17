@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Exploring Depth and Shadow in AI Text Art for 2024"
-date: 2024-08-27T15:07:28.597Z
-updated: 2024-08-28T15:07:28.597Z
+date: 2024-12-11T19:24:09.917Z
+updated: 2024-12-17T10:34:25.981Z
 tags: 
   - screen-recording
   - ai video
@@ -30,6 +30,10 @@ After you get the program, install it and follow the step-by-step instructions y
 
 Also, there are plenty of different ways to create 3D text effects in Adobe Illustrator. This tutorial will focus on explaining the easiest and quickest one. Just know that this doesn't mean the result will be wrong. Most methods yield the same results.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Create 3D Text Effects in Adobe Illustrator
 
 Now that you know what you're getting into, let's finally reveal the entire process. Just follow the steps and do as you see here.
@@ -43,6 +47,10 @@ Step2 Click on the **Type tool** and click anywhere on your blank canvas. Then, 
 Step3 Now, look at the bottom-right corner of the program. Find the **Font** settings and change your font type and size to anything you want.
 
 ![change font illustrator](https://images.wondershare.com/filmora/article-images/adobe-illustrator-font.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step4 Next, choose any color you want for your text from the panel on the screen's left side. Just remember to click on your text first before you start changing colors.
 
@@ -60,15 +68,16 @@ Step7 Click on the box icon on the right side of the screen and select **“Extr
 
 ![turn text into three d](https://images.wondershare.com/filmora/article-images/adobe-illustrator-panel.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step8 Now, all left to do is experiment with the settings in this panel and adjust how you want your 3D text to look. You can adjust its width, rotation, presets, angle, perspective, and so on. Just play around with the settings until you find your ideal result.
 
 ![three d illustrator settings](https://images.wondershare.com/filmora/article-images/adobe-illustrator-settings.png)
 
 Step9 Finally, it's time to export the image, and you're all done.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Best Alternative Way to Create 3D Text Animation
 
 You might not believe it, but there's an even more accessible and less expensive way to create 3D text effects. You can use [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Compared to Illustrator, Filmora is much better for beginners and more affordable.
@@ -80,8 +89,9 @@ You might not believe it, but there's an even more accessible and less expensive
 If you're just a beginner at video or photo editing, you want to use a more straightforward tool. Illustrator can get very challenging for complete beginners. But Filmora offers a more straightforward interface that still delivers the same professional results. Please read further and see how to realize it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to Create a 3D Text Effect In Filmora?
 
 The steps are simple. Just follow them precisely as you see here, and you won't have any problems.
@@ -92,16 +102,10 @@ Step2 Head to the **Titles** tab and search for the **“3D Illustration**” ti
 
 ![drag title to timeline](https://images.wondershare.com/filmora/guide/get-started-with-filmora-04.png)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 Step3 Double-click on the 3D title layer you dragged into the Timeline. When the settings panel opens, use all the boxes and slide bars to customize your 3D text any way you want. When you’re done customizing it, click on **OK.**
 
 ![edit text settings](https://images.wondershare.com/filmora/guide/win-motion-tracking-03.png)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 Step4 Finally, import a video in Filmora and drag it under the text into the Timeline. Choose any video or image you want to display underneath your 3D text. That’s it! Hit **Export,** and you’re all done. Congratulations on creating a 3D text effect in Filmora.
 
 If you want to learn more about Filmora’s fantastic features, please watch the video below to see what the latest version of Filmora 12 brings to you!
@@ -125,8 +129,9 @@ Step2 Head to the **Titles** tab and search for the **“3D Illustration**” ti
 ![drag title to timeline](https://images.wondershare.com/filmora/guide/get-started-with-filmora-04.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Step3 Double-click on the 3D title layer you dragged into the Timeline. When the settings panel opens, use all the boxes and slide bars to customize your 3D text any way you want. When you’re done customizing it, click on **OK.**
 
 ![edit text settings](https://images.wondershare.com/filmora/guide/win-motion-tracking-03.png)
@@ -136,8 +141,9 @@ Step4 Finally, import a video in Filmora and drag it under the text into the Tim
 If you want to learn more about Filmora’s fantastic features, please watch the video below to see what the latest version of Filmora 12 brings to you!
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 Both programs will get the job done if you use Adobe Illustrator or Filmora for your 3D text effect. The main difference is that it will be easier with Filmora. The choice is yours. Have fun!
@@ -164,4 +170,26 @@ Both programs will get the job done if you use Adobe Illustrator or Filmora for 
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-cutting-edge-5-online-video-capture-applications/"><u>[New] 2024 Approved Cutting-Edge 5 Online Video Capture Applications</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-text-animations-unleashed-try-these-14-dynamic-showcases/"><u>[New] 2024 Approved Text Animations Unleashed Try These 14 Dynamic Showcases</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-generate-10-official-travel-ready-passport-images-no-money-down/"><u>[New] In 2024, Generate 10 Official Travel-Ready Passport Images, No Money Down</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-optimal-4k-player-picks-best-8-free-cross-platform-compatible-for-2024/"><u>[New] Optimal 4K Player Picks Best 8 FREE, Cross-Platform Compatible for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-instagram-economics-a-detailed-blueprint-for-profit/"><u>[Updated] 2024 Approved Instagram Economics A Detailed Blueprint for Profit</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-seamless-web-browsing-on-edge-with-picture-in-picture-mode/"><u>[Updated] 2024 Approved Seamless Web Browsing on Edge with Picture-in-Picture Mode</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-iconic-quests-and-thrills-a-curated-list-of-classics/"><u>[Updated] Iconic Quests & Thrills A Curated List of Classics</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-quick-steps-to-proficient-gif-design/"><u>[Updated] In 2024, Quick Steps to Proficient GIF Design</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-unveiling-hand-trackings-evolution-and-practice/"><u>[Updated] In 2024, Unveiling Hand Tracking's Evolution and Practice</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-premiere-pro-rapid-transitions-for-2024/"><u>[Updated] Premiere Pro Rapid Transitions for 2024</u></a></li>
+<li><a href="https://win-studio.techidaily.com/0xc000021a/"><u>0XC000021A エラーに悩まされている方へ、ステップバイステップで解決策</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-step-by-step-process-in-finding-the-best-protective-phone-casing/"><u>A Step-by-Step Process in Finding the Best Protective Phone Casing</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-turbo-speed-photo-browser-for-windows-10/"><u>In 2024, Turbo Speed Photo Browser for Windows 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722970672290-insignia-gaming-consoles-ultimate-toolkit-hdmi-to-lan-adapter-driver-for-xbox-available-now/"><u>Insignia Gaming Console's Ultimate Toolkit: HDMI to LAN Adapter Driver for Xbox - Available Now</u></a></li>
+<li><a href="https://article-tips.techidaily.com/instant-transformation-gifs-becoming-stickers-across-discord-whatsapp-and-more-for-2024/"><u>Instant Transformation Gifs Becoming Stickers Across Discord, WhatsApp & More for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-troubleshooting-writing-errors-to-0x-referenced-memory-addresses/"><u>Resolved! Troubleshooting Writing Errors to 0X Referenced Memory Addresses</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-mastering-screen-capture-edits-across-pcs-macs-and-smartphones/"><u>Step-by-Step Guide: Mastering Screen Capture Edits Across PCs, Macs & Smartphones</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-essential-list-of-filmmaking-gear-for-newcomers-for-2024/"><u>The Essential List of Filmmaking Gear for Newcomers for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-undetected-shutdown-guide-for-win11-users/"><u>The Undetected Shutdown Guide for Win11 Users</u></a></li>
+</ul></div>
 

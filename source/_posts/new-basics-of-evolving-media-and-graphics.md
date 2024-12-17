@@ -1,7 +1,7 @@
 ---
 title: "[New] Basics of Evolving Media and Graphics"
-date: 2024-12-09T22:58:04.511Z
-updated: 2024-12-11T02:45:48.966Z
+date: 2024-12-14T01:21:47.038Z
+updated: 2024-12-17T00:47:57.225Z
 tags: 
   - screen-recording
   - ai video
@@ -26,7 +26,7 @@ If you're thinking, "What is motion graphics?" let me explain that they are a pa
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Motion Graphics
@@ -36,7 +36,7 @@ Motion graphics is a fantastic tool for presenting stories and mixing animation 
 Stunning motion graphics animation for brand apps and web platforms conveys a lot of information in a short, straightforward, aesthetically appealing film while showcasing complex images, thoughts, and concepts. As a result, it aids in quickly delivering a message and effortlessly grabbing and holding the audience's attention. Any field you choose, including business, marketing, IT solutions, the film industry, education, healthcare, social networks, or entertainment, can benefit from excellent animation design.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When to use Motion Graphics?
@@ -44,7 +44,7 @@ Stunning motion graphics animation for brand apps and web platforms conveys a lo
 The most pleasing motion graphics outline or emphasize information while demonstrating a point. When a narrative or plot is not required, motion graphics are employed. Motion graphic videos may simplify and make unforgettable your complicated services or goods. Motion graphics are mostly visual aids; hence they are excellent at explaining complex concepts through imagery.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to make Motion Graphics?
@@ -59,7 +59,7 @@ Motion graphics may be used in various situations to add life and humor to a pre
 4. Telling a Story \- you can use motion graphics to create a music video. Like other music videos, the illustrations tell a story that complements the song. It's an exciting concept highlighting the different contexts motion graphics can use. You can use them to create an advertisement or even make a short film.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Benefits of Motion Graphics
@@ -69,7 +69,7 @@ Motion graphics may be used in various situations to add life and humor to a pre
 * Brand recognition is increased. Viewers may readily understand if complex images, concepts, and statistics are presented clearly, and excitingly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The use of Motion Graphics
@@ -132,22 +132,20 @@ Keep in mind that there is a lot of overlap between motion graphics and other fo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-capturing-the-world-in-hd-with-yis-4k-camera/"><u>[New] 2024 Approved Capturing the World in HD with YI's 4K Camera</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-unseen-smiles-hidden-glances-in-photos/"><u>[New] 2024 Approved Unseen Smiles, Hidden Glances in Photos</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-quietly-stream-youtube-on-iphone-and-android/"><u>[New] In 2024, Quietly Stream YouTube on iPhone & Android</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-speedy-skimmer-of-windows-imagery-for-2024/"><u>[Updated] Speedy Skimmer of Windows Imagery for 2024</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/fixing-invalid-directory-name-issues-on-windows-11-effective-strategies/"><u>Fixing 'Invalid Directory Name' Issues on Windows 11 (Effective Strategies)</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/creator-to-critic-evaluating-video-value-across-platforms/"><u>From Creator to Critic Evaluating Video Value Across Platforms</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-to-restoring-the-d3dx-library-fixing-missing-d3dx928dll-issues/"><u>Guide to Restoring the D3DX Library: Fixing Missing d3dx9_28.dll Issues</u></a></li>
-<li><a href="https://article-helps.techidaily.com/hours-to-gigabytes-a-guide-for-filmmakers-for-2024/"><u>Hours to Gigabytes A Guide for Filmmakers for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-a-comprehensive-guide-to-penning-appealing-vlog-narratives/"><u>In 2024, A Comprehensive Guide to Penning Appealing Vlog Narratives</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-navigating-the-acquisition-of-stock-video-backgrounds/"><u>In 2024, Navigating the Acquisition of Stock Video Backgrounds</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/master-the-art-of-digital-cleanup-invaluable-lessons-and-articles-by-astral-advisors/"><u>Master the Art of Digital Cleanup: Invaluable Lessons & Articles by Astral Advisors</u></a></li>
-<li><a href="https://article-helps.techidaily.com/precision-editing-embedding-times-in-video-posts/"><u>Precision Editing Embedding Times in Video Posts</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solved-common-obstacles-preventing-successful-stardew-valley-startups/"><u>Solved! Common Obstacles Preventing Successful Stardew Valley Startups</u></a></li>
-<li><a href="https://article-helps.techidaily.com/standout-80s-visual-tricks-to-enhance-films/"><u>Standout 80S Visual Tricks to Enhance Films</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ring-textual-terminals-for-2024/"><u>Tailoring Textual Terminals for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/the-pinnacle-of-picture-quality-best-players-24/"><u>The Pinnacle of Picture Quality Best Players '24</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-apple-watch-savings-and-bargains-exclusive-offers-in-july-2024/"><u>Top Apple Watch Savings & Bargains: Exclusive Offers in July 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-immerse-in-pixel-worlds-the-best-pc-vr-playback-titles-compared/"><u>[New] 2024 Approved Immerse in Pixel Worlds The Best PC VR Playback Titles Compared</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-pro-filmmakers-guide-to-speedy-shot-techniques/"><u>[New] 2024 Approved Pro Filmmaker's Guide to Speedy Shot Techniques</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-4k-clarity-unleashed-an-intense-study-on-the-31mu97-b-monitor/"><u>[New] In 2024, 4K Clarity Unleashed - An Intense Study on the 31MU97-B Monitor</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-next-level-designers-post-acid-tools-explored/"><u>[New] Next-Level Designers Post-ACID Tools Explored</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-discover-the-joy-of-customized-messaging-downloading-and-tailoring-whatsapp-ringtones-on-mobile/"><u>[Updated] 2024 Approved Discover the Joy of Customized Messaging Downloading & Tailoring WhatsApp Ringtones on Mobile</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-tiktoks-anime-revolution-innovative-ideas-countdown/"><u>[Updated] 2024 Approved TikTok's Anime Revolution Innovative Ideas Countdown</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-leading-video-gear-top-cameras-for-stunning-musical-productions/"><u>[Updated] In 2024, Leading Video Gear Top Cameras for Stunning Musical Productions</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-serenade-selections-romantic-anthems-for-the-big-decision-for-2024/"><u>[Updated] Serenade Selections Romantic Anthems for The Big Decision for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-guide-to-kmplayer-on-macos-top-video-player-for-enjoying-ultra-hd-content/"><u>Comprehensive Guide to KMPlayer on macOS: Top Video Player for Enjoying Ultra HD Content</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-epson-wf-3620-driver-upgrade-compatible-with-multiple-windows-versions-including-windows-1087/"><u>Free Epson WF-3620 Driver Upgrade: Compatible with Multiple Windows Versions Including Windows 10/8/7</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-huawei-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Huawei Phone FRP Lock</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/leveraging-galaxys-potential-the-dex-connection-technique/"><u>Leveraging Galaxy's Potential: The DeX Connection Technique</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/memorial-day-deal-watch-all-your-beloved-series-on-netflix-using-a-roku-streaming-player-for-only-30/"><u>Memorial Day Deal: Watch All Your Beloved Series on Netflix Using a Roku Streaming Player for Only $30!</u></a></li>
+<li><a href="https://win11.techidaily.com/resolve-your-intel-unison-problems-with-these-steps/"><u>Resolve Your Intel Unison Problems with These Steps</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/tech-showdown-exploring-facial-detection-in-iphones-vs-samsungs-for-2024/"><u>Tech Showdown Exploring Facial Detection in iPhones Vs. Samsungs for 2024</u></a></li>
 </ul></div>
 

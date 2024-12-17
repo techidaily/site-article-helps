@@ -1,7 +1,7 @@
 ---
 title: "\"[New] LUTs Uncovered  Elevating the Quality of Digital Imagery\""
-date: 2024-12-06T18:24:14.989Z
-updated: 2024-12-10T23:15:36.409Z
+date: 2024-12-16T03:56:04.156Z
+updated: 2024-12-16T23:52:02.909Z
 tags: 
   - screen-recording
   - ai video
@@ -44,7 +44,7 @@ LUTs also aid in the organization of your post-production processes. You must kn
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How will LUTs change your photography?
@@ -59,6 +59,10 @@ Warm or cold tones and bold or washed-out styles are all options provided by the
 
 Photographers may now utilize the same techniques that film, and television editors have used for years to achieve the excellent new aesthetics seen in blockbusters. With quick LUT looks, you can now apply LUTs to your photographs to make your editing work stand out.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to use LUTs using Photoshop CC?
 
 LUTs come pre-installed with programs, but you may also purchase them online and add them to your software. You may even buy a look from your favorite film or television show. In Photoshop, LUTs are simple to apply. You can begin in Photoshop with the original photo, which is an image that was captured locally, unprocessed, and straight out of the camera.
@@ -66,10 +70,6 @@ LUTs come pre-installed with programs, but you may also purchase them online and
 1. Select the Adjustment Layer icon from the drop-down menu.
 
 ![how to use luts using Photoshop cc](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Choose Adjustment Layer
 
@@ -80,7 +80,7 @@ Choose Adjustment Layer
 ![how to use luts using Photoshop cc - load 3d lut](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 load 3d lut
@@ -91,16 +91,16 @@ load 3d lut
 
 LUTs come pre-installed in Photoshop, and you can use them as adjustment layers. As mentioned earlier, they'll alter the image's colors, and some of them will also alter the contrast. But what if you want to add LUTs? To add LUTs to Photoshop, you have two options. The first is really simple; all you have to do is discover the LUT and apply it to that specific project. The alternative is a little more difficult, but it enables you to access your LUTs at all times.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Here's the first method
 
 1. It would be best to unzip the LUT before using it in your project. This is relatively simple, and you may either use specialized software or the built-in unzipping utility in Windows.
 2. When discussing Photoshop, the project is typically an image, so go ahead and open it. Open a new one by pressing 'Ctrl+O' or importing something from your cloud.
 3. To do so, go to the 'Adjustments' tab and select the 'Color Lookup' button.
 4. Select the 'Load 3D LUT' button, then navigate to the directory where you unpacked the LUT files.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Here's the second one
 
@@ -119,7 +119,7 @@ Grow Together
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Closing Thoughts:
@@ -162,17 +162,20 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-the-ultimate-iphone-guide-to-water-reflected-imagery-for-2024/"><u>[New] The Ultimate iPhone Guide to Water-Reflected Imagery for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-enhancing-emotion-through-visual-tints-and-shades/"><u>[Updated] 2024 Approved Enhancing Emotion Through Visual Tints and Shades</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-epic-meme-designs-the-10-list-of-choice/"><u>[Updated] 2024 Approved Epic Meme Designs The #10 List of Choice</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-boost-interaction-with-these-4-effective-instagram-video-loops/"><u>[Updated] Boost Interaction with These 4 Effective Instagram Video Loops</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-from-conventional-to-cutting-edge-the-shift-from-rgb-to-srgb-for-2024/"><u>[Updated] From Conventional to Cutting-Edge The Shift From Rgb to Srgb for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-unlocking-creativity-a-guide-to-instagram-story-archiving/"><u>[Updated] In 2024, Unlocking Creativity A Guide to Instagram Story Archiving</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/4-quick-ways-to-transfer-contacts-from-apple-iphone-15-pro-to-iphone-withwithout-itunes-drfone-by-drfone-transfer-from-ios/"><u>4 Quick Ways to Transfer Contacts from Apple iPhone 15 Pro to iPhone With/Without iTunes | Dr.fone</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/how-to-access-and-enjoy-free-online-music-playlists-without-any-charge/"><u>How to Access & Enjoy Free Online Music Playlists Without Any Charge</u></a></li>
-<li><a href="https://article-helps.techidaily.com/merge-soundtracks-and-cinematography-in-premiere-pro/"><u>Merge Soundtracks and Cinematography in Premiere Pro</u></a></li>
-<li><a href="https://article-helps.techidaily.com/the-quickest-quads-2022-olympics-skate/"><u>The Quickest Quads 2022 Olympics Skate</u></a></li>
-<li><a href="https://fox-links.techidaily.com/the-volume-of-videos-on-a-64128gb-memory-bank/"><u>The Volume of Videos on a 64/128GB Memory Bank</u></a></li>
-<li><a href="https://win11.techidaily.com/unravel-cpu-overuse-system-stability-through-windows-rm-insights/"><u>Unravel CPU Overuse: System Stability Through Windows' RM Insights</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-discover-hassle-free-video-opener-templates/"><u>[New] 2024 Approved Discover Hassle-Free Video Opener Templates</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-pioneering-tools-to-embellish-photos-with-words/"><u>[New] 2024 Approved Pioneering Tools to Embellish Photos with Words</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-quick-tips-tiktok-age-authentication-for-2024/"><u>[New] Quick Tips TikTok Age Authentication for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-asus-proart-review-a-visual-spectacle-unveiled/"><u>[Updated] 2024 Approved ASUS ProArt Review A Visual Spectacle Unveiled</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-beyond-vimeo-a-compilation-of-premier-video-editors/"><u>[Updated] 2024 Approved Beyond Vimeo A Compilation of Premier Video Editors</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-ultimate-hd-upgrade-tool-windows-mac-and-online-conversion/"><u>[Updated] 2024 Approved Ultimate HD Upgrade Tool Windows, Mac & Online Conversion</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-fast-forward-freedom-in-snapchat-a-noobs-handbook/"><u>[Updated] In 2024, Fast-Forward Freedom in Snapchat A Noob’s Handbook</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-step-by-step-setting-up-your-first-xbox-record-session-for-2024/"><u>[Updated] Step-by-Step Setting Up Your First Xbox Record Session for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-honor-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Honor Phone Screen?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-much-video-can-64gb128gb-hold-in-2024/"><u>How Much Video Can 64GB/128GB Hold, In 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-12-pro-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 12 Pro to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-securing-your-audio-library-the-top-5-steps-for-internet-radio-storage/"><u>In 2024, Securing Your Audio Library The Top 5 Steps for Internet Radio Storage</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-top-5-ai-voice-generators-online-supports-all-browsers/"><u>New Top 5 AI Voice Generators Online (Supports All Browsers)</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-eliminate-pointer-shake-on-pcs/"><u>The Ultimate Guide to Eliminate Pointer Shake on PCs</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-save-money-now-the-4-most-reliable-sources-for-filmora-discounts/"><u>Updated In 2024, Save Money Now The 4 Most Reliable Sources for Filmora Discounts</u></a></li>
 </ul></div>
 

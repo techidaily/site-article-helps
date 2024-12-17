@@ -1,7 +1,7 @@
 ---
 title: "How to Shoot a Green Screen Video"
-date: 2024-12-04T20:58:40.684Z
-updated: 2024-12-10T19:55:23.759Z
+date: 2024-12-11T22:29:54.313Z
+updated: 2024-12-17T02:48:05.157Z
 tags: 
   - screen-recording
   - ai video
@@ -38,6 +38,10 @@ If you are wondering how to compositing the shot green screen video with your ma
 
 **Related:**[Resources for green screen effects](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5 Tips for shooting better green screen video
 
 We’ve figured out some useful green screen tricks, have fun and hope you’ll be more creative with the help of Filmora green screen video compositing software.
@@ -54,19 +58,11 @@ Don’t throw too much light onto the green background. That will create hotspot
 
 ![Lighting tips in shooting a Green Screen Video](https://images.wondershare.com/images/multimedia/video-editor/green-screen-lighting-tips.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Check out our picks of [the best lighting equipment for shooting videos](https://tools.techidaily.com/wondershare/filmora/download/)
 
 #### 2Camera tips in shooting a Green Screen Video
 
 ![Camera tips in shooting a Green Screen Video](https://images.wondershare.com/images/multimedia/video-editor/green-screen-mistake-6.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 When lighting your key surface, make sure the bounce light is not directed at the camera (as shown in the image above). For example, if your camera faces the key surface directly, set your lights at 45 degree angles to the key surface. This will ensure that the bounce light bounces toward the other light and not at the camera.
 
@@ -81,7 +77,7 @@ Looking for some best cameras for shooting green screen video? Check our picks o
 ![Clothing tips in shooting a Green Screen Video](https://images.wondershare.com/images/multimedia/video-editor/green-screen-mistake-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 There are some mistakes that you can avoid to help your green screen video look more professional and more realistic. Perhaps one of the simplest mistakes that many people make with green screen video shooting is actually wearing green clothing. If you are wearing clothing or clothing that has buttons or accents that are a similar color green as your selected background green, the image that you project onto the green screen in post-editing will also get picked up by these accents on your clothing or by the clothing itself. This is great if you want to cut off part of an actor's body, but not so professional if you are trying to make an actor appear in a realistic scene.
@@ -97,7 +93,7 @@ Wrinkles in your screen can actually lead to heavy shadows and distorted image q
 ![Motion blur problem in shooting a Green Screen Video](https://images.wondershare.com/images/multimedia/video-editor/green-screen-mistake-4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If you are planning on shooting a high action scene in front of a green screen with a camera that only has lower shutter speeds, you can run into real problems. When using a camera with a lower shutter speed consider doing action shots in slow motion or getting subjects to not make any sudden movements in front of the green screen. Motion blur from someone moving rapidly on camera in front of a green screen can really ruin the scene and ruin the realism of the scene. Alternately you could also consider renting a high shutter speed camera to avoid this motion blur if you do plan on shooting a lot of action scenes. Ultimately this is something that you will need to test for yourself before shooting a green screen video, so that you can get a feel for how much action your camera can handle with a green screen without motion blur.
@@ -110,10 +106,14 @@ Besides compositing chroma keying videos in Filmora, you can also[stabilize your
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -141,16 +141,16 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-excellent-series-of-animated-type-options/"><u>[New] Excellent Series of Animated Type Options</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-launching-a-youtube-series-focused-on-product-quality-insights/"><u>[New] In 2024, Launching a YouTube Series Focused on Product Quality Insights</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-optimizing-engagement-in-the-new-facebook-algorithms-era/"><u>[Updated] In 2024, Optimizing Engagement in the New Facebook Algorithms Era</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-step-by-step-enablingdisabling-picture-in-picture/"><u>[Updated] In 2024, Step by Step Enabling/Disabling Picture-in-Picture</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-investigating-the-realm-of-virtual-sticker-decoration-for-2024/"><u>[Updated] Investigating the Realm of Virtual Sticker Decoration for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-stepwise-guide-to-smoothing-out-audio-dynamics/"><u>[Updated] Stepwise Guide to Smoothing Out Audio Dynamics</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-swiftly-render-and-upload-videos-tips-for-speedy-youtube-submissions/"><u>[Updated] Swiftly Render & Upload Videos Tips for Speedy YouTube Submissions</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-android-tips-creating-stunning-slow-motion-videos/"><u>2024 Approved Android Tips Creating Stunning Slow Motion Videos</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-meizu-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Meizu</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bluetooth-struggles-top-tricks-for-seamless-pairing-with-windows-11-update-insights/"><u>Bluetooth Struggles? Top Tricks for Seamless Pairing with Windows 11 - Update Insights</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-secrets-of-success-in-capturing-breathtaking-gopro-time-lapse/"><u>In 2024, Secrets of Success in Capturing Breathtaking GoPro Time-Lapse</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-audiofromtwitsounds-instant-audio-download/"><u>[New] AudioFromTwitSounds Instant Audio Download</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-bringing-down-the-time-barrier-for-fastening-fb-video-content-for-2024/"><u>[New] Bringing Down the Time Barrier for Fastening FB Video Content for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-imagepuritymax-ultimate-eraser-for-clear-backgrounds/"><u>[New] In 2024, ImagePurityMax Ultimate Eraser for Clear Backgrounds</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-step-by-step-approach-to-mastering-the-steam-pro-controller-on-switch/"><u>[Updated] 2024 Approved Step-by-Step Approach to Mastering the Steam Pro Controller on Switch</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-bid-farewell-to-clutter-quick-and-easy-edits-on-large-drafters/"><u>[Updated] Bid Farewell to Clutter Quick & Easy Edits on Large Drafters</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-motorolas-genius-in-depth-review-of-z2-play-for-2024/"><u>[Updated] Motorola's Genius In-Depth Review of Z2 Play for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-melodic-sharing-safeguarded-by-insta-laws/"><u>2024 Approved Melodic Sharing Safeguarded by Insta Laws</u></a></li>
+<li><a href="https://article-helps.techidaily.com/how-to-post-a-picture-on-youtube-for-2024/"><u>How to Post a Picture on YouTube for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-gigabyte-wb867d-i-chipset-drivers-for-your-system/"><u>Latest Gigabyte WB867D-I Chipset Drivers for Your System</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/simple-steps-to-enjoying-hd-content-connecting-and-playing-dvds-on-universal-models-including-samsung-sony-and-lg-televisions/"><u>Simple Steps to Enjoying HD Content: Connecting and Playing DVDs on Universal Models (Including Samsung, Sony & LG Televisions)</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/techniques-for-streamlining-video-addition-to-youtube-playlists/"><u>Techniques for Streamlining Video Addition to YouTube Playlists</u></a></li>
 </ul></div>
 

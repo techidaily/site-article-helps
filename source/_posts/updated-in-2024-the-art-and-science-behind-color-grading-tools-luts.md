@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, The Art and Science Behind Color Grading Tools (LUTs)"
-date: 2024-12-05T23:56:45.562Z
-updated: 2024-12-11T00:10:22.231Z
+date: 2024-12-13T19:37:33.853Z
+updated: 2024-12-17T05:37:27.838Z
 tags: 
   - screen-recording
   - ai video
@@ -44,7 +44,7 @@ LUTs also aid in the organization of your post-production processes. You must kn
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How will LUTs change your photography?
@@ -58,10 +58,6 @@ LUTs assist you in applying a fresh color look to Raw or Jpg photos in seconds. 
 Warm or cold tones and bold or washed-out styles are all options provided by the LUTs.
 
 Photographers may now utilize the same techniques that film, and television editors have used for years to achieve the excellent new aesthetics seen in blockbusters. With quick LUT looks, you can now apply LUTs to your photographs to make your editing work stand out.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to use LUTs using Photoshop CC?
 
@@ -79,6 +75,10 @@ Choose Adjustment Layer
 
 ![how to use luts using Photoshop cc - load 3d lut](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 load 3d lut
 
 1. When you select one, you'll see how the color and tone of the image change.
@@ -88,7 +88,7 @@ load 3d lut
 LUTs come pre-installed in Photoshop, and you can use them as adjustment layers. As mentioned earlier, they'll alter the image's colors, and some of them will also alter the contrast. But what if you want to add LUTs? To add LUTs to Photoshop, you have two options. The first is really simple; all you have to do is discover the LUT and apply it to that specific project. The alternative is a little more difficult, but it enables you to access your LUTs at all times.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here's the first method
@@ -97,6 +97,10 @@ LUTs come pre-installed in Photoshop, and you can use them as adjustment layers.
 2. When discussing Photoshop, the project is typically an image, so go ahead and open it. Open a new one by pressing 'Ctrl+O' or importing something from your cloud.
 3. To do so, go to the 'Adjustments' tab and select the 'Color Lookup' button.
 4. Select the 'Load 3D LUT' button, then navigate to the directory where you unpacked the LUT files.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Here's the second one
 
@@ -115,7 +119,7 @@ Grow Together
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Closing Thoughts:
@@ -127,10 +131,6 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](#)
 
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Closing Thoughts:
 
@@ -162,17 +162,22 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-farm-tastic-fun-and-games-the-ultimate-agricompanion-titles/"><u>[New] 2024 Approved Farm-Tastic Fun & Games The Ultimate AgriCompanion Titles</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-unveiling-canvas-power-10-pro-editor-techniques/"><u>[New] 2024 Approved Unveiling Canva's Power 10 Pro Editor Techniques</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-excellent-unrestricted-pubg-visual-sequences/"><u>[New] Excellent Unrestricted PUBG Visual Sequences</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-how-to-find-your-comments-on-youtube/"><u>[New] How to Find Your Comments on YouTube?</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-share-with-impact-tiktok-videos-on-twitter/"><u>[New] Share with Impact TikTok Videos on Twitter</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-best-cloud-apps-android-list-seamless-backup-and-sync-edition/"><u>[Updated] Best-Cloud-Apps-Android-List Seamless Backup and Sync Edition</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-ultimate-list-of-15-no-cost-subtitle-software-options/"><u>Discover the Ultimate List of 15 No-Cost Subtitle Software Options</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-critical-vr-movies-you-cant-skip/"><u>In 2024, Critical VR Movies You Can't Skip</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Oppo F25 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-synesthetic-screens-the-future-of-cinema/"><u>In 2024, Synesthetic Screens The Future of Cinema</u></a></li>
-<li><a href="https://win11.techidaily.com/prioritizing-efficiency-top-5-data-exchange-tools-for-winpc/"><u>Prioritizing Efficiency: Top 5 Data Exchange Tools for WinPC</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-huawei-nova-y71-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Huawei Nova Y71 Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-foundational-methods-to-improve-color-balance/"><u>[New] 2024 Approved Foundational Methods to Improve Color Balance</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-basics-of-evolving-media-and-graphics/"><u>[New] Basics of Evolving Media and Graphics</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/outube-splits-a-filmmakers-creative-playbook-for-2024/"><u>[New] YouTube Splits A Filmmaker’s Creative Playbook for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-blend-soundscape-into-ppt-narratives/"><u>[Updated] 2024 Approved Blend Soundscape Into PPT Narratives</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-blitz-games-leading-lightning-fast-titles-for-laptopsphones/"><u>[Updated] 2024 Approved Blitz Games Leading Lightning-Fast Titles for Laptops/Phones</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-mastering-pip-navigating-netflixs-floating-screen-functionality/"><u>[Updated] 2024 Approved Mastering PIP Navigating Netflix's Floating Screen Functionality</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-future-cinema-unleashed-1-blu-ray-devs/"><u>[Updated] In 2024, Future Cinema Unleashed #1 Blu-Ray Devs</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-stepwise-approach-to-exceptional-gopro-footage-for-2024/"><u>[Updated] Stepwise Approach to Exceptional GoPro Footage for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-explore-the-best-photo-enhancement-apps-for-android-and-iphone/"><u>2024 Approved Explore the Best Photo Enhancement Apps for Android and iPhone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/capture-life-in-motion-using-ipad-filming-techniques/"><u>Capture Life in Motion Using iPad Filming Techniques</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-does-handbrake-handle-audio-extraction-and-top-substitutes-for-audio-transformation/"><u>How Does Handbrake Handle Audio Extraction and Top Substitutes for Audio Transformation</u></a></li>
+<li><a href="https://article-helps.techidaily.com/how-to-turn-off-default-recommended-podcast-listings-in-spotify-for-2024/"><u>How to Turn Off Default Recommended Podcast Listings in Spotify for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/powerdirector-pro-tip-how-to-achieve-consistent-color-across-clips/"><u>PowerDirector Pro Tip How to Achieve Consistent Color Across Clips</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063375396-update-lenovo-audio-drivers-in-windows-10-easily/"><u>Update Lenovo Audio Drivers in Windows 10. Easily!</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-final-cut-pro-on-a-budget-get-the-best-education-price-for-2024/"><u>Updated Final Cut Pro on a Budget Get the Best Education Price for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-tecno-camon-20-pro-5g-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Tecno Camon 20 Pro 5G Phones</u></a></li>
+<li><a href="https://discover-best.techidaily.com/winxvideo-ai-piena-autorizzazione-acquistabile-con-aggiornamenti-regolari-gratuiti-ufficiale/"><u>WinxVideo AI Piena Autorizzazione Acquistabile Con Aggiornamenti Regolari Gratuiti [UFFICIALE]</u></a></li>
 </ul></div>
 

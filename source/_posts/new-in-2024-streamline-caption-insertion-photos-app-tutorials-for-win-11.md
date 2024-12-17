@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Streamline Caption Insertion  Photos App Tutorials for WIN 11\""
-date: 2024-08-22T20:10:18.533Z
-updated: 2024-08-23T20:10:18.533Z
+date: 2024-12-14T17:40:05.921Z
+updated: 2024-12-17T00:39:42.660Z
 tags: 
   - screen-recording
   - ai video
@@ -33,6 +33,10 @@ Adding the titles/text to video is a great way to explain the people about a cer
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Add Titles/Text to Video on Photos in Windows 10
 
 Do you wish to add titles/text to video on Photos in Windows 10 for your video projects? You may not get several options for video editing in spite of some powerful addition of application in Microsoft Store. But, the Windows 10 Photos app feature offers an add-on for creating video from your phone’s media. Let’s learn how to add titles/text to video on Photos in Windows 10.
@@ -42,14 +46,26 @@ Do you wish to add titles/text to video on Photos in Windows 10 for your video p
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/add-text-photos-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * You may also add the image from the project library to the storyboard if you cannot find the image in the preset categories
 * Resize the image if black parts appear by clicking on resize and then, remove black parts
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/resize-photos-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * To add titles/text to video on Photos in Windows 10 that perfectly match the background, type out the title in the text box at the top right corner
 * Select the best-animated text fonts to suit the background. There are different layouts for each of the font style. Preview the animation by using Playback Control. If the text is not animating, you may try to increase the duration to 3-4 seconds that works well
 * For addition of credits, try to use the Classic text style. Put each of the credits in a new line and do give credits to yourself as well
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Make Text Move in Windows 10 Photos App
 
@@ -61,6 +77,10 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 * On the right, find the effects sidebar and select any effect that you find suitable for your video text
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/effects-photos.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Some of the effects might not have the option to move or anchor but if you choose the one that does allow moving of texts, you get an option to attach once you select it
 * Pin the slider in Attach to a point at the On position
@@ -74,18 +94,12 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 
 * Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 To add titles/text to video on Photos in Windows 10 and to make the text move with the Windows 10 Photos app, follow the above steps and get going easily. The steps are really simple and you just need to understand and apply the steps for successfully adding texts to your videos.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
@@ -109,4 +123,21 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-prime-meme-framework-essentials/"><u>[New] Prime Meme Framework Essentials</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-essential-tips-for-game-recording-on-windows-10/"><u>[Updated] 2024 Approved Essential Tips for Game Recording on Windows 10</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-art-of-inverted-investigation-finding-true-sources-on-instagram-photos/"><u>[Updated] 2024 Approved The Art of Inverted Investigation Finding True Sources on Instagram Photos</u></a></li>
+<li><a href="https://win-special.techidaily.com/come-recuperare-la-tua-cartella-desktop-scomparsa-dal-tuo-profilo-utente-attraverso-metodi-provati-ed-efficaci/"><u>Come Recuperare La Tua Cartella Desktop Scomparsa Dal Tuo Profilo Utente Attraverso Metodi Provati Ed Efficaci</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/cut-out-the-crackle-expert-strategies-to-resolve-sound-disturbances-in-logitech-g-pro-x-headsets/"><u>Cut Out the Crackle: Expert Strategies to Resolve Sound Disturbances in Logitech G Pro X Headsets</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-address-and-resolve-high-cpu-drain-in-zoom-video-meetings/"><u>How To Address And Resolve High CPU Drain In Zoom Video Meetings</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-detailed-review-of-magixs-acid-pro-and-similar-programs/"><u>In 2024, Detailed Review of Magix's ACID Pro & Similar Programs</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-harmonizing-sounds-seamless-transitions-in-ableton-live/"><u>In 2024, Harmonizing Sounds Seamless Transitions in Ableton Live</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-playbox-app-user-testimonials/"><u>In 2024, PlayBox App User Testimonials</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-fixes-unraveling-error-1152-on-pc/"><u>Mastering Windows Fixes: Unraveling Error 1152 on PC</u></a></li>
+<li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-apple-iphone-11-pro-max-by-drfone-ios/"><u>Removing Device From Apple ID For your Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fix-guide-reviving-your-unresponsive-wireless-headset-mic/"><u>Step-by-Step Fix Guide: Reviving Your Unresponsive Wireless Headset Mic</u></a></li>
+<li><a href="https://article-helps.techidaily.com/transformative-guide-gifs-becoming-stickers-on-discord-whatsapp-and-telegram-for-2024/"><u>Transformative Guide GIFs Becoming Stickers on Discord, WhatsApp & Telegram for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/unlocking-the-full-potential-of-zoom-on-your-google-meet-calls/"><u>Unlocking the Full Potential of Zoom on Your Google Meet Calls</u></a></li>
+</ul></div>
 

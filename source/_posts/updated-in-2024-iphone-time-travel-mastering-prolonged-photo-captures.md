@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, IPhone Time Travel  Mastering Prolonged Photo Captures\""
-date: 2024-12-06T03:03:21.797Z
-updated: 2024-12-10T22:35:25.547Z
+date: 2024-12-15T09:18:21.012Z
+updated: 2024-12-16T16:02:00.767Z
 tags: 
   - screen-recording
   - ai video
@@ -42,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343eb
 
  When you take long exposure shots using a digital SLR, the physical shutter which captures the image stays open for longer. You can also fiddle with the aperture size, to make it easier to capture these images in different light levels. This process is meticulously replicated by the iPhone's newest Photos app, so if you're already on iOS 11, here's how to use it:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Users on iOS 11
 
  First of all, make sure Live Photos is switched on. Within the camera app, simply tap the circular button in the middle of the top menu bar to turn it on. Once activated, the button will turn yellow and the 'live' notification will be shown on screen.
@@ -49,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343eb
 ![take-live-photo-on-iphone](https://images.wondershare.com/filmora/article-images/take-live-photo-on-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image resource: imore
@@ -63,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343eb
  Now bring up your live photo within the Photos app and bring up the effects selector. You can see this either by tapping 'details' or by simply swiping up whilst viewing the photo. There are lots of effects you can apply to your live photo, but the one we're looking for here is 'long exposure'. Simply tap this and your clever iPhone will make all the adjustments necessary to produce an awesome pro-looking photograph using long exposure.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Not a user of iOS 11?
@@ -85,6 +89,10 @@ thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343eb
 
  This feature is one of the most exciting and interesting uses of Live Photos to date, and is well worth checking out if you haven't done so already.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What should you capture with your long exposure iPhone shots?
 
  Long exposure shots are magical, giving a dreamy, almost ethereal quality to everyday situations. No doubt you'll find your own amazing things to shoot, but to get you started, why not try a long exposure iPhone shot of:
@@ -93,15 +101,15 @@ thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343eb
 
 ![flowing-water-long-exposure](https://images.wondershare.com/filmora/article-images/flowing-water-long-exposure.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image resource: Photography Mad
 
 * **Light trails:** Light is everywhere, and if you take your iPhone camera long exposure trick out of the house at night, you'll find some amazing opportunities to shoot. Cars on the highway, Ferris wheels at the fair and even the stars in the sky can become something amazing with a longer exposure.
 
 ![long-trails-exposure](https://images.wondershare.com/filmora/article-images/long-trails-exposure.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Image resource: WallDevil
 
@@ -109,19 +117,11 @@ thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343eb
 
 ![motion-blur-long-exposure](https://images.wondershare.com/filmora/article-images/motion-blur-long-exposure.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Image resource: Digital Photo Secrets
 
 * **Low light photography:** With a longer exposure, things which were previously un-snappable are suddenly within your grasp. Beautiful fountains at night, bridges, buildings… anything which would previously have been little more than a shadow can now become part of your collection, simply by extending the exposure length.
 
 ![low-light-long-exposure](https://images.wondershare.com/filmora/article-images/low-light-long-exposure.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Image resource: Nikonites
 
@@ -160,15 +160,16 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-elite-camera-gear-for-adventure-enthusiasts-for-2024/"><u>[New] Elite Camera Gear for Adventure Enthusiasts for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-inside-the-tech-what-is-virtual-reality-gear-in-2024/"><u>[New] Inside the Tech What Is Virtual Reality Gear, In 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-apple-m1-demystified-the-tech-leap-forward/"><u>[Updated] 2024 Approved Apple M1 Demystified The Tech Leap Forward</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-peak-of-puns-premium-meme-templates/"><u>[Updated] 2024 Approved Peak of Puns Premium Meme Templates</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-the-ultimate-phone-for-4k-enthusiasts-sony-xperia-xz/"><u>[Updated] 2024 Approved The Ultimate Phone for 4K Enthusiasts - Sony Xperia XZ</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-oppo-reno-8tmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Oppo Reno 8TMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-poco-m6-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Poco M6 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-twitter-trends-the-hottest-video-buzz/"><u>In 2024, Twitter Trends The Hottest Video Buzz</u></a></li>
-<li><a href="https://discover-help.techidaily.com/overcoming-the-obstacle-of-windows-restart-issue-a-step-by-step-guide-to-resolve-error-code-0x802n4a11a/"><u>Overcoming the Obstacle of Windows Restart Issue: A Step-by-Step Guide to Resolve Error Code 0X802n4A11A</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transforming-tech-ai-for-programmers/"><u>Transforming Tech: AI for Programmers</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-propel-content-to-prominence-leverage-tubebuddys-power/"><u>[New] 2024 Approved Propel Content to Prominence Leverage TubeBuddy's Power</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-the-chromium-connection-pixel-phone-rhythms/"><u>[New] 2024 Approved The Chromium Connection Pixel Phone Rhythms</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-ultimate-8-camera-lineup-to-elevate-streaming-success/"><u>[New] 2024 Approved Ultimate 8 Camera Lineup to Elevate Streaming Success</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-ultimate-compendium-selecting-the-best-free-srt-translation-tools-for-2024/"><u>[New] The Ultimate Compendium Selecting the Best Free SRT Translation Tools for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-ensuring-effective-monetization-strategies-for-yt-channels-for-2024/"><u>[Updated] Ensuring Effective Monetization Strategies for YT Channels for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-perfecting-audio-attenuation-a-focus-on-lumafusions-tools/"><u>[Updated] In 2024, Perfecting Audio Attenuation A Focus on Lumafusion's Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ais-next-phase-brings-heightened-security-threats/"><u>AI's Next Phase Brings Heightened Security Threats</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-xiaomi-13t-pro-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Xiaomi 13T Pro Face Lock?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-tecno-camon-20-pro-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Tecno Camon 20 Pro 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-sony-xperia-10-v-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Sony Xperia 10 V Phone? Unlock It Now</u></a></li>
+<li><a href="https://article-helps.techidaily.com/unleashing-audio-pleasure-your-iphones-podcast-potential-for-2024/"><u>Unleashing Audio Pleasure - Your iPhone’s Podcast Potential for 2024</u></a></li>
 </ul></div>
 

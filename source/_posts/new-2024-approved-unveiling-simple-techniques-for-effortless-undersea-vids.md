@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Unveiling Simple Techniques for Effortless Undersea Vids\""
-date: 2024-12-05T08:27:30.010Z
-updated: 2024-12-11T07:04:08.404Z
+date: 2024-12-10T00:44:05.593Z
+updated: 2024-12-16T16:15:44.693Z
 tags: 
   - screen-recording
   - ai video
@@ -37,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/877cc6ce606cb4f4b4e6d66d093a7f03e00e14887
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Tips on shooting video underwater
 
 #### 1\. Frame your shots
@@ -48,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/877cc6ce606cb4f4b4e6d66d093a7f03e00e14887
  It’s best to avoid shooting divers in mid-water. See if there is anything you can use to frame them, such as a wall, corals or marine life. It can take time to frame your divers, but try to get the best results you can to avoid being stuck with unsatisfactory footage further down the line.
 
 ![frame shot](https://images.wondershare.com/filmora/article-images/frame-shot.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### 2\. Get closer
 
@@ -64,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/877cc6ce606cb4f4b4e6d66d093a7f03e00e14887
 ![get closer](https://images.wondershare.com/filmora/article-images/get-closer-underwater.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 3\. Lighting is important
@@ -76,6 +68,10 @@ thumbnail: https://thmb.techidaily.com/877cc6ce606cb4f4b4e6d66d093a7f03e00e14887
  You can instead make use of natural sunlight, which should help you get the excellence you require even when you’re shooting at more than 30 metres depth. Deeper white balancing can be helpful during cloudy days.
 
 ![lightinng](https://images.wondershare.com/filmora/article-images/lightinng-underwater.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 4\. Stay steady
 
@@ -91,6 +87,10 @@ thumbnail: https://thmb.techidaily.com/877cc6ce606cb4f4b4e6d66d093a7f03e00e14887
 
 ![careful driver](https://images.wondershare.com/filmora/article-images/careful-divers.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 6\. Wide angle
 
  If you wish to include wide-angle shots in your work, make sure the camera is zoomed all the way out. Locking your elbows to your side, try to hold your breath to reduce the chances of shaking and pan shots slowly. You may need to shoot several takes to get it just right and will benefit from the use of a colour correcting filter.
@@ -98,7 +98,7 @@ thumbnail: https://thmb.techidaily.com/877cc6ce606cb4f4b4e6d66d093a7f03e00e14887
 ![wide angle](https://images.wondershare.com/filmora/article-images/wide-angle-underwater.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 7\. Shoot the best colour
@@ -124,7 +124,7 @@ thumbnail: https://thmb.techidaily.com/877cc6ce606cb4f4b4e6d66d093a7f03e00e14887
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -152,24 +152,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-exploring-the-world-of-digital-color-grading/"><u>[New] 2024 Approved Exploring the World of Digital Color Grading</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-packaging-to-prowess-marketings-unboxed-secrets/"><u>[New] 2024 Approved Packaging to Prowess Marketing's Unboxed Secrets</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-superb-simple-countdown-apps-for-free/"><u>[New] 2024 Approved Superb Simple Countdown Apps for Free</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-discover-the-leading-free-srt-translators-of-today/"><u>[New] In 2024, Discover the Leading Free SRT Translators of Today</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-leveraging-multimedia-tools-for-enhanced-screencasts/"><u>[New] Leveraging Multimedia Tools for Enhanced Screencasts</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-preventing-virtual-reality-queasiness/"><u>[New] Preventing Virtual Reality Queasiness</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-unleash-creativity-free-premiere-pro-2023-templates-for-2024/"><u>[New] Unleash Creativity Free Premiere Pro 2023 Templates for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-effective-strategies-for-exporting-photos-from-your-device-to-snapchat-for-2024/"><u>[Updated] Effective Strategies for Exporting Photos From Your Device to Snapchat for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-camera-and-accessories-guide-for-travel-vids/"><u>[Updated] In 2024, Camera & Accessories Guide for Travel Vids</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-decoding-the-science-of-hash-optimization-for-game-streaming/"><u>[Updated] In 2024, Decoding the Science of Hash Optimization for Game Streaming</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-the-elite-list-top-9-drone-video-editors-by-competence-for-2024/"><u>[Updated] The Elite List Top 9 Drone Video Editors by Competence for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-the-seamless-swivel-rotating-your-media-masterpieces-on-social-sites/"><u>[Updated] The Seamless Swivel Rotating Your Media Masterpieces on Social Sites</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-watching-the-future-on-screen-androids-2023-update-on-vr/"><u>[Updated] Watching the Future on Screen - Android's 2023 Update on VR</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/from-bystander-to-leader-in-the-world-of-insta-essential-tips-and-examples/"><u>From Bystander to Leader in the World of Insta Essential Tips & Examples</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/how-to-create-animated-facebook-ads-with-high-roi-in-2024/"><u>How to Create Animated Facebook Ads With High ROI, In 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-prime-engagement-hook-generator/"><u>In 2024, Prime Engagement Hook Generator</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Tecno Spark 20 Pro | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ize-your-videos-discoverability-with-key-youtube-seo-strategies/"><u>Optimize Your Videos' Discoverability with Key YouTube SEO Strategies</u></a></li>
-<li><a href="https://article-helps.techidaily.com/unboxing-the-next-big-thing-in-action-cameras-with-camplus-cubeplus/"><u>Unboxing the Next Big Thing in Action Cameras with Cam+ Cube+</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-how-to-completely-remove-your-instagram-footprint-forever/"><u>[New] How to Completely Remove Your Instagram Footprint Forever</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-eight-supercharged-tablet-models-to-enhance-every-photo-you-edit/"><u>[New] In 2024, Eight Supercharged Tablet Models to Enhance Every Photo You Edit</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-fresh-discussion-ideas-for-podcast-success/"><u>[New] In 2024, Fresh Discussion Ideas for Podcast Success</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-optimizing-kinemaster-usage-expert-advice-and-superior-digital-alternatives/"><u>[New] In 2024, Optimizing KineMaster Usage Expert Advice and Superior Digital Alternatives</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-mastering-pc-hdr-views-and-edits-for-2024/"><u>[New] Mastering PC HDR Views & Edits for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-unveiling-top-8-premium-free-srt-translation-solutions-for-2024/"><u>[New] Unveiling Top 8 Premium Free SRT Translation Solutions for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-action-shooting-guide-choosing-cameras-as-a-novice-23-update/"><u>[Updated] 2024 Approved Action Shooting Guide Choosing Cameras as a Novice '23 Update</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-in-depth-examination-samsung-gear-360-virtual-reality-lens/"><u>[Updated] 2024 Approved In-Depth Examination Samsung Gear 360 Virtual Reality Lens</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-elevate-your-youtube-presence-the-art-of-seo-optimization/"><u>[Updated] Elevate Your YouTube Presence The Art of SEO Optimization</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-simplifying-powerpoint-presentation-captures-for-2024/"><u>[Updated] Simplifying PowerPoint Presentation Captures for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-the-complete-process-of-converting-gifs-into-sticker-form-for-multi-platform-use/"><u>[Updated] The Complete Process of Converting GIFs Into Sticker Form for Multi-Platform Use</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-top-kid-approved-drone-choices-summarized/"><u>[Updated] Top Kid-Approved Drone Choices Summarized</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-unveiling-aerial-shots-the-full-potential-of-mi-drone-for-2024/"><u>[Updated] Unveiling Aerial Shots The Full Potential of MI Drone for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-easy-methods-to-unlock-icloud-locked-apple-iphone-xipadipod-by-drfone-ios/"><u>3 Easy Methods to Unlock iCloud Locked Apple iPhone X/iPad/iPod</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boosting-efficiency-how-chatgpt-can-transform-time-management/"><u>Boosting Efficiency: How ChatGPT Can Transform Time Management</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-a-non-functional-dell-usb-port-a-complete-guide/"><u>How to Fix a Non-Functional Dell USB Port - A Complete Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-nokia-g42-5g-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Nokia G42 5G</u></a></li>
+<li><a href="https://article-helps.techidaily.com/top-3-free-video-players-face-off-vlc-vs-mpc-showdown-for-2024/"><u>Top 3 FREE Video Players Face Off VLC Vs. MPC Showdown for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unraveling-the-expertise-within-polarrs-photography-suite-for-2024/"><u>Unraveling the Expertise Within Polarr’s Photography Suite for 2024</u></a></li>
 </ul></div>
 

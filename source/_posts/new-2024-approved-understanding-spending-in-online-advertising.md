@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Understanding Spending in Online Advertising\""
-date: 2024-12-05T03:36:44.521Z
-updated: 2024-12-11T07:11:30.177Z
+date: 2024-12-10T22:33:36.899Z
+updated: 2024-12-17T11:57:49.678Z
 tags: 
   - screen-recording
   - ai video
@@ -52,12 +52,16 @@ Compared to text-based flyers, articles or posters, promotional videos allow you
 ![promotion video example](https://images.wondershare.com/filmora/article-images/2022/07/promotion-video-example.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Types of Promo Videos
 
 When it comes to the kinds of promo videos you can create, you have a world of options.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Product demo videos
 
@@ -81,10 +85,6 @@ A product review video features a reviewer, typically an influential person in y
 
 ![product review video example](https://images.wondershare.com/filmora/article-images/2022/07/product-review-video-example.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Testimonial videos
 
 A customer testimonial video features a happy and satisfied customer who tells the story of how your product or services solved their problem and helped them achieve their business goals.
@@ -105,10 +105,6 @@ Try to keep it under 2-minutes and make sure you’re hitting the important info
 
 As for video ads, advice is to stick to 15 to 20 seconds if you’re using pre-roll ads or six seconds for what are known as bumper ads, which are intended for brand awareness.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## You’re going to need video editing tools to
 
 Things to consider during the process knowing which types of elements you want to add to your video is vital. for example, you might have to add audio to video that adds value to your promo efforts, knowing that text and subtitles are important to reaching a wider audience.
@@ -123,9 +119,17 @@ Cut or trim your video to select the part that’s relevant.
 
 ![trim promotion video filmora](https://images.wondershare.com/filmora/article-images/2022/07/trim-promotion-video-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Add filters to enhance the video and set the desired mood
 
 ![add filter promotion video filmora](https://images.wondershare.com/filmora/article-images/2022/07/add-filter-promotion-video-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Add animated titles to bring your words to life.
 
@@ -138,6 +142,10 @@ Add transition to make the story flow to make the story united and working toget
 As you might already know. Promotional videos aren’t all about your products advertisement and push prospects to by them. In making promotional video should be clearly discussed and the cost or fee is always depending on the Brand owner and your rate. Also don’t forget to carefully read the contract that the company will give you to sign for the service you will do for them. When you accept this kind of work, you should always think about the welfare of your name and channel, not that you just accept it even if it is not approved to your preference, but it just only because of the money. Always remember that it’s not always money that will make you successful but the talent and honesty at work.
 
 That’s been a quick guide on promotional videos. If you find it too hard to create your own professional looking videos to grow your business, you can always rely on professionals and or a video tutorial might help. Good luck and make it viral!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is Promotional Video?
 
@@ -154,20 +162,12 @@ Compared to text-based flyers, articles or posters, promotional videos allow you
 ![promotion video example](https://images.wondershare.com/filmora/article-images/2022/07/promotion-video-example.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Types of Promo Videos
 
 When it comes to the kinds of promo videos you can create, you have a world of options.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Product demo videos
 
@@ -178,6 +178,10 @@ A product demo video shows users how they will go through the process using the 
 ### Event videos
 
 Promoting an event on social media is a great way to gain fans and followers. An event video brings the fun of the occasion to those who couldn’t make it and is reposted by the ones who make it to your event.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Explainer videos
 
@@ -192,11 +196,11 @@ A product review video features a reviewer, typically an influential person in y
 ![product review video example](https://images.wondershare.com/filmora/article-images/2022/07/product-review-video-example.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Testimonial videos
@@ -212,10 +216,6 @@ The cost of YouTube ads depends on few factors, including watch time, audience t
 That may have been a requirement in the past. however, today you don’t need a fancy video production team that makes you wait weeks while paying thousands of dollars.
 
 Another way of promotion is that there are company asking content creator to include a video ads on their vlogs. As to my experience, cost and fee for the promotional video, depend on what you have been discuss with the company. Sometimes the company itself offers the price, but of course that also depends on the status of you channel. The company also doesn’t want to spent on promotion if it doesn’t get any positive output or good sales.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How long should a promotional video be?
 
@@ -237,10 +237,6 @@ Cut or trim your video to select the part that’s relevant.
 
 ![trim promotion video filmora](https://images.wondershare.com/filmora/article-images/2022/07/trim-promotion-video-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Add filters to enhance the video and set the desired mood
 
 ![add filter promotion video filmora](https://images.wondershare.com/filmora/article-images/2022/07/add-filter-promotion-video-filmora.jpg)
@@ -250,6 +246,10 @@ Add animated titles to bring your words to life.
 ![add animate words promotional video](https://images.wondershare.com/filmora/article-images/2022/07/add-animated-words-promotional-video.jpg)
 
 Add transition to make the story flow to make the story united and working together effectively
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -281,21 +281,19 @@ That’s been a quick guide on promotional videos. If you find it too hard to cr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-the-ultimate-test-intova-xs-video-capabilities/"><u>[New] 2024 Approved The Ultimate Test Intova X's Video Capabilities</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-acclaimed-15-video-filters-to-elevate-gopro-cinematography/"><u>[New] Acclaimed 15 Video Filters to Elevate GoPro Cinematography</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/xtract-youtube-soundtracks-for-free-with-this-list-of-25-rippers-for-2024/"><u>[New] Extract YouTube Soundtracks for Free With This List of 25 Rippers for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-full-insight-into-vsco-image-editing/"><u>[New] In 2024, Full Insight Into VSCO Image Editing</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-the-art-of-high-dynamic-range-pro-photoshop-techniques-for-2024/"><u>[New] The Art of High Dynamic Range Pro Photoshop Techniques for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-ffmpeg-analysis-maintaining-audio-format-integrity/"><u>[Updated] 2024 Approved FFmpeg Analysis Maintaining Audio Format Integrity</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-discover-best-drone-motor-picks-for-peak-performance/"><u>[Updated] Discover Best Drone Motor Picks for Peak Performance</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-from-basic-to-brilliant-top-10-pixlr-techniques/"><u>[Updated] In 2024, From Basic to Brilliant Top 10 Pixlr Techniques</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-mastering-panoramic-photography-with-a-fisheye-effect/"><u>[Updated] In 2024, Mastering Panoramic Photography with a Fisheye Effect</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-revolutionizing-broadcast-media-with-chroma-key-expertise/"><u>[Updated] Revolutionizing Broadcast Media with Chroma Key Expertise</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-transforming-viewers-experience-the-impact-of-text-on-youtube-media-for-2024/"><u>[Updated] Transforming Viewers' Experience The Impact of Text on YouTube Media for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-timing-and-regularity-key-factors-influencing-youtube-traffic/"><u>2024 Approved Timing and Regularity Key Factors Influencing YouTube Traffic</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-realme-gt-neo-5-frp-by-drfone-android/"><u>Full Guide to Bypass Realme GT Neo 5 FRP</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-building-better-montages-a-creative-guide/"><u>In 2024, Building Better Montages A Creative Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oppo-a2-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Oppo A2 to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-tecno-phantom-v-flip-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Tecno Phantom V Flip Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-selective-selection-best-bands-for-ringtones/"><u>[New] 2024 Approved Selective Selection Best Bands for Ringtones</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-deciphering-your-affection-filmoras-top-10-features-for-2024/"><u>[New] Deciphering Your Affection Filmora’s Top 10 Features for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-ideal-camcorders-for-high-definition-podcasts/"><u>[New] In 2024, Ideal Camcorders for High-Definition Podcasts</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-unlocking-the-mystery-phantoms-temporal-expansion-capabilities-for-2024/"><u>[New] Unlocking the Mystery Phantom’s Temporal Expansion Capabilities for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-unveiling-simple-techniques-for-amazing-slow-motion-footage-in-android/"><u>[New] Unveiling Simple Techniques for Amazing Slow-Motion Footage in Android</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-level-up-your-playtime-examining-kinemaster-on-android/"><u>[Updated] 2024 Approved Level Up Your Playtime Examining KineMaster on Android</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-ultimate-tweeting-of-tiktok-phenomena/"><u>[Updated] The Ultimate Tweeting of TikTok Phenomena</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-oneplus-ace-2-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked OnePlus Ace 2 Phone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-complete-guide-to-editing-youtube-on-the-go-with-sony-vegas/"><u>In 2024, The Complete Guide to Editing YouTube on the Go With Sony Vegas</u></a></li>
+<li><a href="https://win11.techidaily.com/kickstart-windows-11-help-and-support-mechanism/"><u>Kickstart Windows 11 Help & Support Mechanism</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/maximizing-engagement-in-online-collaboration-with-snap-camera-for-2024/"><u>Maximizing Engagement in Online Collaboration with Snap Camera for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-xiaomi-mix-fold-3-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Xiaomi Mix Fold 3 to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/top-5-revelatory-tactics-for-novices-in-digital-advertising/"><u>Top 5 Revelatory Tactics for Novices in Digital Advertising</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/vfx-artisan-suite/"><u>VFX Artisan Suite</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Expert Routines for Volume Balancing in FL Studio"
-date: 2024-08-22T20:11:03.158Z
-updated: 2024-08-23T20:11:03.158Z
+date: 2024-12-14T20:27:45.279Z
+updated: 2024-12-16T21:20:23.678Z
 tags: 
   - screen-recording
   - ai video
@@ -44,6 +44,10 @@ You will choose every region on a track when you browse to it in the track heade
 
 ![change fade tool logic prox](https://images.wondershare.com/filmora/article-images/2022/07/change-fade-tool-logic-prox.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step4 Create a crossfade
 
 Although it works as intended, moving the volume fader on one of the channel strips to switch between two recordings is not really enjoyable. Let's make the crossfader larger.
@@ -53,6 +57,10 @@ Although it works as intended, moving the volume fader on one of the channel str
 ![create crossfade logic prox](https://images.wondershare.com/filmora/article-images/2022/07/create-crossfade-logic-prox.jpg)
 
 You now have total discretion over the fader's look. Changing it afterwards is always an option; just choose the appropriate Style in the Inspector.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2\. Alternative Way to Crossfade Audio
 
@@ -82,6 +90,10 @@ In the next step, the two icons will appear above the audio file after you've ch
 
 ![fade the tracks](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Click and drag the other icon in Filmora to the required length to complete the fade-out. Playing the file inside the timeline of the Filmora preview layout will allow you to hear the soundtrack.
 
 ##### Step4 Export the Faded File
@@ -90,16 +102,10 @@ Start saving your faded file to your PC in the proper location and format by dow
 
 ## Part 3\. Related FAQs of Crossfading
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ### 1\. What does crossfading mean?
 
 Your audio, or any particular portion of your audio, may have a variety of transitions thanks to the crossfades tool. It's crucial to make a crossfade at the border where the edit takes place while editing. Right side fades in, left side fades out, and the fades cross at the location of the edit. If the cross fade isn't accomplished, it's probable that there may be an audible click or pop.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ### 2\. How do I add crossfade?
 
 to make the second clip's audio fade up as the first clip's audio fades down. Audio from both clips is audible during the crossfade. Move the mouse toward the bottom of the track, near to a region border. The pointer will transform into a crossfade-like symbol. A crossfade will emerge, centered on the border, when you click and move the pointer to the left or the right. Cross dissolves, a kind of video transition, are comparable to crossfades.
@@ -116,9 +122,6 @@ Due to the likelihood that you have previously downloaded and installed the prog
 
 ![launch filmora and add files](https://images.wondershare.com/filmora/guide/get-started-with-filmora-03.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 Additionally, the software may import several file types. Then, these files may be modified utilizing functions like smooth-fading and synchronization.
 
 ##### Step2 Split the audio track to Fade
@@ -132,8 +135,9 @@ In the next step, the two icons will appear above the audio file after you've ch
 ![fade the tracks](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Click and drag the other icon in Filmora to the required length to complete the fade-out. Playing the file inside the timeline of the Filmora preview layout will allow you to hear the soundtrack.
 
 ##### Step4 Export the Faded File
@@ -142,20 +146,22 @@ Start saving your faded file to your PC in the proper location and format by dow
 
 ## Part 3\. Related FAQs of Crossfading
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 1\. What does crossfading mean?
 
 Your audio, or any particular portion of your audio, may have a variety of transitions thanks to the crossfades tool. It's crucial to make a crossfade at the border where the edit takes place while editing. Right side fades in, left side fades out, and the fades cross at the location of the edit. If the cross fade isn't accomplished, it's probable that there may be an audible click or pop.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. How do I add crossfade?
 
 to make the second clip's audio fade up as the first clip's audio fades down. Audio from both clips is audible during the crossfade. Move the mouse toward the bottom of the track, near to a region border. The pointer will transform into a crossfade-like symbol. A crossfade will emerge, centered on the border, when you click and move the pointer to the left or the right. Cross dissolves, a kind of video transition, are comparable to crossfades.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. How do you crossfade MIDI logic?
 
 Unlike audio fades, MIDI fades are not implemented in the same manner. One method is to automate the volume and track automation for the fade out. Move the mouse near the bottom of the track, close to an area border, while using the Smart tool. The pointer will transform into a crossfade-like symbol.
@@ -182,4 +188,26 @@ Unlike audio fades, MIDI fades are not implemented in the same manner. One metho
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-cutting-edge-methods-for-fast-srt-to-text-file-conversion/"><u>[New] 2024 Approved Cutting-Edge Methods for Fast SRT to Text File Conversion</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-perfecting-your-youtube-experience-stop-previews/"><u>[New] 2024 Approved Perfecting Your YouTube Experience - Stop Previews</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-critical-assessment-the-dji-phantom-4-eyewear-probe/"><u>[New] In 2024, Critical Assessment The DJi Phantom 4 Eyewear Probe</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-innovative-drone-designs-always-on-your-side/"><u>[New] Innovative Drone Designs Always on Your Side</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-macs-screen-capture-champions-the-premier-tools-evaluation-for-2024/"><u>[New] Mac's Screen Capture Champions The Premier Tools Evaluation for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-elevate-your-gaming-experience-with-unique-sound-alteration-techniques-for-a-competitive-edge-no-cost/"><u>[Updated] 2024 Approved Elevate Your Gaming Experience with Unique Sound Alteration Techniques for a Competitive Edge (No Cost!)</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-everything-you-need-to-know-before-upgrading-to-windows-10/"><u>[Updated] 2024 Approved Everything You Need To Know Before Upgrading To Windows 10</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-navigating-the-world-of-audio-with-apods/"><u>[Updated] 2024 Approved Navigating the World of Audio with APods</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-experts-take-on-magix-video-pro-x/"><u>[Updated] Expert's Take on Magix Video Pro X</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-exploring-the-genesis-and-evolution-of-windows-movie-maker-for-2024/"><u>[Updated] Exploring the Genesis and Evolution of Windows Movie Maker for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-nokia-c02-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-unlock-from-apple-iphone-xs-max-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock From Apple iPhone XS Max? How to Fix it?</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-infinix-hot-30-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Infinix Hot 30 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win-premium.techidaily.com/how-an-obsolete-gpu-may-impact-system-efficiency-identifying-common-bottlenecks-tech-insights-with-yl-computing/"><u>How an Obsolete GPU May Impact System Efficiency: Identifying Common Bottlenecks - Tech Insights with YL Computing</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/how-to-record-cameras-and-monitors-together-efficiently-for-2024/"><u>How to Record Cameras & Monitors Together Efficiently for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-best-subtitle-converters-win-and-mac-edition-leading-8-sbt-to-srtr-tools/"><u>In 2024, Best Subtitle Converters Win & Mac Edition, Leading 8 SBT to SRTR Tools</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721097549885-re-pair-and-recognize-your-latest-cam-on-updated-pc-an-expert-guide-completely-solved-fixed/"><u>Re-Pair and Recognize Your Latest Cam on Updated PC: An Expert Guide, Completely Solved! [Fixed]</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-ultimate-toolkit-powerdirectors-comprehensive-24-analysis-for-2024/"><u>The Ultimate Toolkit PowerDirector's Comprehensive '24 Analysis for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-correct-sound-driver-glitches-for-dell-pcs-running-windows-7/"><u>Troubleshoot and Correct Sound Driver Glitches for Dell PCs Running Windows 7</u></a></li>
+</ul></div>
 

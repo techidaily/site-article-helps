@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Excellent Series of Animated Type Options"
-date: 2024-12-07T07:38:10.441Z
-updated: 2024-12-10T23:07:59.709Z
+date: 2024-12-10T07:06:14.369Z
+updated: 2024-12-16T19:38:18.052Z
 tags: 
   - screen-recording
   - ai video
@@ -33,6 +33,10 @@ Glitch text effect is a trendy effect that gets the viewers’ attention immedia
 
 ![glitch text effect toolkit ae](https://images.wondershare.com/filmora/article-images/2022/07/glitch-text-effect-toolkit-ae.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Liquid Text Animation
 
 You get 110 animated elements that you can apply to the text in your video. The effects are perfectly suitable for videos where comedy is the main theme. The liquid text effect looks organic and natural, and the colors are eye-catching to grab everyone’s attention. There are 8 text scenes and one text preset present, along with 110 animated presets. The effects are HD in resolution, and they are modular and adjustable. It is time to download and use them to make your video dynamic.
@@ -40,7 +44,7 @@ You get 110 animated elements that you can apply to the text in your video. The 
 ![liquid text animation effect ae](https://images.wondershare.com/filmora/article-images/2022/07/liquid-text-animation-effect-ae.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Dynamic Text Animations
@@ -49,19 +53,15 @@ There is always a high demand for dynamic text animations in After Effects. This
 
 ![dynamic text animations ae](https://images.wondershare.com/filmora/article-images/2022/07/dynamic-text-animations-ae.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Squash & Stretch Preset
 
 If you want to add texts and titles in your video that looks like the games meant for kids, squash and stretch. Therefore, if your video content is based on comedy or you make videos for kids, this is the effect and animation you should apply on the text of your video. The animation looks cool and funny at the same time. The animations are designed by professionals and you get regular as well as advanced adjustments. There are also built-in sound effects available to make the animations for entertaining.
 
 ![squash stretch preset ae](https://images.wondershare.com/filmora/article-images/2022/07/squash-stretch-preset-ae.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. CounterPro Preset
 
@@ -70,7 +70,7 @@ In this pack, you will find unique text effects, and you can animate text with k
 ![counterpro preset ae](https://images.wondershare.com/filmora/article-images/2022/07/counterpro-preset-ae.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Text Library
@@ -86,7 +86,7 @@ Kinetic text effect is a part of dynamic text effects and there is a high demand
 ![kinetic text aniamtion ae](https://images.wondershare.com/filmora/article-images/2022/07/kinetic-text-aniamtion-ae.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Text Animation Lower Third
@@ -96,7 +96,7 @@ You get eleven styles of elements in the pack, and you can customize the designs
 ![text animation lower thirds ae](https://images.wondershare.com/filmora/article-images/2022/07/text-animation-lower-thirds-ae.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Bottom Line
@@ -133,20 +133,18 @@ As the saying goes, the more the merrier and the more presets you have, the more
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-design-humor-in-frames-picgenius/"><u>[New] 2024 Approved Design Humor in Frames PicGenius</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-combining-images-for-an-engaging-picture-panorama-for-2024/"><u>[New] Combining Images for an Engaging Picture Panorama for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-converting-spoken-words-to-text-in-powerpoint/"><u>[New] Converting Spoken Words to Text in PowerPoint</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-from-pages-to-production-creating-a-movie-blueprint/"><u>[New] From Pages to Production Creating a Movie Blueprint</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-full-examination-evaluating-the-gecata-analyzer/"><u>[New] Full Examination Evaluating the Gecata Analyzer</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-elevate-your-aerial-artistry-best-drone-and-editor-match-ups-ranked/"><u>[New] In 2024, Elevate Your Aerial Artistry Best Drone & Editor Match-Ups Ranked</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-the-evolution-of-live-streaming-with-periscope-for-2024/"><u>[New] The Evolution of Live Streaming with Periscope for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-efficient-file-migration-pc-to-ios-device/"><u>[Updated] 2024 Approved Efficient File Migration PC to iOS Device</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-15-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On Apple iPhone 15</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ting-video-sharing-from-youtube-to-insta-for-2024/"><u>Elevating Video Sharing From YouTube to Insta for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-realme-c33-2023mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Realme C33 2023Mirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-360-degree-cams-face-off-the-ultimate-test/"><u>In 2024, 360 Degree Cams Face-Off The Ultimate Test</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-depth-skype-audio-capture-guide-with-obs-software/"><u>In-Depth Skype Audio Capture Guide with OBS Software</u></a></li>
-<li><a href="https://win-able.techidaily.com/solution-guide-fixing-your-lol-lag-problems/"><u>Solution Guide: Fixing Your LoL Lag Problems</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-ranked-dvd-copyright-protection-programs-for-securely-duplicating-encoded-discs/"><u>Top-Ranked DVD Copyright Protection Programs for Securely Duplicating Encoded Discs</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-curating-the-best-mac-snipping-software-compilation-for-2024/"><u>[New] Curating the Best Mac Snipping Software Compilation for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-explore-online-downloads-converting-youtube-to-mp3-made-simple/"><u>[New] In 2024, Explore Online Downloads Converting YouTube to MP3 Made Simple</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-face-off-frenzy-legendary-sj6-versus-yis-prodigy-4k/"><u>[New] In 2024, Face-Off Frenzy Legendary SJ6 Versus Yi's Prodigy 4K</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-ultimate-action-cameras-guidebook-for-winter-sports/"><u>[New] Ultimate Action Cameras Guidebook for Winter Sports</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-transform-and-edit-videos-like-a-pro-with-these-iphonepc-tools/"><u>[Updated] 2024 Approved Transform and Edit Videos Like a Pro With These iPhone/PC Tools</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-elite-laughter-photo-composer-tool/"><u>[Updated] In 2024, Elite Laughter Photo Composer Tool</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-enhance-productivity-with-these-20-proven-cost-free-storage-services/"><u>[Updated] In 2024, Enhance Productivity With These 20 Proven, Cost-Free Storage Services</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-explore-the-world-in-high-definition-on-youtube/"><u>2024 Approved Explore the World in High Definition on YouTube</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/1728481120367-toshiba/"><u>解決方法：Toshiba硬碟閱讀故障之攻略</u></a></li>
+<li><a href="https://discover-data.techidaily.com/discover-the-best-diskgenius-substitutes-for-enhanced-data-security/"><u>Discover the Best DiskGenius Substitutes for Enhanced Data Security</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-vivo-v30-lite-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Vivo V30 Lite 5G via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/leading-vr-grips-top-8-essential-handsets/"><u>Leading VR Grips Top 8 Essential Handsets</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-effective-chatgpt-prompt-crafting/"><u>Mastering the Art of Effective ChatGPT Prompt Crafting</u></a></li>
 </ul></div>
 

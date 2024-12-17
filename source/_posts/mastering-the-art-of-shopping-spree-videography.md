@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Shopping Spree Videography"
-date: 2024-08-27T15:06:25.728Z
-updated: 2024-08-28T15:06:25.728Z
+date: 2024-12-12T19:33:27.357Z
+updated: 2024-12-16T16:24:09.127Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/5b8a360ae2beb8ae28dded746595b2ec0252b7304
 
 Did you know what is a haul video? If not, in this article; I'll guide you around. And in addition, I'll share with you guys how I edit one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is a haul?
 
 A haul is usually a large amount of something that has been collected or won. And with refers to my YouTube Channel, the kind of haul that I usually shared with my audiences are something that I bought from different stores and places here in Israel. Kind of interesting, isn't it? Most specially if you're someone residing outside of the Holy Land. There are lots of interesting stuff to purchase here like souvenirs from the Old City of Jerusalem.
@@ -32,6 +36,10 @@ That's very simple. If you hoard stuffs for yourself or for your love ones out t
 
 ![things to make haul video](https://images.wondershare.com/filmora/article-images/2022/07/things-to-make-haul-video.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Categories of haul videos
 
 You can categorize your haul video into:
@@ -41,25 +49,28 @@ You can categorize your haul video into:
 ![random haul video](https://images.wondershare.com/filmora/article-images/2022/07/random-haul-video.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Clothing Haul** \- Israel has a huge variety of apparels that anyone can desire to wear. From the popular brands like Zara, Stradivarius, MANGO, H&M, Renuar, Castro, Tamnoon, Fox and even more. I love to shop when it's end of the season SALE and I love to share the clothes that I bought to my viewers, for them to gain an idea what to buy for themselves as well.
 
 ![closthes haul video](https://images.wondershare.com/filmora/article-images/2022/07/closthes-haul-video.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Israel Haul** \- (things that you bought here in Israel of course) often times that's my title and I just highlight the place/s where I bought those stuffs.
 
 ![israel haul video](https://images.wondershare.com/filmora/article-images/2022/07/israel-haul-video.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Souvenir Haul** \- is one of my favorite hauls because I got the chance to share stunning pieces that I got from the Old City of Jerusalem. My favorite place here in the Holy Land, I have to mention. So, if you're planning to visit Israel anytime soon, please include the Old City of Jerusalem in your bucket lists. You'll be dumbfounded by everything surrounding that religious place. Believe me!
 
 ![souvenir haul video](https://images.wondershare.com/filmora/article-images/2022/07/souvenir-haul-video.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Christmas Haul** \- you can definitely guess what's into that particular haul. Stuffs that I bought during the Yuletide season. Because as we all know, “Christmas is the season of giving”.
 
@@ -79,29 +90,30 @@ First thing first, like all the videos that I'm editing, we need to drag all our
 
 ![drag video clip haul](https://images.wondershare.com/filmora/article-images/2022/07/drag-video-clip-haul.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 By the way, before we proceed. I'm using Wondershare Filmora as my video editor if you want to know, just for the record.
 
 Cutting all the unnecessary information that I've said during the video, so that we can work as fast as we can afterwards. Just point the timeline scale to the specific part of the video you want to cut and then click the scissor icon.
 
 ![cut unneed haul clips](https://images.wondershare.com/filmora/article-images/2022/07/cut-unneed-haul-clips.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Next is highlight the part of the video that you want to delete and click the trash bin icon and you're ready to go the next part of it, that you need to omit once again. Just do the same process until you get rid of all the unnecessary part of the video.
 
 ![cut unneed haul clips 02](https://images.wondershare.com/filmora/article-images/2022/07/cut-unneed-haul-clips-02.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Once we're done with the cutting part, we're now entering the most exciting part of editing for me at least. Adding all those special effects, sound effects, background music, text, lower third green screen and more. And what you can see in the image below is the default add-on I always attach to all of my videos on YouTube, my default social media watermark on the upper-right corner of it. And usually, it's static and I added it until the end of a video, just to remind the viewers all of my social media platforms.
 
 **Tip**: If you want to be a YouTuber/vlogger like us, choose a name that really represents your personal being and make it as simple as it can be, easily to memorize and just one name for all of your social media platforms. In that case, your viewers can easily search your name throughout those said online rostrums.
 
 ![choose name for haul video](https://images.wondershare.com/filmora/article-images/2022/07/choose-name-for-haul-video.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 The image below shows how I started to market the shirt that I bought from Adidas. What kind of fabric it has, is it suitable for the weather in the Philippines because I want to send it way back home and what particular size it is?
 
 ![market shirt video](https://images.wondershare.com/filmora/article-images/2022/07/market-shirt-video.jpg)
@@ -112,14 +124,14 @@ Next is I added a text to emphasize the price of the t-shirt and as you can see,
 
 ![add text to haul video](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-haul-video.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 What I love about haul video, is that I know what to add throughout the video itself because it's the same process actually. I need to describe the item first, then add a pop-up image of the seller or even place where I bought the item, and its price. Everything you need to know basically. So, in the image below; I insert the name of the Facebook Page where I bought that Tribal inspired shirt. When it comes to street wear, there's no better brand than **_Tribal Philippines_**. It is a brand supported by many great artists, especially in music, if you want to know it's origin.
 
 ![insert brand name haul video](https://images.wondershare.com/filmora/article-images/2022/07/insert-brand-name-haul-video_.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 Another thing that you can see on my haul video is that I love to showcase my co-YouTuber so that viewers on my channel can check his/her channel too.
 
 I'll add my outro afterwards and that's the end of it. We're done editing a haul video. As simple as that. And it's fun, isn't it?
@@ -140,25 +152,16 @@ First thing first, like all the videos that I'm editing, we need to drag all our
 
 ![drag video clip haul](https://images.wondershare.com/filmora/article-images/2022/07/drag-video-clip-haul.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 By the way, before we proceed. I'm using Wondershare Filmora as my video editor if you want to know, just for the record.
 
 Cutting all the unnecessary information that I've said during the video, so that we can work as fast as we can afterwards. Just point the timeline scale to the specific part of the video you want to cut and then click the scissor icon.
 
 ![cut unneed haul clips](https://images.wondershare.com/filmora/article-images/2022/07/cut-unneed-haul-clips.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 Next is highlight the part of the video that you want to delete and click the trash bin icon and you're ready to go the next part of it, that you need to omit once again. Just do the same process until you get rid of all the unnecessary part of the video.
 
 ![cut unneed haul clips 02](https://images.wondershare.com/filmora/article-images/2022/07/cut-unneed-haul-clips-02.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 Once we're done with the cutting part, we're now entering the most exciting part of editing for me at least. Adding all those special effects, sound effects, background music, text, lower third green screen and more. And what you can see in the image below is the default add-on I always attach to all of my videos on YouTube, my default social media watermark on the upper-right corner of it. And usually, it's static and I added it until the end of a video, just to remind the viewers all of my social media platforms.
 
 **Tip**: If you want to be a YouTuber/vlogger like us, choose a name that really represents your personal being and make it as simple as it can be, easily to memorize and just one name for all of your social media platforms. In that case, your viewers can easily search your name throughout those said online rostrums.
@@ -175,19 +178,17 @@ Next is I added a text to emphasize the price of the t-shirt and as you can see,
 
 ![add text to haul video](https://images.wondershare.com/filmora/article-images/2022/07/add-text-to-haul-video.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 What I love about haul video, is that I know what to add throughout the video itself because it's the same process actually. I need to describe the item first, then add a pop-up image of the seller or even place where I bought the item, and its price. Everything you need to know basically. So, in the image below; I insert the name of the Facebook Page where I bought that Tribal inspired shirt. When it comes to street wear, there's no better brand than **_Tribal Philippines_**. It is a brand supported by many great artists, especially in music, if you want to know it's origin.
 
 ![insert brand name haul video](https://images.wondershare.com/filmora/article-images/2022/07/insert-brand-name-haul-video_.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 Another thing that you can see on my haul video is that I love to showcase my co-YouTuber so that viewers on my channel can check his/her channel too.
 
 I'll add my outro afterwards and that's the end of it. We're done editing a haul video. As simple as that. And it's fun, isn't it?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Wrap-up
 
@@ -221,4 +222,24 @@ And if you're looking for a simple but powerful video editor for Personal Comput
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-cutting-edge-methods-for-fast-srt-to-text-file-conversion/"><u>[New] 2024 Approved Cutting-Edge Methods for Fast SRT to Text File Conversion</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-steps-to-resolve-stuck-obs-camera-feed/"><u>[New] 2024 Approved Steps to Resolve Stuck OBS Camera Feed</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-innovative-drone-designs-always-on-your-side/"><u>[New] Innovative Drone Designs Always on Your Side</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-mastering-the-art-of-b-roll-filming-techniques/"><u>[New] Mastering the Art of B Roll Filming Techniques</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-shedding-light-on-brighter-hdr-approaches-with-high-quality-luminosity/"><u>[New] Shedding Light on Brighter HDR Approaches with High-Quality Luminosity</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-elevate-your-gaming-experience-with-unique-sound-alteration-techniques-for-a-competitive-edge-no-cost/"><u>[Updated] 2024 Approved Elevate Your Gaming Experience with Unique Sound Alteration Techniques for a Competitive Edge (No Cost!)</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-navigating-the-world-of-audio-with-apods/"><u>[Updated] 2024 Approved Navigating the World of Audio with APods</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-ultimate-scriptsmiths-network/"><u>[Updated] 2024 Approved Ultimate Scriptsmiths Network</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-experts-take-on-magix-video-pro-x/"><u>[Updated] Expert's Take on Magix Video Pro X</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-free-explore-youtubes-9-premium-full-length-christmas-flicks-for-2024/"><u>[Updated] Free Explore YouTube's 9 Premium Full-Length Christmas Flicks for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-unraveling-youtube-subtitles-srt-a-triad-of-steps/"><u>[Updated] In 2024, Unraveling YouTube Subtitles (SRT) A Triad of Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/copilot-disappearance-in-ws11-quick-fixes-guide/"><u>Copilot Disappearance in WS11: Quick Fixes Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-hints-for-efficiently-managing-extra-large-files-iphones-and-macs/"><u>In 2024, Expert Hints for Efficiently Managing Extra-Large Files IPhones & Macs</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-ispoofer-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Poco M6 Pro 4G? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-the-essential-update-on-whats-new-with-facebook/"><u>In 2024, The Essential Update on What's New with Facebook</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-the-ultimate-list-of-no-cost-audio-to-text-transformation-tools-for-multimedia-creators/"><u>New In 2024, The Ultimate List of No-Cost Audio-to-Text Transformation Tools for Multimedia Creators</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-ultimate-toolkit-powerdirectors-comprehensive-24-analysis-for-2024/"><u>The Ultimate Toolkit PowerDirector's Comprehensive '24 Analysis for 2024</u></a></li>
+</ul></div>
 

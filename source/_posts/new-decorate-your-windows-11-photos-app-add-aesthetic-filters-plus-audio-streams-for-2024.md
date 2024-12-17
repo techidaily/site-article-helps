@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Decorate Your Windows 11 Photos App  Add Aesthetic Filters + Audio Streams for 2024\""
-date: 2024-12-08T00:26:46.975Z
-updated: 2024-12-10T18:42:00.888Z
+date: 2024-12-15T18:33:49.886Z
+updated: 2024-12-17T03:24:22.541Z
 tags: 
   - screen-recording
   - ai video
@@ -38,6 +38,10 @@ Having Windows 10 Photos app is an advantage for you. This is not like any other
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to add filters on Windows 10 Photos App
 
 If you have got Windows 10 Photos app and wish to add filters, though, it is by default a photo viewing app, its editing features are worth to mention. This step by step guide is your perfect savior in that case.
@@ -51,7 +55,7 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-filters.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3**: Now, you will be in an video editing page. You can name your video at start or later.
@@ -63,7 +67,7 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 **Step 5**: Just select one you like. Preview it and then click Done.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to add music on Windows 10 Photos App
@@ -83,14 +87,10 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 ![add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/choose-music-to-video-photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 5**: Hit the ‘Done’ button.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -99,7 +99,7 @@ From the above article, we conclude that Windows 10 Photos app is an amazing app
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -127,22 +127,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-effortless-voice-interpretation-without-charges/"><u>[New] 2024 Approved Effortless Voice Interpretation Without Charges</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-craft-humorous-images-on-no-cost/"><u>[New] Craft Humorous Images on No-Cost</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-from-zero-to-profit-beginners-guide-on-periscope-earning/"><u>[New] In 2024, From Zero to Profit Beginner’s Guide on Periscope Earning</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-transform-your-visual-storytelling-with-luts-in-ae/"><u>[New] In 2024, Transform Your Visual Storytelling with LUTs in AE</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-infuse-vibrancy-mastering-music-integration-in-social-media-videos/"><u>[New] Infuse Vibrancy Mastering Music Integration in Social Media Videos</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/aster-the-art-of-tagging-a-compreited-guide-to-video-seo/"><u>[New] Master the Art of Tagging A Compreited Guide to Video SEO</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-next-gen-spaceholders-unveiling-the-quintessential-cloud-providers/"><u>[New] Next-Gen Spaceholders Unveiling the Quintessential Cloud Providers</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-creating-revenue-in-gamer-channels/"><u>[Updated] 2024 Approved Creating Revenue in Gamer Channels</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-mastering-mobile-technology-for-dji-visual-storytelling/"><u>[Updated] In 2024, Mastering Mobile Technology for DJi Visual Storytelling</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-unveiling-the-secrets-of-morphvox-sound-adjustment/"><u>[Updated] In 2024, Unveiling the Secrets of MorphVOX Sound Adjustment</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-what-makes-periscope-special-understanding-features-and-registration/"><u>[Updated] In 2024, What Makes Periscope Special? Understanding Features & Registration</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-step-by-step-how-to-erase-photographic-backgrounds-for-2024/"><u>[Updated] Step-by-Step How to Erase Photographic Backgrounds for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/discovering-your-windows-11-license-code-a-step-by-step-guide/"><u>Discovering Your Windows 11 License Code: A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722975145948-get-your-behringer-driver-software-here-instant-free-downloads/"><u>Get Your Behringer Driver Software Here – Instant, Free Downloads!</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-80-pro-straight-screen-edition-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Honor 80 Pro Straight Screen Edition Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-convert-webm-to-mp3-the-best-tools-for-the-job/"><u>New Convert WebM to MP3 The Best Tools for the Job</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-mastering-video-rotation-a-simple-and-efficient-process/"><u>Updated Mastering Video Rotation A Simple and Efficient Process</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-assessing-different-versions-available-for-windows-movie-maker/"><u>[New] Assessing Different Versions Available for Windows Movie Maker</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-asus-proart-pa-329q-in-focus-the-comprehensive-4k-professional-display-analysis/"><u>[New] In 2024, Asus ProArt PA 329Q in Focus – The Comprehensive 4K Professional Display Analysis</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-navigating-the-art-of-3d-text-rendering-in-ps/"><u>[New] Navigating the Art of 3D Text Rendering in PS</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-top-10-scriptural-ringtone-selections-for-faith-for-2024/"><u>[New] Top 10 Scriptural Ringtone Selections for Faith for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-a-step-by-step-guide-for-effective-use-of-luts-in-adobe-suite/"><u>[Updated] A Step-by-Step Guide for Effective Use of LUTs in Adobe Suite</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-digital-therapeutics-and-patient-engagement/"><u>2024 Approved Digital Therapeutics and Patient Engagement</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211124624-9780645848786-decoding-thought/"><u>DECODING THOUGHT | Free Book</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/dive-into-the-future-with-xbox-vr-discover-expected-launch-timeline-and-pricing-strategies/"><u>Dive Into the Future with Xbox VR - Discover Expected Launch Timeline and Pricing Strategies!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/expert-techniques-for-zoom-enhanced-videoleap-capture/"><u>Expert Techniques for Zoom-Enhanced Videoleap Capture</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-crafting-silent-scenes-audio-fade-techniques-in-adobe-premiere-pro/"><u>In 2024, Crafting Silent Scenes Audio Fade Techniques in Adobe Premiere Pro</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-zoomy-zappers-fastest-flash-fueled-apps-for-phones-and-pcs/"><u>In 2024, Zoomy Zappers Fastest Flash-Fueled Apps for Phones & PCs</u></a></li>
+<li><a href="https://article-helps.techidaily.com/mastering-appearance-in-apples-audio-library-for-2024/"><u>Mastering Appearance in Apple's Audio Library for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/rejuvenating-legacy-directx-games-via-dxvk-technology/"><u>Rejuvenating Legacy DirectX Games via DXVK Technology</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/seamless-conversion-switching-from-mkv-to-m4v-format-on-macos-and-windows-without-loss-of-quality/"><u>Seamless Conversion: Switching From MKV to M4V Format on macOS and Windows Without Loss of Quality</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solution-found-how-to-get-days-gone-running-on-your-pc/"><u>Solution Found: How to Get Days Gone Running on Your PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-notch-ultimate-savings-unmissable-amazon-prime-day-bargains/"><u>Top-Notch Ultimate Savings: Unmissable Amazon Prime Day Bargains</u></a></li>
 </ul></div>
 

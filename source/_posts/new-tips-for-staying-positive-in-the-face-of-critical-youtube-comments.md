@@ -1,7 +1,7 @@
 ---
 title: "[New] Tips for Staying Positive in the Face of Critical YouTube Comments"
-date: 2024-12-07T17:10:47.241Z
-updated: 2024-12-10T23:53:06.947Z
+date: 2024-12-11T04:00:43.778Z
+updated: 2024-12-16T21:37:32.710Z
 tags: 
   - screen-recording
   - ai video
@@ -33,6 +33,10 @@ Want to become the master of moderation? Read on for everything you need to know
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is YouTube Comment
 
 YouTube comments are an opportunity for the site's 1.7 million unique monthly visitors to share what they love, hate or simply must troll. It's like the internet own personal Thunderdome, but while it can be a place for negativity, YouTube comments can also be a powerful opportunity for positive community building and engagement.
@@ -50,7 +54,7 @@ If you're wondering whether you really need to monitor your YouTube comments, he
 * YouTube comments could help you develop new content: YouTube users aren't shy about expressing their opinions. Pay attentions to what they're saying about your content, and how can develop new content that they want to see.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Comment on a YouTube Video
@@ -66,7 +70,7 @@ Step1 Below the video itself, find the comment section.
 ![find the comment section youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-the-comment-section-youtube.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step2 Type your message in the add a comment field. (if you're writing on your phone you can tap the comment section to expand it.
@@ -87,16 +91,12 @@ Step1 Open your chosen browser, head to YouTube, then sign in to your Google/You
 
 ![sign in youtube account](https://images.wondershare.com/filmora/article-images/2022/11/sign-in-youtube-account.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2 On the YouTube homepage, click on the three horizontal parallel lines in the top-left corner. A drop down menu appears, including the trending videos of the day, your subscriptions and your settings.
 
 ![horizontal parallel lines youtube](https://images.wondershare.com/filmora/article-images/2022/11/horizontal-parallel-lines-youtube.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step3 From the drop down menu, select “History”.
@@ -104,10 +104,6 @@ Step3 From the drop down menu, select “History”.
 Step4 On the right side under the “Manage all history” section, click on “comments”.
 
 ![manage all history comments youtube](https://images.wondershare.com/filmora/article-images/2022/11/manage-all-history-comments-youtube.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step5 To edit your comment, click on the “vertical ellipsis” (three vertical dots) on the far right side of the listed video page.
 
@@ -120,6 +116,10 @@ Among the comments you see on a video, you might notice some that YouTube has la
 For example, you might click on a notification, and YouTube takes you to a particular video. Then, when somebody else views and leaves a comment on that video, YouTube will often add the “Highlighted Comment” label on the comment to make it easy for you to spot it when you next go back to that video.
 
 Each time YouTube adds the “highlighted comment” or “highlighted reply” tags to a video, they create a unique URL. The version of the comment that you see uses this newly generated URL. Therefore, the only way to make these labels disappear (apart from reading the new comments) is to remove the addition to the URL.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why Deleting YouTube Comments?
 
@@ -175,20 +175,20 @@ One way you can encourage people to leave comments on your videos is to finish t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-design-like-a-pro-free-premiere-plans-templates-2023/"><u>[New] 2024 Approved Design Like a Pro Free Premiere Plans, Templates 2023</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-dodging-derailed-video-playback-at-your-photo-booth/"><u>[New] 2024 Approved Dodging Derailed Video Playback at Your Photo Booth</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-master-your-media-messages-a-guide-to-fb-video-posts/"><u>[New] 2024 Approved Master Your Media Messages A Guide to FB Video Posts</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-essential-audio-gear-for-active-cameras/"><u>[New] In 2024, Essential Audio Gear for Active Cameras</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-rhythmic-reconnaissance-video-music-matchmaking/"><u>[New] Rhythmic Reconnaissance Video Music Matchmaking</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-unlock-your-full-viewing-experience-with-these-3-strategies-to-download-youtube-srt/"><u>[Updated] 2024 Approved Unlock Your Full Viewing Experience with These 3 Strategies to Download YouTube SRT</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-audiovid-synergy-community-online/"><u>[Updated] AudioVid Synergy Community Online</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-premier-editing-software-perfect-for-dev-screens/"><u>[Updated] In 2024, Premier Editing Software Perfect for Dev Screens</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-who-wins-the-battle-of-cinematic-quality-and-durability-in-2024/"><u>[Updated] Who Wins the Battle of Cinematic Quality and Durability, In 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/10-messenger-rooms-tips-and-tricks-for-beginners/"><u>10 Messenger Rooms Tips and Tricks for Beginners</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/how-can-you-retrieve-information-from-a-damaged-hard-drive-tips-by-yl-computing/"><u>How Can You Retrieve Information From a Damaged Hard Drive? - Tips by YL Computing</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-the-evolutionary-path-of-roguelike-games/"><u>In 2024, The Evolutionary Path of Roguelike Games</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mobile-and-desktop-no-cost-magnifier-toolkit/"><u>Mobile & Desktop No-Cost Magnifier Toolkit</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mondlys-quest-to-become-the-1-language-learning-app/"><u>Mondly's Quest to Become the #1 Language Learning App</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/seamless-snapshots-mobile-tripods-for-iphones-androids/"><u>Seamless Snapshots Mobile Tripods for iPhones, Androids</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-mastering-photograph-dating-techniques/"><u>[New] 2024 Approved Mastering Photograph Dating Techniques</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-viral-vector-tags-keywords-that-power-up-your-social-media-snaps/"><u>[New] 2024 Approved Viral Vector Tags Keywords that Power Up Your Social Media Snaps</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-from-ordinary-to-extraordinary-creating-hdr-in-lightroom/"><u>[Updated] In 2024, From Ordinary to Extraordinary Creating HDR in Lightroom</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-mastering-iphoneipad-premium-podcast-recording-tips/"><u>[Updated] In 2024, Mastering iPhone/iPad Premium Podcast Recording Tips</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-streamlining-color-correction-with-premiere-pro-luts/"><u>[Updated] In 2024, Streamlining Color Correction with Premiere Pro LUTs</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-samsung-photography-essentials-a-detailed-review-2023-for-2024/"><u>[Updated] Samsung Photography Essentials – A Detailed Review, 2023 for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-best-laptops-for-4k-video-editing/"><u>2024 Approved Best Laptops for 4K Video Editing</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/cookiebot-driven-automation-for-enhanced-website-analytics/"><u>Cookiebot-Driven Automation for Enhanced Website Analytics</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-logitech-speakers-installation-files-compatible-with-windows-11-7-and-8/"><u>Free Logitech Speakers Installation Files Compatible with Windows 11, 7 & 8</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-6s-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 6s to Samsung Galaxy S20? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-techniques-for-reality-warp-imagery/"><u>In 2024, Techniques for Reality Warp Imagery</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-the-complete-srt-encyclopedia-key-facts-explored/"><u>In 2024, The Complete SRT Encyclopedia Key Facts Explored</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-ultimate-tips-for-exceptional-vr-gaming-video-quality/"><u>In 2024, Ultimate Tips for Exceptional VR Gaming Video Quality</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigate-the-newly-launched-openai-custom-gpt-services-quick-start-for-immediate-use/"><u>Navigate the Newly Launched OpenAI Custom GPT Services: Quick Start for Immediate Use</u></a></li>
+<li><a href="https://article-helps.techidaily.com/optimizing-video-playback-with-pip-on-safari-devices-for-2024/"><u>Optimizing Video Playback with PIP on Safari Devices for 2024</u></a></li>
 </ul></div>
 

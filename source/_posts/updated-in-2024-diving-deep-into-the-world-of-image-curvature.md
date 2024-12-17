@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Diving Deep Into the World of Image Curvature"
-date: 2024-08-22T20:10:34.755Z
-updated: 2024-08-23T20:10:34.755Z
+date: 2024-12-14T11:51:12.263Z
+updated: 2024-12-16T17:27:08.460Z
 tags: 
   - screen-recording
   - ai video
@@ -34,6 +34,10 @@ After creating the new document, open the image that you want to curve. You may 
 
 ![place image in photoshop](https://images.wondershare.com/filmora/article-images/2022/09/place-image-in-photoshop.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step3Warp the Image
 
 Now we'll curve the image using the Warp Tool. Select the Warp Tool by clicking and holding on the Transform Tool in the toolbar. The Warp Tool is located at the bottom of the Transform Tool's fly-out menu. Alternatively, you may press Ctrl+T or Command+T on your keyboard to open the Transform Tool's fly-out menu and then select the Warp Tool from there.
@@ -45,6 +49,10 @@ With the Warp Tool selected, hover your cursor over the image. You'll see a grid
 Play around with the settings in the options bar. There are quite a few different looks you can achieve just by adjusting these.
 
 ![change image height photoshop](https://images.wondershare.com/filmora/article-images/2022/09/change-image-height-photoshop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 20% **Horizontal Distortion** makes one side of the image appear larger than the other. This is what my photo looks like at 20%.
 
@@ -58,15 +66,27 @@ The **Bend Direction** option rotates the angle of the bend.
 
 ![bend direction image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/bend-direction-image-photoshop.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Flip any of these effects in the opposite direction by placing a negative sign in front of the percentage. Here's -20% in the **Bend** box with a vertical bend.
 
 ![flip effect image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/flip-effect-image-photoshop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step4Save the Image
 
 Once you're happy with the way your image looks, go to File > Save As in the menu bar or press Ctrl+Shift+S or Command+Shift+S on your keyboard. Choose a file format and location to save your image and click Save. And that's it! You've successfully curved
 
 ![save curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/save-curve-image-photoshop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -100,8 +120,20 @@ We hope this post has helped you learn how to curve an image in Photoshop. The b
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-a-compreomed-approach-for-making-tiktok-songs-your-ringtone/"><u>[New] A Compreomed Approach for Making TikTok Songs Your Ringtone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-cutting-edge-editing-solutions-just-for-vimeo-for-2024/"><u>[New] Cutting-Edge Editing Solutions Just for Vimeo for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-design-mastery-in-motion-crafting-intriguing-podcast-covers/"><u>[New] Design Mastery in Motion Crafting Intriguing Podcast Covers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-unveiling-the-secrets-to-a-flawless-fb-live-session/"><u>[New] In 2024, Unveiling the Secrets to a Flawless FB Live Session</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-launch-free-youtube-events-a-step-by-step-guide/"><u>[Updated] 2024 Approved Launch Free Youtube Events A Step-by-Step Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-chuckle-chronicles-best-free-top-rated-comic-designs-for-2024/"><u>[Updated] Chuckle Chronicles Best Free, Top-Rated Comic Designs for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-melody-makers-best-places-for-free-skype-ringtones/"><u>[Updated] In 2024, Melody Makers Best Places for Free Skype Ringtones</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-personalized-branding-made-easy-use-free-logo-templates-and-edit/"><u>[Updated] In 2024, Personalized Branding Made Easy Use Free Logo Templates and Edit</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/o-go-viral-on-youtube-with-minimal-effort/"><u>How to Go Viral on YouTube with Minimal Effort</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-your-apple-iphone-6s-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your Apple iPhone 6s Plus? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-vivo-v27e-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Vivo V27e</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/pure-pitch-perception-recording-in-mac-studios/"><u>Pure Pitch Perception Recording in Mac Studios</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-best-10-emoji-apps-to-emoji-yourself-make-an-emoji-of-yourself-for-2024/"><u>Updated Best 10 Emoji Apps to Emoji Yourself-Make an Emoji of Yourself for 2024</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
