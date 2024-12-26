@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Crystal Curtain Calls  Olympic Showcase\""
-date: 2024-12-15T21:16:42.880Z
-updated: 2024-12-17T12:08:27.209Z
+date: 2024-12-23T19:53:23.052Z
+updated: 2024-12-26T03:51:44.949Z
 tags: 
   - screen-recording
   - ai video
@@ -35,47 +35,47 @@ Nathan Chen got the combined score of 332.60 in short program and free skate com
 
 ![nathan chen skating](https://images.wondershare.com/filmora/article-images/nathan-chen-skating.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Nathan Chen of the United States reacts to winning the gold medal at the 2022 Beijing Winter Olympics. He successfully hit five quadruple jumps which helped him outshine others.
 
 ![nathan chen skating gold medal](https://images.wondershare.com/filmora/article-images/nathan-chen-skating-gold-medal.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Yuma Kagiyama of Japan reacts to become second to Nathan Chen of the United States. He receives a combined score of 310.05 points and wins the silver medal at the 2022 Beijing Winter Olympics.
 
 ![yuma kagiyama](https://images.wondershare.com/filmora/article-images/yuma-kagiyama.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Shoma Uno of Japan won the bronze medal with a combined score of 293 points and he has become the second Japanese to win a medal at the 2022 Beijing Winter Olympics.
 
 ![shoma uno](https://images.wondershare.com/filmora/article-images/shoma-uno.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Nathan Chen successful triumph has been four years in the making and it is a perfect combination of seven perfect skating minutes. Back at 2018 Olympics, he botched and ended with disappointment. Therefore, Olympics Games Beijing2022 has been redemption for America's best male skater.
 
 ![nathan chen best male skater](https://images.wondershare.com/filmora/article-images/nathan-chen-best-male-skater.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Even though Nathan Chen finished first for men's short program of the team event, United States could not hold to the first position and losing to ROC.
 
 ![russian olympic committee athletes](https://images.wondershare.com/filmora/article-images/russian-olympic-committee-athletes.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Russian Olympic Committee athletes won the gold medal at team event by a margin of 9 points with the combined score of 74\. United States won the silver medal with a combined score of 65 points.
 
 ![japan won the bronze medal](https://images.wondershare.com/filmora/article-images/japan-won-the-bronze-medal.jpg)
 
 Japan won the bronze medal with 63 points falling short by 2 points 2 behind the United States. The figure skating competition is held at the Capital Indoor Stadium in Beijing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2\. Create a Video for Showing the Highlights of Figure Skating
 
@@ -104,7 +104,7 @@ Step 3: Go to Import > Import with Instant Cutter Tool. It is time to import all
 ![filmora edit videos](https://images.wondershare.com/filmora/article-images/edit-recordings-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 4: You need to add all imported media files to Video Timeline while you should add background music or voiceover to the Audio Timeline.
@@ -136,24 +136,22 @@ Figure skating is undoubtedly one of the most followed sport events in the Winte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-premier-sky-depot-for-enterprise-files/"><u>[New] 2024 Approved Premier Sky Depot for Enterprise Files</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-irresistible-topic-titler-machine/"><u>[New] Irresistible Topic Titler Machine</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-perfecting-the-pause-how-to-craft-exceptional-slow-motion-videos/"><u>[Updated] 2024 Approved Perfecting the Pause How to Craft Exceptional Slow Motion Videos</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-claritycleanseapp-top-tier-background-eraser/"><u>[Updated] ClarityCleanseApp Top-Tier Background Eraser</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-essential-filming-gear-for-novices-and-aspiring-cinematographers/"><u>[Updated] Essential Filming Gear for Novices and Aspiring Cinematographers</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-navigating-to-no-cost-and-risk-free-vlc-player-download-for-macos/"><u>[Updated] In 2024, Navigating to No-Cost & Risk-Free VLC Player Download for macOS</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-ultimate-edit-suite-for-mobile-app-devices/"><u>[Updated] In 2024, Ultimate Edit Suite for Mobile App Devices</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-mastering-the-skies-a-guide-to-using-syma-x8c/"><u>[Updated] Mastering the Skies A Guide to Using Syma X8C</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-step-by-step-guide-to-instant-signature-bg-removal-for-2024/"><u>[Updated] Step-by-Step Guide to Instant Signature Bg Removal for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-ultimate-guide-choosing-the-best-video-grabber-for-windows-10/"><u>2024 Approved Ultimate Guide Choosing the Best Video Grabber for Windows 10</u></a></li>
-<li><a href="https://solve-info.techidaily.com/comment-activer-le-chiffrement-du-disque-sur-votre-appareil-tutoriel-detaille-en-francais/"><u>Comment Activer Le Chiffrement Du Disque Sur Votre Appareil - Tutoriel Détaillé en Français</u></a></li>
-<li><a href="https://techtrends.techidaily.com/connect-and-watch-hulu-with-your-lg-smart-tv-comprehensive-instructions/"><u>Connect and Watch Hulu with Your LG Smart TV – Comprehensive Instructions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/determining-the-best-intervals-for-mobile-phone-upgrades/"><u>Determining the Best Intervals for Mobile Phone Upgrades</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/enhance-your-livestreams-with-manycam-the-leading-choice-for-virtual-webcams-and-video-editing-tools/"><u>Enhance Your Livestreams with ManyCam - The Leading Choice for Virtual Webcams and Video Editing Tools</u></a></li>
-<li><a href="https://techidaily.com/fix-how-to-resolve-your-external-hard-drive-missing-on-windows-10-pc/"><u>Fix: How to Resolve Your External Hard Drive Missing on Windows 10 PC</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-usb-30-drivers-installed-on-a-windows-pc-free-downloads/"><u>Get Your USB 3.0 Drivers Installed on a Windows PC - Free Downloads!</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-samsung-galaxy-m34-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Samsung Galaxy M34 5G in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-expanding-creative-horizons-in-obs-studio-using-luts/"><u>In 2024, Expanding Creative Horizons in OBS Studio Using LUTs</u></a></li>
-<li><a href="https://article-helps.techidaily.com/the-ultimate-guide-to-using-look-up-tables-luts-in-photoshop-for-2024/"><u>The Ultimate Guide to Using Look-Up Tables (LUTs) in Photoshop for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-sharpen-your-shots-canon-offers-freepaid-lut-edits/"><u>[New] 2024 Approved Sharpen Your Shots Canon Offers Free/Paid LUT Edits</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-accelerate-your-photo-edits-expert-lunapic-techniques-for-2024/"><u>[New] Accelerate Your Photo Edits Expert LunaPic Techniques for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-directors-academy-youtube-channels-for-cinematic-innovation-for-2024/"><u>[New] Directors Academy YouTube Channels for Cinematic Innovation for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-night-photography-perfection-with-iphones/"><u>[New] Night Photography Perfection with iPhones</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-crafting-visual-tales-the-essential-guide-to-text-effects/"><u>[Updated] 2024 Approved Crafting Visual Tales The Essential Guide to Text Effects</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-fast-forwards-and-flashbacks-in-creative-tiktoks/"><u>[Updated] 2024 Approved Fast Forwards and Flashbacks in Creative TikToks</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-solutions-to-mitigate-vibrational-jello-in-uav-recordings/"><u>[Updated] 2024 Approved Solutions to Mitigate Vibrational Jello in UAV Recordings</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-visualize-your-story-with-top-snapchat-augments/"><u>[Updated] 2024 Approved Visualize Your Story with Top Snapchat Augments</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-cutting-edge-ai-photo-enhancement-suite-for-2024/"><u>[Updated] Cutting-Edge AI Photo Enhancement Suite for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-beam-me-up-optimal-webcam-choices-for-podcasts/"><u>[Updated] In 2024, Beam Me Up Optimal Webcam Choices for Podcasts</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-pixellation-perfection-windows-and-macs-photo-to-animation-powerhouse/"><u>2024 Approved Pixellation Perfection Windows & Mac's Photo to Animation Powerhouse</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-redefining-the-art-of-editing-a-deep-dive-into-youtube-studios-capabilities/"><u>2024 Approved Redefining the Art of Editing A Deep Dive Into YouTube Studio's Capabilities</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/crafting-curls-and-contours-creating-a-personalized-beauty-channel/"><u>Crafting Curls and Contours Creating a Personalized Beauty Channel</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-itel-p40-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Itel P40? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/peering-into-ais-unseen-processes-black-box-exploration/"><u>Peering Into AI's Unseen Processes: Black Box Exploration</u></a></li>
+<li><a href="https://article-helps.techidaily.com/prime-phone-pals-selecting-speech-to-text-apps-for-offline-use-for-2024/"><u>Prime Phone Pals Selecting Speech-to-Text Apps for Offline Use for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-trouble-free-performance-why-rebooting-your-phone-matters/"><u>Unlocking Trouble-Free Performance: Why Rebooting Your Phone Matters</u></a></li>
 </ul></div>
 

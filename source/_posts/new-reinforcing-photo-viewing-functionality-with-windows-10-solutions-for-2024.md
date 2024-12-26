@@ -1,7 +1,7 @@
 ---
 title: "[New] Reinforcing Photo Viewing Functionality with Windows 10 Solutions for 2024"
-date: 2024-12-15T03:55:36.465Z
-updated: 2024-12-17T08:08:21.966Z
+date: 2024-12-21T03:12:27.866Z
+updated: 2024-12-25T20:54:37.592Z
 tags: 
   - screen-recording
   - ai video
@@ -41,10 +41,6 @@ Stay tuned to learn more!
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: Why you prefer Windows Photo Viewer
 
 We would like to explain why most people are still not over Windows Photo Viewer? The good old Photo Viewer has quiet loyal fans out there singing its glory. This portion of the article comprises of the highs about Windows Photo Viewer.
@@ -65,14 +61,10 @@ Here is why they want to restore Windows Photo Viewer –
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Though, Windows 10 Photos offers a dark theme, the effectiveness, responsiveness and features available with Windows Photo Viewer are hard to compromise.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 1 to restore Windows Photo Viewer
 
@@ -81,6 +73,10 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 **Step 1**: Go to ‘Settings’ and open ‘Apps’. Click on ‘Default Apps’ and check ‘Photo Viewer’. The default photo viewer will be visible here.
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2**: Click on the present photo viewer app over there and look for ‘Windows Photo Viewer’. We assume that you have upgraded from an older version on Windows and Windows Photo Viewer is there in the options.
 
@@ -100,16 +96,16 @@ Here is the detailed guide –
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-back.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note**: If the Windows Photo Viewer isn't there, here is a backup. You need to change Windows Registry to make Windows Photo Viewer returned. You need to go to [Edwin over on Ten Forums](https://www.tenforums.com/software-apps/8930-windows-photo-viewer-gone-2.html#post290818) to add code on your PC.
 
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -117,6 +113,10 @@ Here is the detailed guide –
 From the above article, we found out that restoring Windows Photo Viewer on your system is not a tough task. But, without having the proper knowledge you shouldn’t play around with your Photos app. So, this article guides you through a reliable method for restoring Windows Photo Viewer and view your photos like you always loved to. We hope you liked our efforts of enlightening you about Windows Photo Viewer and got the necessary information. Plus, if none of these work, you can use [Windows 10 Photos app alternatives](https://tools.techidaily.com/wondershare/filmora/download/). Thanks for reading! Do comment us below to let us know your views.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
@@ -145,16 +145,18 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-transforming-viewers-into-active-participants/"><u>[New] Transforming Viewers Into Active Participants</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-unseen-horizons-the-top-3-non-youtube-video-havens/"><u>[New] Unseen Horizons The Top 3 Non-Youtube Video Havens</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-exploring-virtual-horizons-with-meaningful-metaverse-sentiments-for-2024/"><u>[Updated] Exploring Virtual Horizons with Meaningful Metaverse Sentiments for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-finding-your-lost-footage-no-vids-on-a6400-for-2024/"><u>[Updated] Finding Your Lost Footage No Vids On A6400 for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-optimized-process-for-melding-gopro-sequences-in-full-dome-videos/"><u>[Updated] In 2024, Optimized Process for Melding GoPro Sequences in Full-Dome Videos</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-top-youtube-trends-a-curated-selection-for-2024/"><u>[Updated] Top YouTube Trends A Curated Selection for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/1715860247191-2024-approved-high-quality-video-calling-solutions-top-10-best-apps-ranked/"><u>2024 Approved High-Quality Video Calling Solutions Top 10 Best Apps Ranked!</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-srt-transition-subbed-content-conversion-strategies/"><u>2024 Approved SRT Transition Subbed Content Conversion Strategies</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-professional-drones-pro-level-editing-software-showdown/"><u>In 2024, Professional Drones, Pro-Level Editing Software Showdown</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/story-1-the-misconception-of-resource-management/"><u>Story 1: The Misconception of Resource Management</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-guide-when-your-computer-cant-find-ssleay32dll/"><u>Troubleshooting Guide: When Your Computer Can’t Find ssleay32.dll</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-rise-above-the-noise-nine-strategies-for-instagram-prominence/"><u>[New] 2024 Approved Rise Above the Noise Nine Strategies for Instagram Prominence</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-top-8-collage-champions-finding-affordable-premium-video-mosaics-android-for-2024/"><u>[New] Top 8 Collage Champions Finding Affordable, Premium Video Mosaics (Android) for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-aspire-to-the-best-4k-monitors-ranking-top-ten-for-2024/"><u>[Updated] Aspire to the Best 4K Monitors Ranking Top-Ten for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-revolutionizing-note-taking-the-power-of-mematic/"><u>2024 Approved Revolutionizing Note-Taking The Power of Mematic</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/5-reasons-to-doubt-zerogpt-and-competing-ai-detectors-insights-explored/"><u>5 Reasons to Doubt ZeroGPT & Competing AI Detectors - Insights Explored</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/best-free-dvd-and-blu-ray-player-software-on-windows-10-top-3-picks/"><u>Best Free DVD & Blu-Ray Player Software on Windows 10: Top 3 Picks</u></a></li>
+<li><a href="https://media-tips.techidaily.com/free-online-methods-transforming-mov-files-into-3gp-format-simple-techniques/"><u>Free Online Methods: Transforming MOV Files Into 3GP Format - Simple Techniques</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-xiaomi-13-ultra-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Xiaomi 13 Ultra Phone Screen?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-nubia-z50s-pro-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Nubia Z50S Pro to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-visionary-insights-selecting-from-5-premier-slow-cameras/"><u>In 2024, Visionary Insights Selecting From 5 Premier Slow Cameras</u></a></li>
+<li><a href="https://article-helps.techidaily.com/navigating-through-vlc-features-settings-and-troubleshooting-mac-for-2024/"><u>Navigating Through VLC Features, Settings & Troubleshooting (Mac) for 2024</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-poco-f5-pro-5g-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Poco F5 Pro 5G password or pattern lock</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-apples-vision-intelligent-home-assistants-on-tomorrows-horizon-insights-and-predictions/"><u>Unveiling Apple's Vision: Intelligent Home Assistants on Tomorrow’s Horizon | Insights and Predictions</u></a></li>
 </ul></div>
 

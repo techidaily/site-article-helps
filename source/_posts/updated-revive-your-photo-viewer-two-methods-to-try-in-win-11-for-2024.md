@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Revive Your Photo Viewer  Two Methods to Try in Win 11 for 2024\""
-date: 2024-08-22T20:07:39.385Z
-updated: 2024-08-23T20:07:39.385Z
+date: 2024-12-23T02:43:38.414Z
+updated: 2024-12-25T21:54:15.111Z
 tags: 
   - screen-recording
   - ai video
@@ -36,6 +36,10 @@ Stay tuned to learn more!
 * [**Part2: Method 1 to restore Windows Photo Viewer**](#part2)
 * [**Part3: Method 2 to get Windows Photo Viewer back**](#part3)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Why you prefer Windows Photo Viewer
 
 We would like to explain why most people are still not over Windows Photo Viewer? The good old Photo Viewer has quiet loyal fans out there singing its glory. This portion of the article comprises of the highs about Windows Photo Viewer.
@@ -55,6 +59,10 @@ Here is why they want to restore Windows Photo Viewer –
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Though, Windows 10 Photos offers a dark theme, the effectiveness, responsiveness and features available with Windows Photo Viewer are hard to compromise.
 
 ## Method 1 to restore Windows Photo Viewer
@@ -70,8 +78,9 @@ The first method speaks about, when you have upgraded from a Windows 7/8/8.1 com
 **Step 3**: Tap on ‘Windows Photo Viewer’ and then exit ‘Settings’. Now, you have successfully restored Windows Photo Viewer and you can open photos in Windows Photo Viewer.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 2 to get Windows Photo Viewer back
 
 Here comes another way to restore Windows Photo Viewer on your computer. If your computer has been upgraded to Windows 10 from an older version, then Windows Photo Viewer might be lying around somewhere. You can retrieve it to view images.
@@ -86,19 +95,10 @@ Here is the detailed guide –
 
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-back.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 **Note**: If the Windows Photo Viewer isn't there, here is a backup. You need to change Windows Registry to make Windows Photo Viewer returned. You need to go to [Edwin over on Ten Forums](https://www.tenforums.com/software-apps/8930-windows-photo-viewer-gone-2.html#post290818) to add code on your PC.
 
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Conclusion
 
 From the above article, we found out that restoring Windows Photo Viewer on your system is not a tough task. But, without having the proper knowledge you shouldn’t play around with your Photos app. So, this article guides you through a reliable method for restoring Windows Photo Viewer and view your photos like you always loved to. We hope you liked our efforts of enlightening you about Windows Photo Viewer and got the necessary information. Plus, if none of these work, you can use [Windows 10 Photos app alternatives](https://tools.techidaily.com/wondershare/filmora/download/). Thanks for reading! Do comment us below to let us know your views.
@@ -106,13 +106,15 @@ From the above article, we found out that restoring Windows Photo Viewer on your
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
@@ -136,4 +138,22 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-easily-manage-picture-in-picture-while-watching-youtube-on-iphone-for-2024/"><u>[New] Easily Manage Picture-in-Picture While Watching YouTube on iPhone for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-exploring-the-top-8-collaborative-affordable-android-video-mosaics-for-2024/"><u>[New] Exploring the Top 8 Collaborative, Affordable Android Video Mosaics for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-how-to-choose-the-background-music-for-the-trailer/"><u>[New] In 2024, How to Choose the Background Music for the Trailer</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-simple-way-to-blur-faces-in-picsart/"><u>[New] In 2024, Simple Way To Blur Faces in Picsart</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-advancing-training-with-vr-systems/"><u>[Updated] Advancing Training with VR Systems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-in-depth-analysis-ultimate-storage-choices/"><u>[Updated] In 2024, In-Depth Analysis Ultimate Storage Choices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-perfecting-the-art-of-erasing-stickers-in-social-media-clips/"><u>[Updated] Perfecting the Art of Erasing Stickers in Social Media Clips</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-taking-flight-to-better-photos-an-intensive-look-at-dji-sparks-miniature-design-for-2024/"><u>[Updated] Taking Flight to Better Photos An Intensive Look at DJI Spark's Miniature Design for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-unveiling-the-elite-best-15-supports-for-gopro-cameras-for-2024/"><u>[Updated] Unveiling The Elite Best 15 Supports for GoPro Cameras for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-ultimate-techniques-for-screen-recording-games-on-win10/"><u>2024 Approved Ultimate Techniques for Screen Recording Games on Win10</u></a></li>
+<li><a href="https://win-blog.techidaily.com/get-your-hogwarts-adventure-going-smoothly-with-our-essential-guide-top-8-fixes-for-startup-crashes/"><u>Get Your Hogwarts Adventure Going Smoothly with Our Essential Guide - Top 8 Fixes for Startup Crashes</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-hide-location-on-apple-iphone-14-pro-max-and-android-without-others-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Hide location on Apple iPhone 14 Pro Max and Android without others knowing | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-newbies-guide-to-vlogging-gear-and-software-insights/"><u>In 2024, Newbie's Guide to Vlogging Gear and Software Insights</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mold-amusement-pictures-for-giphy-platform-for-2024/"><u>Mold Amusement Pictures for Giphy Platform for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/simplified-tutorial-mastering-meets-background-blur-for-2024/"><u>Simplified Tutorial Mastering Meet's Background Blur for 2024</u></a></li>
+</ul></div>
 

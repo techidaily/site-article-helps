@@ -1,7 +1,7 @@
 ---
 title: "[New] Boosting Visual & Auditory Composition with Custom Filters & Melodies (Windows 10 Photos) for 2024"
-date: 2024-08-22T20:02:35.067Z
-updated: 2024-08-23T20:02:35.067Z
+date: 2024-12-24T00:09:53.502Z
+updated: 2024-12-26T02:42:16.601Z
 tags: 
   - screen-recording
   - ai video
@@ -33,6 +33,10 @@ Having Windows 10 Photos app is an advantage for you. This is not like any other
 
 **You may also like:** [How to Trim Video in Windows 10 Photos Easily >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to add filters on Windows 10 Photos App
 
 If you have got Windows 10 Photos app and wish to add filters, though, it is by default a photo viewing app, its editing features are worth to mention. This step by step guide is your perfect savior in that case.
@@ -45,11 +49,19 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-filters.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3**: Now, you will be in an video editing page. You can name your video at start or later.
 
 **Step 4**: Click Filters at tool bar. Microsoft Photos has 14 filters you can use, including classic, adventure, sepia and so on.
 
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/edit-filters-microsoft-photos.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5**: Just select one you like. Preview it and then click Done.
 
@@ -69,20 +81,22 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 
 ![add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/choose-music-to-video-photos-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5**: Hit the ‘Done’ button.
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 From the above article, we conclude that Windows 10 Photos app is an amazing app when it comes to photo editing and screen capturing from a video. While there are numerous options out there, you can **_add filters using Windows 10 Photos app_** in the best way possible. Moreover, this application enables you enable to even add music to videos using Windows 10 Photos app. The advantages of Windows 10 are innumerable, and with the right tools, you can get the best out of it.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
@@ -106,4 +120,23 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-free-from-marks-acquiring-unmarked-stock-photography/"><u>[New] 2024 Approved Free From Marks Acquiring Unmarked Stock Photography</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-ultimate-guide-to-scouting-for-best-free-srt-translation-tools-for-2024/"><u>[New] The Ultimate Guide to Scouting for Best Free SRT Translation Tools for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-top-ten-ios-slideshow-creation-software-for-2024/"><u>[New] Top Ten iOS Slideshow Creation Software for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-where-to-find-high-quality-copyright-free-game-audio-online/"><u>[New] Where to Find High-Quality Copyright-Free Game Audio Online</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-owning-your-sound-instagrams-ip-framework/"><u>[Updated] 2024 Approved Owning Your Sound Instagram's IP Framework</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-best-youtube-to-gif-makers-you-should-use-online-and-desktop-for-2024/"><u>[Updated] Best YouTube To GIF Makers You Should Use (Online & Desktop) for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-perfect-hdr-portraits-with-our-expert-techniques-for-2024/"><u>[Updated] Perfect HDR Portraits with Our Expert Techniques for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-elevating-engagement-finding-your-youtube-segment/"><u>2024 Approved Elevating Engagement Finding Your YouTube Segment</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-lava-yuva-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-tecno-pova-5-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Tecno Pova 5?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-motorola-g54-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Motorola G54 5G to Another | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/icloud-separation-how-to-disconnect-apple-iphone-7-plus-and-ipad-by-drfone-ios/"><u>iCloud Separation How To Disconnect Apple iPhone 7 Plus and iPad</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/identifying-ai-generated-content-4-essential-chatgpt-detection-apps-for-academics-and-supervisors/"><u>Identifying AI-Generated Content: 4 Essential ChatGPT Detection Apps for Academics and Supervisors</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-oppo-a58-4gmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Oppo A58 4GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/understanding-the-streaming-landscape-twitch-vs-youtube-compared/"><u>Understanding the Streaming Landscape Twitch Vs YouTube Compared</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/k-online-visibility-with-essential-vids-tools/"><u>Unlock Online Visibility with Essential Vids' Tools</u></a></li>
+</ul></div>
 

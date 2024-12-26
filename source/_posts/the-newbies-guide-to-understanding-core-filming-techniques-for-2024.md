@@ -1,7 +1,7 @@
 ---
 title: "The Newbie's Guide to Understanding Core Filming Techniques for 2024"
-date: 2024-08-22T20:06:56.037Z
-updated: 2024-08-23T20:06:56.037Z
+date: 2024-12-20T04:35:19.976Z
+updated: 2024-12-25T20:31:14.698Z
 tags: 
   - screen-recording
   - ai video
@@ -41,6 +41,10 @@ We hope you read this article with all concentration so that your new project is
 
 ## Part 1: 7 Types of Shots in film You Should Know
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Establishing Shot
 
 As the name hints itself, this type of camera shot basically establishes the scene the audience sees as the [first shot of your movie](https://en.wikipedia.org/wiki/Establishing%5Fshot).
@@ -53,9 +57,6 @@ With this type of [shot in the film](https://tools.techidaily.com/wondershare/fi
 
 ![Establishing Shot](https://images.wondershare.com/filmora/filmorapro/establishing-shot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ### 2\. Extreme Long Shot
 
 This type of camera shot is taken from a long distance. This brings the audience an idea where the character belongs to regarding the time and the place.
@@ -64,12 +65,6 @@ You will also allow the audience to know the emotional relationship to the envir
 
 ![Extreme Long Shot](https://images.wondershare.com/filmora/filmorapro/extreme-long-shot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 3\. Long Shot
 
 Long shot or often known as the wide shot uses characters in the shot. Each character is shown head to toe in relation to the surroundings, location or each other.
@@ -88,9 +83,6 @@ For instance, the audience must get the idea whether your character is confident
 
 ![Full Shot](https://images.wondershare.com/filmora/filmorapro/full-shot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ### 5\. Medium Shot
 
 Medium shot basically stands between the full and the close-up shot.
@@ -101,6 +93,10 @@ The purpose of this shot is to keep the character looking natural.
 
 ![Medium Shot](https://images.wondershare.com/filmora/filmorapro/medium-shot.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. Close-Up shot
 
 The name brings a crystal clear image of the type of shot itself. With this shot, one brings out the character’s face thereby helping the audience to understand the emotional thoughts of the character.
@@ -110,8 +106,9 @@ This shot basically provides what you miss in the [medium shot](https://tools.te
 ![Close-Up shot](https://images.wondershare.com/filmora/filmorapro/close-up-shot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 7\. Extreme Close Up
 
 To make the audience visualize only some features of the character, the Extreme Close-up comes in handy.
@@ -120,9 +117,6 @@ This type of shot in films aims to fit the single feature on the entire screen. 
 
 **You may also like:** [10 Best Free Security Camera Software >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: Shots Angles for Camera
 
 ### 8\. Eye Shots
@@ -132,24 +126,17 @@ These types of shots are taken keeping the camera exactly at the [human eye leve
 ![Eye Shots](https://images.wondershare.com/filmora/filmorapro/eye-shots.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 9\. High Shots
 
 High angled shots, unsurprisingly are recorded from the level above than the eye. Basically, this shot type is used to give the weak, unsafe or the terrified impact of the subject.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 10\. Low Shots
 
 Contrary to the above, this type of shot in the film is taken from the level below than the eye. And not to mention, low shots are used to give the heroic, risky or powerful impact to the subject.
@@ -157,11 +144,13 @@ Contrary to the above, this type of shot in the film is taken from the level bel
 ![Low Shots](https://images.wondershare.com/filmora/filmorapro/low-shots.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 11\. Tilt shots
 
 To give an effect of uneasy psychological state to the audience, on should go for the tilt shots.
@@ -178,15 +167,16 @@ Also, the subject in these shots, faces the camera making their neck and shoulde
 
 ![Over-the-Shoulder Shot](https://images.wondershare.com/filmora/filmorapro/over-the-shoulder-shot.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 13\. Cut-In
 
 This shot typically cuts the screen into two or three or sometimes four parts.
 
 It is helpful when you have multiple things to be shown as important in one scene. It takes close-up of the thing that you want to show your viewer.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ### 14\. Master Shot
 
 A shot that is recorded from a single angle and is an uninterrupted shot to bring all the characters in view is referred to as the [master shot](https://tools.techidaily.com/wondershare/filmora/download/).
@@ -216,8 +206,9 @@ Please help us by sharing your views on this so that we will update you with mor
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -241,4 +232,26 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-auditory-interpretation-software-priceless-access/"><u>[Updated] 2024 Approved Auditory Interpretation Software Priceless Access</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-mastering-video-creation-filmoras-key-edits-for-lovers/"><u>[Updated] 2024 Approved Mastering Video Creation Filmora’s Key Edits for Lovers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-connect-with-community-spots-a-dynamic-guide-for-local-explorers-on-the-move/"><u>[Updated] Connect with Community Spots A Dynamic Guide for Local Explorers on the Move</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-detailed-inspection-elite-edition-parrot-drone/"><u>[Updated] Detailed Inspection Elite Edition Parrot Drone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-how-to-craft-standout-videos-mastery-of-youtube-thumbnail-dimensions-for-2024/"><u>[Updated] How to Craft Standout Videos Mastery of YouTube Thumbnail Dimensions for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-edit-hauls-a-comprehensive-video-guide/"><u>[Updated] How to Edit Hauls A Comprehensive Video Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-final-cut-pros-best-combo-of-10-vfx-plug-ins/"><u>[Updated] In 2024, Final Cut Pro's Best Combo of 10 VFX Plug-Ins</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-innovative-video-edits-made-simple-with-windows-10s-story-remix/"><u>[Updated] In 2024, Innovative Video Edits Made Simple with Windows 10'S Story Remix</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-the-ultimate-list-of-top-5-mac-streamers/"><u>[Updated] In 2024, The Ultimate List of Top 5 Mac Streamers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-leading-hexa-flight-top-10-hexacopters/"><u>[Updated] Leading Hexa-Flight Top 10 Hexacopters</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-mastering-360-video-making-with-ios-devices-for-2024/"><u>[Updated] Mastering 360 Video Making with iOS Devices for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-navigating-new-horizons-the-essence-of-vr-travel-for-2024/"><u>[Updated] Navigating New Horizons The Essence of VR Travel for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-fixes-for-when-your-computer-cant-find-msvcp60dll/"><u>Essential Fixes for When Your Computer Can't Find MSVCP60.DLL</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/free-online-swf-to-mp4-video-converter-by-movavi-simple-secure-and-fast/"><u>Free Online SWF to MP4 Video Converter by Movavi: Simple, Secure & Fast</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-fidelity-performance-desktops-for-2024/"><u>High Fidelity Performance Desktops for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-vivo-y56-5g-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Vivo Y56 5G Phone Hassle-Free</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshoot-non-detection-of-seagate-hard-disk-on-win11/"><u>Troubleshoot Non-Detection of Seagate Hard Disk on Win11</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/understanding-instagrams-video-restriction-for-2024/"><u>Understanding Instagram's Video Restriction for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-claude-3-takes-precedence-over-chatgpt-unveil-4-critical-factors/"><u>Why Claude 3 Takes Precedence Over ChatGPT – Unveil 4 Critical Factors</u></a></li>
+</ul></div>
 

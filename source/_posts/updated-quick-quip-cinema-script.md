@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Quick Quip Cinema Script"
-date: 2024-12-12T22:35:27.943Z
-updated: 2024-12-17T04:14:23.538Z
+date: 2024-12-19T17:12:16.252Z
+updated: 2024-12-25T20:34:43.108Z
 tags: 
   - screen-recording
   - ai video
@@ -27,15 +27,15 @@ Today, we look at seven important aspects of a great short film script and how y
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1\. 7 tips for improving short film scripts
 
 There's never been a better time to learn the craft of writing short film scripts. Interest and access to creating and viewing short films and series episodes have exploded worldwide, both on television and on the web. A great short film can also open doors for you into the film industry, as Barry Jenkins discovered with his great screenplay for the short film My Josephine, which I wrote in my screenwriting class at Florida State University.
 
 But writing a successful short script is not easy. It requires the craft and concentration of a medieval artist carving scenes into walnut. So here are seven tips for creating a short script.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Storyline
 
@@ -46,10 +46,6 @@ This is always, always, the number one problem for my screenwriting students. Th
 ### 2\. Characterization
 
 Writing compelling short scripts requires what Thornton Wilder called "shortcuts to the imagination." And knowing what your main character wants in your story is the most important shortcut to understanding and discovering who your main character is. So, give your main character a desire or yearning for something that matters deeply to her. Then let your story flow from your character's efforts to achieve that wish. The best stories, short or long, are about the human heart.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. An independent story
 
@@ -73,11 +69,19 @@ It's helpful to think of a screenplay as a pattern of significant human change t
 
 If you want to see a well-crafted surface and deep action/character arc in a fifteen-page script, read Chapter 17 _"Killer Kart"_ in the book Making Short Scripts That Connect 5e, and screen the movie on the book's website. It's no surprise that the film is the most screened film ever made at the FSU Film School.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. Sublimation
 
 Scenes are the **"church of drama"**, as William Gibson also brilliantly says. So, it's helpful to think of your scenes as the time and place where a significant moment of change will occur, throwing your script into the next scene and moving your story forward. That is your purpose when you write a scene, to dramatize the moment (or moments) of change. That's what matters. I like to think of a scene as an oyster and a moment of change as a pearl. Then cut to your scenes as close to the moment of change as possible and exit as soon as possible.
 
 I got it, really got it, as a young playwright when the Actors Theater of Louisville commissioned me to write a ten-minute play. And I did—in six scenes that I hit late and left early, each with a small but significant moment of change that moved the story into the next scene. “A tender and effortless glissando that gracefully stretches from moment to wistful moment,” as The Los Angeles Times put it in my all-time favorite review.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 7\. Ending
 
@@ -87,14 +91,6 @@ The end of a script is often more important than the 90 pages that preceded it. 
 
 ![example script defining](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2\. How to edit your short film?
 
 Have you ever stored various videos and photos on a memory card or on a computer? Why not create a movie to show them off? Once finish making a great movie, you can share it with others in a variety of ways including on YouTube, Facebook, and Instagram. Your followers will be amazed at the extraordinarily delightful works. In fact, making a movie using your own photos, videos and audio is easy.
@@ -102,6 +98,10 @@ Have you ever stored various videos and photos on a memory card or on a computer
 **Make a short film with [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) Easy Movie Maker**.
 
 Below, we will show you have to use this easy movie maker to create a video with Filmora in clicks.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Import your files and arrange the order
 
@@ -121,15 +121,15 @@ To add text to the video, click the "Text" button, choose a text type, and drag 
 
 * More features to discover can be found by clicking [**Extraordinary Features of Filmora**](https://tools.techidaily.com/wondershare/filmora/download/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3.Save the video in the format of your choice
 
 When everything is done, hit the “Create” button, and you'll see several options: save it as a video file, convert it for viewing on your mobile phone or tablet, directly upload to your YouTube or Facebook account and burn to DVD. Choose an output method as you like and click “Create”. After a few seconds, a folder with the newly reformatted video will open automatically.
 
 ![save the video](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -149,6 +149,10 @@ It's also a useful way to think of the script as an energy system, as William Gi
 
 ![an independent story](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Conflict
 
 Conflict is every point of opposition between two forces (physical or intellectual), as well as the consequences of this opposition - all in full view of what can be seen on the screen, whether through cinema, television, or devices.
@@ -159,25 +163,21 @@ Instead, screenwriters are tasked with presenting the conflict on screen through
 
 ![conflict](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Turning Point
 
 It's helpful to think of a screenplay as a pattern of significant human change that you create at specific moments of change—the discoveries and decisions your main character makes that change the character and move the story forward. What your character wants and is trying to achieve in your short is the surface action – the events we see on screen. And how these events forever change a character's inner landscape is deep action—your character arc.
 
 If you want to see a well-crafted surface and deep action/character arc in a fifteen-page script, read Chapter 17 _"Killer Kart"_ in the book Making Short Scripts That Connect 5e, and screen the movie on the book's website. It's no surprise that the film is the most screened film ever made at the FSU Film School.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. Sublimation
 
 Scenes are the **"church of drama"**, as William Gibson also brilliantly says. So, it's helpful to think of your scenes as the time and place where a significant moment of change will occur, throwing your script into the next scene and moving your story forward. That is your purpose when you write a scene, to dramatize the moment (or moments) of change. That's what matters. I like to think of a scene as an oyster and a moment of change as a pearl. Then cut to your scenes as close to the moment of change as possible and exit as soon as possible.
 
 I got it, really got it, as a young playwright when the Actors Theater of Louisville commissioned me to write a ten-minute play. And I did—in six scenes that I hit late and left early, each with a small but significant moment of change that moved the story into the next scene. “A tender and effortless glissando that gracefully stretches from moment to wistful moment,” as The Los Angeles Times put it in my all-time favorite review.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 7\. Ending
 
@@ -188,7 +188,7 @@ The end of a script is often more important than the 90 pages that preceded it. 
 ![example script defining](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. How to edit your short film?
@@ -218,7 +218,7 @@ To add text to the video, click the "Text" button, choose a text type, and drag 
 * More features to discover can be found by clicking [**Extraordinary Features of Filmora**](https://tools.techidaily.com/wondershare/filmora/download/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3.Save the video in the format of your choice
@@ -228,7 +228,7 @@ When everything is done, hit the “Create” button, and you'll see several opt
 ![save the video](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -263,24 +263,24 @@ Don't be afraid to start writing your next (or first) short film! It might seem 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-cutting-edge-video-ideas-for-maximum-impact/"><u>[New] In 2024, Cutting-Edge Video Ideas for Maximum Impact</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-top-best-background-erase-software/"><u>[New] In 2024, Top Best Background Erase Software</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-creating-captivating-iphone-lengthened-photos/"><u>[Updated] 2024 Approved Creating Captivating iPhone Lengthened Photos</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-capturing-chronos-mastering-phantoms-time-extension-feature/"><u>[Updated] Capturing Chronos Mastering Phantom's Time Extension Feature</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-copyright-freedom-tunes-best-free-melodies-for-zen/"><u>[Updated] Copyright-Freedom Tunes - Best Free Melodies for Zen</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-audience-accessibility-switching-from-srt-to-sub/"><u>[Updated] In 2024, Audience Accessibility Switching From SRT to SUB</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-clear-picture-perfection-the-best-online-image-enhancers/"><u>[Updated] In 2024, Clear Picture Perfection The Best Online Image Enhancers</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-earthy-editing-free-screen-templates-that-elevate-video-creation-skills/"><u>[Updated] In 2024, Earthy Editing Free Screen Templates that Elevate Video Creation Skills</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-speaking-to-tomorrow-iphone-voice-memo/"><u>[Updated] Speaking to Tomorrow - iPhone Voice Memo</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-troubleshoot-and-resolve-netflix-issues-on-your-xbox-one-console/"><u>How to Troubleshoot and Resolve Netflix Issues on Your Xbox One Console</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-effortless-srt-to-txt-conversion-in-under-minutes/"><u>In 2024, Effortless SRT to TXT Conversion in Under Minutes</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-freesync-freedom-meets-4k-excellence-in-samsung-ue590/"><u>In 2024, FreeSync Freedom Meets 4K Excellence in Samsung UE590</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-superior-vector-file-polishing/"><u>In 2024, Superior Vector File Polishing</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/initial-steps-in-kinetic-illustration-techniques-for-2024/"><u>Initial Steps in Kinetic Illustration Techniques for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209853597-9788792252227-integral-meditation/"><u>Integral Meditation | Free Book</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1726225281307-mp4avimovavi/"><u>MP4到AVI轉換指南：用Movavi快速簡單版教學</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/review-of-mlb-the-show-19-beautiful-graphics-infused-with-unanticipated-role-playing-game-aspects/"><u>Review of MLB The Show 19: Beautiful Graphics Infused with Unanticipated Role-Playing Game Aspects</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-convenient-sx620-a-powerful-photography-ally/"><u>The Convenient SX620: A Powerful Photography Ally</u></a></li>
-<li><a href="https://article-helps.techidaily.com/viewers-delight-discovering-top-6-engaging-content-formats/"><u>Viewer's Delight Discovering Top 6 Engaging Content Formats</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-phantom-3-face-off-apparition-4-unveiled/"><u>[New] 2024 Approved Phantom 3 Face-Off Apparition 4 Unveiled</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-deciphering-hand-tracking-methodologies/"><u>[New] Deciphering Hand Tracking Methodologies</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-cutting-edge-podcasting-garageband-edition/"><u>[New] In 2024, Cutting Edge Podcasting GarageBand Edition</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-instant-conferencing-zoom-in-the-eyes-of-gmail/"><u>[New] In 2024, Instant Conferencing Zoom in the Eyes of Gmail</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-unplug-and-replay-twitch-livestream-techniques/"><u>[New] Unplug and Replay Twitch Livestream Techniques</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-custom-logo-blueprints-draw-your-identity-from-free-formats/"><u>[Updated] In 2024, Custom Logo Blueprints Draw Your Identity From Free Formats</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-innovative-ai-tools-to-spark-your-podcast-written-name/"><u>[Updated] Innovative AI Tools to Spark Your Podcast' Written Name</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-streamline-your-pc-audio-with-simple-techniques-for-2024/"><u>[Updated] Streamline Your PC Audio with Simple Techniques for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-power-of-words-in-podcast-summaries-for-2024/"><u>[Updated] The Power of Words in Podcast Summaries for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-oppo-reno-8t-5g-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Oppo Reno 8T 5G</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-lava-blaze-2-pro-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Lava Blaze 2 Pro? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/windows-server-202n8/"><u>如何在 Windows Server 202N8中有效地設置復原點：簡潔解決方法</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/directx-12-on-windows-11-a-user-friendly-guide-to-download-and-installation/"><u>DirectX 12 on Windows 11: A User-Friendly Guide to Download and Installation</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-steps-to-alter-windows-msi-service-status/"><u>Essential Steps to Alter Windows MSI Service Status</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/jalan-lurus-untuk-memulai-perbaikan-hdd-tanpa-biaya-tutorial-berbahaya-untuk-memukau-formatasi-yang-kehamilan/"><u>Jalan Lurus Untuk Memulai Perbaikan HDD Tanpa Biaya! Tutorial Berbahaya Untuk Memukau Formatasi Yang Kehamilan</u></a></li>
+<li><a href="https://article-helps.techidaily.com/premiere-pro-refinements-for-iphone-hd-video-clarity-and-contrast-for-2024/"><u>Premiere Pro Refinements for iPhone HD Video Clarity and Contrast for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/prime-android-space-savers-compendium-for-2024/"><u>Prime Android Space-Savers Compendium for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-integration-how-these-top-7-applications-utilize-gpt-4/"><u>Understanding the Integration: How These Top 7 Applications Utilize GPT-4</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/using-emeditor-with-other-applications-a-comprehensive-guide/"><u>Using EmEditor with Other Applications: A Comprehensive Guide</u></a></li>
 </ul></div>
 

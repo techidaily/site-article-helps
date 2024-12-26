@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Steady Yourself Against Oculus Nausea"
-date: 2024-08-22T20:01:02.173Z
-updated: 2024-08-23T20:01:02.173Z
+date: 2024-12-25T04:04:54.306Z
+updated: 2024-12-25T17:20:55.349Z
 tags: 
   - screen-recording
   - ai video
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/60a050976608e9140d90809a0ac2529ef41e9995b
 ##### Benjamin Arango
 
  Mar 27, 2024• Proven solutions
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10 ways to prevent Oculus Rift motion sickness
 
@@ -50,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/60a050976608e9140d90809a0ac2529ef41e9995b
 
 **10\. Try not to move your head a lot.** Since motion sickness directly corresponds to movement, reducing your head movement left and right and up and down in one place can help you lower the chances of sickness.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Oculus have done to reduce motion sickness
 
  With the new, innovative VR devices and the head gear technology has taken a huge leap. Oculus Rift has become widely popular among its enthusiastic users. When Oculus released its first Development kit (DevKit 1) the users experienced the symptoms such as nausea, dizziness, sweating and vomiting. Even Oculus CEO Brendan Iribe experienced “motion sickness” with his own product, while using last year’s “DevKit 1” prototype. These sickness issues were so common while using DevKit 1 that its users called it the “Rift Sickness”.
@@ -57,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/60a050976608e9140d90809a0ac2529ef41e9995b
  Since Oculus Rift DK1 came to the market, people were really unhappy with the sickness it gave to them. Oculus saw that issue as a big threat, and started to develop DK2 with a much better display. In the original DK1, Oculus Rift used the liquid crystal display (LCD) to display visual in its devices. LCD screen had been of very much advantage because of its brightness, geometric distortion, and less electricity consumption. But it still had been promoting to the sickness issue because of its sluggish motion time response. In replacement of LCD screens, Oculus Rift has introduced OLED (organic light emitting diode) screens which have proved to be a much better idea. Experiments of Oculus Rift with OLED screens have been successful so far in reducing motion sickness to its minimal. OLED has a much faster rate and thus much enhanced positional tracking.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -81,8 +93,22 @@ Follow @Benjamin Arango
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-in-depth-review-vrs-winning-features-and-faults-for-2024/"><u>[New] In-Depth Review VR's Winning Features & Faults for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-reinforcing-photo-viewing-functionality-with-windows-10-solutions-for-2024/"><u>[New] Reinforcing Photo Viewing Functionality with Windows 10 Solutions for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/eizing-video-popularity-key-seo-tools-revealed/"><u>[New] Seizing Video Popularity – Key SEO Tools Revealed</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-gradual-sound-escalation-auditions-guide-to-fades/"><u>[New] The Gradual Sound Escalation Audition’s Guide to Fades</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-swaps-in-film-history-7-best/"><u>[New] Top Swaps in Film History #7 Best</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-vllo-feedback-compilation/"><u>[Updated] 2024 Approved VLLO Feedback Compilation</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-best-practices-for-converting-youtube-hosted-tweets-into-mp3s/"><u>[Updated] In 2024, Best Practices for Converting YouTube-Hosted Tweets Into MP3s</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-time-saving-photo-enhancement-adding-dates-to-pictures-for-2024/"><u>[Updated] Time-Saving Photo Enhancement Adding Dates to Pictures for 2024</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-realme-c33-2023-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/elevating-professional-skills-the-essentials-of-video-editing-on-windows-10/"><u>Elevating Professional Skills The Essentials of Video Editing on Windows 10</u></a></li>
+<li><a href="https://article-helps.techidaily.com/how-to-use-movie-maker-on-windows-11/"><u>How to Use Movie Maker on Windows 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-picks-7-premium-mac-videos/"><u>In 2024, Expert Picks 7 Premium Mac Videos</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-infinix-note-30-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Infinix Note 30 5G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-f04frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy F04FRP Lock</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-optimal-thumbnail-size-for-engagement-for-2024/"><u>The Optimal Thumbnail Size for Engagement for 2024</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->

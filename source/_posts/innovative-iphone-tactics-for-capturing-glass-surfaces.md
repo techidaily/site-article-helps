@@ -1,7 +1,7 @@
 ---
 title: "Innovative iPhone Tactics for Capturing Glass Surfaces"
-date: 2024-08-22T20:01:33.559Z
-updated: 2024-08-23T20:01:33.559Z
+date: 2024-12-25T01:36:03.600Z
+updated: 2024-12-26T03:58:28.714Z
 tags: 
   - screen-recording
   - ai video
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002
 
  So let's get snapping!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Tips For Perfect Reflective Photography With Your iPhone
 
 #### 1\.  The Surface
@@ -47,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002
  A Crystal/Glass Ball
 
 ![reflection-photography-for-iPhone](https://images.wondershare.com/filmora/article-images/crystal-ball.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Water in a wine glass (turns everything upside down too!)
 
@@ -80,6 +88,10 @@ thumbnail: https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002
 
 ![awful-composition](https://images.wondershare.com/filmora/article-images/awful-composition.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 4\.  Reality and Reflection
 
  Don't just focus on the reflection, these tend to distract from how good the reflection is. Of course if the reflective surface reflects too well and you just focus on that. The image might come out as looking the same as if you had just pointed and shot the subject.
@@ -97,6 +109,10 @@ thumbnail: https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002
  It is also just good photography practice to have your subjects bend and distort the light. The contrasts make for an aesthetically beautiful image, and makes post production optimization even easier.
 
 ![make-use-of-texture](https://images.wondershare.com/filmora/article-images/make-use-of-texture.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Post Production Reflective Effects
 
@@ -135,6 +151,10 @@ thumbnail: https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002
 
 ![photo-mirror-effects-reflection-editor](https://images.wondershare.com/filmora/article-images/photo-mirror-effects-reflection-editor.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Another great choice for getting started with reflective photography. It has some mid range editing features, but this is made up in it's easy of use. Perhaps one of the best free reflective photography apps and you can even share the images directly to your social media feeds.
 
  The app also has a large library of free and premium templates for you to use...
@@ -164,8 +184,21 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-essential-convertor-list-best-5-online-gif-to-video-apps-for-2024/"><u>[New] Essential Convertor List Best 5 Online GIF to Video Apps for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-brainpower-of-moto-z2-detailed-insights/"><u>[New] The Brainpower of Moto Z2 Detailed Insights</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-straightforward-steps-for-hassle-free-high-dynamic-range/"><u>[Updated] 2024 Approved Straightforward Steps for Hassle-Free High Dynamic Range</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-creating-a-unique-identity-in-the-flood-of-live-streams-for-2024/"><u>[Updated] Creating a Unique Identity in the Flood of Live Streams for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-learn-to-optimize-your-watchlist-using-dual-screens-on-netflix/"><u>[Updated] Learn to Optimize Your Watchlist Using Dual Screens on Netflix</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-visionarys-manual-selecting-the-most-compelling-4k-displays-today/"><u>[Updated] The Visionary's Manual Selecting the Most Compelling 4K Displays Today</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-perfecting-video-calls-merging-zoom-and-skype-expertise/"><u>2024 Approved Perfecting Video Calls Merging ZOOM and SKYPE Expertise</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/dell-xps-prise-and-purchase-considerations/"><u>Dell XPS Prise and Purchase Considerations</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-becoming-a-visionary-in-depth-guide-to-hdr-photography/"><u>In 2024, Becoming a Visionary In-Depth Guide to HDR Photography</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-estimated-video-monetization-totals/"><u>In 2024, Estimated Video Monetization Totals</u></a></li>
+<li><a href="https://techtrends.techidaily.com/prime-time-a-compilation-of-top-rated-sport-movies-you-cant-miss-today/"><u>Prime Time: A Compilation of Top-Rated Sport Movies You Can't Miss Today!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/rapid-driver-refresh-for-amd-ryzen-5-2500u-how-to-achieve-optimal-performance/"><u>Rapid Driver Refresh for AMD Ryzen 5 2500U | How to Achieve Optimal Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-win-11-discord-js-catastrophe-practical-solutions/"><u>Resolving Win 11 Discord JS Catastrophe: Practical Solutions</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-rated-television-streaming-services-reviews-and-guides/"><u>Top Rated Television Streaming Services – Reviews & Guides!</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

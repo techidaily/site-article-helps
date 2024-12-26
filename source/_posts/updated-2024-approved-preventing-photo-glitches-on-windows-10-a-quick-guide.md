@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Preventing Photo Glitches on Windows 10  A Quick Guide\""
-date: 2024-12-12T07:00:34.870Z
-updated: 2024-12-17T03:43:59.821Z
+date: 2024-12-21T05:40:32.390Z
+updated: 2024-12-26T00:26:23.021Z
 tags: 
   - screen-recording
   - ai video
@@ -45,10 +45,14 @@ In this article, we have compiled the best solutions for you to get rid of Windo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix Windows 10 Photos app crashes
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Solution 1: Use the Troubleshooter
@@ -63,15 +67,11 @@ Here is how to troubleshoot –
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/Troubleshooter.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. From the list of Apps displayed on the screen, click ‘Windows Store Apps’ and press the ‘Next’ button.
 2. Now, the troubleshooter will troubleshoot every app within the Windows Store Applications and fix them in a jiffy.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Solution 2: Restore Default Libraries
 
@@ -84,6 +84,10 @@ Restoring the default libraries would resolve the Windows 10 Photos App crash is
 
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/windows-10-photos-app-crashes-restore.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Lastly, click on ‘Apply’ followed by ‘OK’ and the issue will be resolved.
 
 ### Solution 3: Reset it
@@ -95,10 +99,6 @@ Here is how can you reset it –
 1. Go to ‘Windows 10 Start Menu’ and then click ‘Settings’. Now, click the ‘Apps (Apps & Features)’ option followed by the ‘Photos’ app.
 2. Hit ‘Advanced Options’ and click ‘Reset’ button thereafter.
 3. Now, you got to restart your Windows system, so that Windows 10 Photos App crashing problem can be easily resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Solution 4: Repair Photos App package
 
@@ -129,7 +129,7 @@ From the above article, we have concluded that experiencing Windows 10 Photos Ap
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
@@ -159,22 +159,19 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-premium-free-ticking-companion/"><u>[New] In 2024, Premium Free Ticking Companion</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-the-ultimate-photoshop-guide-to-text-becoming-3d-for-2024/"><u>[New] The Ultimate Photoshop Guide to Text Becoming 3D for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-uninterrupted-airdrop-connections-in-the-world-of-iphones-and-macs-for-2024/"><u>[New] Uninterrupted AirDrop Connections in the World of iPhones & Macs for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-unraveling-the-mysteries-of-smooth-audioshifts-for-2024/"><u>[New] Unraveling the Mysteries of Smooth Audioshifts for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-achieving-broadcast-excellence-your-guide-to-youtubes-live-360-videos/"><u>[Updated] 2024 Approved Achieving Broadcast Excellence Your Guide to YouTube's Live 360 Videos</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-best-10-free-downloads-legal-meditation-melodies-for-2024/"><u>[Updated] Best 10 Free Downloads Legal Meditation Melodies for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-unlocking-the-potential-of-minecraft-recording-with-macos-for-2024/"><u>[Updated] Unlocking the Potential of Minecraft Recording with MacOS for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/from-airwaves-to-archives-expert-tips-on-recording-live-streams-for-2024/"><u>From Airwaves to Archives Expert Tips on Recording Live Streams for 2024</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/how-can-i-fix-a-fluctuating-sluggish-wi-fi-or-ethernet-link-a-guide-by-yl-software/"><u>How Can I Fix a Fluctuating, Sluggish Wi-Fi or Ethernet Link: A Guide by YL Software</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-crafting-compelling-conversations-essential-expressions/"><u>In 2024, Crafting Compelling Conversations Essential Expressions</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Where Is the Best Place to Catch Dratini On Apple iPhone 13 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/navigating-the-path-to-prominence-9-proven-strategies-for-instagram-stars/"><u>Navigating the Path to Prominence 9 Proven Strategies for Instagram Stars</u></a></li>
-<li><a href="https://games-able.techidaily.com/sonoma-os-insights-into-apples-game-mode/"><u>Sonoma OS: Insights Into Apple’s Game Mode</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/tecnicas-para-restaurar-una-unidad-raiz-desaparecida-accidentalmente-en-windows-10/"><u>Técnicas Para Restaurar Una Unidad Raíz Desaparecida Accidentalmente en Windows 10</u></a></li>
-<li><a href="https://article-helps.techidaily.com/the-binary-divide-metaverse-vs-multiverse-explained-for-2024/"><u>The Binary Divide Metaverse Vs Multiverse Explained for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/top-pfr-rate-for-sluggish-film-speed-for-2024/"><u>Top PFR Rate for Sluggish Film Speed for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/your-ultimate-guide-to-polarr-image-editing-software/"><u>Your Ultimate Guide to Polarr Image Editing Software</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-deciphering-hand-tracking-methodologies/"><u>[New] 2024 Approved Deciphering Hand Tracking Methodologies</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-the-complete-drone-equipment-collection-guide/"><u>[New] 2024 Approved The Complete Drone Equipment Collection Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-cost-free-treasure-hunts-finding-gorgeous-tiktok-backdrops/"><u>[New] In 2024, Cost-Free Treasure Hunts Finding Gorgeous TikTok Backdrops</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-sage-select-best-general-knowledge-channels/"><u>[Updated] 2024 Approved Sage Select Best General Knowledge Channels</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-full-picture-unraveling-the-google-podcast-application/"><u>[Updated] Full Picture Unraveling the Google Podcast Application</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-exploring-the-essence-of-vimeo-a-leader-in-video-platforms/"><u>[Updated] In 2024, Exploring the Essence of Vimeo A Leader in Video Platforms</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-master-full-length-youtube-watching-mode/"><u>[Updated] In 2024, Master Full-Length YouTube Watching Mode</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-master-plan-top-6-modernist-minecraft-villas/"><u>[Updated] In 2024, Master Plan Top 6 Modernist Minecraft Villas</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-pro-level-comparison-2022s-gopro-hero5-and-virb-streamers-for-2024/"><u>[Updated] Pro-Level Comparison 2022'S GoPro Hero5 & VIRB Streamers for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-ultimate-mac-users-guide-to-utilizing-preview-to-its-maximum/"><u>[Updated] The Ultimate Mac User's Guide to Utilizing Preview to Its Maximum</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-ultimate-list-of-digital-schooling-sites-for-your-course-needs/"><u>Discover the Ultimate List of Digital Schooling Sites for Your Course Needs</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-y27s-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo Y27s to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/is-sns-hdr-the-best-for-your-hdr-needs-insights/"><u>Is SNS HDR the Best for Your HDR Needs? Insights</u></a></li>
+<li><a href="https://article-helps.techidaily.com/navigating-the-world-of-internet-hilarity/"><u>Navigating the World of Internet Hilarity</u></a></li>
 </ul></div>
 

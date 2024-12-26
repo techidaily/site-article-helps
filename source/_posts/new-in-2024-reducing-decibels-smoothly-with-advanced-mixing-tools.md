@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Reducing Decibels Smoothly with Advanced Mixing Tools"
-date: 2024-12-12T11:57:41.167Z
-updated: 2024-12-16T18:13:47.875Z
+date: 2024-12-22T20:46:19.196Z
+updated: 2024-12-25T23:28:57.662Z
 tags: 
   - screen-recording
   - ai video
@@ -37,10 +37,6 @@ Step1 The first and foremost task to do is the successful installation of FL Stu
 
 ![open fl studio](https://images.wondershare.com/filmora/article-images/2022/07/open-fl-studio.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2 Open your FL Studio window on your pc or mac. Then, choose the right volume parameter for the creation of automation in your FL studio. You can do it using the mixer channel method.
 
 Step3 After getting the volume parameter, now you will need to create automation. For this, you will have to click right in the volume layer and then tap on ‘Create Automation Clip’.
@@ -48,7 +44,7 @@ Step3 After getting the volume parameter, now you will need to create automation
 ![create automation clips fl studio](https://images.wondershare.com/filmora/article-images/2022/07/create-automation-clips-fl-studio.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 After selecting that, there will be an addition of a new automation clip to the playlist.
@@ -56,7 +52,7 @@ After selecting that, there will be an addition of a new automation clip to the 
 Step4 Due to the automation clip, you will be able to do a smooth transition in and out of that song or audio. Now, you can create a suitable volume for fading your sound. If you want to create another new automation, then click on the right. After that click on the left and drag it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. FL Studio Alternative to Fade Audio
@@ -77,23 +73,31 @@ Step2 To fade audio in, you have to go to the audio setting. Then drag the point
 
 ![fade audio in](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step3 If you want your audio to fade out, again go to the audio setting. Then drag the pointer to the fade-out option. Now set your duration and see the fade-out effect.
 
 No matter which audio editing software, what matters is the learning outcome. Learn the features of different editing software and choose what is suitable for you. If you are a beginner, then watch some tutorial videos on YouTube and read some Quora on google. Those who are just interested in audio editing and want to learn more should first try out [Filmora](https://tools.techidaily.com/wondershare/filmora/download/), whereas if you have a basic idea about FL Studio then you can definitely go for it.
 
 ## Related FAQs of FL Studio Audio Editing
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. How to fade out FL studio mobile?
 
 If you want to fade out your audio in FL on your mobile phone, tap on the waveform icon which is present on the top left side of the audio. It will now open the drop-down menu where you can do automation and then select volume.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. How to crescendo in FL studio?
 
 If you want to do crescendo in FL Studio, you can apply certain automation on your volume slider and can use that for adding some dynamics. There is another way of doing this by manually changing all the notes’ velocities to the dynamics you want.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. What is declicking mode FL studio?
 
@@ -116,16 +120,12 @@ No matter which audio editing software, what matters is the learning outcome. Le
 ## Related FAQs of FL Studio Audio Editing
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. How to fade out FL studio mobile?
 
 If you want to fade out your audio in FL on your mobile phone, tap on the waveform icon which is present on the top left side of the audio. It will now open the drop-down menu where you can do automation and then select volume.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. How to crescendo in FL studio?
 
@@ -159,21 +159,21 @@ Declicking is an option that helps to remove ‘Clicks’ in the beginning or en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-the-goofy-adventure-a-critical-appraisal-videotape-edition/"><u>[New] 'The Goofy Adventure' - A Critical Appraisal Videotape Edition</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-commanding-attention-best-in-class-tiktok-caption-ideas-for-audiene-engagement/"><u>[New] 2024 Approved Commanding Attention Best-in-Class TikTok Caption Ideas for Audiene Engagement</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-elite-choices-in-total-sweep-cinematography/"><u>[New] 2024 Approved Elite Choices in Total Sweep Cinematography</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-how-to-maximize-your-cricket-viewing-with-premium-livestreams/"><u>[New] 2024 Approved How to Maximize Your Cricket Viewing with Premium Livestreams</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-advanced-3d-design-for-stylish-text-creations/"><u>[New] Advanced 3D Design for Stylish Text Creations</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-virtual-ventures-top-tech-for-immersive-experiences/"><u>[New] In 2024, Virtual Ventures Top Tech for Immersive Experiences</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-kickstart-profits-earnings-blueprint-for-periscope-novices-for-2024/"><u>[New] Kickstart Profits Earnings Blueprint for Periscope Novices for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-mastery-in-missed-tips-on-bypassing-edgenuity-video-instructions-efficiently/"><u>[New] Mastery in Missed Tips on Bypassing Edgenuity Video Instructions Efficiently</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-decoding-the-secrets-to-success-in-spotify-ads/"><u>[Updated] 2024 Approved Decoding the Secrets to Success in Spotify Ads</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-top-8-websites-for-3d-graffiti-fonts/"><u>[Updated] 2024 Approved Top 8 Websites for 3D Graffiti Fonts</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-optimal-routines-to-alter-track-tempoplay-in-spotify/"><u>[Updated] In 2024, Optimal Routines to Alter Track Tempoplay in Spotify</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-transforming-home-security-the-rise-of-multi-camera-recorders-for-2024/"><u>[Updated] Transforming Home Security The Rise of Multi-Camera Recorders for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gptzero-the-key-to-unmasking-ai-text-craftsmanship/"><u>GPTZero: The Key to Unmasking AI Text Craftsmanship</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-cartoonize-your-memories-a-simple-guide-to-converting-videos/"><u>In 2024, Cartoonize Your Memories A Simple Guide to Converting Videos</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolved-eliminating-persistent-noxplayer-pc-shutdowns-and-glitches/"><u>Resolved: Eliminating Persistent NoxPlayer PC Shutdowns and Glitches</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-vivo-y36i-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Vivo Y36i to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-command-line-magic-opening-srt-for-windows-macos/"><u>[New] 2024 Approved Command Line Magic Opening SRT for Windows, MacOS</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-exploring-why-filmmakers-cherish-filmora-features/"><u>[New] Exploring Why Filmmakers Cherish Filmora Features</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-polarr-editor-essentials-unlocking-the-potential-of-images/"><u>[New] Polarr Editor Essentials Unlocking the Potential of Images</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-earning-potential-unveiled-youtube-adsense-earning-per-thousand-video-observations/"><u>[Updated] Earning Potential Unveiled YouTube AdSense Earning per Thousand Video Observations</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-best-steadicams-for-dsrl-filming/"><u>[Updated] In 2024, Best Steadicams for DSRL Filming</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-crafting-hidden-silence-tracks-with-audacity/"><u>[Updated] In 2024, Crafting Hidden Silence Tracks with Audacity</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-on-air-in-minutes-easy-steps-to-start-a-live-stream/"><u>[Updated] In 2024, On Air in Minutes Easy Steps to Start a Live Stream</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-premium-picks-where-to-grab-classical-ringtones/"><u>[Updated] Premium Picks Where to Grab Classical Ringtones</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-top-8-speed-boosting-tools-for-android-users/"><u>[Updated] Top 8 Speed Boosting Tools for Android Users</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-captivating-viewers-with-youtubes-visual-polishing/"><u>2024 Approved Captivating Viewers with Youtube's Visual Polishing</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/can-i-use-sabrent-ssds-with-pre-installed-disk-cloning-tools/"><u>Can I Use Sabrent SSDs with Pre-Installed Disk Cloning Tools?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/expert-recommendations-prime-apps-for-mac-video-recording/"><u>Expert Recommendations Prime Apps for Mac Video Recording</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/how-to-play-mts-video-format-on-your-mac-step-by-step-tutorial-for-all-devices/"><u>How to Play MTS Video Format on Your Mac: Step-by-Step Tutorial for All Devices</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-special-features-virtual-location-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Realme Narzo N55? | Dr.fone</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/optimizing-fastcgi-configuration-for-improved-server-performance/"><u>Optimizing FastCGI Configuration for Improved Server Performance</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-hidden-evernote-capabilities-to-enhance-your-productivity/"><u>Top Hidden Evernote Capabilities to Enhance Your Productivity</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Optimal Scripting Solutions in AE"
-date: 2024-12-12T05:19:34.108Z
-updated: 2024-12-17T00:41:42.476Z
+date: 2024-12-23T04:43:38.699Z
+updated: 2024-12-25T23:48:15.342Z
 tags: 
   - screen-recording
   - ai video
@@ -25,10 +25,6 @@ Adobe After Effects remains one of the most powerful ways to edit videos. One of
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## TextDelay
 
 Link: <https://www.toolfarm.com/buy/plugin%5Feverything%5Ftextdelay/>
@@ -36,10 +32,6 @@ Link: <https://www.toolfarm.com/buy/plugin%5Feverything%5Ftextdelay/>
 TextDelay is a native plugin, meaning that you will find it already installed on After Effects. As the name suggests, you can use TextDelay to delay any other text transformations that you may add to the text and it allows you to delay these transformations by word, line, or even character. It comes with a range selector that allows you to have precise control over which characters can get the effect.
 
 ![text delay plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-delay-plugin.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## TextExploder
 
@@ -50,7 +42,11 @@ TextExploder is an After Effects plugin that is developed by MamoWorld and it al
 ![text exploder plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-exploder-plugin.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iExpressions 2
@@ -69,6 +65,10 @@ If you want to create the perfect shape behind your text, then TextBox is a good
 
 ![text box plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-box-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Font Manager
 
 Link: <https://aescripts.com/font-manager/>
@@ -78,7 +78,11 @@ Font Manager is an After Effects text plugin that is useful when creating and wo
 ![font manager plugin](https://images.wondershare.com/filmora/article-images/2022/07/font-manager-plugin.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Cartoon Moblur
@@ -88,10 +92,6 @@ Link: <https://www.toolfarm.com/buy/plugin%5Feverything%5Fcartoon%5Fmoblur>
 This is the most ideal plugin to choose when you want to add motion trail to the graphics in your video, but you want them to appear very cartoony. If you have used the motion blur effect in After Effects, Cartoon Moblur will behave in a similar function, but it is more suited to 2D, flat or minimal graphics. Some of the factors that you can customize include the length of the blur (shutter angle), color, and opacity.
 
 ![cartoon moblur plugin](https://images.wondershare.com/filmora/article-images/2022/07/cartoon-moblur-plugin.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Shadow Studio
 
@@ -115,6 +115,10 @@ The Artificial Intelligence Titles is an After Effects text plugin that is desig
 
 ![artificial intelligence titles plugin](https://images.wondershare.com/filmora/article-images/2022/07/artificial-intelligence-titles-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Text Library
 
 Link: <https://videohive.net/item/text-library-handy-text-animations/21932974>
@@ -124,11 +128,7 @@ This is another great text animation bundle with different options for just abou
 ![text library plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-library-plugin.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -165,18 +165,20 @@ On its own After Effects comes with so many post-production effects and features
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-mastering-youtube-insights-for-channel-expansion/"><u>[New] In 2024, Mastering YouTube Insights for Channel Expansion</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-prime-choice-of-low-cost-hd-action-recorders-for-2024/"><u>[New] Prime Choice of Low-Cost HD Action Recorders for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-best-practices-for-safe-no-cost-vlc-player-download-on-apple-systems/"><u>[Updated] 2024 Approved Best Practices for Safe, No-Cost VLC Player Download on Apple Systems</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-film-fanatics-unite-ioss-best-free-and-paid-filmmaking-tools-for-2024/"><u>[Updated] Film-Fanatics Unite! IOS's Best Free & Paid Filmmaking Tools for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-maximizing-visibility-post-facebook-update/"><u>[Updated] In 2024, Maximizing Visibility Post-Facebook Update</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-monetizing-video-how-much-does-a-single-streamer-earn-for-2024/"><u>[Updated] Monetizing Video How Much Does a Single Streamer Earn for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-techniques-to-write-persuasive-videographic-dialogues/"><u>[Updated] Techniques to Write Persuasive Videographic Dialogues</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722867752229-discover-the-best-no-cost-movie-streamers-available-online-now/"><u>Discover the Best No-Cost Movie Streamers Available Online Now!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discover-the-ultimate-6-alternatives-to-chatgpt-for-smartphones-boosting-digital-interactions-anywhere/"><u>Discover the Ultimate 6 Alternatives to ChatGPT for Smartphones, Boosting Digital Interactions Anywhere</u></a></li>
-<li><a href="https://article-helps.techidaily.com/how-to-craft-viral-unboxing-content-on-social-media/"><u>How to Craft Viral Unboxing Content on Social Media</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-generate-laughter-giphys-art/"><u>In 2024, Generate Laughter Giphy's Art</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-the-ultimate-test-in-cinematography-gopro-vs-x1000v-action-cam/"><u>In 2024, The Ultimate Test in Cinematography GoPro Vs. X1000V Action Cam?</u></a></li>
-<li><a href="https://facebook.techidaily.com/1719145362026-tailoring-facebook-view-more-simplified-now/"><u>Tailoring Facebook View More Simplified Now</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-techniques-to-weave-narrative-into-visual-content/"><u>[New] 2024 Approved Techniques to Weave Narrative Into Visual Content</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-a-comprehensive-guide-to-understanding-and-using-slug-lines-for-2024/"><u>[New] A Comprehensive Guide to Understanding and Using Slug Lines for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-exploring-the-updated-sony-bdp-s6700-features/"><u>[New] Exploring the Updated Sony BDP-S6700 Features</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-the-pathway-to-instagrams-elite-circle-expanding-your-audience-with-key-tips/"><u>[New] In 2024, The Pathway to Instagram's Elite Circle Expanding Your Audience with Key Tips</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-insider-writers-on-popular-tiktok-wallpapers-for-2024/"><u>[New] Insider' Writers on Popular TikTok Wallpapers for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-darkening-brilliance-premiere-effects/"><u>[Updated] 2024 Approved Darkening Brilliance Premiere Effects</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-the-ultimate-guide-to-crafting-dynamic-canon-time-lapses/"><u>[Updated] In 2024, The Ultimate Guide to Crafting Dynamic Canon Time-Lapses</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-unlocking-the-secrets-to-becoming-an-exceptional-interviewer/"><u>[Updated] Unlocking The Secrets To Becoming An Exceptional Interviewer</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-next-gen-universe-expedition-metaverse-vs-omniverse-taken-into-account/"><u>2024 Approved The Next-Gen Universe Expedition Metaverse Vs. Omniverse Taken Into Account</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/amazon-live-for-beginners-features-pro-tips-and-future-trends/"><u>Amazon Live for Beginners Features, Pro Tips & Future Trends</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-8-ai-chrome-enhancements-boosting-your-work-efficiency/"><u>Best 8 AI Chrome Enhancements Boosting Your Work Efficiency</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-samsung-galaxy-a14-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Samsung Galaxy A14 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-samsung-galaxy-s23-fe-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Samsung Galaxy S23 FE without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-infinix-note-30-pro-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Infinix Note 30 Pro</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-review-navigating-features-on-the-blink-4-camera-outdoor-security-setup/"><u>In-Depth Review: Navigating Features on the Blink 4-Camera Outdoor Security Setup</u></a></li>
 </ul></div>
 

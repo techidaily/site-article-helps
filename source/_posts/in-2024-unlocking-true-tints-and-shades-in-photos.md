@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unlocking True Tints and Shades in Photos"
-date: 2024-12-12T11:42:44.543Z
-updated: 2024-12-16T19:25:01.451Z
+date: 2024-12-20T19:49:17.567Z
+updated: 2024-12-26T01:48:30.695Z
 tags: 
   - screen-recording
   - ai video
@@ -31,6 +31,10 @@ So instead of hiring various models, you can still display your collection by ch
 
 In this section, we will give you some beneficial tips and guidelines to change the photo color through [Adobe Photoshop](https://www.adobe.com/products/photoshop.html). Moreover, we will also mention a photo color editor online to change the colors instantly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Tip 1: Add Any Color to Your Shirt
 
 Do you want to change the color of any particular shirt in the photo? Then use Adobe Photoshop and open its main interface. Go to its "Quick Selection" tool and select around the shirt to change its color. Now go to the bottom right and click on "New Adjustment Layer," and tap on "Hue and Saturation.”
@@ -40,7 +44,7 @@ On the tab of hue and saturation, you can use hue, saturation, and brightness to
 ![change the hue to change color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Another way to change the color of the shirt is by navigating to the “Solid Color Adjustment Layer.” After that, you just need to apply the "Hue and Saturation Layer" to the previous layer to make the color changes quickly. Now blend the colors by either using hue or color mode to adjust the layers.
@@ -48,11 +52,7 @@ Another way to change the color of the shirt is by navigating to the “Solid Co
 ![select hue or color mode](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Tips 2: Use Black and White Colors
@@ -86,20 +86,20 @@ Do you want to change the color of a specific part of the image? You can do this
 ![access color range option](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 After clicking on the color range option, a pop-up window will appear from which tap on “Selection.” You can view your image on the preview window and can select the whole back using the “Selection” tool.
 
 ![select complete object](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Afterward, create a group in which add layers, mask, and adjustment layers to change the saturation, color, and brightness of the selected area accurately. To only change the color, drag the sliders of hue to do it instantly.
 
 ![change hue for changing color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Tip 6: Use Blend IF
 
@@ -110,23 +110,19 @@ Similarly, if you drag the “Blend IF” sliders towards white pints, it can hi
 ![select the channel color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 This method only hides color based on their luminance values; however, this loads the entire layer when loading the active pixels. Regardless, this can be changed into transparency. For this, you need to select the layer by right-clicking and selecting the option of “Convert to Smart Object.”
 
 ![convert to smart object](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-10.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 It helps the user create transparency across the layer. After hiding the layer and coming back to another object-specific layer, you can create a certain change in effect through adjustment layers. For instance, you can create a “Hue and Saturation” adjustment layer. With the above settings, Photoshop applies this as a layer mask for you. Use the sliders across the set layer to change the color across the selected areas.
 
 ![select your new color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 7\. Tip 7: Use Online Photo Editor to Change Colors
@@ -140,6 +136,10 @@ To change the color, navigate to this tool and upload the images. Then, head to 
 To increase or decrease the intensity of your color, use the “Tolerance” option, and drag it accordingly. If you want to change the hue of the source color, click on the box next to “Target Color.” If you have accidentally applied any color on some part, you can head to erase tab and can remove the alterations from the brush.
 
 ![choose target color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-13.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -169,20 +169,24 @@ Changing the color of a photo can save us a lot of work done and effort. To effo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-instant-gratification-boosting-fb-video-times/"><u>[New] In 2024, Instant Gratification Boosting FB Video Times</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-instagram-orchestra-capturing-harmony-on-social-media/"><u>[New] Instagram Orchestra Capturing Harmony on Social Media</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-pinnacle-photo-the-leading-6-4k-dslr-cameras-of-the-year-for-2024/"><u>[New] Pinnacle Photo The Leading 6 4K DSLR Cameras of the Year for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-sharing-the-spotlight-involving-viewers-in-your-journey/"><u>[New] Sharing the Spotlight Involving Viewers in Your Journey</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-unleashing-the-iphones-full-potential-with-10-composition-principles/"><u>[New] Unleashing the iPhone's Full Potential with 10 Composition Principles</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-enhancing-viewing-experience-with-added-captions-in-wmp/"><u>[Updated] In 2024, Enhancing Viewing Experience with Added Captions in WMP</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-apowersofts-technology-insightfully-analyzed-with-comparisons/"><u>2024 Approved Apowersoft's Technology Insightfully Analyzed with Comparisons</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On OnePlus Open | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/converter-offline-gratuito-per-convertire-i-gif-nei-file-mkv-con-moveavev/"><u>Converter Offline Gratuito per Convertire I GIF Nei File MKV Con Moveavev</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevate-task-management-on-windows-11/"><u>Elevate Task Management on Windows 11</u></a></li>
-<li><a href="https://article-helps.techidaily.com/hilarityhatcher-create-comedy-with-a-click/"><u>HilarityHatcher Create Comedy with a Click</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Nubia Z50S Pro? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-samsung-galaxy-m34-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Samsung Galaxy M34 5G FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/personalize-vr-gear-with-homemade-google-headgear/"><u>Personalize VR Gear with Homemade Google Headgear</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/quintessential-6-giants-mammoth-data-model-excellence/"><u>Quintessential 6 Giants: Mammoth Data Model Excellence</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-mastering-audio-recording-top-mics-for-4k-video/"><u>[New] 2024 Approved Mastering Audio Recording - Top Mics for 4K Video</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-maximizing-your-iphones-burst-photography/"><u>[New] 2024 Approved Maximizing Your iPhone's Burst Photography</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-streamline-your-screenshots-using-ezvides-capabilities/"><u>[New] 2024 Approved Streamline Your Screenshots Using EZvide's Capabilities</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-essential-steps-to-record-films-on-computersmacs-and-phones/"><u>[New] Essential Steps to Record Films on Computers/Macs & Phones</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-get-perfect-film-endings-for-your-projects-on-the-house-for-2024/"><u>[New] Get Perfect Film Endings for Your Projects - On the House for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-best-14-youtube-gaming-video-ideas-to-boost-gaming-channels/"><u>[New] In 2024, Best 14 YouTube Gaming Video Ideas to Boost Gaming Channels</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-harmonic-hub-curating-exceptional-dj-visual-downloads/"><u>[New] In 2024, Harmonic Hub Curating Exceptional DJ Visual Downloads</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-top-steadicam-models-compatible-with-dslr-cameras/"><u>[New] In 2024, Top Steadicam Models Compatible with DSLR Cameras</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-luminous-transformations-for-android-videos-step-by-step-for-2024/"><u>[New] Luminous Transformations for Android Videos Step by Step for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-masterclass-guide-15-tripods-perfect-for-gopro-for-2024/"><u>[New] Masterclass Guide 15 Tripods Perfect for GoPro for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-mastering-iphone-capturing-time-stretched-movies/"><u>[Updated] In 2024, Mastering iPhone Capturing Time-Stretched Movies</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-lights-spectrum-in-focus-pro-hdr-creation-tips-for-ps-for-2024/"><u>[Updated] Light's Spectrum in Focus Pro HDR Creation Tips for PS for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-integrating-sounds-and-music-into-your-instagram-videos/"><u>2024 Approved Integrating Sounds and Music Into Your Instagram Videos</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/budget-friendly-skies-ahead-holy-stone-hs170-predator-mini-rc-helicopter-drones-examined/"><u>Budget-Friendly Skies Ahead: Holy Stone HS170 Predator Mini RC Helicopter Drones Examined</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-apple-iphone-x-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your Apple iPhone X Without a Home Button</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-the-symphony-of-well-being-learn-from-asmr/"><u>In 2024, The Symphony of Well-Being – Learn From ASMR</u></a></li>
+<li><a href="https://article-helps.techidaily.com/interactive-horizinas-analyzing-the-triumvirate-of-tech-vr-ar-and-mr/"><u>Interactive Horizinas Analyzing the Triumvirate of Tech (VR, AR, & MR)</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-selection-secrets-top-7-free-effects-for-youtube/"><u>Sound Selection Secrets Top 7 Free Effects for YouTube</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ash-flow-of-creative-content-youtubers-earnings-per-sponsored-video/"><u>The Cash Flow of Creative Content Youtuber's Earnings per Sponsored Video?</u></a></li>
 </ul></div>
 

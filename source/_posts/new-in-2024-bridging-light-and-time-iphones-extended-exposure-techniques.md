@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Bridging Light and Time  IPhone's Extended Exposure Techniques\""
-date: 2024-12-12T11:45:06.955Z
-updated: 2024-12-16T18:12:59.576Z
+date: 2024-12-21T04:14:30.704Z
+updated: 2024-12-25T22:44:33.420Z
 tags: 
   - screen-recording
   - ai video
@@ -42,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/19639e4ac05cfca12a97f4159ad1c138d0c42ce69
 
  When you take long exposure shots using a digital SLR, the physical shutter which captures the image stays open for longer. You can also fiddle with the aperture size, to make it easier to capture these images in different light levels. This process is meticulously replicated by the iPhone's newest Photos app, so if you're already on iOS 11, here's how to use it:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Users on iOS 11
 
  First of all, make sure Live Photos is switched on. Within the camera app, simply tap the circular button in the middle of the top menu bar to turn it on. Once activated, the button will turn yellow and the 'live' notification will be shown on screen.
@@ -54,16 +58,12 @@ thumbnail: https://thmb.techidaily.com/19639e4ac05cfca12a97f4159ad1c138d0c42ce69
 
 ![long-exposure-effect-iphone](https://images.wondershare.com/filmora/article-images/long-exposure-effect-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Image resource: iPhoneMod
 
  Now bring up your live photo within the Photos app and bring up the effects selector. You can see this either by tapping 'details' or by simply swiping up whilst viewing the photo. There are lots of effects you can apply to your live photo, but the one we're looking for here is 'long exposure'. Simply tap this and your clever iPhone will make all the adjustments necessary to produce an awesome pro-looking photograph using long exposure.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Not a user of iOS 11?
@@ -73,6 +73,10 @@ thumbnail: https://thmb.techidaily.com/19639e4ac05cfca12a97f4159ad1c138d0c42ce69
  There are a number of these apps available on the app store, each with its own set of pros and cons. Take a look at [Slow Shutter Cam](https://itunes.apple.com/app/slow-shutter-cam/id357404131?mt=8), [Ultra Slow Shutter Cam PRO](https://itunes.apple.com/us/app/ultra-slow-shutter-cam-pro-professional-long-exposure/id741508910?mt=8), [Slow Shutter Insta](https://itunes.apple.com/ca/app/slow-shutter-insta-free-long-exposure-photo-cam-for/id730352755?mt=8) and [LongExpo](https://itunes.apple.com/us/app/longexpo-slow-shutter-and-long-exposure-camera/id594078421?mt=8) to discover some of the most popular apps of this type. Try them out, and see what works best for you.
 
 **You may also like:** [iPhone Night Photography Tips: Take Night Photos with iPhone >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Long Exposure Photography Tips
 
@@ -84,10 +88,6 @@ thumbnail: https://thmb.techidaily.com/19639e4ac05cfca12a97f4159ad1c138d0c42ce69
 * **Photograph moving objects:** Your Live Photo will translate better into a long exposure shot if you have something obviously moving in the image. Having a moving object against stationery surrounds works really well.
 
  This feature is one of the most exciting and interesting uses of Live Photos to date, and is well worth checking out if you haven't done so already.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What should you capture with your long exposure iPhone shots?
 
@@ -115,13 +115,13 @@ thumbnail: https://thmb.techidaily.com/19639e4ac05cfca12a97f4159ad1c138d0c42ce69
 
 ![low-light-long-exposure](https://images.wondershare.com/filmora/article-images/low-light-long-exposure.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Image resource: Nikonites
 
  Play around, try different things and get to know how variations in settings can change the outcome of your shots. Tinkering with exposure length is great fun, and will almost certainly result in some totally Facebook-worthy additions to your gallery.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## To conclude
 
@@ -132,7 +132,7 @@ thumbnail: https://thmb.techidaily.com/19639e4ac05cfca12a97f4159ad1c138d0c42ce69
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -160,21 +160,16 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-best-windows-video-editors-top-picks-for-professional-creatives/"><u>[New] 2024 Approved Best Windows Video Editors Top Picks for Professional Creatives</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-iphone-luminance-mastering-dark-imagery/"><u>[New] 2024 Approved IPhone Luminance Mastering Dark Imagery</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-mac-and-pcs-top-10-supercharged-srt-systems-unveiled/"><u>[New] 2024 Approved Mac & PC's Top 10 Supercharged SRT Systems Unveiled</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-dive-into-downloaded-subtitles-unlocking-youtubes-srt-files-with-a-trifecta-of-strategies/"><u>[Updated] Dive Into Downloaded Subtitles Unlocking YouTube's SRT Files with a Trifecta of Strategies</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-freely-accessible-platforms-for-professional-photography-edits/"><u>[Updated] Freely Accessible Platforms for Professional Photography Edits</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-best-church-live-streaming-services-uncovered/"><u>[Updated] In 2024, Best Church Live Streaming Services Uncovered</u></a></li>
-<li><a href="https://network-issues.techidaily.com/atheros-wi-fi-network-driver-solved-for-qualcomm-windows-11-compatibility/"><u>Atheros Wi-Fi Network Driver Solved for Qualcomm Windows 11 Compatibility</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-nokia-105-classic-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Nokia 105 Classic.</u></a></li>
-<li><a href="https://article-helps.techidaily.com/immerse-in-fun-the-top-samsung-gear-vr-games/"><u>Immerse in Fun The Top Samsung Gear VR Games</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-add-dynamic-blur-to-images-a-photoshop-journey/"><u>In 2024, Add Dynamic Blur to Images – A Photoshop Journey</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-elevating-ppt-impact-through-high-quality-recordings/"><u>In 2024, Elevating PPT Impact Through High-Quality Recordings</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-ue590-review-top-4k-game-display-with-fs/"><u>In 2024, The UE590 Review Top 4K Game Display with FS</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-vlc-versus-mpc-top-free-video-players-showdown/"><u>In 2024, VLC versus MPC Top Free Video Players Showdown</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/realme-11-pro-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Realme 11 Pro Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/samsung-galaxy-tab-a-2020-evaluation-absent-crucial-element/"><u>Samsung Galaxy Tab A (2020) Evaluation: Absent Crucial Element</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/os-excellence-leading-apps-to-unlock-youtube-videos-for-2024/"><u>[New] IOS Excellence Leading Apps to Unlock YouTube Videos for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-mastering-final-cut-the-ultimate-guide-for-2024/"><u>[New] Mastering Final Cut The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-thankful-views-complete-outro-template-library-for-2024/"><u>[New] Thankful Views Complete Outro Template Library for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-virtual-horizons-ranking-top-vr-gaming-titles-for-2024/"><u>[New] Virtual Horizons Ranking Top VR Gaming Titles for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-serene-soundtracks-copyright-free-legal-meditation-music/"><u>[Updated] 2024 Approved Serene Soundtracks – Copyright-Free, Legal Meditation Music</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-captivate-and-enchant-explore-the-best-creative-reactions-on-yt/"><u>[Updated] In 2024, Captivate and Enchant Explore the Best Creative Reactions on YT</u></a></li>
+<li><a href="https://extra-information.techidaily.com/building-a-custom-google-cardboard-for-immersive-experience/"><u>Building a Custom Google Cardboard for Immersive Experience</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/essential-guide-to-hashtagging-for-game-focused-yt-channels-for-2024/"><u>Essential Guide to Hashtagging for Game-Focused YT Channels for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-unopened-shares-in-geforce-for-w10w11-users/"><u>Resolving Unopened Shares in GeForce for W10/W11 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-clean-path-to-windows-11-integrity-and-performance/"><u>The Clean Path to Windows 11 Integrity and Performance</u></a></li>
+<li><a href="https://article-helps.techidaily.com/twilight-assessment-diverse-ideas/"><u>Twilight Assessment Diverse Ideas</u></a></li>
 </ul></div>
 

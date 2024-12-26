@@ -1,7 +1,7 @@
 ---
 title: "Showcasing Contributions & Thought Leadership"
-date: 2024-08-22T20:01:12.471Z
-updated: 2024-08-23T20:01:12.471Z
+date: 2024-12-24T18:56:40.357Z
+updated: 2024-12-26T05:35:52.992Z
 tags: 
   - screen-recording
   - ai video
@@ -44,14 +44,26 @@ thumbnail: https://thmb.techidaily.com/4099437332566bc0717087ad155c53eccdb95fb25
   
 ![view profile](https://images.wondershare.com/filmora/article-images/view-profile.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Scroll and reach the segment you wish to edit and click on Edit icon
 * Edit, add or remove text in the appropriate field
   
 ![edit profile]( https://images.wondershare.com/filmora/article-images/edit-profile.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Once editing is done, click SAVE
 
  For iOS and Android Users, you must tap on your profile picture and tap the edit icon on the top right of any segment you want to edit. Now, tap the add icon to make additions in that section or the edit icon on the right of the entry. A heading is a very important area that must be attractive and needs edit, apart from an updated photo, address, contact info, industry, and your experience.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part2: 7 Ways to Better LinkedIn Profile
 
@@ -67,6 +79,10 @@ thumbnail: https://thmb.techidaily.com/4099437332566bc0717087ad155c53eccdb95fb25
 
 ![edit experience](https://images.wondershare.com/filmora/article-images/edit-experience.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Upload Your Photo and Banner-** A right image can make the right impression. It conveys your energy, urges to learn or work, your charisma, responsiveness, and various other soft skills that cannot be always expressed in words. You must choose a clear, pleasant, approachable, and an aptly professional picture. If you are not sure what does a professional picture refer to then try to look around the LinkedIn profiles of your fellow colleagues or the people in the same industry or target companies to check out what are they wearing.
 
 ![upload photo](https://images.wondershare.com/filmora/article-images/upload-photo.JPG)
@@ -79,9 +95,6 @@ thumbnail: https://thmb.techidaily.com/4099437332566bc0717087ad155c53eccdb95fb25
 
 ![summary](https://images.wondershare.com/filmora/article-images/summary.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ## Concluison
 
  Setting up a LinkedIn profile is not a big deal but maintaining it professionally is definitely important and a big task. But, if you can follow the above LinkedIn profile tips, it can definitely help you to make your LinkedIn profile professional and effective.
@@ -89,8 +102,9 @@ thumbnail: https://thmb.techidaily.com/4099437332566bc0717087ad155c53eccdb95fb25
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -114,4 +128,19 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-a-beginners-guide-to-creating-impactful-slug-lines/"><u>[New] 2024 Approved A Beginner's Guide to Creating Impactful Slug Lines</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-mastering-snapchat-zooming-in-photos-and-videos/"><u>[New] In 2024, Mastering Snapchat Zooming in Photos & Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-lg-27ud68-4k-freesync-monitor-review/"><u>[New] LG 27UD68 4K FreeSync Monitor Review</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-fusing-visual-media-and-apple-audio/"><u>[Updated] In 2024, Fusing Visual Media and Apple Audio</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-perfect-video-conferencing-the-essential-list-of-10-free-recorders/"><u>[Updated] Perfect Video Conferencing The Essential List of 10 Free Recorders</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-ultimate-guide-to-engaging-youtube-reactions-top-10-for-2024/"><u>[Updated] The Ultimate Guide to Engaging YouTube Reactions (Top 10) for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/get-firefox-back-on-track-a-guide-to-overcoming-unresponsiveness-8-tips-included/"><u>Get Firefox Back on Track: A Guide to Overcoming Unresponsiveness (8 Tips Included)</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ideal-temperature-range-for-concrete-curing-is-between-5c-and-30c/"><u>Ideal Temperature Range for Concrete Curing Is Between 5°C and 30°C.</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-free-fast-and-easy-top-5-choices-for-pinterest-video-downloaders/"><u>In 2024, Free, Fast & Easy Top 5 Choices for Pinterest Video Downloaders</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723212279696-quick-fixes-for-your-non-functioning-mac-webcam-simple-solutions/"><u>Quick Fixes for Your Non-Functioning Mac Webcam – Simple Solutions</u></a></li>
+<li><a href="https://win-online.techidaily.com/step-by-step-guide-customizing-your-windows-account-preferences-via-the-control-panel-tech-insights-by-yl/"><u>Step-by-Step Guide: Customizing Your Windows Account Preferences via the Control Panel - Tech Insights by YL</u></a></li>
+</ul></div>
 

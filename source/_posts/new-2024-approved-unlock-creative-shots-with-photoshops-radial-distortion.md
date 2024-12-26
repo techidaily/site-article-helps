@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Unlock Creative Shots with Photoshop's Radial Distortion\""
-date: 2024-12-16T10:13:08.510Z
-updated: 2024-12-16T20:24:39.868Z
+date: 2024-12-24T16:36:40.648Z
+updated: 2024-12-25T16:26:43.114Z
 tags: 
   - screen-recording
   - ai video
@@ -27,6 +27,10 @@ If you are unaware of the radial blur effect, this article can act as a guide. T
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: What is a Radial Blur Effect?
 
 The radial blur effect is somehow similar to motion blur. This effect can be created at a slow shutter speed in the camera, or you can move or rotate your cameras in certain ways to create this effect. Many photographers also create a motion blur effect by zooming in at a slow shutter speed. By adding this effect, you will create a tunnel vision in your photos.
@@ -49,17 +53,21 @@ Step1 Open your Photoshop tool and upload the image that you want to edit. Click
 
 ![select the quick selection tool](https://images.wondershare.com/filmora/article-images/2022/12/radial-blur-effect-to-photos-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 To refine the selection, use the Alt key from your keyboard. Once done with the refinement, press "Ctrl + J" to copy the new background layer. To create the background layer on Mac, hit the "Command + J" combination.
 
 ![add the background layer](https://images.wondershare.com/filmora/article-images/2022/12/radial-blur-effect-to-photos-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 Afterward, click on the background layer and head to the "Filter" tab. From there, select "Blur" and tap "Radial Blur" from the drop-down menu. Adjust on the Radial Blur window by choosing "Zoom" as Blur Method. Also, select "Best" under the Quality section. Once done, adjust your Blur Center from the window.
 
 ![proceed with the radial blur](https://images.wondershare.com/filmora/article-images/2022/12/radial-blur-effect-to-photos-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step4 After making all the adjustments in the Radial Blur window, press the "OK" button. Once done, select the top layer and add a "Curve Adjustment Layer." Now adjust the curve properties according to your preference. Thus, you can see the radial blur effect on your photo on your screen.
 
@@ -77,6 +85,10 @@ For photo and video editing, Filmora provides several features such as Split Scr
 
 When it comes to effects, Filmora provides tons of vibrant effects such as Boris FX, Chroma Key, Mask and Blend, NewBlue FX, etc. Besides being a great photo and video editor, you can use this platform to edit and alter audio clips.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Steps to Create Radial Blur Effect Using Filmora
 
 Creating a radial blur effect in Filmora is extremely simple and easy. Its intuitive interface allows you to add a radial blur effect instantly with a few clicks. For your convenience, we have mentioned precise and authentic instructions below to create a radial blur effect in Filmora:
@@ -87,25 +99,21 @@ Begin by launching Wondershare Filmora on your PC. Afterward, tap on the "Create
 
 ![import the photo in filmora](https://images.wondershare.com/filmora/article-images/2022/12/radial-blur-effect-to-photos-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step 2 Add the Required Effect
 
 Drag and drop the photo in the timeline to proceed. Now go to the Effects tab and tap on the "Video Effects" option. From there, tap on "Utility" to explore multiple effects. Here, there are three blur effects that you can utilize: Mosaic, Tilt-shift Circle, and Tilt-shift Linear.
 
 ![access the video effects](https://images.wondershare.com/filmora/article-images/2022/12/radial-blur-effect-to-photos-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step 3 Adjust the Blur Settings
 
 Choose your preferred effect and drop it into the timeline. Now increase the duration of your effect according to the clip. Once done, double-click on the effect to open its properties. Here, you can adjust the size, intensity, and other elements of the blur effect.
 
 ![adjust the added blur settings](https://images.wondershare.com/filmora/article-images/2022/12/radial-blur-effect-to-photos-8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Step 4 Edit the Clip
 
@@ -114,7 +122,7 @@ You can also edit the clip by adding titles or more effects. Once done with the 
 ![export the photo with radial blur](https://images.wondershare.com/filmora/article-images/2022/12/radial-blur-effect-to-photos-9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -130,7 +138,7 @@ For photo and video editing, Filmora provides several features such as Split Scr
 When it comes to effects, Filmora provides tons of vibrant effects such as Boris FX, Chroma Key, Mask and Blend, NewBlue FX, etc. Besides being a great photo and video editor, you can use this platform to edit and alter audio clips.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Steps to Create Radial Blur Effect Using Filmora
@@ -160,14 +168,6 @@ Choose your preferred effect and drop it into the timeline. Now increase the dur
 You can also edit the clip by adding titles or more effects. Once done with the edits, hit the "Export" button given on top.
 
 ![export the photo with radial blur](https://images.wondershare.com/filmora/article-images/2022/12/radial-blur-effect-to-photos-9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -199,22 +199,18 @@ By reading this article, you have learned how to add a radial blur effect using 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-top-titles-essential-hd-video-playback-tools-freepaid/"><u>[New] 2024 Approved Top Titles Essential HD Video Playback Tools (Free/Paid)</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/est-study-partners-in-history-top-10-youtubers-and-channels/"><u>[New] Best Study Partners in History Top 10 Youtubers & Channels</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-laughs-at-your-service-web/"><u>[Updated] 2024 Approved Laughs at Your Service (Web)</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-streaming-mastery-zoom-plus-fb-live-tactics/"><u>[Updated] 2024 Approved Streaming Mastery ZOOM + FB Live Tactics</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-clear-up-cloud-calls-resolving-zoom-audio-glitches/"><u>[Updated] Clear Up Cloud Calls Resolving Zoom Audio Glitches</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-next-gen-photography-unveiling-auto-and-smart-hdr-features/"><u>[Updated] Next-Gen Photography Unveiling Auto and Smart HDR Features</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-samsung-galaxy-s8-in-depth-4k-phone-analysis/"><u>[Updated] Samsung Galaxy S8 In-Depth 4K Phone Analysis</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ease-through-excess-learn-the-quick-edits-for-large-drafters-on-tiktok/"><u>Ease Through Excess Learn the Quick Edits for Large Drafters on TikTok</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-download-ultimate-guide-to-installing-killer-e2500-gige-network-card-drivers/"><u>Free Download: Ultimate Guide to Installing Killer E2500 GigE Network Card Drivers</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-capture-striking-shots-using-leading-lines-iphone/"><u>In 2024, Capture Striking Shots Using Leading Lines (iPhone)</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Lava Yuva 3 | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/quickconvert-for-windows-10-seamless-hassle-free-dvd-to-mp4-conversion-with-winx-technology/"><u>QuickConvert for Windows 10: Seamless, Hassle-Free DVD to MP4 Conversion with WinX Technology</u></a></li>
-<li><a href="https://article-helps.techidaily.com/the-ultimate-2024-rendition-of-audiofreex-insight/"><u>The Ultimate 2024 Rendition of AudioFreex Insight</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-and-repairing-required-dll-file-absent-or-mismatched/"><u>Understanding and Repairing 'Required DLL File Absent or Mismatched'</u></a></li>
-<li><a href="https://article-helps.techidaily.com/unleash-potential-10-top-motivational-gems/"><u>Unleash Potential 10 Top Motivational Gems</u></a></li>
-<li><a href="https://article-helps.techidaily.com/waveform-whispering-how-to-gradually-reduce-volume-in-adobe/"><u>Waveform Whispering How to Gradually Reduce Volume In Adobe</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-toolwiz-photosapp-insights-the-full-2023-perspective-on-photography-tools/"><u>[New] 2024 Approved Toolwiz PhotosApp Insights - The Full 2023 Perspective on Photography Tools</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-lenslimits-how-to-manage-ig-picture-dimensions/"><u>[Updated] 2024 Approved LensLimits How to Manage IG Picture Dimensions</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-the-podcast-writers-toolkit-essential-strategies-and-samples/"><u>[Updated] 2024 Approved The Podcast Writer's Toolkit Essential Strategies & Samples</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-ultimate-list-of-public-domain-picture-banks-for-2024/"><u>[Updated] Ultimate List of Public Domain Picture Banks for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-why-are-my-photo-booth-videos-pausing-in-2024/"><u>[Updated] Why Are My Photo Booth Videos Pausing, In 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-troubleshooting-obs-fullscreen-failure/"><u>2024 Approved Troubleshooting OBS Fullscreen Failure</u></a></li>
+<li><a href="https://techtrends.techidaily.com/facebook-in-full-brightness-steps-to-re-enable-the-missing-dark-theme/"><u>Facebook in Full Brightness: Steps to Re-Enable the Missing Dark Theme</u></a></li>
+<li><a href="https://article-helps.techidaily.com/how-to-make-the-most-out-of-spotifys-advertising-features-for-2024/"><u>How to Make the Most Out of Spotify's Advertising Features for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-the-pro-gamers-screen-capture-strategy-for-xbox-one/"><u>In 2024, The Pro Gamer's Screen Capture Strategy for Xbox One</u></a></li>
+<li><a href="https://article-helps.techidaily.com/investigating-best-fps-for-outstanding-slow-motion-cinematography/"><u>Investigating Best FPS for Outstanding Slow-Motion Cinematography</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/section-2a-understanding-diastolic-dysfunction/"><u>Section 2A: Understanding Diastolic Dysfunction</u></a></li>
+<li><a href="https://fox-info.techidaily.com/srt-audio-file-handling-for-oses-for-2024/"><u>SRT Audio File Handling for OSes for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/tracing-your-instagram-fanbase-shifts-for-2024/"><u>Tracing Your Instagram Fanbase Shifts for 2024</u></a></li>
 </ul></div>
 
