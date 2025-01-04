@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, How to Use Preview App on Mac [Complete Guide]"
-date: 2024-12-24T17:21:47.987Z
-updated: 2024-12-25T21:40:34.720Z
+date: 2024-12-31T05:03:19.750Z
+updated: 2025-01-04T02:30:34.283Z
 tags: 
   - screen-recording
   - ai video
@@ -35,15 +35,15 @@ That said, the sections below explain **how to use Preview on Mac** for elementa
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to Use Preview to Edit Images \[Complete Guide\]
 
 Being the default image editor for Mac, Apple tried to make the **Preview app** as simple as possible. Therefore, modifying the photos in the program isn’t much complicated as compared to its competitors from different vendors.
 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to View and Edit Photos in Preview on Mac
 
@@ -60,7 +60,7 @@ As mentioned earlier, the **Preview app** is a default photo viewer on Mac that 
 * Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Show Markup Tools in Preview on Mac
@@ -76,6 +76,10 @@ Click the **Show Markup Toolbar** icon present at the upper-right area to reveal
 Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup Toolbar**.
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Crop in Preview
 
@@ -104,10 +108,6 @@ Use the method explained above to open the photo in Preview.
 **Step 2: Rotate the Image**
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Add Text to Image in Preview
 
@@ -141,6 +141,10 @@ Once the background portion of the image gets selected (colored in red), without
 
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Combine Images into One
 
 This process is generally used to place an object present in one image over the background of the other photo. A good example could be to place a picture of a fish on to a second photo that has a sea or river. The **Preview app** lets you do this easily using the following steps:
@@ -157,10 +161,6 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Save Images in Different Formats
 
 The **Preview app** has a built-in image converter as well. To convert an image to a different format with Preview, you must:
@@ -172,10 +172,6 @@ After opening an image, click **File** from the menu bar at the top, and click *
 **Step 2: Choose Output Format and Export**
 
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Part 2: FAQs About Preview App on Mac
 
@@ -211,6 +207,10 @@ Choose a destination folder in the **Where** field, select your preferred format
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -236,20 +236,15 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-easy-laughter-your-handy-meme-making-manual/"><u>[New] In 2024, Easy Laughter Your Handy Meme-Making Manual</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-the-essential-guide-to-video-spinning-in-vlc-media-player-for-2024/"><u>[New] The Essential Guide to Video Spinning in VLC Media Player for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-auditory-interpretation-software-priceless-access/"><u>[Updated] 2024 Approved Auditory Interpretation Software Priceless Access</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-final-cut-pros-best-combo-of-10-vfx-plug-ins/"><u>[Updated] In 2024, Final Cut Pro's Best Combo of 10 VFX Plug-Ins</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-the-ultimate-list-of-top-5-mac-streamers/"><u>[Updated] In 2024, The Ultimate List of Top 5 Mac Streamers</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-mastering-360-video-making-with-ios-devices-for-2024/"><u>[Updated] Mastering 360 Video Making with iOS Devices for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-navigating-new-horizons-the-essence-of-vr-travel-for-2024/"><u>[Updated] Navigating New Horizons The Essence of VR Travel for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-pro-tips-for-shooting-quality-gopro-time-lapse-videos/"><u>[Updated] Pro Tips for Shooting Quality GoPro Time-Lapse Videos</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-top-7-nft-generators-to-turn-your-artwork-into-nfts/"><u>[Updated] Top 7 NFT Generators to Turn Your Artwork Into NFTs</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/essential-steps-for-shutting-down-non-needed-programsservices-advice-from-yl-computing-experts/"><u>Essential Steps for Shutting Down Non-Needed Programs/Services: Advice From YL Computing Experts</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Google Pixel Fold | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-realme-narzo-60-5g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Realme Narzo 60 5G Phone?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-infinix-note-30i-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Infinix Note 30i Phone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-xiaomi-civi-3-disney-100th-anniversary-edition-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Xiaomi Civi 3 Disney 100th Anniversary Edition Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/windows-11-help-how-to-resolve-bugcodeusbdriver-and-stop-the-blue-screen-of-death/"><u>Windows 11 Help - How to Resolve 'BUGCODE_USB_DRIVER' And Stop the Blue Screen of Death</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-quick-start-engaging-with-friends-on-insta-chat/"><u>[New] Quick Start Engaging with Friends on Insta Chat</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-the-art-of-profile-age-precision-on-tiktok/"><u>[Updated] Mastering the Art of Profile Age Precision on TikTok</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-maximizing-youtube-shorts-earnings-essentials-and-profit-prospects/"><u>[Updated] Maximizing Youtube Shorts Earnings Essentials and Profit Prospects</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-androids-premier-8-apps-harmonizing-free-and-paid-videomosaic-experience/"><u>2024 Approved Android's Premier 8 Apps Harmonizing Free & Paid Videomosaic Experience</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-command-attention-on-instagram-nine-paths-to-social-media-glory/"><u>2024 Approved Command Attention on Instagram Nine Paths to Social Media Glory</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-full-review-utilizing-googles-voice-recognition-in-word-processing/"><u>2024 Approved Full Review Utilizing Google's Voice Recognition in Word Processing</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-present-day-drones-and-their-upcoming-role-evolution/"><u>2024 Approved Present-Day Drones and Their Upcoming Role Evolution</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-samsung-galaxy-f14-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Samsung Galaxy F14 5G Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://win-premium.techidaily.com/identifying-faulty-hardware-a-step-by-step-guide-yl-technology-solutions/"><u>Identifying Faulty Hardware: A Step-by-Step Guide - YL Technology Solutions</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On OnePlus 12? | Dr.fone</u></a></li>
 </ul></div>
 

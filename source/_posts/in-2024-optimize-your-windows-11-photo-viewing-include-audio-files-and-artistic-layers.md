@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Optimize Your Windows 11 Photo Viewing  Include Audio Files and Artistic Layers\""
-date: 2024-08-22T20:00:02.984Z
-updated: 2024-08-23T20:00:02.984Z
+date: 2024-12-28T13:00:57.236Z
+updated: 2025-01-04T13:12:40.772Z
 tags: 
   - screen-recording
   - ai video
@@ -33,6 +33,10 @@ Having Windows 10 Photos app is an advantage for you. This is not like any other
 
 **You may also like:** [How to Trim Video in Windows 10 Photos Easily >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to add filters on Windows 10 Photos App
 
 If you have got Windows 10 Photos app and wish to add filters, though, it is by default a photo viewing app, its editing features are worth to mention. This step by step guide is your perfect savior in that case.
@@ -51,6 +55,10 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/edit-filters-microsoft-photos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5**: Just select one you like. Preview it and then click Done.
 
 ## Part 2: How to add music on Windows 10 Photos App
@@ -65,15 +73,20 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 
 ![ add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/add-music-to-video-photos-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4**: Pick ‘Your music’ so that you can set up a custom track. There are over 20 music you can choose. You can also sync music to video's beat. You can visit ‘Recommended’ section for adding default ones.
 
 ![add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/choose-music-to-video-photos-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5**: Hit the ‘Done’ button.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 From the above article, we conclude that Windows 10 Photos app is an amazing app when it comes to photo editing and screen capturing from a video. While there are numerous options out there, you can **_add filters using Windows 10 Photos app_** in the best way possible. Moreover, this application enables you enable to even add music to videos using Windows 10 Photos app. The advantages of Windows 10 are innumerable, and with the right tools, you can get the best out of it.
@@ -81,8 +94,9 @@ From the above article, we conclude that Windows 10 Photos app is an amazing app
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
@@ -106,4 +120,20 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-bypass-samsungs-vr-camera-here-are-your-top-alternatives/"><u>[New] Bypass Samsung’s VR Camera - Here Are Your Top Alternatives</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-pixelpilot-studio-plus-advanced-os-recorder/"><u>[New] PixelPilot Studio Plus Advanced OS Recorder</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-synchronize-successfully-5-steps-for-data-migration-for-2024/"><u>[New] Synchronize Successfully 5 Steps for Data Migration for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-platform-debate-which-appliance-prevails-podcast-or-youtube/"><u>[New] The Platform Debate Which Appliance Prevails – Podcast or YouTube?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-adeptness-at-mobile-app-development-for-luts/"><u>[Updated] In 2024, Adeptness at Mobile App Development for LUTs</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-transition-smoothly-with-chromes-picture-in-picture/"><u>[Updated] In 2024, Transition Smoothly with Chrome’s Picture In Picture</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-ultimate-audio-compilations-for-video-production/"><u>[Updated] In 2024, Ultimate Audio Compilations for Video Production</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-movie-magic-solutions-questions-answered-for-2024/"><u>[Updated] Movie Magic Solutions Questions Answered for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-maximizing-fb-visibility-top-10-seo-strategies/"><u>2024 Approved Maximizing FB Visibility Top 10 SEO Strategies</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-nokia-c12-plus-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Nokia C12 Plus FRP Bypass Instantly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevating-intelligence-discovering-this-years-top-5-technological-frontiers/"><u>Elevating Intelligence: Discovering This Year's Top 5 Technological Frontiers</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-infinix-note-30-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Infinix Note 30? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/uncomplicated-methods-to-tackle-your-computers-second-screen-projection-difficulty/"><u>Uncomplicated Methods to Tackle Your Computer's Second Screen Projection Difficulty</u></a></li>
+</ul></div>
 

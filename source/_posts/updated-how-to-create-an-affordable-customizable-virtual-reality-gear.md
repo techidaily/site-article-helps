@@ -1,7 +1,7 @@
 ---
 title: "[Updated] How to Create an Affordable, Customizable Virtual Reality Gear"
-date: 2024-12-22T01:00:47.052Z
-updated: 2024-12-26T05:04:15.050Z
+date: 2025-01-02T07:08:00.243Z
+updated: 2025-01-03T17:32:22.641Z
 tags: 
   - screen-recording
   - ai video
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/bf80edb76b200416e748e081aeadfa243850d855f
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Steps for DIY VR
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/bf80edb76b200416e748e081aeadfa243850d855f
  In not more than 3 hours, people were able to construct their own virtual reality viewer. Do you also want to successfully make your own? Here’s what you will need, together with some important tips and tools to properly do it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1.The accessories you will need
@@ -60,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/bf80edb76b200416e748e081aeadfa243850d855f
  It is recommended to use the right type of cardboard, with the same thickness as that of a durable shoe box. You can use a pizza box, but make sure it offers enough flat surfaced material to work with. Of course, you want something durable, yet slim to work with. In some cases, a couple of additional items might be needed such as ceramic disc magnet, neodymium magnet, some pieces of Velcro, big rubber band and at least 45 mm lenses.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2.How to assemble accessories
@@ -76,7 +76,7 @@ thumbnail: https://thmb.techidaily.com/bf80edb76b200416e748e081aeadfa243850d855f
 * If necessary, affix the NFC tag to the cardboard.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Pros and cons of DYI Google cardboard
@@ -99,7 +99,7 @@ thumbnail: https://thmb.techidaily.com/bf80edb76b200416e748e081aeadfa243850d855f
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -127,20 +127,15 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-deciphering-the-art-of-voice-documentation/"><u>[New] 2024 Approved Deciphering the Art of Voice Documentation</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-tips-and-tricks-erasing-unwanted-backdrops/"><u>[New] 2024 Approved Tips and Tricks Erasing Unwanted Backdrops</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-navigating-the-intricacies-of-networked-livestream-with-vlc/"><u>[Updated] Navigating the Intricacies of Networked Livestream with VLC</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-leading-video-tech-best-cameras-s-musical-scenes/"><u>2024 Approved Leading Video Tech Best Cameras 'S Musical Scenes</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-tactics-for-flawless-solo-streaming-experiences/"><u>2024 Approved Top Tactics for Flawless Solo Streaming Experiences</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/cooler-masters-super-ultrawide-gaming-monitor-a-giant-57-inch-dual-4k-mini-led-display-perfect-for-gamers/"><u>Cooler Master's Super Ultrawide Gaming Monitor: A Giant 57-Inch, Dual-4K, Mini LED Display Perfect for Gamers</u></a></li>
-<li><a href="https://article-helps.techidaily.com/crucial-top-5-smallest-action-recorders-review/"><u>Crucial Top 5 Smallest Action Recorders Review</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/essential-steps-for-embedding-social-network-live-videos/"><u>Essential Steps for Embedding Social Network Live Videos</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-view-gpx-files-online-and-offline-solutions-of-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>How to View GPX Files Online and Offline Solutions Of Apple iPhone 15 Plus | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-discreet-audio-modulation-strategies-with-audacity/"><u>In 2024, Discreet Audio Modulation Strategies with Audacity</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-vivo-y78plus-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Vivo Y78+ Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-the-complete-guide-to-conquering-video-editing-with-vivocut/"><u>In 2024, The Complete Guide to Conquering Video Editing with VivoCut</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/strategies-to-avoid-pitfalls-in-designing-youtube-thumbnails-for-2024/"><u>Strategies to Avoid Pitfalls in Designing YouTube Thumbnails for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/successfully-updating-device-drivers-for-a-smooth-wow-experience/"><u>Successfully Updating Device Drivers for a Smooth WoW Experience</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/troubleshooting-pc-issues-fixing-ghostwire-tokyo-continuous-crashes/"><u>Troubleshooting PC Issues - Fixing 'Ghostwire: Tokyo' Continuous Crashes</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-pricepoint-nimbus-economical-mass-storage-haven/"><u>[New] In 2024, PricePoint Nimbus - Economical Mass Storage Haven</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-integrating-custom-luts-into-your-post-production-workflow-for-2024/"><u>[New] Integrating Custom LUTs Into Your Post-Production Workflow for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-oppo-reno-10-proplus-5g-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Oppo Reno 10 Pro+ 5G</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/build-your-own-personalized-chrome-dinosaur-experience-with-gendino/"><u>Build Your Own Personalized Chrome Dinosaur Experience with GenDino</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-guide-to-obtaining-the-latest-dell-d3100-laptop-device-driver-software/"><u>Easy Guide to Obtaining the Latest DELL D3100 Laptop Device Driver Software</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/guide-to-crafting-effective-festive-season-text-message-blitzes-via-massmail-software/"><u>Guide to Crafting Effective Festive Season Text Message Blitzes via MassMail Software</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-windows-11-screen-brightness-malfunction/"><u>How to Resolve Windows 11 Screen Brightness Malfunction</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-xiaomi-redmi-note-13-proplus-5g-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Xiaomi Redmi Note 13 Pro+ 5G</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-quintessential-memes-the-creation-guide/"><u>In 2024, Quintessential Memes The Creation Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/innovative-approaches-for-podcast-cover-art-mastery-for-2024/"><u>Innovative Approaches for Podcast Cover Art Mastery for 2024</u></a></li>
 </ul></div>
 
