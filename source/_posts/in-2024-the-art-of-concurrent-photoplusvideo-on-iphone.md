@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Art of Concurrent Photo+Video on iPhone"
-date: 2024-08-15T16:41:14.717Z
-updated: 2024-08-16T16:41:14.717Z
+date: 2025-01-05T20:05:01.918Z
+updated: 2025-01-10T21:57:11.901Z
 tags: 
   - screen-recording
   - ai video
@@ -40,13 +40,18 @@ thumbnail: https://thmb.techidaily.com/26c79816e74e12a8f414621a79d8575a6f7513edd
 
 ![](https://images.wondershare.com/filmora/article-images/take-photo-while-recording-videos-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image resource: igeeksblog.com
 
 * Now, to take a still, just tap on the white 'take picture' button that can be noticed at the left of the red button. The screen will flicker each time you press the button to take the photo.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### The drawbacks of taking photos and videos simultaneously
 
 *  One of the major drawbacks you can face is being unable to take stills from a time-lapse video in your iPhone.
@@ -63,15 +68,17 @@ thumbnail: https://thmb.techidaily.com/26c79816e74e12a8f414621a79d8575a6f7513edd
 | **iPhone 7 series**  | 4032 × 3024               | 3412 × 1920                                  | 3840 × 2160                               | 1280 × 720                                    |
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Extract frames from video
 
  If you are one of those who wish to **take photos while recording videos** without compromising the quality, we are glad to inform you that there is a solution for this. You can easily extract a specific frame from the recorded video keeping the standard resolution quality via Wondershare Filmora and will never be bothered about missing anything interesting from the video.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Why Choose Wondershare Filmora?
 
 * It supports a wide range of video formats and can help in extracting the desired frame out from any file format while keeping the quality intact as the original file.
@@ -81,13 +88,11 @@ thumbnail: https://thmb.techidaily.com/26c79816e74e12a8f414621a79d8575a6f7513edd
  Check this video to see how to extract photos from a video with Filmora:
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -113,4 +118,17 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-acquiring-free-music-youtube-video-edition/"><u>[Updated] 2024 Approved Acquiring Free Music YouTube Video Edition</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-composing-news-wrap-up-scripts/"><u>[Updated] 2024 Approved Composing News Wrap-Up Scripts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-fixing-warped-youtube-videos-step-by-step/"><u>2024 Approved Fixing Warped YouTube Videos Step-by-Step</u></a></li>
+<li><a href="https://article-helps.techidaily.com/designing-your-digital-persona-for-the-metaverse-for-2024/"><u>Designing Your Digital Persona for the Metaverse for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/easy-laughter-the-art-of-creating-funny-memes-for-2024/"><u>Easy Laughter The Art of Creating Funny Memes for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/exploring-with-polaroid-camplus-ultimate-action-footage/"><u>Exploring with Polaroid Cam+ Ultimate Action Footage</u></a></li>
+<li><a href="https://article-helps.techidaily.com/fundamentals-of-e-narrative-creation/"><u>Fundamentals of E-Narrative Creation</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1050232-9781780995182-immortal-yearnings/"><u>Immortal Yearnings | Free Book</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/protecting-your-perimeter-getting-started-with-the-blink-outdoor-wireless-security-system/"><u>Protecting Your Perimeter: Getting Started with the Blink Outdoor Wireless Security System</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solutions-for-resolving-propsysdll-file-cannot-be-located-issues/"><u>Solutions for Resolving 'Propsys.dll File Cannot Be Located' Issues</u></a></li>
+</ul></div>
 

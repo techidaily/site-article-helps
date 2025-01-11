@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Easiest Fix on How to Livestream a Podcast"
-date: 2024-08-15T16:42:19.652Z
-updated: 2024-08-16T16:42:19.652Z
+date: 2025-01-05T19:08:49.446Z
+updated: 2025-01-10T21:01:51.871Z
 tags: 
   - screen-recording
   - ai video
@@ -22,9 +22,17 @@ Live podcast streaming is the most appealing and interactive platform in the cur
 
 This article explains the power of live-stream podcasts, how to make a live podcast, and the platforms used for it. Talking about its diversity, it can be an interview, monologue, Q&A, customer interview/testimonial, educational show, or News. Well, we first have to know the impact podcasts have created worldwide. So let's jump right into it!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1\. The Power of Live Podcast Streaming
 
 Live streaming is worthwhile and something podcasters needs to learn and embrace. Here are some reasons why.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Get More Engagement With Audiences
 
@@ -35,13 +43,9 @@ And that's amazing as well when you look at the stats worldwide. According to th
 ![greater audience engagement](https://images.wondershare.com/filmora/article-images/2022/12/live-stream-podcast-1.jpg)
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Express Thoughts in Real-Time
 
 Another fantastic thing about live-stream video podcasts is the real-time expression of thoughts. You can interact with the virtual live audience and express your feelings, reviews, and ideas on many different topics. So it becomes a two-way conversation. Unlike films, seasons, or dramas, live podcasts show the real side of a person.
@@ -50,6 +54,10 @@ Another fantastic thing about live-stream video podcasts is the real-time expres
 
 Podcasts are emerging platforms for creating content. It requires a lot of creative work to get that going. However, most listeners are there to listen to live-stream video podcast content and focus more on it. So it creates a better bond. Unlike unending scrolling on social media platforms, a loyalty-based relationship is formed with the audience.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### A Huge Source of Revenue for Your Podcasts
 
 Not only is a live-stream podcast a way of gaining access to a global audience, but also a way to generate money. A podcaster can make money through sponsorships, affiliate sales, paid subscriptions, and complementary products.
@@ -57,13 +65,14 @@ Not only is a live-stream podcast a way of gaining access to a global audience, 
 According to [Oberlo](https://www.oberlo.com/statistics/podcast-revenue#:~:text=The%20latest%20statistics%20show%20that,%242.2%20billion%20by%20next%20year.)'s surveys, the latest statistics show the US is expected to hit $1.73 billion, a 28.6% annual increase in podcasting revenue. And revenue is expected to hit $2.2 billion by next year.
 
 ![us podcast revenue report of 2019-2024](https://images.wondershare.com/filmora/article-images/2022/12/live-stream-podcast-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 [Riverside](https://riverside.fm/blog/how-much-do-podcasters-make) says a podcaster can make $300-5000 per month. Affiliate sales, advertisements, paid subscriptions, and sponsorships helped podcasters to grow their income. And it also depends on the regular production of content and regular niche audience.
 
 ![money](https://images.wondershare.com/filmora/article-images/2022/12/live-stream-podcast-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 While according to research in the UK, podcasters make an average profit of 950 pounds a month, making an average of 11,440 pounds each year. While according to [Statista](https://www.statista.com/chart/17824/podcast-advertising-revenue-united-states/), $2.8 billion worldwide is expected to be spent on podcast ad streaming this year and will increase in the coming years.
 
@@ -102,13 +111,7 @@ World-famous podcasters map out the plans on paper. The theme, the guests, the i
 The writing is fundamental even if you are going to hold a monologue live podcast. So you have to brainstorm your topics and decide on the podcast theme. You have to invite the guests, give your podcast a name, and get the right equipment and setup. Everything needs to be scripted to have a podcast preview.
 
 ![review your podcast with a checklist](https://images.wondershare.com/filmora/article-images/2022/12/live-stream-podcast-5.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Set Up Your Podcasting Gear Properly
 
 Let's run through various gadgets used to start live podcast streaming and how to make a live podcast. Let's dive in!
@@ -128,18 +131,12 @@ Everyone has a smartphone, and you don't need to buy a new gadget, making it a c
 Many laptops and PC setups have internal webcams. However, the display gets grainy sometimes. You can also go for external webcams. The external webcams are tiny and portable. Maybe, you can try [Razor Kiyo Pro](https://www.razer.com/streaming-cameras/razer-kiyo-pro) with more than two micrometers which is superior to other 4K webcams. If you are a beginner with a low budget, you can always go for alternatives.
 
 ![razor kiyo pro](https://images.wondershare.com/filmora/article-images/2022/12/live-stream-podcast-6.jpg)
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) DSLR
 
 DSLR (digital single-lens reflex camera) is notable for allowing interchangeable lenses on the same camera body. However, it is just one type of digital camera. Investing in DSLR gives options for the future and provides crystal clear images, for example, [**Nikon COOLPIX B500**](https://www.nikonusa.com/en/nikon-products/product/compact-digital-cameras/coolpix-b500.html). It captures moments in full HD 1080p quality with stereo sound. It also counteracts shaky hands for tripod-steady videos.
 
 ![nikon coolpix b500](https://images.wondershare.com/filmora/article-images/2022/12/live-stream-podcast-7.jpg)
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **XLR or USB Microphone**
 
@@ -165,20 +162,26 @@ The mixer enhances the exemplary audio quality and offers multi-channel recordin
 
 ![yamaha mg series](https://images.wondershare.com/filmora/article-images/2022/12/live-stream-podcast-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Lighting**
 
 Lighting is the most intimidating part of the video live-streaming kit. It enables texture and depth to the video. Not only is the lighting essential, but also the positioning of light. It starts to create shadows on a person's face. Lighting drastically changes how someone looks in live streaming.
 
 ![elgato key light mini-portable led panel](https://images.wondershare.com/filmora/article-images/2022/12/live-stream-podcast-10.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Tripod Stands**
 
 ![ubeesize 67 phone tripod & selfie stick, and camera tripod stands](https://images.wondershare.com/filmora/article-images/2022/12/live-stream-podcast-11.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 An innovative, sturdy tripod stand can hold your camera and smartphone to capture steady frame shots. There are a lot of tripod stands online as well as in the offline market ranging from inexpensive to expensive ones. You can go for a [UBeesize 67" phone tripod & selfie stick, and a Camera Tripod stands](https://www.amazon.com/UBeesize-Wireless-Perfect-Recording-Streaming/dp/B09PH9PNYY/ref=sr%5F1%5F7?keywords=tripod+stands&qid=1667903065&sr=8-7) for perfect live streaming.
@@ -196,15 +199,9 @@ It is assumed that you already have that gadget. But if you don't have it and ar
 [**HP Pavilion AiO PC**](https://www.hp.com/us-en/shop/pdp/hp-pavilion-24-ca1005t-bundle-aio-pc) is another excellent option for beginners. It's budget-friendly and reliable. I have a 23.8" screen, Windows 11 Home, Intel® Core™ i7, 16GB RAM, 512GB SSD, and GeForce GTX 1650.
 
 ![hp pavilion aiO pc](https://images.wondershare.com/filmora/article-images/2022/12/live-stream-podcast-13.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 After assembling the gadgets, you must find a proper live-streaming place.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Find a Proper Place for Podcast Live
 
 Living styles and earning tactics have changed significantly in the post-pandemic era. Now you don't have to get to the offices to earn a decent earning. Instead, you can make your home studios have a live podcasting setup. Let's have a look at it.
@@ -233,8 +230,9 @@ Establishing a new indoor place is much cheaper and safer. However, you need the
 **Note:** It'll be better to choose an indoor environment because there is too much uncertainty for outdoor places. For example, you must be aware of people passing by while live streaming a podcast in a quiet park corner. It will be difficult for you to focus. Additionally, an indoor venue can better absorb ambient noise.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 5\. Carefully Choosing a Live Stream Platform
 
 Having identified the gadgets and the place, we will now focus on the live-streaming platforms. It would be best to consider a few factors while starting live video streaming. These are efficiency, multi-channel usage, timing, and simplicity. Otherwise, your energies will get consumed, and you will eventually get frustrated. A list of live-streaming platforms is given below.
@@ -249,16 +247,10 @@ Having identified the gadgets and the place, we will now focus on the live-strea
 
 Appearance matters! Whether you are going for an interview, going out at a party, or going live stream from home. For example, wearing darker colors may be good if you use a light background. Try not to wear some loud patterns like checks and stripes. Try to be as comfortable as you can according to the theme and content of the live stream.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 3\. Live Podcasts vs. Podcast Streaming
 
 "Are there any differences between the two?" Not at all! These are the same, but in some cases, "podcast streaming" is used for podcasts with a video element. Otherwise, these can be used interchangeably.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ## Final Words
 
 Live streaming is a new world for content creators. Even though they don't have the luxuries to edit or undo the content, that's the most fantastic part of it. You show the world your natural side. For independent broadcasters, building genuine and loyal connections is vital. There is no way better than this to go for live streaming.
@@ -278,15 +270,13 @@ Having identified the gadgets and the place, we will now focus on the live-strea
 Appearance matters! Whether you are going for an interview, going out at a party, or going live stream from home. For example, wearing darker colors may be good if you use a light background. Try not to wear some loud patterns like checks and stripes. Try to be as comfortable as you can according to the theme and content of the live stream.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3\. Live Podcasts vs. Podcast Streaming
 
 "Are there any differences between the two?" Not at all! These are the same, but in some cases, "podcast streaming" is used for podcasts with a video element. Otherwise, these can be used interchangeably.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## Final Words
 
 Live streaming is a new world for content creators. Even though they don't have the luxuries to edit or undo the content, that's the most fantastic part of it. You show the world your natural side. For independent broadcasters, building genuine and loyal connections is vital. There is no way better than this to go for live streaming.
@@ -313,4 +303,24 @@ Live streaming is a new world for content creators. Even though they don't have 
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-instagram-videos-how-long-can-they-be-for-2024/"><u>[New] Instagram Videos - How Long Can They Be for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-the-best-ten-spotify-equipment-for-high-quality-recording/"><u>[Updated] 2024 Approved The Best Ten Spotify Equipment for High-Quality Recording</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-techniques-to-deactivate-auto-played-podcast-suggestions-in-spotify/"><u>[Updated] Techniques to Deactivate Auto-Played Podcast Suggestions in Spotify</u></a></li>
+<li><a href="https://win-net.techidaily.com/are-there-file-size-requirements-for-creating-a-flipbook-from-pdf-inputs-in-flipbuilder-software/"><u>Are There File Size Requirements for Creating a Flipbook From PDF Inputs in FlipBuilder Software?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/cutting-edge-psd-drop-shadows/"><u>Cutting-Edge PSD Drop Shadows</u></a></li>
+<li><a href="https://article-helps.techidaily.com/elevate-and-engage-the-ultimate-seo-playbook-for-podcasters-for-2024/"><u>Elevate and Engage The Ultimate SEO Playbook for Podcasters for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/elevating-your-brand-key-tactics-for-testimonial-vids/"><u>Elevating Your Brand Key Tactics for Testimonial Vids</u></a></li>
+<li><a href="https://article-helps.techidaily.com/engaging-video-summaries-for-books-for-2024/"><u>Engaging Video Summaries for Books for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/enhance-online-interaction-embracing-closer-views/"><u>Enhance Online Interaction Embracing Closer Views</u></a></li>
+<li><a href="https://article-helps.techidaily.com/enhancing-zooms-visual-clarity-tips-and-tricks-for-2024/"><u>Enhancing Zoom's Visual Clarity Tips and Tricks for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/explore-the-best-websites-for-dynamic-sky-imaging-for-2024/"><u>Explore the Best Websites for Dynamic Sky Imaging for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/exploring-depths-smoothly-premium-camcorders-for-water-sports/"><u>Exploring Depths Smoothly Premium Camcorders for Water Sports</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-laugh-ledger-pinpointing-prime-meme-generators/"><u>In 2024, Laugh Ledger Pinpointing Prime Meme Generators</u></a></li>
+<li><a href="https://extra-information.techidaily.com/manufacture-jokes-memes-using-adobe/"><u>Manufacture Jokes Memes Using Adobe</u></a></li>
+<li><a href="https://win-special.techidaily.com/ripristina-windows/"><u>Ripristina Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723008827126-troubleshoot-your-oculus-links-black-screen-with-these-6-tips/"><u>Troubleshoot Your Oculus Link's Black Screen with These 6 Tips</u></a></li>
+<li><a href="https://blog-min.techidaily.com/windows-10wav/"><u>Windows 10でシンプルにWAVファイル音量調整ガイド</u></a></li>
+</ul></div>
 

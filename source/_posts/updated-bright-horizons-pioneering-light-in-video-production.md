@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Bright Horizons  Pioneering Light in Video Production\""
-date: 2024-12-30T12:43:20.436Z
-updated: 2025-01-04T03:16:20.115Z
+date: 2025-01-10T07:08:27.281Z
+updated: 2025-01-11T06:14:11.744Z
 tags: 
   - screen-recording
   - ai video
@@ -26,6 +26,10 @@ Therefore, this article will give you a complete guide on how to set up your lig
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1\. How-to Guide
 
@@ -59,10 +63,6 @@ The key light is the main light that illuminates the subject. You can place it i
 
 ![set the fill light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The fill light is used to fill in the shadows created by the key light. It is usually placed on the opposite side of the subject. For the fill light, we use an Aputure 300D with a fresnel lens attachment.
 
 ##### Step3 Set the Backlight
@@ -70,7 +70,7 @@ The fill light is used to fill in the shadows created by the key light. It is us
 ![set the backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 For this tutorial, we use Aperture 120d as the backlight and lift it up into the air with a c-stand so it can light the subject from above. It helps to separate the talent from the background and give the audience a full view of the set
@@ -82,16 +82,12 @@ Practical lights appear on the camera to add some visual flair. It can be any li
 ![use practical lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
 
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
 
@@ -108,7 +104,7 @@ After setting up all the lighting above, you can take a look at the comparison b
 ![using key light + fill + backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **_3) Pro Tips: The light setting_**
@@ -116,6 +112,10 @@ After setting up all the lighting above, you can take a look at the comparison b
 We usually set the lights around 50% brightness and a color temperature of 5600K.
 
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Summary
 
@@ -151,17 +151,19 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-master-the-art-of-message-interaction-on-desktopmobile/"><u>[New] In 2024, Master the Art of Message Interaction on Desktop/Mobile</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-unlock-full-potential-mac-plus-obs-plus-streamlabs/"><u>[New] Unlock Full Potential Mac + OBS + Streamlabs</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-sony-a6400-fixing-the-invisible-video-playback/"><u>[Updated] 2024 Approved Sony A6400 Fixing the Invisible Video Playback</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-precision-in-volume-decrease-lumafusions-methodology/"><u>[Updated] In 2024, Precision in Volume Decrease Lumafusion's Methodology</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-strategies-for-acquiring-flawless-photos-on-the-internet-for-2024/"><u>[Updated] Strategies for Acquiring Flawless Photos on the Internet for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/intellieditors-ai-transform-photos-effortlessly-for-2024/"><u>IntelliEditors AI Transform Photos Effortlessly for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/optimizing-folder-maintenance-in-windows-11-distro-and-catroot2/"><u>Optimizing Folder Maintenance in Windows 11: Distro & Catroot2</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-the-issue-when-you-cant-find-winhttpdll-step-by-step-solutions/"><u>Resolving the Issue When You Can't Find Winhttp.dll: Step-by-Step Solutions</u></a></li>
-<li><a href="https://article-helps.techidaily.com/snapseed-simplified-photo-editing-made-accessible/"><u>Snapseed Simplified Photo Editing Made Accessible</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-comprehensive-method-of-setting-up-a-triple-monitor-configuration-on-any-computer/"><u>The Comprehensive Method of Setting Up a Triple Monitor Configuration on Any Computer</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/unveiling-8-leading-cost-effective-open-source-video-solutions-for-2024/"><u>Unveiling 8 Leading Cost-Effective Open Source Video Solutions for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-from-your-apple-iphone-12-pro-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled From your Apple iPhone 12 Pro? How to Fix</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-become-a-trending-sensation-with-these-effective-youtube-seo-strategies-for-2024/"><u>[New] Become a Trending Sensation with These Effective YouTube SEO Strategies for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-softening-volume-windowsmac-audio-tips/"><u>[New] Softening Volume Windows/Mac Audio Tips</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-the-ultimate-data-sanctuary-guide/"><u>[Updated] 2024 Approved The Ultimate Data Sanctuary Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-best-instant-windows-photograph-gazing-tool/"><u>[Updated] Best Instant Windows Photograph Gazing Tool</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-complete-examination-the-video-show-app/"><u>[Updated] Complete Examination The Video Show App</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-isolating-pictures-from-video-frames-in-photos-app/"><u>[Updated] In 2024, Isolating Pictures From Video Frames in Photos App</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-exploring-asmr-uncover-its-pros-today/"><u>2024 Approved Exploring ASMR Uncover Its Pros Today</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/handbrake/"><u>HandBrakeで動画字幕統合＆保存手順：詳しいガイドと設定方法</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-samsung-galaxy-f14-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Samsung Galaxy F14 5G to iPad | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-unleash-your-dj-iq-with-free-luts-for-djis-minis-and-air-series/"><u>In 2024, Unleash Your DJ IQ with FREE LUTs for DJI's Minis & Air Series</u></a></li>
+<li><a href="https://article-tips.techidaily.com/learn-quickly-flipping-video-sequence-android-style/"><u>Learn Quickly Flipping Video Sequence Android-Style</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/pioneering-efficient-editing-embrace-inshot-software-for-2024/"><u>Pioneering Efficient Editing Embrace Inshot Software for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/quintessential-20-anime-openers-sounds-for-2024/"><u>Quintessential 20 Anime Openers' Sounds for 2024</u></a></li>
 </ul></div>
 

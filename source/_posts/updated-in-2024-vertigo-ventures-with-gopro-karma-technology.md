@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Vertigo Ventures with GoPro Karma Technology"
-date: 2024-08-15T16:45:01.085Z
-updated: 2024-08-16T16:45:01.085Z
+date: 2025-01-09T20:39:25.921Z
+updated: 2025-01-11T02:09:41.293Z
 tags: 
   - screen-recording
   - ai video
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/07d8502ce17333e6cd775d39369b0980ba5462f8a
 
  Apart from the battery latch, GoPro introduced auxiliary features such as a tilted horizon line for improved imaging as well as quieter propellers. The rerelease of the Karma drone is a much more polished product that is more suitable for reviewing as well as improved for general use. But does the Karma drone matchup with major contenders in the marketplace such as the Parrot or the DJI phantom line?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Pros and cons of GoPro Karma
 
 **Pros**
@@ -52,8 +56,9 @@ thumbnail: https://thmb.techidaily.com/07d8502ce17333e6cd775d39369b0980ba5462f8a
  The overall verdict is that this is a fantastic drone for capturing stunning images but it doesn't have the easy flying mode or the battery life to compete with some of the best drones available at the same price point. Although you might have to sacrifice a bit in image quality when compared to a GoPro camera with some competitors, it's often worth it for value knowing that you can capture the shot and maintain control over your drone.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Detailed review for GoPro Karma
 
 #### 1\.  Price
@@ -89,8 +94,9 @@ thumbnail: https://thmb.techidaily.com/07d8502ce17333e6cd775d39369b0980ba5462f8a
 #### 5\.  Controller
 
 ![gopro karma controller](https://images.wondershare.com/filmora/article-images/gopro-karma-controller.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  One thing that the GoPro Karma did especially well was creating a beautiful controller. The RC controller is relatively small but it feels exactly like playing a videogame with plenty of functions and no need to have a compatible device to use the drone. The other extremely strong point is the camera. Nobody can build a great outdoor camera that is it as resilient as a GoPro with the Hero 5 Black version of this drone capable of shooting in 4K with an astounding video quality, you can catch some amazing video as well as incredible still images on this drone.
@@ -100,8 +106,9 @@ thumbnail: https://thmb.techidaily.com/07d8502ce17333e6cd775d39369b0980ba5462f8a
 Overall, the GoPro Karma is a fairly strong showing for a drone. Although it can be expensive when compared to the specifications on some of the other drones, if you do have some experience flying drones and you are looking for a great image quality, this could be the choice for you especially if you are looking for a portable drone.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -127,4 +134,21 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-time-stamping-your-photographs-efficiently/"><u>[New] Time Stamping Your Photographs Efficiently</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-experience-the-joy-sorrow-merge-with-these-ten-meme-ig-accounts/"><u>[Updated] 2024 Approved Experience the Joy-Sorrow Merge with These Ten Meme IG Accounts</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-superb-video-connections-adventures/"><u>[Updated] Superb Video Connections Adventures</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-top-food-youtubers-you-should-follow/"><u>[Updated] Top Food YouTubers You Should Follow</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-amplify-aspirations-top-10-motivation-movies/"><u>2024 Approved Amplify Aspirations Top 10 Motivation Movies</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-camera-elevation-best-tripods-for-smartphone-shots/"><u>2024 Approved Camera Elevation Best Tripods for Smartphone Shots</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-make-a-living-with-reddit-even-for-novices-top-13-easy-strategies/"><u>2024 Approved Make a Living with Reddit (Even for Novices!) Top 13 Easy Strategies</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-mastering-close-up-views-in-minecraft/"><u>2024 Approved Mastering Close-Up Views in Minecraft</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-next-gen-home-cinema-top-blu-ray-machines-of-24/"><u>2024 Approved Next-Gen Home Cinema Top Blu-Ray Machines of '24</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/affordable-gaming-accessories-corsairs-restored-legacy-lineup-amazes-with-budget-friendly-options/"><u>Affordable Gaming Accessories: Corsair’s Restored Legacy Lineup Amazes with Budget-Friendly Options</u></a></li>
+<li><a href="https://article-helps.techidaily.com/best-investments-elite-4k-dslr-mounting-solutions/"><u>Best Investments Elite 4K DSLR Mounting Solutions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/erfolgreiches-wenden-sie-um-ruckerstattung-fur-winxdvd-nach-der-softwarerichtlinie-digitarti/"><u>Erfolgreiches Wenden Sie Um Rückerstattung Für WinXDVD Nach Der Softwarerichtlinie | DigitArti</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/finding-the-light-in-a-dark-laptop-monitor/"><u>Finding the Light in a Dark Laptop Monitor</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/shing-your-youtube-potential-a-comprehensively-tailored-upload-process/"><u>Unleashing Your YouTube Potential A Comprehensively Tailored Upload Process</u></a></li>
+</ul></div>
 

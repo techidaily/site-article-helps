@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Finding the Z-Axis in Your Text Art for 2024\""
-date: 2024-12-29T10:39:33.270Z
-updated: 2025-01-04T05:03:53.240Z
+date: 2025-01-07T20:43:34.292Z
+updated: 2025-01-10T16:01:02.118Z
 tags: 
   - screen-recording
   - ai video
@@ -35,10 +35,6 @@ After you get the program, install it and follow the step-by-step instructions y
 
 Also, there are plenty of different ways to create 3D text effects in Adobe Illustrator. This tutorial will focus on explaining the easiest and quickest one. Just know that this doesn't mean the result will be wrong. Most methods yield the same results.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Create 3D Text Effects in Adobe Illustrator
 
 Now that you know what you're getting into, let's finally reveal the entire process. Just follow the steps and do as you see here.
@@ -49,12 +45,16 @@ Step2 Click on the **Type tool** and click anywhere on your blank canvas. Then, 
 
 ![type tool illustrator](https://images.wondershare.com/filmora/article-images/adobe-illustrator-type-tool.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 Now, look at the bottom-right corner of the program. Find the **Font** settings and change your font type and size to anything you want.
 
 ![change font illustrator](https://images.wondershare.com/filmora/article-images/adobe-illustrator-font.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step4 Next, choose any color you want for your text from the panel on the screen's left side. Just remember to click on your text first before you start changing colors.
@@ -79,10 +79,6 @@ Step8 Now, all left to do is experiment with the settings in this panel and adju
 
 Step9 Finally, it's time to export the image, and you're all done.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Best Alternative Way to Create 3D Text Animation
 
 You might not believe it, but there's an even more accessible and less expensive way to create 3D text effects. You can use [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Compared to Illustrator, Filmora is much better for beginners and more affordable.
@@ -103,21 +99,17 @@ Step2 Head to the **Titles** tab and search for the **“3D Illustration**” ti
 
 ![drag title to timeline](https://images.wondershare.com/filmora/guide/get-started-with-filmora-04.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 Double-click on the 3D title layer you dragged into the Timeline. When the settings panel opens, use all the boxes and slide bars to customize your 3D text any way you want. When you’re done customizing it, click on **OK.**
 
 ![edit text settings](https://images.wondershare.com/filmora/guide/win-motion-tracking-03.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step4 Finally, import a video in Filmora and drag it under the text into the Timeline. Choose any video or image you want to display underneath your 3D text. That’s it! Hit **Export,** and you’re all done. Congratulations on creating a 3D text effect in Filmora.
 
 If you want to learn more about Filmora’s fantastic features, please watch the video below to see what the latest version of Filmora 12 brings to you!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -137,17 +129,25 @@ Step2 Head to the **Titles** tab and search for the **“3D Illustration**” ti
 
 ![drag title to timeline](https://images.wondershare.com/filmora/guide/get-started-with-filmora-04.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 Double-click on the 3D title layer you dragged into the Timeline. When the settings panel opens, use all the boxes and slide bars to customize your 3D text any way you want. When you’re done customizing it, click on **OK.**
 
 ![edit text settings](https://images.wondershare.com/filmora/guide/win-motion-tracking-03.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step4 Finally, import a video in Filmora and drag it under the text into the Timeline. Choose any video or image you want to display underneath your 3D text. That’s it! Hit **Export,** and you’re all done. Congratulations on creating a 3D text effect in Filmora.
 
 If you want to learn more about Filmora’s fantastic features, please watch the video below to see what the latest version of Filmora 12 brings to you!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -177,20 +177,24 @@ Both programs will get the job done if you use Adobe Illustrator or Filmora for 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-streamline-your-projects-expert-techniques-for-mac-dvd-creation/"><u>[New] 2024 Approved Streamline Your Projects Expert Techniques for Mac DVD Creation</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-vector-editing-revolution-post-acid-pro-era/"><u>[New] 2024 Approved Vector Editing Revolution Post-ACID Pro Era</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-how-to-make-picture-in-picture-videos-on-mac-os-sierra/"><u>[New] How to Make Picture in Picture Videos on Mac OS Sierra</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-how-to-post-twitter-videos-on-snapchat-for-2024/"><u>[New] How to Post Twitter Videos on Snapchat for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-pace-perfection-on-instagram-a-guide-to-tempo-tweaks-for-2024/"><u>[New] Pace Perfection on Instagram A Guide to Tempo Tweaks for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-top-power-supplies-for-black-gopro-hero5-cameras-authentic-and-imposters/"><u>[New] Top Power Supplies for Black GoPro Hero5 Cameras - Authentic & Imposters</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-expert-advice-on-optimal-hdr-camera-selection/"><u>[Updated] 2024 Approved Expert Advice on Optimal HDR Camera Selection</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-elevate-your-engagement-top-10-video-response-insights/"><u>[Updated] Elevate Your Engagement Top 10 Video Response Insights</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-free-sustainable-scenes-for-filmmakers/"><u>[Updated] In 2024, Free Sustainable Scenes for Filmmakers</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/prehensively-reviewed-list-of-youtube-video-extractor-apps-android-for-2024/"><u>A Comprehensively Reviewed List of YouTube Video Extractor Apps (Android) for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/color-dynamics-bringing-artistic-vision-to-life-for-2024/"><u>Color Dynamics Bringing Artistic Vision to Life for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/deciphering-the-impact-of-generative-systems-on-truth/"><u>Deciphering the Impact of Generative Systems on Truth</u></a></li>
-<li><a href="https://change-location.techidaily.com/list-of-pokemon-go-joysticks-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Vivo T2 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unlimited-outro-options-at-no-expense-online/"><u>Unlimited Outro Options at No Expense Online</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/-talent-quest-episodes-1-10-for-2024/"><u>Viral Talent Quest Episodes #1-10 for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-fearless-filming-tackling-ten-common-vlog-anxieties-head-on/"><u>[New] 2024 Approved Fearless Filming Tackling Ten Common Vlog Anxieties Head-On</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-the-perfect-blend-of-efficiency-and-artistry-in-apple-photography-apps/"><u>[New] 2024 Approved The Perfect Blend of Efficiency and Artistry in Apple Photography Apps</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-6-high-definition-21-hdmi-models-analyzed/"><u>[New] 6 High-Definition 2.1 HDMI Models Analyzed</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-enthralling-experienences-try-these-top-14-text-animatees-for-2024/"><u>[New] Enthralling Experienences Try These Top 14 Text Animatees for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-vuephoto-ai-powered-editing/"><u>[New] In 2024, VuePhoto AI-Powered Editing</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/electing-the-right-gear-a-filmmakers-checklist/"><u>[New] Selecting the Right Gear A Filmmaker's Checklist</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-elite-performers-top-picks-from-skate-highlights/"><u>[Updated] 2024 Approved Elite Performers Top Picks From Skate Highlights</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-exploring-new-worlds-top-10-sci-fi-metaverse-movie-adventures/"><u>[Updated] In 2024, Exploring New Worlds Top 10 Sci-Fi Metaverse Movie Adventures</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-snowball-rally-highlights-from-the-beijing-games-2022-for-2024/"><u>[Updated] Snowball Rally Highlights From the Beijing Games, 2022 for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/broadcom-gigabit-ethernet-drivers-for-windows-10-fresh-download-and-update-guide-to-solve-network-problems/"><u>Broadcom Gigabit Ethernet Drivers for Windows 10 - Fresh Download and Update Guide to Solve Network Problems</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/capture-the-thrill-in-hd-the-breakthrough-polaroid-xs-100i-review/"><u>Capture the Thrill in HD - The Breakthrough Polaroid XS 100I Review</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effective-strategies-enhancing-virtual-team-meetings-with-chatgpt/"><u>Effective Strategies: Enhancing Virtual Team Meetings with ChatGPT</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-aw-snap-in-google-chrome-on-windows/"><u>Eradicating Aw, Snap! In Google Chrome on Windows</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-charismatic-captions-instagrams-animated-text-guide/"><u>In 2024, Charismatic Captions Instagram's Animated Text Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-tecno-spark-10-5g-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Tecno Spark 10 5G to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-pinnacle-10-tools-for-masterful-online-subtitle-edits/"><u>In 2024, Pinnacle 10 Tools for Masterful Online Subtitle Edits</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-samsung-galaxy-xcover-6-pro-tactical-edition-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Samsung Galaxy XCover 6 Pro Tactical Edition Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-the-ultimate-playbook-for-fine-tuning-video-soundtracks-including-tips-for-modern-platforms-for-2024/"><u>Updated The Ultimate Playbook for Fine-Tuning Video Soundtracks Including Tips for Modern Platforms for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-wizards-a-how-to-for-cortana-data-extraction/"><u>Windows Wizards: A How-To for Cortana Data Extraction</u></a></li>
 </ul></div>
 

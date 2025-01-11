@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Strategies to Keep Windows 11 Photos App Running Smoothly"
-date: 2024-12-27T22:12:50.551Z
-updated: 2025-01-04T03:04:28.813Z
+date: 2025-01-10T08:22:56.866Z
+updated: 2025-01-11T03:48:09.410Z
 tags: 
   - screen-recording
   - ai video
@@ -47,6 +47,10 @@ In this article, we have compiled the best solutions for you to get rid of Windo
 
 ## How to fix Windows 10 Photos app crashes
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 1: Use the Troubleshooter
 
 The Windows Troubleshooter is an inbuilt troubleshooting feature embedded with Windows 10 computers. It allows a simple interface to help you choose any application for troubleshooting. Windows Troubleshooter resolves basic issues with the Windows computer so that users can seamlessly use all Windows 10 system features and functionalities.
@@ -58,12 +62,12 @@ Here is how to troubleshoot –
 
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/Troubleshooter.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. From the list of Apps displayed on the screen, click ‘Windows Store Apps’ and press the ‘Next’ button.
 2. Now, the troubleshooter will troubleshoot every app within the Windows Store Applications and fix them in a jiffy.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 2: Restore Default Libraries
 
@@ -75,10 +79,6 @@ Restoring the default libraries would resolve the Windows 10 Photos App crash is
    4. Tap ‘Restore Defaults’ from the bottom-right portion of the screen.
 
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/windows-10-photos-app-crashes-restore.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. Lastly, click on ‘Apply’ followed by ‘OK’ and the issue will be resolved.
 
@@ -92,6 +92,10 @@ Here is how can you reset it –
 2. Hit ‘Advanced Options’ and click ‘Reset’ button thereafter.
 3. Now, you got to restart your Windows system, so that Windows 10 Photos App crashing problem can be easily resolved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 4: Repair Photos App package
 
 A corrupted Photos App package might wreak havoc in your photo viewing, as the app doesn’t buzz follow your commands. The least you can do here is repair the package to fix minor glitches within and get it going.
@@ -102,10 +106,6 @@ Let’s fix the issue by repairing the Photos App package installed on your comp
 2. Key in the command followed by ‘Enter’: Get-AppXPackage -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($\_.InstallLocation)\\AppXManifest.xml”}
 3. Allow few minutes to make the changes effective and then restart the Windows 10 computer.
 4. Now, the Windows 10 Photos App won’t crash.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Solution 5: Reinstall Windows 10 Photos app
 
@@ -118,10 +118,6 @@ Here is how to reinstall the Windows 10 Photos App –
 2. Now, visit the ‘Microsoft Store on your computer and find ‘Microsoft Photos.’
 3. Install ‘Microsoft Photos’ after downloading it from there. Your Windows 10 Photos App crashing issue is well taken care of now.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 From the above article, we have concluded that experiencing Windows 10 Photos App crashes is not uncommon. But, resolving them shouldn’t give you nightmares as well. From the above-mentioned process guides, you can fix the Windows 10 Photos App crashes effectively without any hassle. Try following each method until you get the Photos App crash issue fixed, so you can view your photos without any trouble.
@@ -129,10 +125,14 @@ From the above article, we have concluded that experiencing Windows 10 Photos Ap
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -159,22 +159,24 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-20-quick-video-concepts-for-aspiring-vloggers/"><u>[New] 20 Quick Video Concepts for Aspiring Vloggers</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-exclusive-access-to-premium-templates-and-ideas-with-zero-cost/"><u>[New] 2024 Approved Exclusive Access to Premium Templates & Ideas with Zero Cost</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-cutting-edge-cameras-for-4khd-live-performance-shootouts-for-2024/"><u>[New] Cutting-Edge Cameras for 4K/HD Live Performance Shootouts for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-24-revolutionary-metaverse-concepts-explored-diligently-for-2024/"><u>[Updated] 24 Revolutionary Metaverse Concepts Explored Diligently for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-cadences-and-crescendos-your-ringtone-repository-guide/"><u>[Updated] Cadences and Crescendos Your Ringtone Repository Guide</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-exploring-the-top-8-collaborative-affordable-android-video-mosaics-for-2024/"><u>[Updated] Exploring the Top 8 Collaborative, Affordable Android Video Mosaics for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-highlighting-the-top-video-creation-apps-iphone-android/"><u>[Updated] Highlighting the Top Video Creation Apps (iPhone, Android)</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-a-technical-dive-into-gesture-and-movement-sensors/"><u>[Updated] In 2024, A Technical Dive Into Gesture and Movement Sensors</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-accurate-tilt-controls-high-end-phonecamera-mounts/"><u>[Updated] In 2024, Accurate Tilt Controls High-End Phone/Camera Mounts</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-honor-80-pro-straight-screen-edition-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Honor 80 Pro Straight Screen Edition Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://win-best.techidaily.com/ejecutando-con-exito-clones-de-unidades-tres-formas-faciles-en-windows-1110/"><u>Ejecutando Con Éxito Clones De Unidades: Tres Formas Fáciles en Windows 11/10</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-crafting-captivating-animations-creating-gifs-from-your-favorite-youtube-videos/"><u>In 2024, Crafting Captivating Animations Creating GIFs From Your Favorite YouTube Videos</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-ranking-the-greats-top-15-stop-motion-masterpieces/"><u>In 2024, Ranking the Greats - Top 15 Stop Motion Masterpieces</u></a></li>
-<li><a href="https://win-blog.techidaily.com/joint-ventures-in-action-the-story-of-a-powerhouse-team-launch/"><u>Joint Ventures in Action: The Story of a Powerhouse Team Launch</u></a></li>
-<li><a href="https://android-frp.techidaily.com/top-5-oppo-find-x6-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Oppo Find X6 Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://article-posts.techidaily.com/ultimate-collection-of-8-gratis-high-end-3d-player-apps/"><u>Ultimate Collection of 8 Gratis, High-End 3D Player Apps</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/sh-creativity-with-top-9-free-tools-to-craft-your-brand-for-2024/"><u>Unleash Creativity with Top 9 Free Tools to Craft Your Brand for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-proarts-pa-329q-monitor-a-critical-look-at-its-4k-performance/"><u>[New] 2024 Approved ProArt's PA 329Q Monitor A Critical Look at Its 4K Performance</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-crescendo-to-connectivity-linking-song-lists-across-platforms/"><u>[New] Crescendo to Connectivity Linking Song Lists Across Platforms</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-key-concepts-in-image-manipulation/"><u>[Updated] In 2024, Key Concepts in Image Manipulation</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-samsungs-rival-the-leading-cameras-to-match-your-gear-360-needs/"><u>[Updated] In 2024, Samsung’s Rival The Leading Cameras to Match Your Gear 360 Needs</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-steady-yourself-against-oculus-nausea/"><u>[Updated] In 2024, Steady Yourself Against Oculus Nausea</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-depth-look-lg-bp350-screen-resolution-and-aspect-ratio/"><u>[Updated] In-Depth Look LG BP350 Screen Resolution and Aspect Ratio</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-speed-skaters-showcase-at-the-olympics-2022-edition-for-2024/"><u>[Updated] Speed Skaters' Showcase at the Olympics, 2022 Edition for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024iphone-your-phones-voice-diary/"><u>2024IPhone Your Phone's Voice Diary</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/tial-strategies-for-professional-grade-video-editing/"><u>Essential Strategies for Professional-Grade Video Editing</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/essential-tools-to-replay-ps3-classics-on-pc-for-2024/"><u>Essential Tools to Replay PS3 Classics on PC for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/fc2mp3/"><u>FC2音声ファイルのMP3への簡単な変換ガイド</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-tutorial-to-bypass-your-motorola-moto-g04-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Motorola Moto G04 Face Lock?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-honor-v-purse-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Honor V Purse Through Google Earth?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-premium-collection-of-animated-texts/"><u>In 2024, Premium Collection of Animated Texts</u></a></li>
+<li><a href="https://article-helps.techidaily.com/learn-the-layers-of-photography-with-snapseed-for-2024/"><u>Learn the Layers of Photography with Snapseed for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/snatching-your-secret-snaps-again-for-2024/"><u>Snatching Your Secret Snaps Again for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/sx720hs-review-the-perfect-blend-of-size-and-zooming-capacity/"><u>SX720HS Review - The Perfect Blend of Size and Zooming Capacity</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-steps-youtube-takes-once-a-video-is-submitted-for-viewing/"><u>The Steps YouTube Takes Once a Video Is Submitted for Viewing</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Vivo V27 Pro? | Dr.fone</u></a></li>
 </ul></div>
 

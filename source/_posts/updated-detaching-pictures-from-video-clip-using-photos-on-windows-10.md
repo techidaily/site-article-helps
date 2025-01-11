@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Detaching Pictures From Video Clip Using Photos on Windows 10"
-date: 2024-12-19T02:38:04.137Z
-updated: 2024-12-25T22:34:14.746Z
+date: 2025-01-07T00:31:49.885Z
+updated: 2025-01-11T03:17:38.551Z
 tags: 
   - screen-recording
   - ai video
@@ -52,6 +52,10 @@ Creating a living image:
 
 ![ save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/save-photo-microsoft-photos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Now, you can see the living picture by tapping ‘Play’ button.
 
 These photos are stored in the ‘Pictures’ folder of your computer having ‘LI’ appended file names. Now, it’s time to save the living image as photo on your computer using Photos app.
@@ -62,13 +66,13 @@ These photos are stored in the ‘Pictures’ folder of your computer having ‘
 ![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/start-save-photos-from-video.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * This image will be saved as ‘LI\_Moment’ file in your Pictures folder by default.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: Why I can’t save photo from video
@@ -84,10 +88,6 @@ Click on ‘Start’ > ‘Settings’ > ‘Update & Security’ > ‘Windows Upd
 ### 2\. Sign in a different account in Microsoft Store
 
 You got to login with another Microsoft account to access Microsoft Store. It might be your existing Microsoft Store account undergoing some issues. This in turn might be affecting the Photos app from acting properly. Therefore, signing in a different account will help.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: Alternative way to save photo from video
 
@@ -105,7 +105,7 @@ Here comes the guide –
 * Now, hit the ‘Save’ icon and get the image saved on your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -115,7 +115,7 @@ We provided you some knowledge on how to save a photo from video Windows 10 Phot
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -143,21 +143,18 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-commencing-a-community-benefit-contest-online/"><u>[New] Commencing a Community Benefit Contest Online</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-step-by-step-guide-to-crafting-your-own-insta-tones-for-2024/"><u>[New] Step-By-Step Guide to Crafting Your Own Insta Tones for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-unveiling-dji-phantom-3s-expert-features/"><u>[Updated] 2024 Approved Unveiling DJI Phantom 3'S Expert Features</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-capture-clarity-high-quality-screen-recordings-for-youtubers-pcmac/"><u>[Updated] In 2024, Capture Clarity High-Quality Screen Recordings for YouTubers (PC/Mac)</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-incorporating-borders-in-your-next-video-post/"><u>[Updated] Incorporating Borders in Your Next Video Post</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-insiders-selection-prime-vr-device-picks-for-2024/"><u>[Updated] Insider's Selection Prime VR Device Picks for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-optimize-live-feed-select-from-the-best-9-filters/"><u>[Updated] Optimize Live Feed Select From the Best 9 Filters</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95828505-9781608684946-big-love/"><u>Big Love | Free Book</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/how-to-embed-clickable-urls-into-your-flipbook-design-with-flipbuilder/"><u>How to Embed Clickable URLs Into Your Flipbook Design with FlipBuilder</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-resolve-failed-directx-downloads/"><u>How to Resolve Failed DirectX Downloads</u></a></li>
-<li><a href="https://article-helps.techidaily.com/incorporating-soundscapes-into-your-social-media-masterpieces-for-2024/"><u>Incorporating Soundscapes Into Your Social Media Masterpieces for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/level-up-in-subway-surfers-expert-advice-on-navigating-the-track-like-a-champion/"><u>Level Up in 'Subway Surfers': Expert Advice on Navigating the Track Like a Champion</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/online-trasforma-file-oma-a-wav-senza-costi-servizi-di-movavi/"><u>Online Trasforma File OMA a WAV Senza Costi, Servizi Di Movavi</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/revolutionizing-playtime-with-the-wonder-workshop-dash-a-comprehensive-product-overview/"><u>Revolutionizing Playtime with the Wonder Workshop Dash - A Comprehensive Product Overview</u></a></li>
-<li><a href="https://win-special.techidaily.com/script-based-malware-deployment-methods-explained-by-malwarefox-experts/"><u>Script-Based Malware Deployment Methods Explained by MalwareFox Experts</u></a></li>
-<li><a href="https://article-helps.techidaily.com/tutorial-turning-on-hdr-for-windows-11-users-for-2024/"><u>Tutorial Turning on HDR for Windows 11 Users for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-full-disclosure-unveiling-all-about-google-podcasts-app-for-2024/"><u>[New] Full Disclosure Unveiling All About Google Podcasts App for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-learning-the-ins-and-outs-of-firefox-pip/"><u>[New] In 2024, Learning the Ins and Outs of Firefox PIP</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-tips-for-risk-free-youtube-video-mp4-downloading/"><u>[New] Tips for Risk-Free YouTube Video MP4 Downloading</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-10-must-use-photo-watermark-tools/"><u>[Updated] 2024 Approved 10 Must-Use Photo Watermark Tools</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-audience-experience-top-cameras-to-capture-live-music/"><u>[Updated] In 2024, Audience Experience Top Cameras to Capture Live Music</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-uniting-zoom-timings-with-phone-and-pc-schedules-effortlessly-for-2024/"><u>[Updated] Uniting Zoom Timings with Phone & PC Schedules Effortlessly for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-beginners-ultimate-list-of-youtube-production-tools/"><u>2024 Approved Beginner's Ultimate List of YouTube Production Tools</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-nail-art-masterclass-series/"><u>In 2024, Nail Art Masterclass Series</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/storystitcher-compelling-collage-for-instagram-users/"><u>StoryStitcher Compelling Collage for Instagram Users</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-motorola-razr-40-ultra-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Motorola Razr 40 Ultra to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/top-tier-durable-tablet-experience-windows-os-and-precision-stylus-handling-insights-from-a-tech-expert-at-zdnet/"><u>Top-Tier Durable Tablet Experience: Windows OS and Precision Stylus Handling - Insights From a Tech Expert at ZDNet</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-best-free-online-face-generators/"><u>Updated Best Free Online Face Generators</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-honor-100-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Honor 100 | Dr.fone</u></a></li>
 </ul></div>
 
