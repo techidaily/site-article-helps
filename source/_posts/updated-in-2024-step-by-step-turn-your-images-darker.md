@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Step-by-Step  Turn Your Images Darker\""
-date: 2024-08-15T16:39:37.486Z
-updated: 2024-08-16T16:39:37.486Z
+date: 2025-01-09T17:48:16.928Z
+updated: 2025-01-16T22:57:40.208Z
 tags: 
   - screen-recording
   - ai video
@@ -58,6 +58,10 @@ Clicking on the **Adjust Color feature** will bring up the color adjustment pane
 
 ![ Invert image color](https://images.wondershare.com/filmora/article-images/mac-preview-invert-color.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You can experiment with the values you assign to each of these sliders in order to get a more visually pleasing result.
 
 #### 3. Making Image Negatives Online with [PineTools](https://pinetools.com/)
@@ -67,6 +71,10 @@ You can experiment with the values you assign to each of these sliders in order 
 **Compatibility:** Online platform
 
 ![ Covert color](https://images.wondershare.com/filmora/article-images/pinetools-invert-image-colors.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The platform’s homepage contains a number of categories of tools such as **Colors, Numbers, Text and Lists or Images**. Clicking on the **Images category** will grant you the access to all photo editing tools PineTools offers, so you just have to click on the **Invert Colors** options to start the process of inverting a photo online. Once the **Invert Colors window** loads, you can click on the **Choose File button** to select a photo you’d like to invert. When the upload is completed, simply click on the **Invert button** located near the bottom of the screen and the platform will automatically invert the colors in your photo. To save the watermark-free image with inverted colors you just have to click on **PNG, JPEG or WEBP file** formats that are displayed above the preview of the picture.
 
@@ -87,6 +95,10 @@ In addition to a rich selection of effects you can apply to images, tjshome also
 **Compatibility:** macOS, Windows
 
 ![ Covert color](https://images.wondershare.com/filmora/article-images/ps-convert-color.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After you open a photo in Adobe Photoshop, you can invert it in just a few clicks. **Expand the Image menu** and the go-to **Adjustments submenu** where you can find the **Invert option**. Alternatively, you can use the **CTRL+I** shortcut if you are a PC user or a **Command+I** if you are using a Mac computer. Moreover, Photoshop lets you **mask parts of a photo** which enables you to precisely define an area of an image you’d like to invert. Other photo editing tools like **Curves, Brightness/Contrast or Photo Filter** can make an image with inverted colors look more convincing. Keep in mind that working with multiple layers requires a lot of patience because failing to mask an object properly can produce some unwanted side issues.
 
@@ -114,6 +126,10 @@ Creating a negative of photos you take with your phone can be fun, so why not us
 
 ![ Covert color](https://images.wondershare.com/filmora/article-images/negative-photo-effects-hd.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Inverting the colors in a photo with Negative Photo Effect HD is easy since you just have to select a photo from the gallery or use the iPhone’s camera to snap a new one and apply the **negative photo effect**. You can highlight the area of the photo you’d like to invert with your finger or use some of the app’s photo editing tools to enhance the colors in the negative photo. You can save or share the photos you created, but if you use the free version of the app your photos will be watermarked unless you purchase the **Free Ads and Watermark package** for **$2.99.**
 
 **Conclusion**
@@ -121,6 +137,10 @@ Inverting the colors in a photo with Negative Photo Effect HD is easy since you 
 Inverting colors in a photo is not a complicated process, but finding creative ways to use the negative image effect is since images with inverted colors are best used within a pre-defined context. Do you often create images with inverted colors? Leave a comment below and let us know your favorite method of creating image negatives.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -145,8 +165,26 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-step-by-step-guide-to-mastering-windows-media-player-for-cd-management/"><u>[New] 2024 Approved Step-by-Step Guide to Mastering Windows Media Player for CD Management</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-the-ultimate-list-for-first-time-film-makers-35mm-to-pands/"><u>[New] In 2024, The Ultimate List for First-Time Film Makers (35Mm to P&S)</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-toddlers-fortune-on-screen-young-ryan-as-top-youtuber-earner/"><u>[New] In 2024, Toddler's Fortune on Screen Young Ryan As Top YouTuber Earner</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-unveiling-the-secret-sauce-for-massive-tiktok-content-grabs/"><u>[New] In 2024, Unveiling the Secret Sauce for Massive TikTok Content Grabs</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/urture-harmony-and-well-being-the-finest-yogic-channels-alive/"><u>[New] Nurture Harmony & Well-Being - The Finest Yogic Channels Alive</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-utilizing-obs-in-android-setups-a-beginners-manual/"><u>[New] Utilizing OBS in Android Setups A Beginner's Manual</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-access-an-array-of-personalized-ending-sounds-for-videos-for-2024/"><u>[Updated] Access an Array of Personalized Ending Sounds for Videos for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-creating-perfect-360-photos-on-iphone-for-2024/"><u>[Updated] Creating Perfect 360 Photos on iPhone for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-innovating-beyond-boundaries-revitalizing-vr-content/"><u>[Updated] In 2024, Innovating Beyond Boundaries Revitalizing VR Content</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-mastering-the-art-of-search-engine-optimization-for-podcasts-for-2024/"><u>[Updated] Mastering the Art of Search Engine Optimization for Podcasts for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-quick-and-easy-image-trimming-techniques-for-websites-for-2024/"><u>[Updated] Quick & Easy Image Trimming Techniques for Websites for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-live-and-record-flawlessly-find-the-best-conference-tech-today/"><u>2024 Approved Live and Record Flawlessly - Find the Best Conference Tech Today</u></a></li>
+<li><a href="https://games-able.techidaily.com/google-play-pass-a-steal-yet-not-perfect/"><u>Google Play Pass - A Steal, Yet Not Perfect</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-oppo-reno-10-proplus-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Oppo Reno 10 Pro+ 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-huawei-nova-y71-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Huawei Nova Y71 to PC? | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-vives-incredible-journey-through-unmatched-immersion-world/"><u>In 2024, Vive's Incredible Journey Through Unmatched Immersion World</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mediatek-enters-the-fray-preparing-arm-chips-for-laptops-running-windows-after-qualcomm-deal-concludes/"><u>MediaTek Enters the Fray: Preparing ARM Chips for Laptops Running Windows After Qualcomm Deal Concludes</u></a></li>
+<li><a href="https://win-studio.techidaily.com/step-by-step-tutorial-using-system-file-checker-and-scannow-utility-on-windows-11/"><u>Step-by-Step Tutorial: Using System File Checker and ScanNow Utility on Windows 11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-tecno-spark-10-4g-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Tecno Spark 10 4G Phone</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->

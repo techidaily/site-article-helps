@@ -1,7 +1,7 @@
 ---
 title: "[New] Unveiling the Secrets of Timelapse Video Shooting with Hero5"
-date: 2024-08-08T05:34:26.377Z
-updated: 2024-08-09T05:34:26.377Z
+date: 2025-01-13T20:16:28.433Z
+updated: 2025-01-16T23:50:06.043Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/e73bb44e853b64ea13a3dc6d94705befdc354ca8d
 
 # How to Shoot a Time-lapse Video with GoPro Hero5 Black
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -39,8 +36,9 @@ Are you an amateur travel photographer who has recently bought a GoPro cam and w
 * [Part 2: Making time lapse videos with Wondershare Filmora](#part2)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1: Shooting a time lapse video with GoPro Hero5
 
 #### **1. The best time lapse settings in GoPro:**
@@ -85,8 +83,9 @@ Make use of good tripod, a fast and spacious SD card, a suction mount and always
 [Check at Amazon](https://www.amazon.com/gp/product/B01M14ATO0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01M14ATO0&linkId=5ce54ea937ecffa6b1b8056b6922abaa)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Making time lapse videos with Wondershare Filmora
 
 [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a powerful and easy to use software with which you can edit your time lapse videos. The Filmora action cam version is going to make your job a lot more easy. It comes with 2 new tools-
@@ -95,25 +94,24 @@ The Action Cam Tool- this has the capacity of correcting lens distortion and can
 
 The Instant cutter tool on the other hand can be used for trimming and merging videos quickly and easily without damaging its quality. It supports many video formats like  encoded MP4, MTS and mov video which have been shot on phones, HD cameras and Action cams.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * First, launch the Filmora app and then choose the ‘action cam tool’
 * Next, you need to click the ‘Import’ button or the ‘ Import an Action cam video’ button, so as to import your recorded video to Wondershare Filmora.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![1-action-cam-tool-fix-entrance](https://images.wondershare.com/filmora/article-images/filmora-splash-screen-0321.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Now go to the Speed tab and bring the Playhead to the exact position where the speed effect is to be applied.
 * Click the Add Marker button. Click the speed marker and drag it onto either side of your timeline so as to choose a number of clips on your timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![speed-effect-speed-add-marke](https://images.wondershare.com/filmora/article-images/speed-effect-speed-add-marker.png)
 
 * The speed settings can be adjusted by clicking on the checkbox marked Speed. The speed slider can be moved forward to make it faster up to 20x for the time lapse effect.
@@ -122,6 +120,10 @@ The Instant cutter tool on the other hand can be used for trimming and merging v
 [Learn more detailed information about how to make a time lapse video in Filmora Full Feature Mode](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -146,4 +148,26 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-rating-7-of-the-ultimate-waterproof-recorder-guide/"><u>[New] 2024 Approved Rating #7 of the Ultimate Waterproof Recorder Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-the-power-of-language-20-words-and-phrases-that-transform-your-marketing/"><u>[New] In 2024, The Power of Language 20 Words and Phrases That Transform Your Marketing</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-smiling-photos-and-videos-iphones/"><u>[New] Smiling Photos & Videos (iPhones)</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-echo-chamber-of-creativity-crafting-compelling-podcast-stories/"><u>[New] The Echo Chamber of Creativity Crafting Compelling Podcast Stories</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-why-filmora-stands-out-its-top-10-alluring-features/"><u>[Updated] 2024 Approved Why Filmora Stands Out Its Top 10 Alluring Features</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-navigate-and-binge-with-finesse-perfect-use-of-floating-window-in-netflix/"><u>[Updated] In 2024, Navigate and Binge with Finesse Perfect Use of Floating Window in Netflix</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-reaping-health-rewards-from-asmrs-embrace-for-2024/"><u>[Updated] Reaping Health Rewards From ASMR's Embrace for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/find-and-install-sound-blaster-z-drivers-seamlessly-on-your-windows-10-device/"><u>Find and Install Sound Blaster Z Drivers Seamlessly on Your Windows 10 Device</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210175328-9780648554134-holy-ghost-like-mind-is-a-good-mother-like-character/"><u>Holy Ghost-like mind is a Good Mother-like character | Free Book</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-vivo-v30-frp-by-drfone-android/"><u>How Can We Bypass Vivo V30 FRP?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-cool-whatsapp-tricks-and-hidden-features-you-should-know/"><u>In 2024, Cool Whatsapp Tricks and Hidden Features You Should Know</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-cutting-edge-taggification-top-7-affordable-online-extractors-for-youtube/"><u>In 2024, Cutting-Edge Taggification Top 7 Affordable Online Extractors for YouTube</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-expert-techniques-for-high-quality-xbox-screenshots/"><u>In 2024, Expert Techniques for High-Quality Xbox Screenshots</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/redefining-visual-experience-and-performance-with-the-latest-imac-m1-chip-evaluation/"><u>Redefining Visual Experience and Performance with the Latest iMac M1 Chip Evaluation</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/hot-showdown-youtube-shorts-challenge-to-the-titans-of-tiktok-for-2024/"><u>Snapshot Showdown YouTube Shorts Challenge to the Titans of TikTok for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-hidden-expenses-of-free-phones-from-mobile-providers-a-deeper-look/"><u>The Hidden Expenses of 'Free' Phones From Mobile Providers: A Deeper Look</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-amazon-prime-a-guide-to-repairing-non-functional-subtitles/"><u>Troubleshooting Amazon Prime: A Guide to Repairing Non-Functional Subtitles</u></a></li>
+<li><a href="https://article-helps.techidaily.com/vivid-imagery-understanding-the-power-of-srgb/"><u>Vivid Imagery Understanding the Power of Srgb</u></a></li>
+</ul></div>
 

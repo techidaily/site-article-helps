@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Holistic Capture vs Structured Visual Space"
-date: 2024-08-08T05:35:41.762Z
-updated: 2024-08-09T05:35:41.762Z
+date: 2025-01-11T20:52:45.245Z
+updated: 2025-01-16T21:19:42.018Z
 tags: 
   - screen-recording
   - ai video
@@ -40,14 +40,23 @@ thumbnail: https://thmb.techidaily.com/71005eecdd2fec9bde2d87e54e71962fc2dc07f26
 
  Both 3D and 360 degrees cameras can be used for creating virtual reality videos, but with the former, there will be need for additional processing in the form of stitching to bring the images together in the creation of the VR. However, the latter requires no stitching at all in the creation of VR videos or images due to its comprehensive nature.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## About 3D or a Stereo Camera
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1.What is 3D Camera
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![3D camera](https://images.wondershare.com/filmora/article-images/what-is-3d-camera.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  wallpaperfolder.com
 
@@ -55,16 +64,13 @@ thumbnail: https://thmb.techidaily.com/71005eecdd2fec9bde2d87e54e71962fc2dc07f26
 
  There are other 3D camera configurations where the camera records an image, then the lens shifts slightly before another image is recorded, all happening within a fraction of a second, to result into two different views. Other 3D cameras on the other hand will use a stitching software to put together all the images to create a three dimensional image.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 2. How Do 3D Cameras Work
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![3D camera principal](https://images.wondershare.com/filmora/article-images/3d-camera-principle.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  <www.reddit.com>
 
@@ -79,24 +85,19 @@ thumbnail: https://thmb.techidaily.com/71005eecdd2fec9bde2d87e54e71962fc2dc07f26
  It is also important to note that most of the 3D cameras take photos or images and save them in the standard MPO format to make it possible for the images to be played back in 3D photo frames or TVs, but to view such images in 3D, a special 3D glass may be needed.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## About 360-Degree Cameras
 
 ### 1.What is 360-Degree Camera
 
  A 360-degree camera, also known as omnidirectional camera refers to a camera with a 360-degree field of view in horizontal plane or simply a camera with a visual field of view which can cover an entire sphere. 360-degree cameras are widely used in instances when the photographer needs to cover large visual fields such as when dealing with robotics or panoramic photography.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ### 2. How Does 360-Degree Camera Work
 
  With the normal cameras, the field of view ranges from a few degrees to at most 180 degrees. It implies that the camera capture light falling into its focal point through a hemisphere. A 360-degree camera on the other hand captures light from all directions falling onto its focal point, thus effectively covering a full sphere. One important thing to note about 360-degree cameras is that in practice, they can only cover the full 360 degrees along the equator of the sphere and this is never the case with the top or the bottom of the sphere. Should it manage to capture the top and the bottom as well, then the light rays captured in the creation of the image will not intersect at one focal point.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -122,4 +123,24 @@ Follow @Benjamin Arango
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-comprehensive-guide-unraveling-google-podcasts-app-for-2024/"><u>[New] Comprehensive Guide Unraveling Google Podcasts App for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-masters-of-illusion-top-vr-producers/"><u>[New] In 2024, Masters of Illusion Top VR Producers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-penetrating-the-veil-of-undisclosed-commentary-in-videos-for-2024/"><u>[New] Penetrating the Veil of Undisclosed Commentary in Videos for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-time-lapse-wizardry-an-introduction/"><u>[New] Time-Lapse Wizardry An Introduction</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-best-quick-fixes-top-5-no-download-online-gif-to-video-convertors/"><u>[Updated] In 2024, Best Quick Fixes Top 5 No-Download, Online GIF to Video Convertors</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-budget-planning-for-music-video-production/"><u>[Updated] In 2024, Budget Planning for Music Video Production</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-inflatable-microphones-for-diverse-scenarios/"><u>[Updated] Inflatable Microphones for Diverse Scenarios</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-revival-artisan-selection/"><u>[Updated] Revival Artisan Selection</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/demystifying-why-instagram-interrupts-my-videos/"><u>Demystifying Why Instagram Interrupts My Videos</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/essential-tips-to-ensure-solid-hole-free-3d-prints-every-time/"><u>Essential Tips to Ensure Solid, Hole-Free 3D Prints Every Time</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/my-ai-vs-chatgpt-making-the-right-choice-on-snapchat/"><u>My AI vs ChatGPT: Making the Right Choice on Snapchat</u></a></li>
+<li><a href="https://article-helps.techidaily.com/pic-perfect-ranking-the-best-photo-stickering-apps-for-iphonesandroids/"><u>Pic Perfect Ranking the Best Photo Stickering Apps for iPhones/Androids</u></a></li>
+<li><a href="https://article-helps.techidaily.com/profiles-in-metaverse-promotion-case-studies-and-more/"><u>Profiles in Metaverse Promotion Case Studies and More</u></a></li>
+<li><a href="https://some-tips.techidaily.com/samsung-delays-release-of-innovative-vr-headset-aims-for-end-of-year-launch-insights-from-industry-sources/"><u>Samsung Delays Release of Innovative VR Headset, Aims for End-of-Year Launch – Insights From Industry Sources</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-how-to-access-and-enjoy-3d-movie-night-with-fandango-from-the-comfort-of-home/"><u>Step by Step: How to Access and Enjoy 3D Movie Night with Fandango From the Comfort of Home</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-fix-boot-problems-with-windows-getting-ready/"><u>Step-by-Step Guide to Fix Boot Problems with 'Windows Getting Ready'</u></a></li>
+<li><a href="https://windows11.techidaily.com/taskbar-chatting-feature-in-windows-11-user-implications/"><u>Taskbar Chatting Feature in Windows 11: User Implications</u></a></li>
+</ul></div>
 

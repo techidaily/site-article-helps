@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Advanced Editing Guide for Creating Compelling 360-Degree Videos Using Premiere Pro\""
-date: 2024-08-08T05:32:57.727Z
-updated: 2024-08-09T05:32:57.727Z
+date: 2025-01-13T16:48:02.568Z
+updated: 2025-01-16T23:24:51.133Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/d222a947a358a9a5da5a72c775e634907e671d005
 
 # How to Edit 360 Degree Video in Premiere Pro
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -32,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/d222a947a358a9a5da5a72c775e634907e671d005
  Adobe Premiere Pro is without a doubt one of the most popular applications for editing videos today. To the convenience of many, especially those involved with VR, it now comes with an improved workflow for editing virtual reality videos. While you will be required to use your favorite tools to stitch videos together for a 360 degree view, Adobe Premier Pro allows for the importation of such videos with an equirectangular projection that makes it possible to edit them just as you would work with any other video file.
 
 **Related article:** [How to Stitch GoPro Clips into 360 Videos >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Editing 360 degrees videos in Premiere Pro
 
@@ -43,18 +44,16 @@ thumbnail: https://thmb.techidaily.com/d222a947a358a9a5da5a72c775e634907e671d005
 
 #### 2. Adjust your settings
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Edit 360 videos with Premiere Pro - Settings](https://images.wondershare.com/filmora/article-images/360-editing-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Premiere Pro allows you to view any video by double clicking on the video in the project panel. Be default, the equirectanglular video clips will appear on the preview panel, but they will be distorted. To change how the videos appear on the preview panel, it is imperative to adjust the settings. This is done by clicking on the wrench icon located at the bottom right of window then navigating to VR Video>Settings. This will pull up the menu to let you adjust the various settings you need to proceed with the editing.
 
 #### 3. Set the Preview Window to VR Mode
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![Edit 360 videos with Premiere Pro - Enable VR mode](https://images.wondershare.com/filmora/article-images/enable-vr-mode.jpg)
 
  After you have established the right settings for your project, the next thing you need to do is to set the preview window into VR Mode. There are two ways to do this and they include-:
@@ -70,24 +69,27 @@ thumbnail: https://thmb.techidaily.com/d222a947a358a9a5da5a72c775e634907e671d005
 
 #### 5. Exporting the VR Footage
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Edit 360 videos with Premiere Pro - Export VR footage]( https://images.wondershare.com/filmora/article-images/export-vr-footage.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  A while back, exporting VR footages to YouTube was possible only through third party applications. But now, such capabilities have been included in Adobe Premiere Pro and you can now apply all the Meta data directly inside the application. To export your edited footage, navigate to File>Export>Media or simply hit Command + M to pop up the export window. Select your desired codecs and navigate to the video tab and ensure that you have selected the VR Video Checkbox.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Best Video Editor: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -112,4 +114,21 @@ Follow @Benjamin Arango
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-auditory-artifacts-essential-ringtone-archives-online/"><u>[New] In 2024, Auditory Artifacts Essential Ringtone Archives Online</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-dji-phantom-3-pro-an-in-depth-analysis/"><u>[New] In 2024, DJI Phantom 3 Pro An In-Depth Analysis</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-navigating-modern-and-future-terrain-with-drones-for-2024/"><u>[New] Navigating Modern and Future Terrain with Drones for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-pioneering-performance-exclusive-insights-into-oculus-headsets-for-2024/"><u>[Updated] Pioneering Performance Exclusive Insights Into Oculus Headsets for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-free-online-video-capture-leaders-top-10-edition/"><u>2024 Approved Free Online Video Capture Leaders – Top 10 Edition</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-driven-domestic-efficiency-chatgpts-role/"><u>AI-Driven Domestic Efficiency: ChatGPT's Role?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-vivo-s17-pro-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Vivo S17 Pro FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-essential-guide-utilizing-vimeo-record-for-screen-and-webcam-capture/"><u>In 2024, Essential Guide Utilizing Vimeo Record for Screen & Webcam Capture</u></a></li>
+<li><a href="https://extra-information.techidaily.com/innovative-image-caption-manipulation/"><u>Innovative Image Caption Manipulation</u></a></li>
+<li><a href="https://article-helps.techidaily.com/optimizing-video-playback-with-pip-on-safari-devices/"><u>Optimizing Video Playback with PIP on Safari Devices</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/resolve-your-iphone-15-pro-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>Resolve Your iPhone 15 Pro Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ndgame-permanently-blocking-access-to-youtube-shorts-for-2024/"><u>The Endgame Permanently Blocking Access to YouTube Shorts for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/unveiling-the-power-of-nikon-d7500-for-2024/"><u>Unveiling the Power of Nikon D7500 for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/rawwavmovavi/"><u>スピーディなオンラインRAWからWAVへの変換！Movavi無料ツール</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Integrating Soundscape and Aesthetics in Windows Photos App"
-date: 2024-08-08T05:33:27.375Z
-updated: 2024-08-09T05:33:27.375Z
+date: 2025-01-10T16:45:40.447Z
+updated: 2025-01-16T20:40:24.551Z
 tags: 
   - screen-recording
   - ai video
@@ -20,14 +20,6 @@ thumbnail: https://thmb.techidaily.com/496184fd4152c46b6485f793c6a0f28b5d68db1c2
 
 # How to Add Filters and Music on Windows 10 Photos App
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -42,8 +34,9 @@ Having Windows 10 Photos app is an advantage for you. This is not like any other
 **You may also like:** [How to Trim Video in Windows 10 Photos Easily >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1: How to add filters on Windows 10 Photos App
 
 If you have got Windows 10 Photos app and wish to add filters, though, it is by default a photo viewing app, its editing features are worth to mention. This step by step guide is your perfect savior in that case.
@@ -60,16 +53,18 @@ If you have got Windows 10 Photos app and wish to add filters, though, it is by 
 
 **Step 4**: Click Filters at tool bar. Microsoft Photos has 14 filters you can use, including classic, adventure, sepia and so on.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![ add filters on windows 10 photos app](https://images.wondershare.com/filmora/article-images/edit-filters-microsoft-photos.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5**: Just select one you like. Preview it and then click Done.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2: How to add music on Windows 10 Photos App
 
 Now that you have learnt how to **_add filters using Windows 10 Photos app._** Do you think there is any possibility regarding adding music over it? Adding music to your video would make it more enjoyable. The artificial intelligence feature on Windows 10 Photos app helps it add music to videos with a single click. It’s easy to do, but meanwhile there will be some twitches to the way artificial intelligence videos show up as you try to match the volume and tempo of the music. But, you can do it with the help of default Microsoft tools.
@@ -84,21 +79,23 @@ Now that you have learnt how to **_add filters using Windows 10 Photos app._** D
 
 **Step 4**: Pick ‘Your music’ so that you can set up a custom track. There are over 20 music you can choose. You can also sync music to video's beat. You can visit ‘Recommended’ section for adding default ones.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![add music on windows 10 photos app](https://images.wondershare.com/filmora/article-images/choose-music-to-video-photos-app.jpg)
 
 **Step 5**: Hit the ‘Done’ button.
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 From the above article, we conclude that Windows 10 Photos app is an amazing app when it comes to photo editing and screen capturing from a video. While there are numerous options out there, you can **_add filters using Windows 10 Photos app_** in the best way possible. Moreover, this application enables you enable to even add music to videos using Windows 10 Photos app. The advantages of Windows 10 are innumerable, and with the right tools, you can get the best out of it.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -123,4 +120,24 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-become-a-viral-sensation-key-strategies-for-popular-tiktok-unpacks/"><u>[New] 2024 Approved Become a Viral Sensation Key Strategies for Popular TikTok Unpacks</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-no-money-no-problem-heres-your-list-of-vfx-pages/"><u>[New] 2024 Approved No Money, No Problem! Here's Your List of VFX Pages</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-avoiding-strikes-youtube-edition/"><u>[New] In 2024, Avoiding Strikes YouTube Edition</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-shaping-imagery-the-most-innovative-vector-designers-ranked-for-2024/"><u>[New] Shaping Imagery The Most Innovative Vector Designers Ranked for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/outube-master-of-moneymaking-skills-for-2024/"><u>[New] YouTube Master of Moneymaking Skills for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-how-to-organize-photo-album-on-iphone-and-icloud/"><u>[Updated] 2024 Approved How To Organize Photo Album On iPhone And iCloud</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-in-depth-skype-audio-capture-guide-with-obs-software/"><u>[Updated] 2024 Approved In-Depth Skype Audio Capture Guide with OBS Software</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-quick-pace-champions-2022-edition/"><u>[Updated] 2024 Approved Quick Pace Champions 2022 Edition</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-empower-your-slide-shows-a-guide-to-adding-speech-to-text-functionality/"><u>[Updated] Empower Your Slide Shows A Guide to Adding Speech-to-Text Functionality</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-high-end-hardware-a-showcase-of-excellence/"><u>[Updated] In 2024, High-End Hardware A Showcase of Excellence</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-precision-editing-at-your-fingertips-canvas-boundary-eradication/"><u>[Updated] Precision Editing at Your Fingertips Canva's Boundary Eradication</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-epson-ds-530-printer-drivers-for-windows-11-64-bit-free-and-safe/"><u>Download Epson DS-530 Printer Drivers for Windows 11 (64-Bit) - Free and Safe</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/installing-the-latest-soundmax-drivers-for-windows-systems-step-by-step-instructions/"><u>Installing the Latest SoundMAX Drivers for Windows Systems: Step-by-Step Instructions</u></a></li>
+<li><a href="https://techidaily.com/sign-doc-file-online-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .doc file Online for Free</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/step-by-step-solution-overcoming-common-dvd-compatibility-issues-in-macos/"><u>Step-by-Step Solution: Overcoming Common DVD Compatibility Issues in macOS</u></a></li>
+<li><a href="https://article-helps.techidaily.com/superior-audio-transformation-tools-unleash-voices-for-2024/"><u>Superior Audio Transformation Tools Unleash Voices for 2024</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/unraveling-the-mystery-behind-your-screens-darkness-a-guide-by-yl-computing/"><u>Unraveling the Mystery Behind Your Screen's Darkness: A Guide by YL Computing</u></a></li>
+</ul></div>
 
