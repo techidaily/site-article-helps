@@ -1,7 +1,7 @@
 ---
 title: "Tiny Screenplay Scheme"
-date: 2025-01-04T23:28:37.105Z
-updated: 2025-01-11T01:09:33.429Z
+date: 2025-01-15T18:53:21.142Z
+updated: 2025-01-23T05:37:05.943Z
 tags: 
   - screen-recording
   - ai video
@@ -43,6 +43,10 @@ This is always, always, the number one problem for my screenwriting students. Th
 
 Writing compelling short scripts requires what Thornton Wilder called "shortcuts to the imagination." And knowing what your main character wants in your story is the most important shortcut to understanding and discovering who your main character is. So, give your main character a desire or yearning for something that matters deeply to her. Then let your story flow from your character's efforts to achieve that wish. The best stories, short or long, are about the human heart.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. An independent story
 
 It's also a useful way to think of the script as an energy system, as William Gibson brilliantly says in Shakespeare's play. An energy system begins with an Inciting Incident - a significant event/discovery that unleashes the energy system - and ends with a Climax - the moment when the story's outcome is known, and the energy system ends. Given the limited number of pages available in your short script, it's essential that your inciting incident appears on the first page.
@@ -79,14 +83,6 @@ The end of a script is often more important than the 90 pages that preceded it. 
 
 ![example script defining](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2\. How to edit your short film?
 
 Have you ever stored various videos and photos on a memory card or on a computer? Why not create a movie to show them off? Once finish making a great movie, you can share it with others in a variety of ways including on YouTube, Facebook, and Instagram. Your followers will be amazed at the extraordinarily delightful works. In fact, making a movie using your own photos, videos and audio is easy.
@@ -101,10 +97,6 @@ Open Wondershare Filmora, click the "Import" button, and use the navigation impo
 
 ![import files and arrange order](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Making stunning short films with various Effects & Filters
 
 After you've added your media files for editing and placed them on the Timeline, double-click the target file and adjust video quality by changing the Contrast, Saturation, Brightness, and Hue as you like. Then return to the “Effects” tab and pick the special effects you want to apply.
@@ -113,12 +105,16 @@ Select the ones you want to add by clicking "Transition" and dragging them betwe
 
 ![apply to all](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 To add text to the video, click the "Text" button, choose a text type, and drag the icon to the Text track. You can stretch the icon across the entire track to have the titles appear throughout the movie, or just over a portion of it. In the editing window, you can change the font, size, color, and effect.
 
 * More features to discover can be found by clicking [**Extraordinary Features of Filmora**](https://tools.techidaily.com/wondershare/filmora/download/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3.Save the video in the format of your choice
@@ -127,10 +123,6 @@ When everything is done, hit the “Create” button, and you'll see several opt
 
 ![save the video](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Conclusion
 
 Don't be afraid to start writing your next (or first) short film! It might seem like a daunting task, but it's well worth doing. I hope these tips will help you create a unique short film built from your own perspective that is well within your limits to have created. Nothing has the same feeling as seeing your words come to life on screen!
@@ -138,10 +130,6 @@ Don't be afraid to start writing your next (or first) short film! It might seem 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For Win 7 or later(64-bit)
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Characterization
 
@@ -153,6 +141,10 @@ It's also a useful way to think of the script as an energy system, as William Gi
 
 ![an independent story](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Conflict
 
 Conflict is every point of opposition between two forces (physical or intellectual), as well as the consequences of this opposition - all in full view of what can be seen on the screen, whether through cinema, television, or devices.
@@ -164,7 +156,7 @@ Instead, screenwriters are tasked with presenting the conflict on screen through
 ![conflict](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Turning Point
@@ -187,6 +179,10 @@ The end of a script is often more important than the 90 pages that preceded it. 
 
 ![example script defining](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2\. How to edit your short film?
 
 Have you ever stored various videos and photos on a memory card or on a computer? Why not create a movie to show them off? Once finish making a great movie, you can share it with others in a variety of ways including on YouTube, Facebook, and Instagram. Your followers will be amazed at the extraordinarily delightful works. In fact, making a movie using your own photos, videos and audio is easy.
@@ -196,7 +192,7 @@ Have you ever stored various videos and photos on a memory card or on a computer
 Below, we will show you have to use this easy movie maker to create a video with Filmora in clicks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Import your files and arrange the order
@@ -206,11 +202,7 @@ Open Wondershare Filmora, click the "Import" button, and use the navigation impo
 ![import files and arrange order](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Making stunning short films with various Effects & Filters
@@ -225,11 +217,19 @@ To add text to the video, click the "Text" button, choose a text type, and drag 
 
 * More features to discover can be found by clicking [**Extraordinary Features of Filmora**](https://tools.techidaily.com/wondershare/filmora/download/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3.Save the video in the format of your choice
 
 When everything is done, hit the “Create” button, and you'll see several options: save it as a video file, convert it for viewing on your mobile phone or tablet, directly upload to your YouTube or Facebook account and burn to DVD. Choose an output method as you like and click “Create”. After a few seconds, a folder with the newly reformatted video will open automatically.
 
 ![save the video](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -263,22 +263,17 @@ Don't be afraid to start writing your next (or first) short film! It might seem 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-the-complete-guide-to-proficient-kinemaster-use-and-top-digital-services/"><u>[New] The Complete Guide to Proficient KineMaster Use and Top Digital Services</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-transform-your-iphone-snaps-into-stunning-hdr-photos/"><u>[New] Transform Your iPhone Snaps Into Stunning HDR Photos</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-perfect-patches-backgrounds-for-online-streaming/"><u>[Updated] 2024 Approved Perfect Patches Backgrounds for Online Streaming</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-determining-the-best-action-camera-gopro-max-or-hero-11/"><u>[Updated] Determining the Best Action Camera GoPro Max or Hero 11?</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-dynamic-distortion-for-images-and-videos/"><u>[Updated] Dynamic Distortion for Images & Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-explore-high-quality-android-videos-top-10-apps/"><u>[Updated] Explore High-Quality Android Videos Top 10 Apps</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-cloud-space-costs-analyzing-and-top-tier-savings-guide/"><u>[Updated] In 2024, Cloud Space Costs Analyzing & Top-Tier Savings Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211834461-fix-your-laptops-non-charging-battery-issues-simple-solutions-inside/"><u>Fix Your Laptop's Non-Charging Battery Issues - Simple Solutions Inside!</u></a></li>
-<li><a href="https://fox-info.techidaily.com/from-beginner-to-champion-essential-drone-races-tips-and-best-models-for-2024/"><u>From Beginner to Champion Essential Drone Races Tips and Best Models for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-how-to-create-text-memes-with-meme-text-generator/"><u>In 2024, How to Create Text Memes with Meme Text Generator?</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-launching-successful-online-gaming-shows-on-youtube/"><u>In 2024, Launching Successful Online Gaming Shows on YouTube</u></a></li>
-<li><a href="https://article-helps.techidaily.com/simple-steps-for-iphone-to-pc-file-shift-for-2024/"><u>Simple Steps for iPhone-to-PC File Shift for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/tailored-tech-reviews-navigate-the-world-of-hardware-with-pro-critic-tom/"><u>Tailored Tech Reviews: Navigate the World of Hardware with Pro Critic Tom</u></a></li>
-<li><a href="https://article-helps.techidaily.com/the-15-best-smartphone-blur-apps-reviewed-for-2024/"><u>The 15 Best Smartphone Blur Apps Reviewed for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-error-0x800f020b-successful-updates-for-your-xerox-printer-on-windows/"><u>Troubleshooting Error 0X800F020B: Successful Updates for Your Xerox Printer on Windows</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/ultimate-powerdirector-insight-comprehensive-2024-walkthrough/"><u>Ultimate PowerDirector Insight Comprehensive 2024 Walkthrough</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-pros-and-cons-of-the-google-pixel-6-through-our-thorough-review/"><u>Unveiling the Pros and Cons of the Google Pixel 6 Through Our Thorough Review</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-transform-your-twitter-experience-with-fresh-tailored-video-previews/"><u>[New] 2024 Approved Transform Your Twitter Experience with Fresh, Tailored Video Previews</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-outstanding-films-not-on-mainstream-lists/"><u>[New] In 2024, Outstanding Films Not on Mainstream Lists</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-top-tactics-for-boosting-vhs-quality-through-digital-tools/"><u>[New] In 2024, Top Tactics for Boosting VHS Quality Through Digital Tools</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-bring-your-videos-into-the-future-converting-sdr-to-hdr-with-ease/"><u>[Updated] 2024 Approved Bring Your Videos Into the Future Converting SDR to HDR with Ease</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-crafting-video-narratives-with-chiseled-chapters-on-vimeo-for-2024/"><u>[Updated] Crafting Video Narratives with Chiseled Chapters on Vimeo for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-playlist-embedding-on-sites-using-youtube/"><u>[Updated] Playlist Embedding on Sites Using YouTube</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-sculpting-visual-clarity-overcoming-gopro-lens-distortion-for-2024/"><u>[Updated] Sculpting Visual Clarity Overcoming GoPro Lens Distortion for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-best-match-image-taking-and-music-merging-technology/"><u>2024 Approved Best Match Image Taking & Music Merging Technology</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-navigating-instagrams-latest-filters-a-year-round-guide/"><u>2024 Approved Navigating Instagram's Latest Filters A Year-Round Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Vivo Y27s? | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/husqvarna-h501s-drone-unboxed-review-essentials/"><u>Husqvarna H501S Drone Unboxed - Review Essentials</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-xiaomi-redmi-note-13-proplus-5g-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Xiaomi Redmi Note 13 Pro+ 5G for Parents | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Pro Tips for Capturing Stunning Close-Up Footage\""
-date: 2024-08-08T05:25:55.109Z
-updated: 2024-08-09T05:25:55.109Z
+date: 2025-01-16T02:12:37.191Z
+updated: 2025-01-22T23:09:58.424Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/97d4b7a24e4095203ce78f6219b92226bf6791663
 
 # Videography: 6 Tips for Making Macro Video
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -65,21 +62,17 @@ A macro video is shot from a close distance. If your camera is in motion, it can
 
 Try to get great visual perspectives or angles by bracing the camera on the tree or ground on any other stable object.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Tripod](https://images.wondershare.com/filmora/article-images/oconnor-ultimate-1030d-fluid-head-30l-cf-tripod.jpg)
 
 #### 3\. Background
 
 The background of your macro video always remains blurred as you shoot it closely. But, the background color is visible so, choosing it correctly is vital. The color of the background must compliment your composition’s color and must be chosen creatively.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![background](https://images.wondershare.com/filmora/article-images/separate-the-foreground-from-background.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 4\. DSLR Cameras
 
@@ -89,10 +82,11 @@ If you are a Canon user, you may opt for the 180 mm macro, 100 mm macro or the 6
 
 You may also add an extension tube which basically splits the focal distance in two equal halves and make the image size bigger but it decreases the depth of the field.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dslr camera](https://images.wondershare.com/filmora/article-images/dslr-camera-full-rig.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 5\. Depth of Field
 
@@ -102,9 +96,6 @@ What is an aperture? It is the opening of the lens. The smaller the opening of t
 
 But, you must remember that when the opening of the lens is small, the light required is more. There must be an equal balance.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![depth of field](https://images.wondershare.com/filmora/article-images/depth-of-field.JPG)
 
 #### 6\. Composition
@@ -115,14 +106,23 @@ For instance, in order to keep a snail always in focus, you may choose to shoot 
 
 ![composition](https://images.wondershare.com/filmora/article-images/composition.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Once you can master the above tips for making the macro video, you can easily shoot small objects like a pro. A videographer’s experience and creativity can be matched even by you if you can easily grasp the techniques, practice it, and implement creatively while making your macro videos.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -147,4 +147,18 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-blending-images-with-moving-screens-on-iphone/"><u>[New] 2024 Approved Blending Images with Moving Screens on iPhone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-kickstart-your-earnings-with-periscope-strategies/"><u>[New] In 2024, Kickstart Your Earnings with Periscope Strategies</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-insta-moments-of-laughter-and-tears-in-top-meme-groups/"><u>[Updated] 2024 Approved Insta-Moments of Laughter & Tears in Top Meme Groups</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-timing-and-frequency-what-is-the-best-day-to-release-a-podcast/"><u>[Updated] Timing & Frequency What Is the Best Day to Release a Podcast?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-jubilant-join-and-disconnect-protocols/"><u>In 2024, Jubilant Join & Disconnect Protocols</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-canon-imageclass-mf4800-printing-drivers-step-by-step-download-tutorial/"><u>Install Canon ImageCLASS MF4800 Printing Drivers: Step-by-Step Download Tutorial</u></a></li>
+<li><a href="https://change-location.techidaily.com/list-of-pokemon-go-joysticks-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/optimal-orientation-top-tripods-for-iphones-and-androids/"><u>Optimal Orientation Top Tripods for iPhones & Androids</u></a></li>
+<li><a href="https://techidaily.com/stellar-data-recovery-for-iphone-6s-failed-to-recognize-my-iphone-how-to-fix-it-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Stellar Data Recovery for iPhone 6s failed to recognize my iPhone. How to fix it? | Stellar</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-ideal-companion-15-tripods-and-mounts-for-gopro-excellence-for-2024/"><u>The Ideal Companion 15 Tripods and Mounts for GoPro Excellence for 2024</u></a></li>
+</ul></div>
 

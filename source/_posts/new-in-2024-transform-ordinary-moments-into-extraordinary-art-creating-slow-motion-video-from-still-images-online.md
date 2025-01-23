@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Transform Ordinary Moments Into Extraordinary Art  Creating Slow Motion Video From Still Images Online\""
-date: 2024-08-08T05:30:10.051Z
-updated: 2024-08-09T05:30:10.051Z
+date: 2025-01-22T00:42:12.885Z
+updated: 2025-01-22T18:53:46.009Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/468b7a50fb837089e10cec38dd44fa01aaab4078b
 
 # How to make slow motion video with Photos App and Online
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -43,11 +40,12 @@ Navigate to the folder where your video file is located and right click on it. Y
 
 ![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/slow-motion-photos-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If you do not see the option anywhere on your Photos app, there is a chance you are running an outdated version of Windows 10 on your computer. All you need to do is navigate to Windows Update through your system menu. When all the updates install, you will have the latest Photos app with this feature.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2：Customizing the Slow Motion Effect
 
 When you are using the Photos app to add a slow motion effect to your videos, you can tweak it to your liking. You will be able to select the speed using a slider, which lets you get the precise slow motion effect that you desire.
@@ -56,11 +54,11 @@ There is also the handy option of being able to select the portion of your video
 
 Now you can select the beginning and end point using the bottom slider on the Photos app. Choose the precise starting and ending of the slow motion effect, and then watch through your video to ensure it is exactly as you want.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/make-slow-motion-microsoft-photos.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 We recommend that you save your video file under a new name when you are done making your desired changes. It ensures that you still have the original copy of the video saved on your computer or external hard drive.
 
@@ -68,16 +66,10 @@ You can even create multiple versions of the file with the slow motion effect ap
 
 **You may also like:** [How to Use Story Remix to Edit a Video in Windows 10 Photos >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## Part 3: How to Edit in Slow Motion Online
 
 If you are not able to access a Windows computer, you may want a solution that can be used online. The good news is that you can use some [online video speed changers](https://tools.techidaily.com/wondershare/filmora/download/)to add a slow motion effect to your content.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ### [EZGif](https://ezgif.com/video-speed)
 
 **Step 1: Select Video**
@@ -90,19 +82,28 @@ Click on the “upload video” button so that it can be added into the database
 
 ![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/ezgif-change-videos-speed-import.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Output**
 
 The program will let you adjust the video speed to your liking. Then you will get a URL for the output video, which will have been slowed down according to your settings. There is even an option to keep the audio track at the same speed, but you can slow down the audio at the same rate as the video if you want.
 
 ![slow motion video microsoft photos](https://images.wondershare.com/filmora/article-images/change-video-speed-ezgif-edit.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Now that you have understood how to add the effect of slow motion in Windows 10 Photos, you will be able to tweak your videos even more. The Photos application has many other features that you may want to check out, which will help you edit images and videos.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -128,4 +129,22 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-frame-perfect-phones-ranking-top-10-4k-camera-mobile-devices/"><u>[New] 2024 Approved Frame-Perfect Phones Ranking Top 10 4K Camera Mobile Devices</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-kitchen-kings-and-queens-crown-your-channel-with-a-name/"><u>[New] 2024 Approved Kitchen Kings & Queens Crown Your Channel With a Name</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-master-your-vision-with-these-6-premier-nft-tools/"><u>[New] 2024 Approved Master Your Vision with These 6 Premier NFT Tools</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-understanding-slug-lines-an-essential-guide/"><u>[New] 2024 Approved Understanding Slug Lines An Essential Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-gopros-top-5-subaquatic-filter-choices-for-2024/"><u>[New] GoPro's Top 5 Subaquatic Filter Choices for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-exploring-new-horizons-top-5-samsung-gear-vr-games/"><u>[Updated] Exploring New Horizons - Top 5 Samsung Gear VR Games</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-rapidly-develop-dazzling-facebook-collage-designs/"><u>[Updated] Rapidly Develop Dazzling Facebook Collage Designs</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/7-leading-mac-video-player-options-for-2024/"><u>7 Leading Mac Video Player Options for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-clockwise-conversions-transform-your-instagram-posts-through-rotation/"><u>In 2024, Clockwise Conversions Transform Your Instagram Posts Through Rotation</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Location On Facebook Dating for your Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-smooth-sailing-through-sequences-with-kinemaster/"><u>In 2024, Smooth Sailing Through Sequences with Kinemaster</u></a></li>
+<li><a href="https://article-helps.techidaily.com/innovating-with-no-cost-text-animation-methods-for-2024/"><u>Innovating with No-Cost Text Animation Methods for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/samsung-galaxy-s22-ultra-latest-updates-on-pricing-release-timeline-and-features/"><u>Samsung Galaxy S22 Ultra - Latest Updates on Pricing, Release Timeline & Features</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nsiders-blueprint-for-finding-hidden-youtube-files-for-2024/"><u>The Insider's Blueprint for Finding Hidden YouTube Files for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/venture-into-the-best-sites-for-innovative-text-manipulation-tools-for-2024/"><u>Venture Into the Best Sites for Innovative Text Manipulation Tools for 2024</u></a></li>
+</ul></div>
 

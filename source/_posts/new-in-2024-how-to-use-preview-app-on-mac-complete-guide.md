@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, How to Use Preview App on Mac [Complete Guide]"
-date: 2025-01-07T22:50:58.403Z
-updated: 2025-01-11T03:05:34.105Z
+date: 2025-01-17T02:59:50.988Z
+updated: 2025-01-23T02:19:13.003Z
 tags: 
   - screen-recording
   - ai video
@@ -41,6 +41,10 @@ Being the default image editor for Mac, Apple tried to make the **Preview app** 
 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to View and Edit Photos in Preview on Mac
 
 As mentioned earlier, the **Preview app** is a default photo viewer on Mac that also has many editing tools. Therefore:
@@ -55,10 +59,6 @@ As mentioned earlier, the **Preview app** is a default photo viewer on Mac that 
 * Use the tools present on the standard toolbar at the top of the interface
 * Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Show Markup Tools in Preview on Mac
 
 Markup Tools gives easy access to the editing tools the **Preview app** has. By default, Markup Tools is kept hidden, but automatically becomes visible when you make some changes to the image. However, you can follow the process given below to manually show Markup Tools in Preview:
@@ -72,10 +72,6 @@ Click the **Show Markup Toolbar** icon present at the upper-right area to reveal
 Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup Toolbar**.
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Crop in Preview
 
@@ -93,10 +89,6 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Rotate Image in Preview
 
 Rotating an image in the **Preview app** is fairly simple. To do so:
@@ -108,6 +100,10 @@ Use the method explained above to open the photo in Preview.
 **Step 2: Rotate the Image**
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Add Text to Image in Preview
 
@@ -141,6 +137,10 @@ Once the background portion of the image gets selected (colored in red), without
 
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Combine Images into One
 
 This process is generally used to place an object present in one image over the background of the other photo. A good example could be to place a picture of a fish on to a second photo that has a sea or river. The **Preview app** lets you do this easily using the following steps:
@@ -158,7 +158,7 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Save Images in Different Formats
@@ -208,7 +208,7 @@ Choose a destination folder in the **Where** field, select your preferred format
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -236,18 +236,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-top-video-editor-battle-is-inshot-reigning-supreme/"><u>[New] 2024 Approved Top Video Editor Battle Is InShot Reigning Supreme?</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-expertise-in-image-colors-pro-techniques-revealed-for-2024/"><u>[New] Expertise in Image Colors Pro Techniques Revealed for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-top-10-windows-film-and-multimedia-editors-reviewed-and-ranked/"><u>[New] In 2024, Top 10 Windows Film & Multimedia Editors Reviewed and Ranked</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-inside-out-a-review-of-individual-3d-printing-journey/"><u>[New] Inside Out A Review of Individual 3D Printing Journey</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-laugh-loom-robotic-deadlines/"><u>[New] Laugh Loom Robotic Deadlines</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-chilly-competition-unveiling-highlights-of-2022s-snowboard-cross-showdown/"><u>[Updated] 2024 Approved Chilly Competition Unveiling Highlights of 2022'S Snowboard Cross Showdown</u></a></li>
-<li><a href="https://change-location.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Poco X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/in-depth-look-at-rayman-legends-a-prime-example-of-high-quality-2d-level-design/"><u>In-Depth Look at Rayman Legends: A Prime Example of High-Quality 2D Level Design</u></a></li>
-<li><a href="https://article-helps.techidaily.com/introducing-tencentos-server-v3-the-new-home-brewed-os-optimized-for-chinas-top-server-cpus/"><u>Introducing TencentOS Server V3: The New Home-Brewed OS Optimized for China's Top Server CPUs</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Motorola Moto E13 | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/transformer-gratuitement-un-fichier-voc-en-format-wav-sur-linternet-avec-movavi/"><u>Transformer Gratuitement Un Fichier VOC en Format WAV Sur L'Internet Avec Movavi</u></a></li>
-<li><a href="https://article-helps.techidaily.com/years-premier-picks-top-15-youtube-channels-revolutionizing-product-reviews-2024/"><u>Year's Premier Picks Top 15 YouTube Channels Revolutionizing Product Reviews, 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-professional-photoshop-guide-to-crafting-hdr-images/"><u>[New] 2024 Approved Professional Photoshop Guide to Crafting HDR Images</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-revolutionize-your-visual-experience-top-10-4k-mac-displays/"><u>[New] 2024 Approved Revolutionize Your Visual Experience - Top 10 4K Mac Displays</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-ultimate-guide-to-zooming-in-on-effective-win11-meetings/"><u>[New] In 2024, Ultimate Guide to Zooming In on Effective Win11 Meetings</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-how-to-create-a-quick-google-collage-photo-for-2024/"><u>[Updated] How to Create a Quick Google Collage Photo for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-cutting-the-cord-on-costs-select-best-free-yt-title-makers/"><u>[Updated] In 2024, Cutting the Cord on Costs - Select Best-Free YT Title Makers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-top-8-affordable-srt-services-for-flawless-translation/"><u>[Updated] In 2024, Top 8 Affordable SRT Services for Flawless Translation</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-top-tech-best-drone-gimbals-reviewed-for-2024/"><u>[Updated] Top Tech Best Drone Gimbals Reviewed for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-step-by-step-instructions-on-chromes-pip-across-all-platforms/"><u>2024 Approved Step-by-Step Instructions on Chrome’s PIP Across All Platforms</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/effortless-techniques-for-expertly-shortening-your-videos-a-beginners-guide/"><u>Effortless Techniques for Expertly Shortening Your Videos - A Beginner's Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-honor-x8b-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Honor X8b</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-best-aspect-ratios-to-enhance-video-quality/"><u>In 2024, Best Aspect Ratios to Enhance Video Quality</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-polity-playlists-the-premier-gamified-elections/"><u>In 2024, Polity Playlists The Premier Gamified Elections</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-itel-a05s-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Itel A05s</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-top-10-pc-vr-headsets-2023-update/"><u>In 2024, Top 10 PC VR Headsets -2023 Update</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/navigating-tablet-selection-prioritizing-portability-in-screen-length-and-weight/"><u>Navigating Tablet Selection: Prioritizing Portability in Screen Length & Weight</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-mastering-video-import-and-export-in-adobe-premiere-pro-2023/"><u>New In 2024, Mastering Video Import and Export in Adobe Premiere Pro 2023</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/python-programming-with-gpt-3-made-simple-techniques-for-successful-implementation/"><u>Python Programming with GPT-3 Made Simple: Techniques for Successful Implementation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/speedy-shot-techniques-to-boost-home-filmmaking/"><u>Speedy Shot Techniques to Boost Home Filmmaking</u></a></li>
+<li><a href="https://article-helps.techidaily.com/top-cloud-storages-essential-choices-for-you/"><u>Top Cloud Storages Essential Choices for You</u></a></li>
 </ul></div>
 

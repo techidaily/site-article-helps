@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Safeguard Yourself From Oculus Discomfort"
-date: 2024-08-08T05:29:32.074Z
-updated: 2024-08-09T05:29:32.074Z
+date: 2025-01-18T22:49:28.236Z
+updated: 2025-01-23T01:19:24.855Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/1d1233e027868c7eb597be592cc478aeb7aba77b4
 
 # 10 tips to prevent Oculus Rift VR motion sickness
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -30,9 +27,9 @@ thumbnail: https://thmb.techidaily.com/1d1233e027868c7eb597be592cc478aeb7aba77b4
  Mar 27, 2024• Proven solutions
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 10 ways to prevent Oculus Rift motion sickness
 
  While using your Oculus Rift development kits you need to take care of few little things in order to avoid getting any kind of sickness during your game. Although the factors vary from individual to individual since it is more of the bodily response rather than the design variation.
@@ -58,18 +55,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 **10\. Try not to move your head a lot.** Since motion sickness directly corresponds to movement, reducing your head movement left and right and up and down in one place can help you lower the chances of sickness.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Oculus have done to reduce motion sickness
 
  With the new, innovative VR devices and the head gear technology has taken a huge leap. Oculus Rift has become widely popular among its enthusiastic users. When Oculus released its first Development kit (DevKit 1) the users experienced the symptoms such as nausea, dizziness, sweating and vomiting. Even Oculus CEO Brendan Iribe experienced “motion sickness” with his own product, while using last year’s “DevKit 1” prototype. These sickness issues were so common while using DevKit 1 that its users called it the “Rift Sickness”.
 
  Since Oculus Rift DK1 came to the market, people were really unhappy with the sickness it gave to them. Oculus saw that issue as a big threat, and started to develop DK2 with a much better display. In the original DK1, Oculus Rift used the liquid crystal display (LCD) to display visual in its devices. LCD screen had been of very much advantage because of its brightness, geometric distortion, and less electricity consumption. But it still had been promoting to the sickness issue because of its sluggish motion time response. In replacement of LCD screens, Oculus Rift has introduced OLED (organic light emitting diode) screens which have proved to be a much better idea. Experiments of Oculus Rift with OLED screens have been successful so far in reducing motion sickness to its minimal. OLED has a much faster rate and thus much enhanced positional tracking.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -94,4 +93,21 @@ Follow @Benjamin Arango
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-personalize-speakability-changing-your-tone-on-instagram-posts/"><u>[New] 2024 Approved Personalize Speakability Changing Your Tone on Instagram Posts</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-sculpting-the-digital-experience-through-zooming-for-2024/"><u>[New] Sculpting the Digital Experience Through Zooming for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-ultimate-guide-to-elegant-sound-reduction-on-lumafusion/"><u>[New] The Ultimate Guide to Elegant Sound Reduction on Lumafusion</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-can-adobe-shake-control-enhance-creative-process-in-photoshop-for-2024/"><u>[Updated] Can Adobe Shake Control Enhance Creative Process in Photoshop for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-decoding-quantum-hdr-for-creative-success/"><u>[Updated] Decoding Quantum HDR for Creative Success</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-enhancing-engagement-how-to-use-background-footage/"><u>[Updated] Enhancing Engagement How to Use Background Footage</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoiding-regrets-your-step-by-step-game-refund-guide/"><u>Avoiding Regrets - Your Step-by-Step Game Refund Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/es-unveiled-exploring-youtubes-curious-numbers-2017/"><u>Figures Unveiled! Exploring YouTube's Curious Numbers (2017)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/free-online-conversion-convert-mxf-to-wmv-using-movavis-video-editing-tool/"><u>Free Online Conversion: Convert MXF to WMV Using Movavi's Video Editing Tool</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/logitech-brio-webcam-driver-download-for-windows-1187/"><u>Logitech BRIO Webcam Driver Download for Windows 11/8/7</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210761503-9781622031672-polishing-the-mirror/"><u>Polishing the Mirror | Free Book</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-secrets-of-selecting-a-powerful-streaming-device/"><u>The Secrets of Selecting a Powerful Streaming Device</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Samsung Galaxy F34 5G? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-realme-v30-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Realme V30 Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+</ul></div>
 

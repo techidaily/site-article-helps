@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Star Wars Jedi: Fallen Order Failure to Start"
-date: 2024-08-08T05:28:54.229Z
-updated: 2024-08-09T05:28:54.229Z
+date: 2025-01-22T00:16:13.789Z
+updated: 2025-01-23T05:03:01.221Z
 tags:
   - win11
   - win10
@@ -44,8 +44,9 @@ Star Wars Jedi: Fallen Order, an action-adventure game, was released on November
  Once you confirm that your gear is up for running Star Wars Jedi, move down and try out the fixes below. However, if your computer doesn’t meet the requirements for this game, please upgrade some of your hardware components first.
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to fix Star Wars Jedi: Fallen Order crash
 
  Here are 6 fixes that have proved useful to many players. You can try any of them selectively, or you can try them one by one; just work your way down the list until you find the one that works.
@@ -64,6 +65,10 @@ Star Wars Jedi: Fallen Order, an action-adventure game, was released on November
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your graphics drivers
 
  Your crashing issue in Star Wars Jedi may be caused by outdated or corrupt graphics card drivers (aka video drivers). To check if that’s the root cause, you should try updating your video drivers to a relatively new and stable version first.
@@ -78,9 +83,6 @@ Star Wars Jedi: Fallen Order, an action-adventure game, was released on November
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
  3) Click the **Update**  button next to a flagged driver (say your graphics card driver) to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -95,9 +97,6 @@ Star Wars Jedi: Fallen Order, an action-adventure game, was released on November
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Run the game as an administrator
 
  This quick fix is more like a general solution for all the games that cannot be launched properly, and it’s very easy to apply. As long as you have the administrative privileges to run the game, you should give this fix a try.
@@ -108,9 +107,6 @@ Star Wars Jedi: Fallen Order, an action-adventure game, was released on November
 
  2) In the **Properties** window, on the **Compatibility** tab, select **Run this program as an administrator** . Then click **Apply > OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-26.png)
 
  Now you should be able to run the game under administrative privileges permanently. If you want to revert this configuration, simply uncheck **Run this program as an administrator** .
@@ -155,17 +151,19 @@ If you continue to have the crashing problem, please proceed to Fix 3.
 
 2) Click**Library** in the left pane, then click the**cog icon** under Star Wars Jedi.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-65.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) In the drop-down menu, click**Verify** .
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-67.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) After the verification is finished, relaunch Star Wars Jedi and see if your problem goes away.
 
@@ -173,14 +171,6 @@ If you continue to have the crashing problem, please proceed to Fix 3.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ### Fix 4: Close unnecessary programs
 
  If there’s a program in your PC that conflicts with Star Wars Jedi, you’ll probably fail to run the game. Although this kind of software clashes don’t occur very often, it’s still worth trying to close unnecessary programs.
@@ -191,12 +181,17 @@ To completely shut down a program:
 
 ![This image has an empty alt attribute; its file name is img_5a0d6aed19abc.png](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0d6aed19abc.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the **Task Manager**  window, on the **Processes** tab, select the program you want to shut down and click **End task** . (If it’s a program you’re using, e.g. Microsoft Word, make sure you save any unsaved work first.)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-243.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Exercise caution when you try to end these processes** . If you mistakenly close one of the important system programs, that might cause your computer to stop running properly.
 
@@ -212,6 +207,10 @@ To completely shut down a program:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Stop overclocking
 
  To anyone in pursuit of ultimate gaming experience, it’s quite common to speed up the CPU/GPU a notch or two. Usually, it won’t cause you much trouble; just don’t push them too hard – otherwise, the overclocking may undermine the stability of your PC, raising the risks of game crashes and even hardware malfunction (such as overheat).
@@ -226,9 +225,6 @@ To completely shut down a program:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## Extra Info:**Unreal Engine crashes**
 
  Some players reported that they’ve encountered crashes relating to Unreal Engine and received an error message reading “Unreal Engine is exiting due to D3D device being lost.” If that’s also the problem for you, here are two articles you can refer to:
@@ -251,8 +247,6 @@ To completely shut down a program:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -260,4 +254,22 @@ To completely shut down a program:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-ultimate-strategies-for-instagram-stories-mastery/"><u>[New] 2024 Approved Ultimate Strategies for Instagram Stories Mastery</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-unleash-the-potential-master-avi-to-gif-conversion-using-filmora/"><u>[New] In 2024, Unleash the Potential Master AVI-to-GIF Conversion Using Filmora</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-ultimate-guide-to-10-premium-vector-websites-for-2024/"><u>[New] Ultimate Guide to 10 Premium Vector Websites for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-web-comedy-architect/"><u>[New] Web Comedy Architect</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-dramatic-footage-showdown-hero5-against-star-for-2024/"><u>[Updated] Dramatic Footage Showdown Hero5 Against Star for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-petite-plot-puzzle-piece/"><u>[Updated] In 2024, Petite Plot Puzzle Piece</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-premium-applications-for-animating-3d-scenes-for-2024/"><u>[Updated] Premium Applications for Animating 3D Scenes for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-most-affordable-gaming-tunes-top-10-lists/"><u>2024 Approved The Most Affordable Gaming Tunes Top 10 Lists</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/all-about-apple-iphone-11-pro-unlock-chip-you-need-to-know-by-drfone-ios/"><u>All About Apple iPhone 11 Pro Unlock Chip You Need to Know</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/customizable-generative-ai-by-nvidia-explained/"><u>Customizable Generative AI by NVIDIA Explained</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-c50-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Poco C50 Phone with Broken Screen</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-mastering-fb-reel-creation-step-by-step-guide/"><u>In 2024, Mastering FB Reel Creation Step-by-Step Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-synthesize-sounds-and-images-in-ppts/"><u>In 2024, Synthesize Sounds and Images in PPTS</u></a></li>
+<li><a href="https://article-helps.techidaily.com/securing-yourself-from-motion-sickness-in-vr-for-2024/"><u>Securing Yourself From Motion Sickness in VR for 2024</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/speedy-conversion-transforming-avchd-footage-into-h264-quickly/"><u>Speedy Conversion: Transforming AVCHD Footage Into H.264 Quickly</u></a></li>
+</ul></div>
 

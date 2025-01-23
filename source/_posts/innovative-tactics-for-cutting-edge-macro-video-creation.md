@@ -1,7 +1,7 @@
 ---
 title: "\"Innovative Tactics for Cutting-Edge Macro Video Creation\""
-date: 2024-08-08T05:29:51.256Z
-updated: 2024-08-09T05:29:51.256Z
+date: 2025-01-17T19:30:24.384Z
+updated: 2025-01-22T23:34:45.093Z
 tags: 
   - screen-recording
   - ai video
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/a37ab7bacfd21717668bfcf5969765b4a3a3d0a9b
 
 # Videography: 6 Tips for Making Macro Video
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -66,18 +62,12 @@ A macro video is shot from a close distance. If your camera is in motion, it can
 
 Try to get great visual perspectives or angles by bracing the camera on the tree or ground on any other stable object.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Tripod](https://images.wondershare.com/filmora/article-images/oconnor-ultimate-1030d-fluid-head-30l-cf-tripod.jpg)
 
 #### 3\. Background
 
 The background of your macro video always remains blurred as you shoot it closely. But, the background color is visible so, choosing it correctly is vital. The color of the background must compliment your composition’s color and must be chosen creatively.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![background](https://images.wondershare.com/filmora/article-images/separate-the-foreground-from-background.jpg)
 
 #### 4\. DSLR Cameras
@@ -88,10 +78,11 @@ If you are a Canon user, you may opt for the 180 mm macro, 100 mm macro or the 6
 
 You may also add an extension tube which basically splits the focal distance in two equal halves and make the image size bigger but it decreases the depth of the field.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![dslr camera](https://images.wondershare.com/filmora/article-images/dslr-camera-full-rig.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 5\. Depth of Field
 
@@ -103,25 +94,35 @@ But, you must remember that when the opening of the lens is small, the light req
 
 ![depth of field](https://images.wondershare.com/filmora/article-images/depth-of-field.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 6\. Composition
 
 When you have low lights, ensuring a correct perspective on the subject with maximum focus area is quite difficult. You must have the right composition for your macro video.
 
 For instance, in order to keep a snail always in focus, you may choose to shoot it while it crawls perpendicular to the camera. If you shoot while it crawls towards you, only a part of the snail remains in focus at a certain point of time.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![composition](https://images.wondershare.com/filmora/article-images/composition.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Once you can master the above tips for making the macro video, you can easily shoot small objects like a pro. A videographer’s experience and creativity can be matched even by you if you can easily grasp the techniques, practice it, and implement creatively while making your macro videos.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -146,4 +147,19 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-androidios-techniques-screening-google-meets/"><u>[New] Android/iOS Techniques Screening Google Meets</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-mastering-the-deck-to-deck-experience-with-durecorder/"><u>[New] Mastering the Deck-to-Deck Experience with DuRecorder</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlock-the-full-potential-of-snapshots-on-iphones/"><u>[New] Unlock the Full Potential of Snapshots on iPhones</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-mirthful-missions-delving-into-the-goofy-movie-vhs/"><u>[Updated] 2024 Approved 'Mirthful Missions' - Delving Into The Goofy Movie VHS</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-fast-windows-file-check-up-tips-and-tricks/"><u>[Updated] In 2024, Fast Windows File Check-Up Tips and Tricks</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-syncing-your-phone-with-facebook-videos-on-appletv-for-2024/"><u>[Updated] Syncing Your Phone with Facebook Videos on AppleTV for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-unveiling-the-future-of-marketing-for-2024/"><u>[Updated] Unveiling the Future of Marketing for 2024</u></a></li>
+<li><a href="https://techidaily.com/automatisierungstrategien-94-der-deutschen-firmen-erzielen-laut-abbey-studie-positive-ergebnisse/"><u>Automatisierungstrategien: 94% Der Deutschen Firmen Erzielen Laut ABBEY-Studie Positive Ergebnisse</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-huawei-nova-y91-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Huawei Nova Y91</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/easy-methods-to-retrieve-lost-documents-using-file-creation-dates/"><u>Easy Methods to Retrieve Lost Documents Using File Creation Dates</u></a></li>
+<li><a href="https://article-helps.techidaily.com/showcasing-brilliance-iconic-anime-intros-for-2024/"><u>Showcasing Brilliance Iconic Anime Intros for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/unlimited-visual-inspiration-awaits-at-these-top-12-stock-photo-websites-for-2024/"><u>Unlimited Visual Inspiration Awaits at These Top 12 Stock Photo Websites for 2024</u></a></li>
+</ul></div>
 

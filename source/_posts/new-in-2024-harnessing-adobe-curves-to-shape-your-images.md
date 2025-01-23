@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Harnessing Adobe Curves to Shape Your Images"
-date: 2024-08-08T05:26:09.906Z
-updated: 2024-08-09T05:26:09.906Z
+date: 2025-01-21T01:30:53.393Z
+updated: 2025-01-22T19:57:54.689Z
 tags: 
   - screen-recording
   - ai video
@@ -22,9 +22,6 @@ In this Photoshop tutorial, we're going to carve an image using four simple step
 
 ![curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/curve-image-photoshop.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Simple Steps to Curve an Image in Photoshop
 
 ##### Step1Create a New Document
@@ -35,10 +32,11 @@ To keep things simple, let's start with a white canvas. Let's open a new documen
 
 After creating the new document, open the image that you want to curve. You may do so by going to File > Open in the menu bar or pressing Ctrl+O or Command+O on your keyboard. Once the image is open, go to Edit in the menu bar and select Place Embedded from the drop-down menu that appears. Select your image and click Place. The image will be placed on the canvas. If the document's size does not match that of the image, you will see a transformation box surrounding the image.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![place image in photoshop](https://images.wondershare.com/filmora/article-images/2022/09/place-image-in-photoshop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step3Warp the Image
 
@@ -58,35 +56,38 @@ Play around with the settings in the options bar. There are quite a few differen
 
 **Vertical Distortion** makes the image look as if it's leaning backward.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![verticle distortion image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/verticle-distortion-image-photoshop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The **Bend Direction** option rotates the angle of the bend.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![bend direction image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/bend-direction-image-photoshop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Flip any of these effects in the opposite direction by placing a negative sign in front of the percentage. Here's -20% in the **Bend** box with a vertical bend.
 
 ![flip effect image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/flip-effect-image-photoshop.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step4Save the Image
 
 Once you're happy with the way your image looks, go to File > Save As in the menu bar or press Ctrl+Shift+S or Command+Shift+S on your keyboard. Choose a file format and location to save your image and click Save. And that's it! You've successfully curved
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![save curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/save-curve-image-photoshop.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 We hope this post has helped you learn how to curve an image in Photoshop. The best part about it? It's easy to do, and you can do it quickly. So, don't wait another minute! Get out there and start curving your images today (we know we are).
@@ -119,4 +120,26 @@ We hope this post has helped you learn how to curve an image in Photoshop. The b
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-action-filming-simplified-your-shooting-essentials-guide/"><u>[New] In 2024, Action Filming Simplified – Your Shooting Essentials Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-mastering-basic-tone-alterations-in-ps-for-2024/"><u>[New] Mastering Basic Tone Alterations in PS for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-stabilizing-shots-best-4k-gimbals-reviewed/"><u>[New] Stabilizing Shots Best 4K Gimbals Reviewed</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-unlock-social-media-secrets-with-instagram-insights-for-2024/"><u>[New] Unlock Social Media Secrets with Instagram Insights for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-unlocking-the-potential-of-gopros-burst-functionality/"><u>[New] Unlocking the Potential of GoPro's Burst Functionality</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-core-understanding-of-narrative-frameworks/"><u>[Updated] 2024 Approved Core Understanding of Narrative Frameworks</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-from-basic-shapes-to-complex-realistic-3d-text-in-photos/"><u>[Updated] 2024 Approved From Basic Shapes to Complex, Realistic 3D Text in Photos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-clearview-resolution-amplifier-cross-platform-edition/"><u>[Updated] ClearView Resolution Amplifier Cross-Platform Edition</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-enhancing-your-youtube-presence-with-split-screen-techniques/"><u>[Updated] Enhancing Your YouTube Presence with Split-Screen Techniques</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-increasing-brilliance-on-your-android-videos/"><u>[Updated] Increasing Brilliance on Your Android Videos</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/le-filled-creativity-crafting-7-side-splitting-youtube-sets-for-2024/"><u>Chuckle-Filled Creativity Crafting 7 Side-Splitting YouTube Sets for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/heavy-hovering-heroes-drone-innovations-of-today-for-2024/"><u>Heavy Hovering Heroes Drone Innovations of Today for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-revolutionizing-visuals-the-impact-of-usb-c-and-4k-on-hps-envy-27/"><u>In 2024, Revolutionizing Visuals The Impact of USB-C & 4K on HP's Envy 27</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, Spoofing Life360 How to Do it on Apple iPhone 7? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/latest-guide-on-ipad-23-and-iphone-14-plus-icloud-activation-lock-bypass-by-drfone-ios/"><u>Latest Guide on iPad 2/3 and iPhone 14 Plus iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://extra-information.techidaily.com/optimal-orientation-top-tripods-for-iphones-and-androids/"><u>Optimal Orientation Top Tripods for iPhones & Androids</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/perfect-your-editing-full-mastery-of-fcp/"><u>Perfect Your Editing Full Mastery of FCP</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-undercover-upscalers-guide-to-clear-visuals-for-2024/"><u>The Undercover Upscaler's Guide to Clear Visuals for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-from-ordinary-to-amazing-the-ultimate-video-enhancement-tool/"><u>Updated 2024 Approved From Ordinary to Amazing The Ultimate Video Enhancement Tool</u></a></li>
+</ul></div>
 

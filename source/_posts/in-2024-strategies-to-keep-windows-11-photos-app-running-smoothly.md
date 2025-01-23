@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Strategies to Keep Windows 11 Photos App Running Smoothly"
-date: 2025-01-10T22:31:04.596Z
-updated: 2025-01-16T23:12:26.942Z
+date: 2025-01-18T19:42:22.255Z
+updated: 2025-01-23T03:31:52.582Z
 tags: 
   - screen-recording
   - ai video
@@ -45,15 +45,7 @@ In this article, we have compiled the best solutions for you to get rid of Windo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to fix Windows 10 Photos app crashes
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Solution 1: Use the Troubleshooter
 
@@ -67,14 +59,14 @@ Here is how to troubleshoot –
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/Troubleshooter.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. From the list of Apps displayed on the screen, click ‘Windows Store Apps’ and press the ‘Next’ button.
 2. Now, the troubleshooter will troubleshoot every app within the Windows Store Applications and fix them in a jiffy.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Solution 2: Restore Default Libraries
@@ -88,7 +80,15 @@ Restoring the default libraries would resolve the Windows 10 Photos App crash is
 
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/windows-10-photos-app-crashes-restore.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Lastly, click on ‘Apply’ followed by ‘OK’ and the issue will be resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 3: Reset it
 
@@ -100,6 +100,10 @@ Here is how can you reset it –
 2. Hit ‘Advanced Options’ and click ‘Reset’ button thereafter.
 3. Now, you got to restart your Windows system, so that Windows 10 Photos App crashing problem can be easily resolved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 4: Repair Photos App package
 
 A corrupted Photos App package might wreak havoc in your photo viewing, as the app doesn’t buzz follow your commands. The least you can do here is repair the package to fix minor glitches within and get it going.
@@ -110,10 +114,6 @@ Let’s fix the issue by repairing the Photos App package installed on your comp
 2. Key in the command followed by ‘Enter’: Get-AppXPackage -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($\_.InstallLocation)\\AppXManifest.xml”}
 3. Allow few minutes to make the changes effective and then restart the Windows 10 computer.
 4. Now, the Windows 10 Photos App won’t crash.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Solution 5: Reinstall Windows 10 Photos app
 
@@ -159,20 +159,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-short-track-speed-skating-olympics-2022-highlights/"><u>[New] 2024 Approved Short Track Speed Skating Olympics 2022 Highlights</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-enhancing-your-video-conferencing-essential-tips-for-using-zoom-in-win10/"><u>[New] In 2024, Enhancing Your Video Conferencing Essential Tips for Using Zoom in Win10</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-record-and-upload-speeches-to-powerpoint/"><u>[New] Record and Upload Speeches to PowerPoint</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-how-to-free-rotate-and-merge-videos-on-android/"><u>[Updated] How to Free Rotate and Merge Videos on Android</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-analyzing-brightness-boost-in-hd-and-its-hdr-impact/"><u>[Updated] In 2024, Analyzing Brightness Boost in HD and Its HDR Impact</u></a></li>
-<li><a href="https://fox-http.techidaily.com/boost-your-bank-account-quickly-with-these-13-ways-to-profit-on-reddit-for-2024/"><u>Boost Your Bank Account Quickly With These 13 Ways to Profit on Reddit for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/detroit-the-humans-journey-now-runs-smoothly-on-your-personal-computer/"><u>Detroit - The Humans' Journey Now Runs Smoothly on Your Personal Computer</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/high-seas-of-hertz-best-websites-for-thrones-audio-files-for-2024/"><u>High Seas of Hertz Best Websites for Thrones Audio Files for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-top-tips-for-zoom-on-chrome-devices/"><u>In 2024, Top Tips for Zoom on Chrome Devices</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/maximal-brightness-for-android-videos-explained-for-2024/"><u>Maximal Brightness for Android Videos Explained for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-solution-correcting-bios-checksum-mismatches/"><u>Step-by-Step Solution: Correcting BIOS Checksum Mismatches</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/stream-like-a-pro-uniting-chromecast-with-amazons-firestick-made-easy/"><u>Stream Like a Pro: Uniting Chromecast with Amazon's Firestick Made Easy</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-new-m3-macbook-pro-unveiled-find-out-about-its-price-tag-release-date-and-detailed-tech-specs-here/"><u>The New M3 MacBook Pro Unveiled: Find Out About Its Price Tag, Release Date & Detailed Tech Specs Here</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Vivo Y55s 5G (2023)? | Dr.fone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/be-content-protection-can-you-record-playbacks-for-2024/"><u>YouTube Content Protection Can You Record Playbacks for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/heap-microphones-for-youtubers-on-a-budget-for-2024/"><u>[New] Cheap Microphones for Youtubers on a Budget for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-discovering-the-best-screen-recording-programs-for-win11/"><u>[New] Discovering the Best Screen Recording Programs for Win11</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-echo-chamber-best-online-spots-for-free-skype-music-for-2024/"><u>[New] Echo Chamber Best Online Spots for Free Skype Music for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-erase-red-eye-in-iphone-pics-for-free-with-our-guide/"><u>[New] Erase Red-Eye in iPhone Pics for Free with Our Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-guide-to-downgrade-from-sierra-to-el-capitan-on-macs/"><u>[New] Guide to Downgrade From Sierra to El Capitan on Macs</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-bargain-bin-chinese-vr-technology/"><u>[New] In 2024, Bargain Bin Chinese VR Technology</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-integrating-smooth-crossfades-into-your-sound-design/"><u>[Updated] 2024 Approved Integrating Smooth Crossfades Into Your Sound Design</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-infinite-free-design-inspiration-for-corporate-slideshows/"><u>[Updated] In 2024, Infinite Free Design Inspiration for Corporate Slideshows</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-top-10-drone-propeller-choices-for-enhanced-aerial-mobility/"><u>[Updated] In 2024, Top 10 Drone Propeller Choices for Enhanced Aerial Mobility</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-inspiring-visual-collages-a-kaleidoscope-for-the-soul/"><u>[Updated] Inspiring Visual Collages A Kaleidoscope for the Soul</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-logitech-g930-microphone-cut-out-issue-a-step-by-step-guide/"><u>Fixing Logitech G930 Microphone Cut-Out Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-the-latest-ricoh-printer-drivers-installed-on-your-windows-pc/"><u>How To Get The Latest Ricoh Printer Drivers Installed On Your Windows PC</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/ifind-data-rescue-expert-guide-on-retrieving-lost-information-from-unrecognized-usb-drives/"><u>IFind Data Rescue: Expert Guide on Retrieving Lost Information From Unrecognized USB Drives</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-comparing-the-creme-de-la-creme-gopro-hero5-black-to-hero4-silver/"><u>In 2024, Comparing the Crème De La Crème GoPro Hero5 Black to Hero4 Silver</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-depth-look-at-youtubes-earnings-cycle-for-2024/"><u>In-Depth Look at YouTube’s Earnings Cycle for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/navigate-the-htpc-landscape-with-our-curated-list-of-best-performing-models/"><u>Navigate the HTPC Landscape with Our Curated List of Best Performing Models</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-process-of-win-backup-defaulting/"><u>Navigating the Process of Win Backup Defaulting</u></a></li>
 </ul></div>
 
