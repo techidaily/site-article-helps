@@ -1,7 +1,7 @@
 ---
 title: "\"Deciphenas LUTs  Revolutionizing Photo Editing Techniques for 2024\""
-date: 2024-07-29T03:18:58.277Z
-updated: 2024-07-30T03:18:58.277Z
+date: 2025-01-28T17:01:58.970Z
+updated: 2025-01-30T16:32:10.731Z
 tags: 
   - screen-recording
   - ai video
@@ -50,19 +50,17 @@ Warm or cold tones and bold or washed-out styles are all options provided by the
 
 Photographers may now utilize the same techniques that film, and television editors have used for years to achieve the excellent new aesthetics seen in blockbusters. With quick LUT looks, you can now apply LUTs to your photographs to make your editing work stand out.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to use LUTs using Photoshop CC?
 
 LUTs come pre-installed with programs, but you may also purchase them online and add them to your software. You may even buy a look from your favorite film or television show. In Photoshop, LUTs are simple to apply. You can begin in Photoshop with the original photo, which is an image that was captured locally, unprocessed, and straight out of the camera.
 
 1. Select the Adjustment Layer icon from the drop-down menu.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to use luts using Photoshop cc](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Choose Adjustment Layer
 
@@ -72,6 +70,10 @@ Choose Adjustment Layer
 
 ![how to use luts using Photoshop cc - load 3d lut](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 load 3d lut
 
 1. When you select one, you'll see how the color and tone of the image change.
@@ -80,9 +82,6 @@ load 3d lut
 
 LUTs come pre-installed in Photoshop, and you can use them as adjustment layers. As mentioned earlier, they'll alter the image's colors, and some of them will also alter the contrast. But what if you want to add LUTs? To add LUTs to Photoshop, you have two options. The first is really simple; all you have to do is discover the LUT and apply it to that specific project. The alternative is a little more difficult, but it enables you to access your LUTs at all times.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ### Here's the first method
 
 1. It would be best to unzip the LUT before using it in your project. This is relatively simple, and you may either use specialized software or the built-in unzipping utility in Windows.
@@ -91,8 +90,9 @@ LUTs come pre-installed in Photoshop, and you can use them as adjustment layers.
 4. Select the 'Load 3D LUT' button, then navigate to the directory where you unpacked the LUT files.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Here's the second one
 
 1. Open the LUT folder, which changes the version to your version.
@@ -107,10 +107,11 @@ Grow Together
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](#)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Closing Thoughts:
 
@@ -120,10 +121,11 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](#)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Closing Thoughts:
 
@@ -153,4 +155,24 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-crossing-over-attending-tiktok-live-gigs-easily/"><u>[New] Crossing Over Attending TikTok Live Gigs Easily</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-infographic-dji-mavic-air-vs-dji-spark-a-gamer-changer-again/"><u>[New] In 2024, [Infographic] DJI Mavic Air Vs. DJI Spark - A Gamer Changer Again</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-beyond-beats-8-free-mp3-downloaders-transforming-android-into-a-spiritual-haven/"><u>[New] In 2024, Beyond Beats 8 Free MP3 Downloaders Transforming Android Into a Spiritual Haven</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-eliminating-shake-effects-photographyvideo-guide/"><u>[New] In 2024, Eliminating Shake Effects Photography/Video Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-cinematic-edge-master-the-top-5-camera-skills/"><u>[New] The Cinematic Edge Master the Top 5 Camera Skills</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-captivating-hdr-portraits-for-the-art-enthusiast/"><u>[Updated] 2024 Approved Captivating HDR Portraits for the Art Enthusiast</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-how-to-skip-without-missing-tips-on-bypassing-edgenuity-video-lessons/"><u>[Updated] 2024 Approved How to Skip Without Missing Tips on Bypassing Edgenuity Video Lessons</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-cost-cutting-options-for-purchasing-gopros/"><u>[Updated] Cost-Cutting Options for Purchasing GoPros</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-uncover-the-10-best-makeup-experts-on-youtube-you-cant-ignore/"><u>[Updated] In 2024, Uncover the 10 Best Makeup Experts on YouTube You Can't Ignore</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-mobilepc-download-facebooks-new-video-tool/"><u>2024 Approved Mobile/PC Download Facebook's New Video Tool</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-ideal-nas-drives-secure-scalable-and-reliable-options-to-store-everything-from-files-to-videos/"><u>Discover Ideal NAS Drives: Secure, Scalable, and Reliable Options to Store Everything From Files to Videos</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-apple-iphone-12-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On Apple iPhone 12</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-honor-x9b-with-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Honor X9b with Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-troubleshoot-set-user-settings-to-driver-failed-problems-easily/"><u>How to Troubleshoot 'Set User Settings to Driver Failed' Problems Easily</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-elite-educational-event-emitter/"><u>In 2024, Elite Educational Event Emitter</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-optimized-protocols-snapshots-of-gotomeetings-made-simple/"><u>In 2024, Optimized Protocols Snapshots of GoToMeetings Made Simple</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-chatgpt-an-reliable-medical-consultant/"><u>Is ChatGPT an Reliable Medical Consultant?</u></a></li>
+</ul></div>
 

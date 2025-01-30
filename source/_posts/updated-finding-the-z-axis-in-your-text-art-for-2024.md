@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Finding the Z-Axis in Your Text Art for 2024\""
-date: 2025-01-15T17:35:08.776Z
-updated: 2025-01-22T17:24:56.761Z
+date: 2025-01-25T16:44:03.335Z
+updated: 2025-01-30T16:25:34.514Z
 tags: 
   - screen-recording
   - ai video
@@ -27,10 +27,6 @@ This guide will show you the step-by-step process of creating a 3D text effect i
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What You Need to Create a 3D Text Effect in Adobe Illustrator
 
 All you need are ten minutes of your time and the Adobe Illustrator application. Oh yes, and you need a little bit of imagination as well. That's all there is to it.
@@ -40,7 +36,7 @@ After you get the program, install it and follow the step-by-step instructions y
 Also, there are plenty of different ways to create 3D text effects in Adobe Illustrator. This tutorial will focus on explaining the easiest and quickest one. Just know that this doesn't mean the result will be wrong. Most methods yield the same results.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Create 3D Text Effects in Adobe Illustrator
@@ -53,21 +49,21 @@ Step2 Click on the **Type tool** and click anywhere on your blank canvas. Then, 
 
 ![type tool illustrator](https://images.wondershare.com/filmora/article-images/adobe-illustrator-type-tool.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 Now, look at the bottom-right corner of the program. Find the **Font** settings and change your font type and size to anything you want.
 
 ![change font illustrator](https://images.wondershare.com/filmora/article-images/adobe-illustrator-font.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step4 Next, choose any color you want for your text from the panel on the screen's left side. Just remember to click on your text first before you start changing colors.
 
 ![change color](https://images.wondershare.com/filmora/article-images/adobe-illustrator-color.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step5 Align the text to make it easier to edit and move around the canvas later. Just click on it and then click on the three buttons in the image below. This section is located at the bottom-right corner of the screen.
 
@@ -76,6 +72,10 @@ Step5 Align the text to make it easier to edit and move around the canvas later.
 Step6 Up next, you need to turn on your 3D Effects panel if it still needs to be activated. To do this, click on **Window** → **3D and Materials.** Then, look at the right side of the screen, and you will see the panel pop up.
 
 ![turn on three d panel](https://images.wondershare.com/filmora/article-images/adobe-illustrator-3d-materials-window.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step7 Click on the box icon on the right side of the screen and select **“Extrude”** This will instantly transform your text into a 3D model.
 
@@ -87,6 +87,10 @@ Step8 Now, all left to do is experiment with the settings in this panel and adju
 
 Step9 Finally, it's time to export the image, and you're all done.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best Alternative Way to Create 3D Text Animation
 
 You might not believe it, but there's an even more accessible and less expensive way to create 3D text effects. You can use [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Compared to Illustrator, Filmora is much better for beginners and more affordable.
@@ -96,6 +100,10 @@ You might not believe it, but there's an even more accessible and less expensive
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 If you're just a beginner at video or photo editing, you want to use a more straightforward tool. Illustrator can get very challenging for complete beginners. But Filmora offers a more straightforward interface that still delivers the same professional results. Please read further and see how to realize it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Create a 3D Text Effect In Filmora?
 
@@ -123,10 +131,6 @@ Both programs will get the job done if you use Adobe Illustrator or Filmora for 
 
 If you're just a beginner at video or photo editing, you want to use a more straightforward tool. Illustrator can get very challenging for complete beginners. But Filmora offers a more straightforward interface that still delivers the same professional results. Please read further and see how to realize it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Create a 3D Text Effect In Filmora?
 
 The steps are simple. Just follow them precisely as you see here, and you won't have any problems.
@@ -144,10 +148,6 @@ Step3 Double-click on the 3D title layer you dragged into the Timeline. When the
 Step4 Finally, import a video in Filmora and drag it under the text into the Timeline. Choose any video or image you want to display underneath your 3D text. That’s it! Hit **Export,** and you’re all done. Congratulations on creating a 3D text effect in Filmora.
 
 If you want to learn more about Filmora’s fantastic features, please watch the video below to see what the latest version of Filmora 12 brings to you!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -177,22 +177,21 @@ Both programs will get the job done if you use Adobe Illustrator or Filmora for 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-statistical-sweep-illuminating-youtubes-data-diversity-2e17/"><u>[New] 2024 Approved Statistical Sweep! Illuminating YouTube's Data Diversity (2E17)</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-mastering-photo-editing-in-minutes-pixlr-quick-hacks-for-2024/"><u>[New] Mastering Photo Editing in Minutes Pixlr Quick Hacks for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-solo-sounder-snafu-remedy-plan/"><u>[New] Solo Sounder Snafu Remedy Plan</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-evolved-sony-bdp-s6700-unveiled/"><u>[New] The Evolved Sony BDP-S6700 Unveiled</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-masterclass-in-creating-the-ideal-home-4k-editing-pc/"><u>[Updated] 2024 Approved Masterclass in Creating the Ideal Home 4K Editing PC</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-transform-sound-with-cloud-tools-top-5-online-text-to-speech-services-reviewed/"><u>[Updated] 2024 Approved Transform Sound with Cloud Tools Top 5 Online Text-to-Speech Services Reviewed</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-full-disclosure-unveiling-all-about-google-podcasts-app-for-2024/"><u>[Updated] Full Disclosure Unveiling All About Google Podcasts App for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-unravel-time-the-art-of-snapchat-video-reverse/"><u>[Updated] In 2024, Unravel Time The Art of Snapchat Video Reverse</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-the-essential-guide-to-motion-blur-from-theory-to-practice-in-ps/"><u>[Updated] The Essential Guide to Motion Blur From Theory to Practice in PS</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-unlocking-success-in-live-streaming-of-cricket-matches/"><u>2024 Approved Unlocking Success in Live Streaming of Cricket Matches</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-honor-90-gt-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Honor 90 GT Phone When You Forget the Password</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Lava Yuva 2 Pro? | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-mastering-the-science-of-writing-magnetic-vlogs/"><u>In 2024, Mastering the Science of Writing Magnetic Vlogs</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-xiaomi-redmi-note-12r-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Xiaomi Redmi Note 12R with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/mastering-the-airwaves-a-comprehensive-look-at-the-dji-mavic-3s-cutting-edge-aerial-imaging/"><u>Mastering the Airwaves: A Comprehensive Look at the DJI Mavic 3'S Cutting-Edge Aerial Imaging</u></a></li>
-<li><a href="https://article-helps.techidaily.com/pro-video-cinematography-choosing-the-right-lenses-for-2024/"><u>Pro Video Cinematography Choosing the Right Lenses for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/transferring-macbook-data-in-a-flash-discover-simple-methods-with-tips-experts/"><u>Transferring MacBook Data in a Flash? Discover Simple Methods with Tips Experts</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-speed-up-pc-games-the-ultimate-speed-controller-selection/"><u>[New] 2024 Approved Speed Up PC Games The Ultimate Speed Controller Selection</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-chromatic-balance-and-visual-storytelling/"><u>[New] Chromatic Balance and Visual Storytelling</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-crafting-conversational-mastery-step-by-step-guide-to-free-voice-modification-tools/"><u>[New] Crafting Conversational Mastery Step-by-Step Guide to Free Voice Modification Tools</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-masterclass-constructing-mc-village-houses-for-2024/"><u>[New] Masterclass Constructing MC Village Houses for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-beginners-roadmap-to-choosing-a-camera-for-2024/"><u>[New] The Beginner's Roadmap to Choosing a Camera for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-10-best-websites-for-copyright-free-gaming-music/"><u>[Updated] 2024 Approved 10 Best Websites for Copyright-Free Gaming Music</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-innovating-for-impact-your-profile-video-guide/"><u>[Updated] 2024 Approved Innovating for Impact Your Profile Video Guide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-oculus-rift-htc-vive-and-ps-vr-which-is-the-best-for-gaming/"><u>[Updated] 2024 Approved Oculus Rift, HTC Vive, and PS VR Which Is the Best for Gaming?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-firefoxs-pip-explained-a-users-handbook/"><u>[Updated] In 2024, Firefox's PIP Explained A User's Handbook</u></a></li>
+<li><a href="https://fox-making.techidaily.com/fix-your-pcs-visual-woes-the-top-5-graphics-card-troubles-solved-by-yl-experts/"><u>Fix Your PC's Visual Woes: The Top 5 Graphics Card Troubles Solved by YL Experts</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-air-lift-extraordinaire-top-industrial-drones/"><u>In 2024, Air-Lift Extraordinaire Top Industrial Drones</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-enhancing-chats-adding-tunes-via-whatsapp-status/"><u>In 2024, Enhancing Chats Adding Tunes via WhatsApp Status</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-much-a-youtube-promotion/"><u>In 2024, How Much a YouTube Promotion</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/e-video-leaderships-who-takes-the-crown-vimeo-youtubes-and-dailymotions-for-2024/"><u>Online Video Leaderships Who Takes the Crown – Vimeo, YouTubes & DailyMotions for 2024</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/top-5-frequent-windows-system-hardware-issues-insights-by-yl-computing/"><u>Top 5 Frequent Windows System Hardware Issues - Insights by YL Computing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-resolving-the-key-malfunction-on-your-device/"><u>Troubleshooting Steps: Resolving the '@' Key Malfunction on Your Device</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Excellent Extra Storage for Sony A7S II"
-date: 2024-07-29T03:21:17.253Z
-updated: 2024-07-30T03:21:17.253Z
+date: 2025-01-28T16:54:36.799Z
+updated: 2025-01-30T16:04:00.396Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/ec661044f40b96dbce0a66b5f469594edc1639062
 
 # Best Memory Card for Sony A7S II
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -34,8 +31,9 @@ thumbnail: https://thmb.techidaily.com/ec661044f40b96dbce0a66b5f469594edc1639062
  The article below can help you to select right memory cards for your Sony A7S II camera:
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to choose the right memory card for your Sony A7S II
 
 #### Section 1: UHS (Ultra High Speed) Card Classification
@@ -74,8 +72,9 @@ thumbnail: https://thmb.techidaily.com/ec661044f40b96dbce0a66b5f469594edc1639062
 * The SD cards are small sized, compact units so whether you carry a 64GB card in your pocket or choose a 128GB package, none of these are going to put additional weight on your pocket.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Best Memory Cards for Sony A7S II
 
 #### 1. Sony 64GB High Performance Class 10 UHS-1/U3 SDXC
@@ -114,10 +113,11 @@ thumbnail: https://thmb.techidaily.com/ec661044f40b96dbce0a66b5f469594edc1639062
 * Extreme Pro is compatible with SDXC devices.
 * Ensures perfect results for Full HD, 3D and 4K resolution levels.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -142,4 +142,26 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-enhancing-video-top-10-text-techniques/"><u>[New] In 2024, Enhancing Video Top 10 Text Techniques</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-instagram-to-soundtrack-the-complete-conversion-manual/"><u>[New] Instagram to Soundtrack The Complete Conversion Manual</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-fine-tune-your-virtual-interaction-with-close-up-google-meet-tips/"><u>[Updated] 2024 Approved Fine-Tune Your Virtual Interaction with Close-Up Google Meet Tips</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-unleashing-humor-the-kapwing-meme-builder-way/"><u>[Updated] 2024 Approved Unleashing Humor The Kapwing Meme Builder Way</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-your-gateway-to-greatness-making-your-mark-with-mac-made-vids/"><u>[Updated] 2024 Approved Your Gateway to Greatness Making Your Mark with Mac-Made Vids</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-effortless-angles-and-merge-with-top-android-video-tools/"><u>[Updated] Effortless Angles & Merge with Top Android Video Tools</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-essential-guide-to-audio-crossfades-in-premiere-for-2024/"><u>[Updated] Essential Guide to Audio Crossfades in Premiere for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-drone-for-sale-best-drones-to-buy/"><u>[Updated] In 2024, Drone for Sale - Best Drones to Buy</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-rhythms-of-romance-most-beloved-ballads-for-engagement/"><u>[Updated] Rhythms of Romance Most Beloved Ballads for Engagement</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-kinemasters-dominance-in-the-android-gaming-arena-reviewed/"><u>2024 Approved KineMaster's Dominance in the Android Gaming Arena Reviewed</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/a-detailed-pokemon-go-pvp-tier-list-to-make-you-a-pro-trainer-for-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>A Detailed Pokemon Go PvP Tier List to Make you a Pro Trainer For Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-does-predictive-artificial-intelligence-anticipate-outcomes-a-detailed-guide/"><u>How Does Predictive Artificial Intelligence Anticipate Outcomes? A Detailed Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-secure-your-dream-position-at-a-top-technology-firm-the-definitive-handbook/"><u>How To Secure Your Dream Position At A Top Technology Firm: The Definitive Handbook</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Nokia C12? | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-lively-captions-how-to-add-motion-to-instagram-posts/"><u>In 2024, Lively Captions How to Add Motion to Instagram Posts</u></a></li>
+<li><a href="https://article-helps.techidaily.com/innovative-techniques-for-video-editing-on-windows-8-movie-maker/"><u>Innovative Techniques for Video Editing on Windows 8 Movie Maker</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-printer-error-code-30-a-complete-activation-guide/"><u>Resolving Printer Error Code -30: A Complete Activation Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-11-premium-and-gratis-stock-soundtracks-ultimate-resources-for-aspiring-creators/"><u>Top 11 Premium & Gratis Stock Soundtracks: Ultimate Resources For Aspiring Creators</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-notch-evaluation-of-the-microsoft-sculpt-keyboard-exceptional-worth-for-money/"><u>Top-Notch Evaluation of the Microsoft Sculpt Keyboard – Exceptional Worth for Money</u></a></li>
+</ul></div>
 
