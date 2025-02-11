@@ -1,7 +1,7 @@
 ---
 title: "\"Directory  Varied Units in Visual Media Capture\""
-date: 2024-07-29T03:11:55.212Z
-updated: 2024-07-30T03:11:55.212Z
+date: 2025-02-08T21:39:42.639Z
+updated: 2025-02-11T22:21:09.586Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/75f2f8c580c180a2b2853a51a56b59840e62a47f8
 
 # List of Different Video Camera Types
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -42,6 +39,10 @@ _[What Is Video Format](https://tools.techidaily.com/wondershare/filmora/downloa
 
  Smartphone with inbuilt video cameras are at the very bottom of video camera food chain. Most of the high-end Smartphones such as some Android, iPhone, and Nokia models have satisfactory video cameras capable of shooting high definition videos. Even though the Smartphone video cameras may not suffice the needs of individuals who are serious about film making, they are adequate enough for the average users who need to take videos and photos during instances such as family or social gatherings. With a growing set of apps and tools however, these cameras can now be equipped and made to operate like full size cameras capable of taking professional videos.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2. Consumer Video Cameras
 
 ![ Consumer video camera](https://images.wondershare.com/filmora/article-images/consumer-camera-image.jpg)
@@ -50,16 +51,13 @@ _[What Is Video Format](https://tools.techidaily.com/wondershare/filmora/downloa
 
  The other characteristic of consumer cameras is that they are smaller and simpler to operate, with most of them being fully automatic. But users still have the versatility to manually adjust other settings such as exposure audio level, focus and white balance amongst others. Unlike their professional counterparts, consumer cameras don’t have extensions to allow for extra audio inputs for professional sound equipment and all of them have fixed lenses with outdated digital revolution.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## 3. Pro Consumer Video Camera
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Prosumer camera](https://images.wondershare.com/filmora/article-images/prosumer-video-camera.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Next in the list are pro consumer video cameras. Pro consumer cameras lie in between consumer cameras and professional cameras. They are the cameras with smaller form factors than the larger cameras which are usually mounted on the shoulders for big budget TV production. However, the cameras are packed with enough features to grant professional image quality and are sufficient to do just any job.
 
@@ -69,10 +67,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ## 4. Super Chip Cameras
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Super chip video cameras](https://images.wondershare.com/filmora/article-images/super-chip-camera.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Yet again, there is a set of cameras in between the pro consumer cameras and the professional cameras and we prefer to call them super chip cameras. These cameras are characterized by three distinct factors below:
 
@@ -84,15 +83,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  These cameras have the capability to do everything that a traditional program could do, but with the added advantage of achieving the same tasks at relatively affordable rates. They are also ideal for high-end freelance broadcast work and film making.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5. DSLR Video Cameras
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![DRSL video camera](https://images.wondershare.com/filmora/article-images/dslr-camera-full-rig.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  DSLR (Digital Single Lens Reflex) is basically digital photo camera fitted with the ability to take high quality HD videos. The popularity of these cameras has grown in the past few years due to three outstanding characteristics below common to all DSLR cameras:
 
@@ -107,6 +104,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  Additionally, DSLR cameras don’t have an XLR audio inputs to allow the use of professional mics and mixes and they also have a limited recording time of just 12 minutes per clip and this is not very encouraging if you are in the middle of recording someone’s wedding vows. Even though there are a number of workarounds and third party applications to help in overcoming these shortcomings, they will only add to the cost and complications of DSLR shooting.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -131,4 +132,23 @@ Follow @Benjamin Arango
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-harmonizing-youtube-production-with-a-9-to-5-routine/"><u>[New] Harmonizing YouTube Production with a 9-to-5 Routine</u></a></li>
+<li><a href="https://change-location.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-motorola-moto-g14-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Motorola Moto G14</u></a></li>
+<li><a href="https://article-helps.techidaily.com/deciding-on-sns-hdr-its-value-proposition-explored/"><u>Deciding on SNS HDR Its Value Proposition Explored</u></a></li>
+<li><a href="https://article-helps.techidaily.com/draft-an-engaging-giveaway-for-facebooks-social-impact/"><u>Draft an Engaging Giveaway for Facebook's Social Impact</u></a></li>
+<li><a href="https://article-helps.techidaily.com/efficient-file-migration-pc-to-ios-device/"><u>Efficient File Migration PC to iOS Device</u></a></li>
+<li><a href="https://article-helps.techidaily.com/elevate-your-images-top-10-grid-organizers/"><u>Elevate Your Images Top 10 Grid Organizers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/enhance-presentations-with-background-music-for-2024/"><u>Enhance Presentations with Background Music for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-the-antop-at-127-exceptional-signal-quality-with-an-elegant-design-user-review/"><u>Exploring the Antop AT-127: Exceptional Signal Quality with an Elegant Design - User Review</u></a></li>
+<li><a href="https://article-helps.techidaily.com/external-microphones-to-elevate-film-quality/"><u>External Microphones to Elevate Film Quality</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-pc-issues-why-sword-and-fairy-7-continuously-crashes/"><u>Fixing PC Issues: Why 'Sword & Fairy 7' Continuously Crashes</u></a></li>
+<li><a href="https://article-helps.techidaily.com/flavorful-filmmaking-made-easy-the-best-tips-for-food-videography/"><u>Flavorful Filmmaking Made Easy The Best Tips for Food Videography</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/quick-and-easy-snapshot-sharing-a-step-by-point-guide/"><u>Quick and Easy Snapshot Sharing – A Step-By Point Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solutions-how-to-fix-unresponsive-usb-portable-internet-sharing/"><u>Solutions: How to Fix Unresponsive USB Portable Internet Sharing</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-solve-counter-strike-2-not-starting-problem/"><u>Step-by-Step Guide to Solve Counter-Strike 2 Not Starting Problem</u></a></li>
+<li><a href="https://techidaily.com/update-your-drivers-with-device-manager-in-windows-1110-by-drivereasy-guide/"><u>Update your drivers with Device Manager in Windows 11/10</u></a></li>
+</ul></div>
 

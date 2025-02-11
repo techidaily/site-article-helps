@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Effortlessly Enhance Your Images on W11\""
-date: 2025-01-20T01:13:29.391Z
-updated: 2025-01-22T18:56:31.475Z
+date: 2025-02-07T16:13:04.979Z
+updated: 2025-02-11T21:43:35.398Z
 tags: 
   - screen-recording
   - ai video
@@ -36,6 +36,10 @@ The Photos app in Windows 10 is one of the best and with the addition of the dra
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Draw On Photos App in Windows 10
 
 When you can add a personal touch to your videos and photos, it becomes all the way more special. Many times, it becomes essential to add a note to explain a video in a better way. Here are the steps to draw on photos in Windows 10 –
@@ -45,19 +49,23 @@ When you can add a personal touch to your videos and photos, it becomes all the 
 
 ![draw on photos in windows 10](https://images.wondershare.com/filmora/article-images/draw-on-photos-in-windows-10.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * You can see a Windows Ink Toolbar, select your preferred pen from the options available
 * Select the size and color of the fonts you wish to use from a range of palette
 
 ![draw on photos in windows 10](https://images.wondershare.com/filmora/article-images/start-drawing-on-photos-in-windows-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Draw on the images and videos effortlessly
 * You can also find an eraser tool with various sizes of erasers that allows you to erase your entire drawing or a part of it as per your choice when required
 
 When you draw on the image or video, the ink can be attached to a particular object or person within the video. As you move the camera angle or the object, the ink stays or moves along. You just need to select the anchor icon and link it to the object in the video.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Draw on Photos Online
 
@@ -71,7 +79,7 @@ Are you looking forward to drawing on Photos online? [LunaPic](https://www140.lu
 ![draw on photos in windows 10](https://images.wondershare.com/filmora/article-images/lunapic-drawing.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Select the color from the range of palette available
@@ -80,15 +88,7 @@ Are you looking forward to drawing on Photos online? [LunaPic](https://www140.lu
 
 ![draw on photos in windows 10](https://images.wondershare.com/filmora/article-images/editing-drawings-on-windows-10.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * To save your drawing on the image, you must click on Apply after each action you make with the tool
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -96,11 +96,11 @@ The Photos app has an interface that is restructured with dark theme options and
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -127,21 +127,16 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-immersive-worlds-shaping-future-cinematic-experiences/"><u>[New] 2024 Approved Immersive Worlds Shaping Future Cinematic Experiences</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-streamlined-process-altering-video-direction-in-vlc/"><u>[Updated] 2024 Approved Streamlined Process Altering Video Direction in VLC</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-best-websites-for-downloading-snapchat-ringtone-for-2024/"><u>[Updated] Best Websites For Downloading Snapchat Ringtone for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-elite-8s-imagery-merging-digital-software/"><u>[Updated] In 2024, Elite 8’S Imagery Merging Digital Software</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-summary-of-short-videos-simplicity-included/"><u>[Updated] Summary of Short Videos, Simplicity Included</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-hasten-haste-in-videos-with-top-apps-android/"><u>2024 Approved Hasten Haste in Videos with Top Apps, Android</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-secret-handbook-to-instagrams-exclusive-club-elevating-your-profile-with-six-tips/"><u>2024 Approved The Secret Handbook to Instagram's Exclusive Club Elevating Your Profile with Six Tips</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-how-long-does-a-20mb-video-last/"><u>In 2024, How Long Does a 20MB Video Last?</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-instabeats-intellectual-property-overview/"><u>In 2024, InstaBeats Intellectual Property Overview</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-leveraging-googles-platform-for-podcast-distribution/"><u>In 2024, Leveraging Google's Platform for Podcast Distribution</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-tips-to-reduce-compression-artifacts-in-obs/"><u>In 2024, Tips to Reduce Compression Artifacts in OBS</u></a></li>
-<li><a href="https://article-helps.techidaily.com/integrating-multimedia-for-iphone-users/"><u>Integrating Multimedia for iPhone Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-the-installation-process-of-minecraft-on-your-new-windows-11-machine/"><u>Mastering the Installation Process of Minecraft on Your New Windows 11 Machine</u></a></li>
-<li><a href="https://driver-install.techidaily.com/new-era-of-quick-fixes-acer-drivers-update-for-win10-users/"><u>New Era of Quick Fixes: Acer Drivers Update for Win10 Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-rise-of-generative-ai-a-growing-concern-for-disinformation-proliferation/"><u>The Rise of Generative AI: A Growing Concern for Disinformation Proliferation?</u></a></li>
-<li><a href="https://win-lab.techidaily.com/windows-pccommand-prompt/"><u>Windows PCでシステムリカバリオプションをCOMMAND PROMPTから作成する詳細ガイド</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-take-notes-if-necessary-jotting-down-key-points-can-help-you-better-remember-information-while-listening/"><u>[New] 2024 Approved Take Notes (if Necessary) Jotting Down Key Points Can Help You Better Remember Information While Listening</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-immerse-projects-in-audible-experience-via-premiere-pro/"><u>[New] In 2024, Immerse Projects in Audible Experience via Premiere Pro</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-the-top-strategies-for-box-enthusiasts/"><u>[Updated] 2024 Approved The Top Strategies for Box Enthusiasts</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-expert-film-editing-made-easy-with-fcps-top-10-tools/"><u>[Updated] In 2024, Expert Film Editing Made Easy with FCP's Top 10 Tools</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-visual-storytelling-pro-mastering-the-use-of-luts-in-ae/"><u>[Updated] In 2024, Visual Storytelling Pro Mastering the Use of LUTs in AE</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/boundless-adventures-exploring-vr-in-games/"><u>Boundless Adventures Exploring VR in Games</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-vivo-y27-5g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Vivo Y27 5G</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-phasecope-pro-top-lightroom-replacements-unveiled/"><u>In 2024, PhaseCope Pro Top Lightroom Replacements Unveiled</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ative-movement-youtubes-finest-yogis-for-2024/"><u>Meditative Movement YouTube's Finest Yogis for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/prime-8-converters-seamless-sub-and-srt-transition-for-2024/"><u>Prime 8 Converters Seamless Sub and SRT Transition for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/top-7-icloud-activation-bypass-tools-for-your-apple-iphone-14-plus-by-drfone-ios/"><u>Top 7 iCloud Activation Bypass Tools For your Apple iPhone 14 Plus</u></a></li>
 </ul></div>
 

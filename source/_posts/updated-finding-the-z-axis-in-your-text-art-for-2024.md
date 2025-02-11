@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Finding the Z-Axis in Your Text Art for 2024\""
-date: 2025-01-25T16:44:03.335Z
-updated: 2025-01-30T16:25:34.514Z
+date: 2025-02-04T16:15:01.346Z
+updated: 2025-02-11T16:43:30.863Z
 tags: 
   - screen-recording
   - ai video
@@ -36,7 +36,7 @@ After you get the program, install it and follow the step-by-step instructions y
 Also, there are plenty of different ways to create 3D text effects in Adobe Illustrator. This tutorial will focus on explaining the easiest and quickest one. Just know that this doesn't mean the result will be wrong. Most methods yield the same results.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Create 3D Text Effects in Adobe Illustrator
@@ -50,16 +50,12 @@ Step2 Click on the **Type tool** and click anywhere on your blank canvas. Then, 
 ![type tool illustrator](https://images.wondershare.com/filmora/article-images/adobe-illustrator-type-tool.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step3 Now, look at the bottom-right corner of the program. Find the **Font** settings and change your font type and size to anything you want.
 
 ![change font illustrator](https://images.wondershare.com/filmora/article-images/adobe-illustrator-font.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step4 Next, choose any color you want for your text from the panel on the screen's left side. Just remember to click on your text first before you start changing colors.
 
@@ -69,13 +65,13 @@ Step5 Align the text to make it easier to edit and move around the canvas later.
 
 ![align text in illustrator](https://images.wondershare.com/filmora/article-images/adobe-illustrator-align.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step6 Up next, you need to turn on your 3D Effects panel if it still needs to be activated. To do this, click on **Window** → **3D and Materials.** Then, look at the right side of the screen, and you will see the panel pop up.
 
 ![turn on three d panel](https://images.wondershare.com/filmora/article-images/adobe-illustrator-3d-materials-window.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step7 Click on the box icon on the right side of the screen and select **“Extrude”** This will instantly transform your text into a 3D model.
 
@@ -85,11 +81,11 @@ Step8 Now, all left to do is experiment with the settings in this panel and adju
 
 ![three d illustrator settings](https://images.wondershare.com/filmora/article-images/adobe-illustrator-settings.png)
 
-Step9 Finally, it's time to export the image, and you're all done.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Step9 Finally, it's time to export the image, and you're all done.
 
 ## Best Alternative Way to Create 3D Text Animation
 
@@ -100,10 +96,6 @@ You might not believe it, but there's an even more accessible and less expensive
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 If you're just a beginner at video or photo editing, you want to use a more straightforward tool. Illustrator can get very challenging for complete beginners. But Filmora offers a more straightforward interface that still delivers the same professional results. Please read further and see how to realize it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Create a 3D Text Effect In Filmora?
 
@@ -119,6 +111,10 @@ Step3 Double-click on the 3D title layer you dragged into the Timeline. When the
 
 ![edit text settings](https://images.wondershare.com/filmora/guide/win-motion-tracking-03.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4 Finally, import a video in Filmora and drag it under the text into the Timeline. Choose any video or image you want to display underneath your 3D text. That’s it! Hit **Export,** and you’re all done. Congratulations on creating a 3D text effect in Filmora.
 
 If you want to learn more about Filmora’s fantastic features, please watch the video below to see what the latest version of Filmora 12 brings to you!
@@ -130,6 +126,10 @@ Both programs will get the job done if you use Adobe Illustrator or Filmora for 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 If you're just a beginner at video or photo editing, you want to use a more straightforward tool. Illustrator can get very challenging for complete beginners. But Filmora offers a more straightforward interface that still delivers the same professional results. Please read further and see how to realize it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Create a 3D Text Effect In Filmora?
 
@@ -177,21 +177,17 @@ Both programs will get the job done if you use Adobe Illustrator or Filmora for 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-speed-up-pc-games-the-ultimate-speed-controller-selection/"><u>[New] 2024 Approved Speed Up PC Games The Ultimate Speed Controller Selection</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-chromatic-balance-and-visual-storytelling/"><u>[New] Chromatic Balance and Visual Storytelling</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-crafting-conversational-mastery-step-by-step-guide-to-free-voice-modification-tools/"><u>[New] Crafting Conversational Mastery Step-by-Step Guide to Free Voice Modification Tools</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-masterclass-constructing-mc-village-houses-for-2024/"><u>[New] Masterclass Constructing MC Village Houses for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-the-beginners-roadmap-to-choosing-a-camera-for-2024/"><u>[New] The Beginner's Roadmap to Choosing a Camera for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-10-best-websites-for-copyright-free-gaming-music/"><u>[Updated] 2024 Approved 10 Best Websites for Copyright-Free Gaming Music</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-innovating-for-impact-your-profile-video-guide/"><u>[Updated] 2024 Approved Innovating for Impact Your Profile Video Guide</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-oculus-rift-htc-vive-and-ps-vr-which-is-the-best-for-gaming/"><u>[Updated] 2024 Approved Oculus Rift, HTC Vive, and PS VR Which Is the Best for Gaming?</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-firefoxs-pip-explained-a-users-handbook/"><u>[Updated] In 2024, Firefox's PIP Explained A User's Handbook</u></a></li>
-<li><a href="https://fox-making.techidaily.com/fix-your-pcs-visual-woes-the-top-5-graphics-card-troubles-solved-by-yl-experts/"><u>Fix Your PC's Visual Woes: The Top 5 Graphics Card Troubles Solved by YL Experts</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-air-lift-extraordinaire-top-industrial-drones/"><u>In 2024, Air-Lift Extraordinaire Top Industrial Drones</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-enhancing-chats-adding-tunes-via-whatsapp-status/"><u>In 2024, Enhancing Chats Adding Tunes via WhatsApp Status</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-how-much-a-youtube-promotion/"><u>In 2024, How Much a YouTube Promotion</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/e-video-leaderships-who-takes-the-crown-vimeo-youtubes-and-dailymotions-for-2024/"><u>Online Video Leaderships Who Takes the Crown – Vimeo, YouTubes & DailyMotions for 2024</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/top-5-frequent-windows-system-hardware-issues-insights-by-yl-computing/"><u>Top 5 Frequent Windows System Hardware Issues - Insights by YL Computing</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-resolving-the-key-malfunction-on-your-device/"><u>Troubleshooting Steps: Resolving the '@' Key Malfunction on Your Device</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-photopony-pro-exploring-affordable-filters/"><u>[New] 2024 Approved PhotoPony Pro Exploring Affordable Filters</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-vector-graphics-innovation-top-apps-to-transform-your-creations/"><u>[New] 2024 Approved Vector Graphics Innovation Top Apps to Transform Your Creations</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-enhance-your-iphone-footage-from-speed-to-extended-muted-visuals/"><u>[New] In 2024, Enhance Your iPhone Footage From Speed to Extended, Muted Visuals</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-pro-tips-for-shooting-quality-gopro-time-lapse-videos/"><u>[New] In 2024, Pro Tips for Shooting Quality GoPro Time-Lapse Videos</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-premium-picks-best-win-11-webcams-for-clear-capture/"><u>[New] Premium Picks Best Win 11 Webcams for Clear Capture</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/he-blueprint-for-viral-video-mastery/"><u>[New] The Blueprint for Viral Video Mastery</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-understanding-youtube-post-upload-process/"><u>[Updated] 2024 Approved Understanding YouTube Post-Upload Process</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exceptional-portable-speaker-review-top-alternatives-beyond-bose-and-sony-revealed-on-zdnet/"><u>Exceptional Portable Speaker Review: Top Alternatives Beyond Bose and Sony Revealed on ZDNet</u></a></li>
+<li><a href="https://article-helps.techidaily.com/hot-oculus-vr-games-that-everyones-playing/"><u>Hot Oculus VR Games That Everyone's Playing</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-ninja-level-strategies-for-instagram-video-magic/"><u>In 2024, Ninja-Level Strategies for Instagram Video Magic</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/steps-for-increasing-your-notebooks-ram-capacity/"><u>Steps for Increasing Your Notebook's RAM Capacity</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-best-mkv-video-cutters-for-mac-users/"><u>Updated 2024 Approved Best MKV Video Cutters for Mac Users</u></a></li>
 </ul></div>
 

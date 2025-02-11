@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, How to Use Preview App on Mac [Complete Guide]"
-date: 2025-01-25T16:39:35.456Z
-updated: 2025-01-30T17:07:33.984Z
+date: 2025-02-04T16:58:01.966Z
+updated: 2025-02-11T20:51:13.720Z
 tags: 
   - screen-recording
   - ai video
@@ -36,7 +36,7 @@ That said, the sections below explain **how to use Preview on Mac** for elementa
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Use Preview to Edit Images \[Complete Guide\]
@@ -44,6 +44,10 @@ That said, the sections below explain **how to use Preview on Mac** for elementa
 Being the default image editor for Mac, Apple tried to make the **Preview app** as simple as possible. Therefore, modifying the photos in the program isn’t much complicated as compared to its competitors from different vendors.
 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to View and Edit Photos in Preview on Mac
 
@@ -59,6 +63,10 @@ As mentioned earlier, the **Preview app** is a default photo viewer on Mac that 
 * Use the tools present on the standard toolbar at the top of the interface
 * Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Show Markup Tools in Preview on Mac
 
 Markup Tools gives easy access to the editing tools the **Preview app** has. By default, Markup Tools is kept hidden, but automatically becomes visible when you make some changes to the image. However, you can follow the process given below to manually show Markup Tools in Preview:
@@ -72,10 +80,6 @@ Click the **Show Markup Toolbar** icon present at the upper-right area to reveal
 Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup Toolbar**.
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Crop in Preview
 
@@ -93,10 +97,6 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Rotate Image in Preview
 
 Rotating an image in the **Preview app** is fairly simple. To do so:
@@ -108,10 +108,6 @@ Use the method explained above to open the photo in Preview.
 **Step 2: Rotate the Image**
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Add Text to Image in Preview
 
@@ -130,7 +126,7 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Remove Background in Preview
@@ -211,6 +207,10 @@ Choose a destination folder in the **Where** field, select your preferred format
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -236,22 +236,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-elite-quad-pack-of-superior-4k-video-gear-for-2024/"><u>[New] Elite Quad Pack of Superior 4K Video Gear for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-forge-funnies-giphys-playground/"><u>[New] Forge Funnies Giphy's Playground</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-instant-title-insertion-for-your-videos-on-windows-photos/"><u>[New] Instant Title Insertion for Your Videos on Windows Photos</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-discovering-new-horizons-with-samsungs-updated-image-tools/"><u>[Updated] Discovering New Horizons with Samsung’s Updated Image Tools</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-audio-formatting-guide-from-srt-to-xmlssa-ttml-etc/"><u>[Updated] In 2024, Audio Formatting Guide From SRT to XML/SSA, TTML, Etc</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-client-speeches-transforming-marketing-narratives/"><u>[Updated] In 2024, Client Speeches Transforming Marketing Narratives</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-top-15-timeless-classics-in-stop-motion-cinema-history/"><u>[Updated] In 2024, Top 15 Timeless Classics in Stop-Motion Cinema History</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-srgb-encoding-versus-rgb-basics/"><u>[Updated] Srgb Encoding Versus Rgb Basics</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-troubleshooting-missing-video-display-on-sony-a6400/"><u>2024 Approved Troubleshooting Missing Video Display on Sony A6400</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-performance-flush-steam-dns-on-pc/"><u>Enhancing Performance: Flush Steam DNS on PC</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/guide-to-successfully-downloading-and-installing-epson-xp-400-drivers/"><u>Guide to Successfully Downloading & Installing Epson XP 400 Drivers</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-apple-iphone-xr-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 5 Tracking Apps to Track Apple iPhone XR without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Vivo Y78 5G? | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/leverage-social-blades-platform-for-in-depth-video-analytics/"><u>Leverage Social Blade's Platform for In-Depth Video Analytics</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-downloading-videos-from-tiktok-with-ease/"><u>Step-by-Step Guide: Downloading Videos From TikTok with Ease</u></a></li>
-<li><a href="https://article-helps.techidaily.com/swift-techniques-for-shifting-iphone-media-to-pc/"><u>Swift Techniques for Shifting iPhone Media to PC</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-itel-p55-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Itel P55? | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-quick-guide-altering-screen-colors-on-google-meet/"><u>[New] In 2024, Quick Guide Altering Screen Colors on Google Meet</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-best-assortment-professional-webcam-platforms/"><u>[Updated] In 2024, Best Assortment Professional Webcam Platforms</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-the-10-premier-online-church-service-providers/"><u>[Updated] In 2024, The 10 Premier Online Church Service Providers</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-premium-platforms-converting-vids-for-the-bird/"><u>[Updated] Premium Platforms Converting Vids for the Bird</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-face-off-my-snapchat-vs-bings-skype-bot/"><u>AI Face-Off: My Snapchat vs Bing's Skype Bot</u></a></li>
+<li><a href="https://article-helps.techidaily.com/hours-to-gigabytes-a-guide-for-filmmakers-for-2024/"><u>Hours to Gigabytes A Guide for Filmmakers for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-a-comprehensive-guide-to-penning-appealing-vlog-narratives/"><u>In 2024, A Comprehensive Guide to Penning Appealing Vlog Narratives</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-navigating-the-acquisition-of-stock-video-backgrounds/"><u>In 2024, Navigating the Acquisition of Stock Video Backgrounds</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-techniques-to-reduce-nausea-while-in-vr/"><u>In 2024, Techniques to Reduce Nausea While In VR</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96499428-9781580236775-our-dance-with-god/"><u>Our Dance with God | Free Book</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-samsung-galaxy-a14-4g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Samsung Galaxy A14 4G and Browser | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-pinnacle-of-picture-quality-best-players-24/"><u>The Pinnacle of Picture Quality Best Players '24</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-roadmap-to-irresistible-podcast-intros-and-exits/"><u>The Roadmap to Irresistible Podcast Intros and Exits</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-for-resolving-a-missing-msstdfmtdll-file-issue/"><u>Troubleshooting Steps for Resolving a Missing msstdfmt.dll File Issue</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-gionee-f3-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Gionee F3 Pro | Dr.fone</u></a></li>
 </ul></div>
 
