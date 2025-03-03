@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlocking True Tints and Shades in Photos\""
-date: 2024-08-08T05:22:20.662Z
-updated: 2024-08-09T05:22:20.662Z
+date: 2025-02-28T20:48:08.941Z
+updated: 2025-03-02T18:56:53.057Z
 tags: 
   - screen-recording
   - ai video
@@ -48,9 +48,6 @@ Now do the tuning by navigating to the layer mask and also select the layers. Af
 
 ![use sliders to black or white](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 3\. Tip 3: Add Color to White Object
 
 If you want to add color to your black or white shirt, you can do it by “Hue and Saturation Adjustment Layer.” On this layer, tap on “Colorize” and choose the color you want to add. Another technique is to create a “Fill Adjustment Layer” and then change the blending mode into “Multiple.” Now, click on the “Color Picker,” and you can pick and choose your preferred color. If you want to add a dark color rather than a subtle color, change the mode to “Screen.”
@@ -65,30 +62,18 @@ At the bottom of the options, you can see two points that will tell you about yo
 
 ![change specific color to another color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### 5\. Tip 5: Choose Object Color Range
 
 Do you want to change the color of a specific part of the image? You can do this on Adobe Photoshop photo color editor by going to the "Quick Selection Tool" and then applying the colors, but it may leave edges and curves of the object. So, the recommended way is to navigate to the “Select” tab and then click on “Color Range” from its drop-down menu.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![access color range option](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-6.jpg)
 
 After clicking on the color range option, a pop-up window will appear from which tap on “Selection.” You can view your image on the preview window and can select the whole back using the “Selection” tool.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![select complete object](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-7.jpg)
 
 Afterward, create a group in which add layers, mask, and adjustment layers to change the saturation, color, and brightness of the selected area accurately. To only change the color, drag the sliders of hue to do it instantly.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![change hue for changing color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-8.jpg)
 
 ### 6\. Tip 6: Use Blend IF
@@ -97,16 +82,10 @@ If you want to change the color of leaves on a tree, you can use the “Blend IF
 
 Similarly, if you drag the “Blend IF” sliders towards white pints, it can hide the light pixels. To hide any specific color from the picture, you can click on “Channels” and then select the color you want to eradicate completely.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![select the channel color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-9.jpg)
 
 This method only hides color based on their luminance values; however, this loads the entire layer when loading the active pixels. Regardless, this can be changed into transparency. For this, you need to select the layer by right-clicking and selecting the option of “Convert to Smart Object.”
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![convert to smart object](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-10.jpg)
 
 It helps the user create transparency across the layer. After hiding the layer and coming back to another object-specific layer, you can create a certain change in effect through adjustment layers. For instance, you can create a “Hue and Saturation” adjustment layer. With the above settings, Photoshop applies this as a layer mask for you. Use the sliders across the set layer to change the color across the selected areas.
@@ -119,21 +98,12 @@ If you don’t have an offline tool like Adobe Photoshop, you can use an online 
 
 To change the color, navigate to this tool and upload the images. Then, head to the “Replace Color” option from the left section and click on it. On the menu of “Replace Color,” select the box next to “Source Color” to choose the color you want to replace. Use an eyedropper to select any color for your image.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![select source color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-12.jpg)
 
 To increase or decrease the intensity of your color, use the “Tolerance” option, and drag it accordingly. If you want to change the hue of the source color, click on the box next to “Target Color.” If you have accidentally applied any color on some part, you can head to erase tab and can remove the alterations from the brush.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![choose target color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-13.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 Changing the color of a photo can save us a lot of work done and effort. To effortlessly change the photo color, use the mentioned photo color editor in this article to easily execute the changes. Also, we have mentioned an online tool through which you can also change the photo color flawlessly.
@@ -160,6 +130,24 @@ Changing the color of a photo can save us a lot of work done and effort. To effo
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-captivating-audience-with-these-innovative-videos/"><u>[New] 2024 Approved Captivating Audience with These Innovative Videos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-beginning-conversations-in-the-cloud-mastering-zoom-on-android-phones-for-2024/"><u>[New] Beginning Conversations in the Cloud Mastering Zoom on Android Phones for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-cost-efficient-drone-buying-guide-find-the-best-deals/"><u>[New] Cost-Efficient Drone Buying Guide Find the Best Deals</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-acoustic-mastery-secrets-for-exceptional-audio-capture/"><u>[New] In 2024, Acoustic Mastery Secrets for Exceptional Audio Capture</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-uniting-realms-a-comparative-study-of-mr-ar-and-vr-technologies/"><u>[New] In 2024, Uniting Realms A Comparative Study of MR, AR, and VR Technologies</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-explore-top-10-best-photo-layering-and-editing-apps-iosandroid/"><u>[Updated] 2024 Approved Explore Top 10 Best Photo Layering & Editing Apps iOS/Android</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-ancestral-aesthetics-art-without-restrictive-rights/"><u>[Updated] Ancestral Aesthetics Art Without Restrictive Rights</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-next-gen-virtual-reality-top-8-metaverse-tech-for-2024/"><u>[Updated] Next-Gen Virtual Reality Top 8 Metaverse Tech for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-sonic-streamline-the-playlist-conveyor-belt-trick-for-2024/"><u>[Updated] Sonic Streamline The Playlist Conveyor Belt Trick for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-directory-of-various-visual-recording-devices/"><u>2024 Approved Directory of Various Visual Recording Devices</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-step-by-step-guide-to-instagram-image-uploads/"><u>2024 Approved Step-by-Step Guide to Instagram Image Uploads</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-huawei-nova-y91-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-7-to-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 7 To Android devices? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-investing-in-chatgpt-plus-a-smart-choice/"><u>Is Investing in ChatGPT Plus a Smart Choice?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/olyx-zones-the-creme-de-la-snowspeedcross-for-2024/"><u>OlyX-Zones The Crème De La Snowspeedcross for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/step-by-step-guide-executing-a-fresh-boot-on-windows-11/"><u>Step-by-Step Guide: Executing a Fresh Boot on Windows 11</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-easy-path-to-observing-well-liked-comments-on-the-video-platform/"><u>The Easy Path to Observing Well-Liked Comments on the Video Platform</u></a></li>
+</ul></div>
 

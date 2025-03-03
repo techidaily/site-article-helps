@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Bright Horizons  Pioneering Light in Video Production\""
-date: 2025-02-06T16:18:18.343Z
-updated: 2025-02-11T19:38:32.067Z
+date: 2025-02-27T22:58:37.289Z
+updated: 2025-03-02T17:26:52.071Z
 tags: 
   - screen-recording
   - ai video
@@ -65,10 +65,6 @@ The fill light is used to fill in the shadows created by the key light. It is us
 
 ![set the backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 For this tutorial, we use Aperture 120d as the backlight and lift it up into the air with a c-stand so it can light the subject from above. It helps to separate the talent from the background and give the audience a full view of the set
 
 ##### Step4 Use Practical Lights
@@ -77,17 +73,9 @@ Practical lights appear on the camera to add some visual flair. It can be any li
 
 ![use practical lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
 
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
 
@@ -99,10 +87,6 @@ After setting up all the lighting above, you can take a look at the comparison b
 
 ![using key light only](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Using Key Light + Fill + Backlight**
 
 ![using key light + fill + backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-8.jpg)
@@ -112,10 +96,6 @@ After setting up all the lighting above, you can take a look at the comparison b
 We usually set the lights around 50% brightness and a color temperature of 5600K.
 
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Summary
 
@@ -151,21 +131,20 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-10-premier-photo-frame-apps/"><u>[New] 10 Premier Photo Frame Apps</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-15-best-youtube-movies-channels-for-you-to-kill-time/"><u>[New] 2024 Approved 15 Best YouTube Movies Channels for You to Kill Time</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-from-vocal-exchanges-to-written-words-mastering-ms-words-speech-to-text/"><u>[New] From Vocal Exchanges to Written Words Mastering MS Word's Speech-to-Text</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-olympic-highlights-thrilling-runs-from-x-games/"><u>[New] In 2024, Olympic Highlights Thrilling Runs From X Games</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-fast-and-fun-the-quick-guide-to-taking-screenshots-on-chromebook/"><u>[Updated] 2024 Approved Fast & Fun The Quick Guide to Taking Screenshots on Chromebook</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-in-depth-analysis-the-power-of-quantum-hdr/"><u>[Updated] 2024 Approved In-Depth Analysis The Power of Quantum HDR</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-free-fast-and-easy-top-5-choices-for-pinterest-video-downloaders/"><u>[Updated] In 2024, Free, Fast & Easy Top 5 Choices for Pinterest Video Downloaders</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-how-to-use-windows-media-player-to-rip-and-burn-cd/"><u>[Updated] In 2024, How to Use Windows Media Player to Rip and Burn Cd</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-quelling-camera-chaos-in-cinema-for-2024/"><u>[Updated] Quelling Camera Chaos in Cinema for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-top-notch-hacks-navigating-instagrams-forgotten-features/"><u>2024 Approved Top-Notch Hacks Navigating Instagram's Forgotten Features</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/dell-dvddvd/"><u>Dellノートパソコン用 DVDプレイヤーを使わずにDVD再生する方法</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-realme-c55-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Realme C55</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-iphone-7-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking iPhone 7 Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-xs-max-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone XS Max</u></a></li>
-<li><a href="https://article-helps.techidaily.com/leading-music-service-streaming-channels-for-2024/"><u>Leading Music Service Streaming Channels for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-printer-software-installation-kit-epson-model-2650/"><u>Windows Printer Software Installation Kit - Epson Model 2650</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-discover-the-top-mobile-photo-tools-for-your-iphoneandroid-device/"><u>[New] 2024 Approved Discover the Top Mobile Photo Tools for Your iPhone/Android Device</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-how-tos-for-immersive-nba-livestream-watching/"><u>[New] 2024 Approved How-To's for Immersive NBA Livestream Watching</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-vectors-for-novices-uncover-essentials-types-and-applications/"><u>[New] Vectors for Novices Uncover Essentials, Types & Applications</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-goofy-bliss-classic-film-revisited/"><u>[Updated] 2024 Approved Goofy Bliss Classic Film Revisited</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-crossing-social-bridges-linking-instagram-and-tiktok/"><u>[Updated] In 2024, Crossing Social Bridges Linking Instagram & TikTok</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-fv-downloader-for-social-networking-videos/"><u>2024 Approved FV-Downloader for Social Networking Videos</u></a></li>
+<li><a href="https://article-posts.techidaily.com/budget-friendly-4k-imaging-sources/"><u>Budget-Friendly 4K Imaging Sources</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-honor-magic-vs-2-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Honor Magic Vs 2 Phone | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Vivo X100? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-list-for-sound-alteration-applications-in-vtubing/"><u>In 2024, The Ultimate List for Sound Alteration Applications in VTubing</u></a></li>
+<li><a href="https://extra-support.techidaily.com/seamless-srt-to-sub-a-comprehensive-guide-for-2024/"><u>Seamless SRT to SUB A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-fresh-microsoft-drivers-for-windows-10-8-or-7-systems/"><u>Step-by-Step Tutorial: Fresh Microsoft Drivers for Windows 10, 8 or 7 Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/steps-to-reset-or-delete-pin-code-on-windows-10/"><u>Steps to Reset or Delete Pin Code on Windows 10</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-6-goliaths-massive-language-frameworks-showcase/"><u>Top 6 Goliaths: Massive Language Frameworks Showcase</u></a></li>
+<li><a href="https://article-helps.techidaily.com/unveiling-top-8-premium-free-srt-translation-solutions-for-2024/"><u>Unveiling Top 8 Premium Free SRT Translation Solutions for 2024</u></a></li>
 </ul></div>
 

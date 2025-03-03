@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlocking the Mysteries  Imports of Media Files in W11\""
-date: 2024-08-08T05:20:42.486Z
-updated: 2024-08-09T05:20:42.486Z
+date: 2025-02-27T22:42:04.669Z
+updated: 2025-03-02T17:13:32.088Z
 tags: 
   - screen-recording
   - ai video
@@ -33,14 +33,8 @@ In the past, importing photos and videos to a laptop or desktop computer from va
 * [**Part3: Troubleshooting the Phone to PC Connection**](#part3)
 * [**Part4: Import Photos and Video from a Camera**](#part4)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ## Part 1: Import Photos and Video from a Phone
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 1: Connecting Your Phone
 
 If you are moving photos and video to Windows 10 from a smartphone, you will first have to connect your phone to the computer. It can be done through the USB cable that you should have received with the smartphone. Plug one end of the cable into your phone and the other into the USB port of your desktop or laptop.
@@ -51,30 +45,12 @@ If you are moving photos and video to Windows 10 from a smartphone, you will fir
 
 Your phone will have settings regarding file transfers when it is connected to a computer. Make sure that media viewing and transferring is selected, which will allow Windows 10 File Explorer on the computer to recognize your device.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 3: Import Photos and Videos
 
 Now that your phone is recognized, you should see the camera or phone pop up along with your hard drives and other external drives. You can right click on its icon, select “Import Photos and Videos” and proceed from there.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Import Photos and Video in windows 10](https://images.wondershare.com/filmora/article-images/import-video-photos-to-windows-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Step 4: Import
 
 Your computer will tell you how many pictures and photos were found. You can either review, organize and group these items, or you can choose to import all the new items in one go.
@@ -111,18 +87,12 @@ Those who are importing photos and videos from a camera rather than a smartphone
 
 Connect the camera to your phone and then follow the above steps to import your media content.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![Import Photos and Video in windows 10](https://images.wondershare.com/filmora/article-images/import-photos-video-from-camera.jpg)
 
 ## Conclusion
 
 If you own a Windows 10 desktop or laptop, it is very easy to connect a smartphone or digital camera to your computer. Then you will be able to use File Explorer or the built in Photos app to access and download your photos and videos. Adding your content to the computer lets you save the files, share them with friends, edit them using programs like Photoshop, or save space on your smartphone/camera.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -148,6 +118,22 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-comprehensive-guide-youtube-to-mpeg-transcoding/"><u>[New] 2024 Approved Comprehensive Guide YouTube to MPEG Transcoding</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-unleashing-your-contents-potential-journey-towards-gaining-sponsorship-revenue/"><u>[New] In 2024, Unleashing Your Content's Potential Journey Towards Gaining Sponsorship Revenue</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-precision-in-adding-time-stamps-to-images/"><u>[New] Precision in Adding Time Stamps to Images</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-unlock-the-art-of-iphone-photography-skill-building-tips-for-2024/"><u>[New] Unlock the Art of iPhone Photography Skill-Building Tips for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-advanced-video-editing-free-high-quality-pp-templates-for-2024/"><u>[Updated] Advanced Video Editing FREE High-Quality PP Templates for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-deciphering-intermittent-stoppages-in-photobooth-videos-for-2024/"><u>[Updated] Deciphering Intermittent Stoppages in Photobooth Videos for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-directors-discourse-insights-and-answers/"><u>[Updated] Directors' Discourse Insights and Answers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-revolutionizing-gaming-analyzing-kinemasters-android-version/"><u>[Updated] In 2024, Revolutionizing Gaming Analyzing KineMaster's Android Version</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-leading-edge-in-online-gif-conversion-to-video-best-5-for-2024/"><u>[Updated] Leading Edge in Online GIF Conversion to Video (Best 5) for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-from-camera-roll-to-igtv-video-upload-101/"><u>2024 Approved From Camera Roll to IGTV Video Upload 101</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-rhythmic-resonance-the-ultimate-site-list-for-downloads/"><u>2024 Approved Rhythmic Resonance The Ultimate Site List for Downloads</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-top-9-premium-wedding-films-online-youtube-and-vimeo/"><u>2024 Approved Top 9 Premium Wedding Films Online Youtube & Vimeo</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-cutting-edge-design-of-the-lian-li-hydroshift-lcd-360s-case/"><u>Exploring the Cutting-Edge Design of the Lian Li Hydroshift LCD 360S Case</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-nwstoreexe-malfunction-a-step-by-step-guide/"><u>Solving nw_store.exe Malfunction: A Step-by-Step Guide</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-avidemux-audio-not-playing-fix-it-now-for-2024/"><u>Updated Avidemux Audio Not Playing? Fix It Now for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unveiling the Hidden  Mastering the Mask of Background Blur\""
-date: 2024-08-08T05:21:07.747Z
-updated: 2024-08-09T05:21:07.747Z
+date: 2025-03-01T21:20:06.601Z
+updated: 2025-03-02T21:37:42.608Z
 tags: 
   - screen-recording
   - ai video
@@ -24,18 +24,12 @@ Removing the background from a picture can be tedious and time-consuming, especi
 
 So, if you're ready to find out how to **remove the image's background with Photopea**, then let's get started!
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How To Use Photopea To Remove The Image's Background
 
 Photopea offers three options for removing the images' background, i.e., Magic Wand Tool, Magic Cut, and manual selection.  
 Magic Wand tool is responsible for instantly removing the background of an image with solid colors. In comparison, the Magic Cut tool lets you erase complicated backgrounds.  
 However, if the image is detailed, you have to select the object and remove the background manually. Below we've provided step-by-step guides to show you how you can use the Magic Wand and Magic Cut tools:
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. How To Use The Magic Wand Tool To Remove The Image's Background
 
 Here's how to use the Magic Wand tool to **remove the image's background with Photopea**:
@@ -44,23 +38,14 @@ Step1 In the first step, launch a browser on your PC and visit the [Photopea](ht
 
 Step2 In the next step, click the **"Magic Wand"** tool from the left-side panel and click the background of your image to select it.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![selecting the magic wand tool in photopea](https://images.wondershare.com/filmora/article-images/2023/03/selecting-the-magic-wand-tool-in-photopea.png)
 
 Step3 Now, simply press the **"Delete"** button on your keyboard to remove the background. However, if the tool did not select some parts of the image's background, you need to adjust the settings. Click the **"Ctrl+Z"** key to undo the selection.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![removing the image background using magic wand in photopea](https://images.wondershare.com/filmora/article-images/2023/03/removing-the-image-background-using-magic-wand-in-photopea.png)
 
 Step4 Next, find the **"Tolerance"** option in the top toolbar and increase its value until you get the appropriate number.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![adjusting the magic wand settings](https://images.wondershare.com/filmora/article-images/2023/03/adjusting-the-magic-wand-settings.png)
 
 Step5 Alternatively, you can reduce the value to deselect the parts of your image. Once you change the value, click on the background and press the **"Delete"** button to remove it.
@@ -81,9 +66,6 @@ You can modify the brush size using the drop-down icon at the top-right of the w
 
 Step4 Once satisfied with your changes, click **"OK"** to save your settings and remove the background.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### 3\. Select the Subject Manually When The Image Is Detailed
 
 Although Magic Cut can handle difficult photos, there are also more precise tools available in Photopea that can help you erase the background from your images through manual selection. However, this process will be slower if your image is very detailed.
@@ -100,9 +82,6 @@ Step3 In the next step, select your object as precisely as possible. Now, right-
 
 Step4 Finally, hit the **"Delete"** button to remove the background.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## A Bonus Tip: How To Add The New Background After Removing The Image's Background
 
 Now that you've removed the BG from your images, you might want to add a new one. Luckily, Photopea can help you with this.
@@ -111,18 +90,12 @@ To add a new background after removing the image's background, do the following 
 
 Step1 Click the **"File"** option from the top menu and select **"Open & Place..."**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![adding new background to image in photopea](https://images.wondershare.com/filmora/article-images/2023/03/adding-new-background-to-image-in-photopea.png)
 
 Step2 Choose the new background image from your system and click **"Open"** to import it to **"Photopea."**
 
 Step3 Now, click the **"Edit"** option from the top menu and select **"Transform" > "Scale."** Drag the handles to resize the background image and click **"Enter"** to apply the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![scaling the new background image](https://images.wondershare.com/filmora/article-images/2023/03/scaling-the-new-background-image.png)
 
 Step4 Under the **"Layers"** header in the right panel, drag the new image layer below the object layer, and the background will be applied to your object.
@@ -155,19 +128,8 @@ Once you've erased the background from your objects in PixCut, you can also add 
 
 PixCut also removes watermarks from your pictures, allowing you to bypass copyright restrictions and use images for commercial purposes.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![wondershare pixcut](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut.png)
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## You May Be Interested In: How To Get Free Images
 
 Hopefully, you've found this guide helpful and can now make changes to your image's background without much effort. Last but not least, we have provided you with a video how to get more free images from a user-friendly video editor - [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). If you have any interests, you can watch it:
@@ -214,6 +176,24 @@ Additionally, we recommended using Wondershare PixCut as the best alternative to
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-foremost-funny-image-maker/"><u>[Updated] 2024 Approved Foremost Funny Image Maker</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-pros-choice-9-premium-streaming-services/"><u>[Updated] 2024 Approved Pro's Choice 9 Premium Streaming Services</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-transform-and-edit-videos-like-a-pro-with-these-iphonepc-tools/"><u>[Updated] 2024 Approved Transform and Edit Videos Like a Pro With These iPhone/PC Tools</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-cutting-edge-drones-specifically-designed-for-gopros/"><u>[Updated] In 2024, Cutting-Edge Drones Specifically Designed for GoPros</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-mastering-photo-color-alteration-a-professionals-guide/"><u>[Updated] In 2024, Mastering Photo Color Alteration A Professional's Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-soften-image-periphery-with-circular-light-blend-photoshop/"><u>[Updated] In 2024, Soften Image Periphery with Circular Light Blend Photoshop</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-strategic-insights-into-youtubes-adsense-earnings-by-thousand-viewers/"><u>[Updated] Strategic Insights Into Youtube's AdSense Earnings by Thousand Viewers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-which-video-player-wins-vlc-or-mx/"><u>[Updated] Which Video Player Wins, VLC or MX?</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-revolutionizing-content-breakthroughs-in-youtube-editing/"><u>2024 Approved Revolutionizing Content Breakthroughs in YouTube Editing</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-any-vivo-y100i-power-5g-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Vivo Y100i Power 5G Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/improve-iphone-filmingphotography-premium-accessory-guide-for-2024/"><u>Improve iPhone Filming/Photography Premium Accessory Guide for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtubes-rivalry-the-leading-3-video-streaming-sites/"><u>In 2024, YouTube's Rivalry The Leading 3 Video Streaming Sites</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/is-your-current-iphone-sufficient-for-todays-needs/"><u>Is Your Current iPhone Sufficient for Today’s Needs?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/key-pillars-top-6-social-platforms-benefiting-businesses/"><u>Key Pillars Top 6 Social Platforms Benefiting Businesses</u></a></li>
+<li><a href="https://article-helps.techidaily.com/leading-vr-grips-top-8-essential-handsets/"><u>Leading VR Grips Top 8 Essential Handsets</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-the-hurdle-of-a-non-existent-start-button-in-fortnite/"><u>Overcoming the Hurdle of a Non-Existent Start Button in Fortnite</u></a></li>
+</ul></div>
 

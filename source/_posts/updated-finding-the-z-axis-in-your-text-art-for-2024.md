@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Finding the Z-Axis in Your Text Art for 2024\""
-date: 2025-02-04T16:15:01.346Z
-updated: 2025-02-11T16:43:30.863Z
+date: 2025-02-24T19:44:34.465Z
+updated: 2025-03-02T17:43:56.745Z
 tags: 
   - screen-recording
   - ai video
@@ -35,10 +35,6 @@ After you get the program, install it and follow the step-by-step instructions y
 
 Also, there are plenty of different ways to create 3D text effects in Adobe Illustrator. This tutorial will focus on explaining the easiest and quickest one. Just know that this doesn't mean the result will be wrong. Most methods yield the same results.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Create 3D Text Effects in Adobe Illustrator
 
 Now that you know what you're getting into, let's finally reveal the entire process. Just follow the steps and do as you see here.
@@ -48,10 +44,6 @@ Step1 Open the program and start a new project.
 Step2 Click on the **Type tool** and click anywhere on your blank canvas. Then, type in your text—type in anything you want.
 
 ![type tool illustrator](https://images.wondershare.com/filmora/article-images/adobe-illustrator-type-tool.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step3 Now, look at the bottom-right corner of the program. Find the **Font** settings and change your font type and size to anything you want.
 
@@ -65,10 +57,6 @@ Step5 Align the text to make it easier to edit and move around the canvas later.
 
 ![align text in illustrator](https://images.wondershare.com/filmora/article-images/adobe-illustrator-align.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step6 Up next, you need to turn on your 3D Effects panel if it still needs to be activated. To do this, click on **Window** → **3D and Materials.** Then, look at the right side of the screen, and you will see the panel pop up.
 
 ![turn on three d panel](https://images.wondershare.com/filmora/article-images/adobe-illustrator-3d-materials-window.png)
@@ -80,10 +68,6 @@ Step7 Click on the box icon on the right side of the screen and select **“Extr
 Step8 Now, all left to do is experiment with the settings in this panel and adjust how you want your 3D text to look. You can adjust its width, rotation, presets, angle, perspective, and so on. Just play around with the settings until you find your ideal result.
 
 ![three d illustrator settings](https://images.wondershare.com/filmora/article-images/adobe-illustrator-settings.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step9 Finally, it's time to export the image, and you're all done.
 
@@ -111,10 +95,6 @@ Step3 Double-click on the 3D title layer you dragged into the Timeline. When the
 
 ![edit text settings](https://images.wondershare.com/filmora/guide/win-motion-tracking-03.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step4 Finally, import a video in Filmora and drag it under the text into the Timeline. Choose any video or image you want to display underneath your 3D text. That’s it! Hit **Export,** and you’re all done. Congratulations on creating a 3D text effect in Filmora.
 
 If you want to learn more about Filmora’s fantastic features, please watch the video below to see what the latest version of Filmora 12 brings to you!
@@ -126,10 +106,6 @@ Both programs will get the job done if you use Adobe Illustrator or Filmora for 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 If you're just a beginner at video or photo editing, you want to use a more straightforward tool. Illustrator can get very challenging for complete beginners. But Filmora offers a more straightforward interface that still delivers the same professional results. Please read further and see how to realize it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Create a 3D Text Effect In Filmora?
 
@@ -177,17 +153,20 @@ Both programs will get the job done if you use Adobe Illustrator or Filmora for 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-photopony-pro-exploring-affordable-filters/"><u>[New] 2024 Approved PhotoPony Pro Exploring Affordable Filters</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-vector-graphics-innovation-top-apps-to-transform-your-creations/"><u>[New] 2024 Approved Vector Graphics Innovation Top Apps to Transform Your Creations</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-enhance-your-iphone-footage-from-speed-to-extended-muted-visuals/"><u>[New] In 2024, Enhance Your iPhone Footage From Speed to Extended, Muted Visuals</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-pro-tips-for-shooting-quality-gopro-time-lapse-videos/"><u>[New] In 2024, Pro Tips for Shooting Quality GoPro Time-Lapse Videos</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-premium-picks-best-win-11-webcams-for-clear-capture/"><u>[New] Premium Picks Best Win 11 Webcams for Clear Capture</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/he-blueprint-for-viral-video-mastery/"><u>[New] The Blueprint for Viral Video Mastery</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-understanding-youtube-post-upload-process/"><u>[Updated] 2024 Approved Understanding YouTube Post-Upload Process</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exceptional-portable-speaker-review-top-alternatives-beyond-bose-and-sony-revealed-on-zdnet/"><u>Exceptional Portable Speaker Review: Top Alternatives Beyond Bose and Sony Revealed on ZDNet</u></a></li>
-<li><a href="https://article-helps.techidaily.com/hot-oculus-vr-games-that-everyones-playing/"><u>Hot Oculus VR Games That Everyone's Playing</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-ninja-level-strategies-for-instagram-video-magic/"><u>In 2024, Ninja-Level Strategies for Instagram Video Magic</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/steps-for-increasing-your-notebooks-ram-capacity/"><u>Steps for Increasing Your Notebook's RAM Capacity</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-best-mkv-video-cutters-for-mac-users/"><u>Updated 2024 Approved Best MKV Video Cutters for Mac Users</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-leading-5-online-title-masters-revealed/"><u>[New] In 2024, Leading 5 Online Title Masters Revealed</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-game-enhancing-screens-top-5-for-ps5-and-xbox-gamers/"><u>[Updated] 2024 Approved Game-Enhancing Screens Top 5 for PS5 & Xbox Gamers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-a-connoisseurs-guide-to-the-very-best-10-vectors-pix-for-2024/"><u>[Updated] A Connoisseur's Guide to the Very Best 10 Vectors Pix for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-effortlessly-edit-images-using-snapseed-tips/"><u>[Updated] In 2024, Effortlessly Edit Images Using Snapseed Tips</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-unveiling-magix-video-pro-x-capabilities/"><u>[Updated] In 2024, Unveiling Magix Video Pro X Capabilities</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-understanding-and-utilizing-facebooks-updated-marketing-techniques/"><u>[Updated] Understanding & Utilizing Facebook’s Updated Marketing Techniques</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-virtual-frontiers-five-incredible-upcoming-psvr-games-for-2024/"><u>[Updated] Virtual Frontiers Five Incredible Upcoming PSVR Games for 2024</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/easy-guide-recovering-lost-images-in-windows-after-accidental-deletion/"><u>Easy Guide: Recovering Lost Images in Windows After Accidental Deletion</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-realme-note-50-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Realme Note 50</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, How to use Pokemon Go Joystick on Apple iPhone 13 mini? | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-instagram-sound-essentials-for-personalization/"><u>In 2024, Instagram Sound Essentials for Personalization</u></a></li>
+<li><a href="https://article-helps.techidaily.com/jolly-video-recorder-critique-for-2024/"><u>Jolly Video Recorder Critique for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mastering-french-social-dynamics-a-guide-to-intricate-greetings/"><u>Mastering French Social Dynamics: A Guide to Intricate Greetings</u></a></li>
+<li><a href="https://win-lab.techidaily.com/step-by-step-tutorial-on-initiating-windows-11-system-restore/"><u>Step-by-Step Tutorial on Initiating Windows 11 System Restore</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-realme-c55-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Realme C55 Reset Code | Dr.fone</u></a></li>
 </ul></div>
 

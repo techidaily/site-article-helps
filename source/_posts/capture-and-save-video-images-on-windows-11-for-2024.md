@@ -1,7 +1,7 @@
 ---
 title: "Capture and Save Video Images on Windows 11 for 2024"
-date: 2024-08-08T05:23:03.873Z
-updated: 2024-08-09T05:23:03.873Z
+date: 2025-02-26T19:50:27.376Z
+updated: 2025-03-02T22:37:52.697Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/0afe9beb0b64de5cc7a966e66ff258745b01178cd
 
 # How to Save Photo from Video in Windows 10 Photos App
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -37,9 +34,6 @@ In this article, you will learn how to save photo from Windows 10 Photos app and
 * [**Part2: Why I can’t save photo from video**](#part2)
 * [**Part3: Alternative way to save photo from video**](#part3)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1: How to save photo from Windows 10 Photos app
 
 In this part of the article, we are going to discuss, how you would save photo from video with Windows 10 Photos app. The Photos app has numerous features for you, and the editing tools would simply amaze you. You can use the Windows Ink to write on the images or capture stills from a video for that matter. Let’s see, how to save photo from video using Windows 10 Photos app –
@@ -51,9 +45,6 @@ Creating a living image:
 * Open the folder containing your video and search the particular video. Right-click video > ‘Open With’ > ‘Photos’ > allow the video to play.
 * Right-click within the player > Edit and create > Save photos.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/save-photo-microsoft-photos.jpg)
 
 * Now, you can see the living picture by tapping ‘Play’ button.
@@ -81,9 +72,6 @@ Click on ‘Start’ > ‘Settings’ > ‘Update & Security’ > ‘Windows Upd
 
 You got to login with another Microsoft account to access Microsoft Store. It might be your existing Microsoft Store account undergoing some issues. This in turn might be affecting the Photos app from acting properly. Therefore, signing in a different account will help.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 3: Alternative way to save photo from video
 
 When you want to save photo from video Windows 10 Photos but fail to do so, you can look for alternate ways that are fruitful. ‘ScreenShot’ is an online tool that enables you to capture and edit anything popping up on your screen. From webpages, windows, media files, menus, objects, to webcams, you can literally capture anything. It supports Mac, Windows PC, Android devices etc. it supports AVI, FLV, MPEG, WMV, MOV, and MKV files and enables you to add shapes, texts, lines, arrows, and stylish effects while editing the captured images. You can even upload images to cloud or social networking sites like Facebook, Google Plus, Twitter etc. The pictures are saved in JPG, PNG, BMP, GIF, and TIFF format on your computer. Automatic video capture at fixed intervals is also supported.
@@ -94,17 +82,11 @@ Here comes the guide –
 * Now, run the java applet and just hit the camera icon to capture shots.
 * See your mouse cursor appear like a blue crosshair. Hold down the mouse and drag to select the parts of the video you wish to shoot. While moving the mouse, you can see that the application window is covered with a blue border. You can capture the window by clicking there.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/screenshot-take-photo.jpg)
 
 * Once the image is captured, the editing tool bar is visible. It allows you to enhance the image to great extent.
 * Now, hit the ‘Save’ icon and get the image saved on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 We provided you some knowledge on how to save a photo from video Windows 10 Photos. Out of the multiple ways to save photos from videos, you can try what suits you best. If you want to go for a desktop based application, then Windows Photos serves you best. But, when you want to get things done online, you can pick ScreenShot for that matter. Hope you liked our efforts!
@@ -134,6 +116,22 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-eye-catching-narrative-starter-gadget/"><u>[New] Eye-Catching Narrative Starter Gadget</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-asus-proart-pa-329q-in-focus-the-comprehensive-4k-professional-display-analysis/"><u>[New] In 2024, Asus ProArt PA 329Q in Focus – The Comprehensive 4K Professional Display Analysis</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-navigating-the-art-of-3d-text-rendering-in-ps/"><u>[New] Navigating the Art of 3D Text Rendering in PS</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-top-10-scriptural-ringtone-selections-for-faith-for-2024/"><u>[New] Top 10 Scriptural Ringtone Selections for Faith for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-updated-guide-leading-camcorders-for-ocean-exploration/"><u>[New] Updated Guide Leading Camcorders for Ocean Exploration</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-balance-your-shots-best-camera-stabilizers-reviewed/"><u>[Updated] Balance Your Shots Best Camera Stabilizers Reviewed</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-enhancing-video-content-through-effective-use-of-cardsannotations/"><u>[Updated] Enhancing Video Content Through Effective Use of Cards/Annotations</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-free-visual-treasury-select-10-sites-included/"><u>[Updated] Free Visual Treasury – Select 10 Sites Included</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-crafting-conversational-content-for-your-subscribers/"><u>[Updated] In 2024, Crafting Conversational Content for Your Subscribers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-hardware-opinions-from-toms-gadget-corner/"><u>Expert Hardware Opinions From Tom's Gadget Corner</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-resolve-honor-magic5-ultimate-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Honor Magic5 Ultimate Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-crafting-silent-scenes-audio-fade-techniques-in-adobe-premiere-pro/"><u>In 2024, Crafting Silent Scenes Audio Fade Techniques in Adobe Premiere Pro</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-zoomy-zappers-fastest-flash-fueled-apps-for-phones-and-pcs/"><u>In 2024, Zoomy Zappers Fastest Flash-Fueled Apps for Phones & PCs</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>Reasons why Pokémon GPS does not Work On Apple iPhone X? | Dr.fone</u></a></li>
+</ul></div>
 

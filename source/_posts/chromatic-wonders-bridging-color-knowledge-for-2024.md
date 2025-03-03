@@ -1,7 +1,7 @@
 ---
 title: "\"Chromatic Wonders  Bridging Color Knowledge for 2024\""
-date: 2024-08-08T05:21:58.499Z
-updated: 2024-08-09T05:21:58.499Z
+date: 2025-02-28T20:28:28.948Z
+updated: 2025-03-02T20:03:00.011Z
 tags: 
   - screen-recording
   - ai video
@@ -22,9 +22,6 @@ So, you've heard about color theory but don't know what it is or how to use it a
 
 If you are more selective with your colors in your videos or imagery the viewer will find this aesthetically pleasing and may be more engaged in your content. This includes anything from logo design all the way to props for your shot. When creating your videos within Filmora it is good practice to think about your composition in all aspects including color theory and with the guide hopefully you will have a better understanding of how you can influence your color palette.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## What Is Color Theory
 
 Color theory consists of many elements that could fill a library on its own but for this guide we will focus on two key elements. The color wheel and color harmony. By understanding the color wheel and color harmony you can hand pick which colors to add or use in your pieces to create a well-balanced viewing experience which can help in viewer engagement and enjoyment.
@@ -35,24 +32,14 @@ There are many color wheels out there and all require understanding and research
 
 Using red, green and blue as primary colors we can mix the colors to one another to get our secondary colors giving us yellow, magenta and cyan. We can mix these to one another to create our tertiary colors which are raspberry, orange, sprig green, turquoise, ocean and violet giving us something which looks like this
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![colcor wheel](https://images.wondershare.com/filmora/article-images/2024/color-wheel.jpg)
 
 As you can see, we have every color available in this wheel and they are arranged in a unison with the mixed colors starting with red, green and blue and working towards each other.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Color Harmony
 
 So now we know how the wheel is made and what it looks like. What does it do? We can use this wheel now to gather our palette. Within color theory we talk about harmonious colors that work together in a pleasant way creating less stress on the eyes to find information in your scene.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![color harmony](https://images.wondershare.com/filmora/article-images/2022/08/color-harmony.jpg)
 
 One such harmony is complementary colors and luckily for us this is very easy to find. You take your base color and find the opposite color on the wheel. In this example the complementary color to blue is yellow depicted with a red line.
@@ -67,9 +54,6 @@ The corners of the black rectangle land on what is known as tetradic complement 
 
 You may still be unsure as to how to implement color theory into your videos. Let's look at some scenarios that color theory may help your creations.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![apply color theory video](https://images.wondershare.com/filmora/article-images/2022/08/apply-color-theory-video.jpg)
 
 In this scene the director decided that the backdrop should complement the top the actor is wearing, looking at our wheel we can see the complementary color would be dark purple so they started with that, to create a more dynamic scene they then used the analogous colors of that purple being pink and red and created the backdrop. This creates a harmony within the scene and makes it effortless to see all the key elements straight away.
@@ -80,9 +64,6 @@ As you can see from this example the base color for the scene is a dark blue/pur
 
 As you can see from all the movie covers above, they all use complementary colors from the blues to the war yellows and oranges, this creates high contrast and balance and is something done within the movie industry in every scene. It's no coincidence that the joker is purple and green or that the iron man is red and gold, this is well prepared and researched in the planning stages of everything a visual artist creates.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Conclusion
 
 By including this into your thought process when creating videos with [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) you will achieve well balanced and harmonious content for your viewer to enjoy and create better engagement. It's not by chance these things happen though, it's through research and planning that the most iconic scenes and characters are created and this is just one small brick in the foundations of content creation. With practice this will become second nature to you and that is the main goal of this guide.
@@ -115,6 +96,18 @@ By including this into your thought process when creating videos with [Filmora](
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-navigating-gmail-and-zoom-for-productive-video-collaboration/"><u>[New] 2024 Approved Navigating Gmail and Zoom for Productive Video Collaboration</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-unveiling-the-path-to-captivating-photographic-alliances/"><u>[New] 2024 Approved Unveiling the Path to Captivating Photographic Alliances</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-advanced-aesthetics-the-ultimate-guide-to-tiktok-effects/"><u>[Updated] In 2024, Advanced Aesthetics The Ultimate Guide to TikTok Effects</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-guide-to-finding-unique-video-graphics-online/"><u>[Updated] The Ultimate Guide to Finding Unique Video Graphics Online</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-unlimited-visual-inspiration-awaits-at-these-top-12-stock-photo-websites-for-2024/"><u>[Updated] Unlimited Visual Inspiration Awaits at These Top 12 Stock Photo Websites for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-the-essentials-of-transferring-youtube-media-to-social-networks/"><u>2024 Approved The Essentials of Transferring YouTube Media to Social Networks</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/52916933-get-superior-visuals-from-youtube-downloading-thumbnails-free/"><u>Get Superior Visuals From YouTube - Downloading Thumbnails Free</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-about-honor-80-pro-straight-screen-edition-frp-bypass-by-drfone-android/"><u>In 2024, About Honor 80 Pro Straight Screen Edition FRP Bypass</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-demystifying-youtube-a-guide-to-viewing-video-comments/"><u>In 2024, Demystifying YouTube A Guide to Viewing Video Comments</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/key-elements-for-successful-engagement-with-facebook-livestreams/"><u>Key Elements for Successful Engagement with Facebook Livestreams</u></a></li>
+<li><a href="https://driver-error.techidaily.com/validating-inf-section-service-setup-ready/"><u>Validating INF Section - Service Setup Ready</u></a></li>
+</ul></div>
 

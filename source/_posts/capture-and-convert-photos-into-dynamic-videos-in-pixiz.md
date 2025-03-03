@@ -1,7 +1,7 @@
 ---
 title: "\"Capture and Convert  Photos Into Dynamic Videos in Pixiz\""
-date: 2024-08-08T05:22:57.138Z
-updated: 2024-08-09T05:22:57.138Z
+date: 2025-02-28T19:17:19.876Z
+updated: 2025-03-02T21:26:47.832Z
 tags: 
   - screen-recording
   - ai video
@@ -50,9 +50,6 @@ So let's discuss how to make a slideshow using Pixiz Online. You have to follow 
 
 Step1Open the [Pixiz Website](https://en.pixiz.com/). Then, click the search bar and enter “slideshow” on the top left.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![open pixiz website](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-1.jpg)
 
 Step2Now select any slideshow template by clicking on it.
@@ -65,24 +62,14 @@ Step3Click on the select photo option and choose a photo.
 
 Step4You can add more photos, in the same way, one by one (till the maximum number). Check below if the template you've chosen has the option to control the effect and speed (optional). Then, click on the **Go** button.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![click on go button](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-4.jpg)
 
 Step5Now click on download and then save. Your photo video will be saved in GIF format.
 
 ![click on download and save](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 2\. The best software for creating slideshows - Filmora
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ### About Filmora
 
 The powerful video editing program Filmora is offered by Wondershare. It offers you a wealth of sophisticated video editing features in a straightforward and user-friendly setting. A slideshow, commonly referred to as a photo video, also known as a slideshow. You can also add text, subtitles, effects, and other things to your movie. Although the software for Filmora can be downloaded for free, it has a watermark and few capabilities. The premium edition, on the other hand, has more features without a watermark.
@@ -91,9 +78,6 @@ The powerful video editing program Filmora is offered by Wondershare. It offers 
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How do you make photo videos using Filmora?
 
 Step1Download [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) from official website and click the setup wait till it install.
@@ -108,9 +92,6 @@ Step3**Import** photos by **clicking** (import media) and then drag and drop the
 
 Step4 **Double-click the photo** to open options to make your photos fit the screen (in case there is a gap on the sides). A new box will appear. Under the primary option, click the **transform tab**. You can **increase** the **scale** option to make the photo fit.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![option to make the photo fit](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-8.jpg)
 
 Step5**Click** on the **Title** option in the top right and select the **title template**. **Drag and drop** the **title template** at the point of the video you want it to appear.
@@ -119,9 +100,6 @@ Step5**Click** on the **Title** option in the top right and select the **title t
 
 Step6**Double click the text** to open the box for **making edits in text**, font, color, and other options.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![double click on the text box](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-10.jpg)
 
 Step7Let's add some music. **Click** the **audio tab** at the top right. Now **choose** some **music** and then **drag and drop** to add.
@@ -130,23 +108,14 @@ Step7Let's add some music. **Click** the **audio tab** at the top right. Now **c
 
 Step8You can **double-click** the music to open the **settings box** and make changes.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![change music](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-12.jpg)
 
 Step9To make your slideshow more appealing, you can also add transitions or effects.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add transitions or effects](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-13.jpg)
 
 Step10After finishing all the editing, you can export your creation to any format you want.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![export creation to any format](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-14.jpg)
 
 ## Conclusion
@@ -181,16 +150,10 @@ Step5**Click** on the **Title** option in the top right and select the **title t
 
 Step6**Double click the text** to open the box for **making edits in text**, font, color, and other options.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![double click on the text box](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-10.jpg)
 
 Step7Let's add some music. **Click** the **audio tab** at the top right. Now **choose** some **music** and then **drag and drop** to add.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add some music](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-11.jpg)
 
 Step8You can **double-click** the music to open the **settings box** and make changes.
@@ -199,21 +162,12 @@ Step8You can **double-click** the music to open the **settings box** and make ch
 
 Step9To make your slideshow more appealing, you can also add transitions or effects.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add transitions or effects](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-13.jpg)
 
 Step10After finishing all the editing, you can export your creation to any format you want.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![export creation to any format](https://images.wondershare.com/filmora/article-images/2022/07/pixiz-photo-video-14.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 So, Pixiz is an excellent service to make photo videos online by just uploading photos and clicking to generate. But there aren't many ways to customize it. Additionally, there are a lot of problems with the commercials, the little selection of templates, and the brief movie length. On the other hand, [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) offers more advanced tools than Pixiz online slideshow maker to create more attractive and advanced slideshows or photo videos. However, you must buy the premium version to unlock its full potential and remove the watermark. I hope you'll find this article helpful. Thanks for Reading!
@@ -244,6 +198,19 @@ So, Pixiz is an excellent service to make photo videos online by just uploading 
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-30-innovative-video-themes-and-layouts/"><u>[New] 30 Innovative Video Themes and Layouts</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-10-pivotal-tactics-for-striking-podcast-covers/"><u>[New] In 2024, 10 Pivotal Tactics for Striking Podcast Covers</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/erfect-your-asmr-recordings-with-these-mic-choices-for-2024/"><u>[New] Perfect Your ASMR Recordings with These Mic Choices for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-speed-photography-showdown-gopro-hero-4-vs-ghost-s-drift/"><u>[New] Speed Photography Showdown GoPro Hero 4 VS Ghost-S Drift</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-understanding-the-impact-of-macos-11-big-sur-on-users/"><u>[Updated] 2024 Approved Understanding the Impact of macOS 11 Big Sur on Users</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-conquer-the-metaverse-top-7-devices-that-matter/"><u>[Updated] Conquer the Metaverse Top 7 Devices That Matter</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-revolutionizing-communication-free-top-8-srt-tools-revealed/"><u>[Updated] Revolutionizing Communication Free Top 8 SRT Tools Revealed</u></a></li>
+<li><a href="https://media-tips.techidaily.com/convert-wmv-videos-to-swf-format-efficiently-top-free-and-premium-tools/"><u>Convert WMV Videos to SWF Format Efficiently: Top Free & Premium Tools</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-lava-yuva-2-pro-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Lava Yuva 2 Pro Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-blurring-the-line-between-still-and-motion-art/"><u>In 2024, Blurring the Line Between Still and Motion Art</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-selection-12-complimentary-cinema-streaming-tools/"><u>The Ultimate Selection: 12 Complimentary Cinema Streaming Tools</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+</ul></div>
 

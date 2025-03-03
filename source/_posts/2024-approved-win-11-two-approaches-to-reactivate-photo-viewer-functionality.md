@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Win 11  Two Approaches to Reactivate Photo Viewer Functionality\""
-date: 2024-08-08T05:19:33.621Z
-updated: 2024-08-09T05:19:33.621Z
+date: 2025-02-23T17:54:44.731Z
+updated: 2025-03-02T16:43:52.073Z
 tags: 
   - screen-recording
   - ai video
@@ -53,43 +53,22 @@ Here is why they want to restore Windows Photo Viewer –
 * There is a solid UI across the image which doesn’t cover it, but works as a nice border.
 * You can delete an image without any confirmation here.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Though, Windows 10 Photos offers a dark theme, the effectiveness, responsiveness and features available with Windows Photo Viewer are hard to compromise.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Method 1 to restore Windows Photo Viewer
 
 The first method speaks about, when you have upgraded from a Windows 7/8/8.1 computer to Windows 10\. You can easily swing back to your most loved Windows Photo Viewer within no time. Here is the detailed guide –
 
 **Step 1**: Go to ‘Settings’ and open ‘Apps’. Click on ‘Default Apps’ and check ‘Photo Viewer’. The default photo viewer will be visible here.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![restore windows photo viewer](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer.jpg)
 
 **Step 2**: Click on the present photo viewer app over there and look for ‘Windows Photo Viewer’. We assume that you have upgraded from an older version on Windows and Windows Photo Viewer is there in the options.
 
 **Step 3**: Tap on ‘Windows Photo Viewer’ and then exit ‘Settings’. Now, you have successfully restored Windows Photo Viewer and you can open photos in Windows Photo Viewer.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 2 to get Windows Photo Viewer back
 
 Here comes another way to restore Windows Photo Viewer on your computer. If your computer has been upgraded to Windows 10 from an older version, then Windows Photo Viewer might be lying around somewhere. You can retrieve it to view images.
@@ -106,14 +85,8 @@ Here is the detailed guide –
 
 **Note**: If the Windows Photo Viewer isn't there, here is a backup. You need to change Windows Registry to make Windows Photo Viewer returned. You need to go to [Edwin over on Ten Forums](https://www.tenforums.com/software-apps/8930-windows-photo-viewer-gone-2.html#post290818) to add code on your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ![restore windows photo viewer code](https://images.wondershare.com/filmora/article-images/restore-windows-photo-viewer-code.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ### Conclusion
 
 From the above article, we found out that restoring Windows Photo Viewer on your system is not a tough task. But, without having the proper knowledge you shouldn’t play around with your Photos app. So, this article guides you through a reliable method for restoring Windows Photo Viewer and view your photos like you always loved to. We hope you liked our efforts of enlightening you about Windows Photo Viewer and got the necessary information. Plus, if none of these work, you can use [Windows 10 Photos app alternatives](https://tools.techidaily.com/wondershare/filmora/download/). Thanks for reading! Do comment us below to let us know your views.
@@ -145,6 +118,23 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-playbox-app-user-testimonials/"><u>[New] 2024 Approved PlayBox App User Testimonials</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-professional-portals-15-youtube-economic-insights/"><u>[New] 2024 Approved Professional Portals 15 YouTube Economic Insights</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-backswing-crafting-bundle/"><u>[New] Backswing Crafting Bundle</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-storytellers-supreme-curated-yt-channels-for-2024/"><u>[New] Storytellers Supreme Curated YT Channels for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-battle-of-broadcasting-is-xsplit-better-than-obs-for-livestreams/"><u>[New] The Battle of Broadcasting Is XSplit Better Than OBS for Livestreams?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-fast-track-converting-your-srt-files-to-text-format-today-for-2024/"><u>[Updated] Fast Track Converting Your SRT Files to Text Format Today for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-lightroom-workflow-creating-and-merging-professional-hdr-images/"><u>[Updated] Lightroom Workflow Creating & Merging Professional HDR Images</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-whatsapp-snapshots-now-with-beats-for-2024/"><u>[Updated] WhatsApp Snapshots, Now With Beats for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-fiscal-footprint-of-the-mr-beast-empire/"><u>2024 Approved Fiscal Footprint of the Mr. Beast Empire</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-iobit-screen-recorder-review-and-alternative/"><u>2024 Approved IObit Screen Recorder Review and Alternative</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dissecting-artificision-exploring-the-depths-of-transfer-learning-in-ai/"><u>Dissecting Artificision: Exploring the Depths of Transfer Learning in AI</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ending-blank-screens-in-win11/"><u>Ending Blank Screens in Win11</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/guide-to-premium-free-online-screen-recorders/"><u>Guide to Premium Free Online Screen Recorders</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/ultimate-mic-showdown-for-podcasters-for-2024/"><u>Ultimate Mic Showdown for Podcasters for 2024</u></a></li>
+</ul></div>
 

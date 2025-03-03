@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  The Ultimate Guide to Non-Contact Sensing\""
-date: 2025-02-06T18:01:27.412Z
-updated: 2025-02-11T17:52:49.772Z
+date: 2025-02-23T16:06:59.226Z
+updated: 2025-03-02T23:20:11.114Z
 tags: 
   - screen-recording
   - ai video
@@ -52,10 +52,6 @@ With Hand Tracking, you can interact with the virtual world more naturally and i
 
 ![hand tracking technology](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-technology.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2\. Types Of Hand Tracking
 
 There are two main types of Hand Tracking: with interface and without interface:
@@ -123,10 +119,6 @@ Now, to install **MediaPipe**, copy and paste the following command:
 
 ![install mediapipe](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Coding**
 
 A _main.py_ file for writing code will be automatically created in _Pycharm_ app once you create a new project.
@@ -155,10 +147,6 @@ Now, create a class for tracking and for the hands function to work, key in the 
 
 ![creating method for tracking hands](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Afterward, use the above code to create a method for using specifically to identify hands in the input image. The code will also draw hand landmarks and hand connections.
 
 ##### Step5 Locate The ‘X’ and ‘Y’ Coordinates Of Each Hand Point
@@ -166,10 +154,6 @@ Afterward, use the above code to create a method for using specifically to ident
 To create a method for finding the x and y coordinates of the z21 hand points and a list that you will use to keep the values of these, write the code below:
 
 ![locate x and y coordinate of hand point](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 In this method, use the code that you used to find the ID and hand landmark of each hand point. Moreover, put the code you will use to circle the hand point.
 
@@ -188,10 +172,6 @@ To execute the main method, copy and paste the following code lines:
 ##### Step8 Result
 
 The module and output of the program will be the same, and when they are complete without any errors, you will get your output, i.e., the module will track and identify your hand movements without any glitches.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4\. Use Filmora to demonstarte your Hand Tracking skill
 
@@ -216,10 +196,6 @@ We hope this guide helped resolve your queries, and you can now create a Hand Tr
 * [Guidance With Steps](#part3-3)
 * [Use Filmora to demonstarte your Hand Tracking skill](#part4)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1\. What Is Hand Tracking? Where Is It Applied?
 
 Hand Tracking refers to the process of tracking the position and movement of a user's hands in virtual reality. This is usually done using a combination of sensors, including cameras, infrared sensors, or ultrasonic sensors.
@@ -231,10 +207,6 @@ The Oculus Quest 2 is a virtual reality headset that immerses you in virtual wor
 With Hand Tracking, you can interact with the virtual world more naturally and intuitively. You can use your hands to pick up objects, draw, and even type on a virtual keyboard. Moreover, it opens up new possibilities for gameplay, allowing you to play games in new and innovative ways.
 
 ![hand tracking technology](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-technology.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2\. Types Of Hand Tracking
 
@@ -299,10 +271,6 @@ Copy and paste the following command in the **Terminal** to install **OpenCV:**
 
 ![copy and paste command to install opencv](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now, to install **MediaPipe**, copy and paste the following command:
 
 ![install mediapipe](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-2.jpg)
@@ -357,10 +325,6 @@ To execute the main method, copy and paste the following code lines:
 
 ![main method execution](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step8 Result
 
 The module and output of the program will be the same, and when they are complete without any errors, you will get your output, i.e., the module will track and identify your hand movements without any glitches.
@@ -376,10 +340,6 @@ Learn more about Filmora:
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -411,24 +371,21 @@ We hope this guide helped resolve your queries, and you can now create a Hand Tr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-streamlining-youtube-video-transformations-into-mpegs/"><u>[New] 2024 Approved Streamlining YouTube Video Transformations Into MPEGs</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-asmr-and-wellness-what-are-its-promising-side-effects/"><u>[New] ASMR & Wellness What Are Its Promising Side-Effects?</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-expeditious-steps-for-reclaiming-deleted-reddit-content-for-2024/"><u>[New] Expeditious Steps for Reclaiming Deleted Reddit Content for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-flashing-lights-of-olympic-speed-for-2024/"><u>[New] Flashing Lights of Olympic Speed for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-the-essential-list-of-filmmaking-gear-for-newcomers/"><u>[New] In 2024, The Essential List of Filmmaking Gear for Newcomers</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-top-frameer-tools-perfect-pictures-with-ease-online/"><u>[Updated] 2024 Approved Top Frameer Tools Perfect Pictures with Ease Online</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-sprinting-into-the-digital-age-picks-on-vr-treadmills/"><u>[Updated] Sprinting Into the Digital Age Picks on VR Treadmills</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comprehensive-guide-revamping-your-network-with-updated-broadcom-drivers-on-windows-10-issues-fixed/"><u>Comprehensive Guide: Revamping Your Network with Updated Broadcom Drivers on Windows 10 (Issues Fixed)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-silent-system-how-to-restore-audio-on-your-windows-11-pc/"><u>Fixing Silent System: How to Restore Audio on Your Windows 11 PC</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-oppo-find-x6-pro-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Oppo Find X6 Pro Without Password | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/stream-to-youtube-with-obs-step-by-step-guide-for-beginners/"><u>Live Stream to Youtube with OBS Step by Step Guide for Beginners</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/quick-launch-issue-resolved-troubleshooting-when-iphones-are-invisible-to-fonebackup/"><u>Quick Launch Issue Resolved: Troubleshooting When iPhones Are Invisible to FoneBackup</u></a></li>
-<li><a href="https://article-helps.techidaily.com/rotating-iphone-photos-for-perfect-angles/"><u>Rotating iPhone Photos for Perfect Angles</u></a></li>
-<li><a href="https://article-helps.techidaily.com/step-by-step-tutorial-resolving-launch-problems-with-starfield-game-on-pc-and-console/"><u>Step-by-Step Tutorial: Resolving Launch Problems with Starfield Game on PC and Console</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/streamlined-mov-recording-tactics-on-windows-11-platforms/"><u>Streamlined .MOV Recording Tactics on Windows 11 Platforms</u></a></li>
-<li><a href="https://article-helps.techidaily.com/the-most-popular-wedding-countdown-clocks-a-top-10-list-androidios-for-2024/"><u>The Most Popular Wedding Countdown Clocks A Top 10 List (Android/iOS) for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-realme-12-pro-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Realme 12 Pro 5G FRP Bypass</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/wma-swf-online/"><u>WMA 파일을 SWF로 무료 변환 - Online 서비스</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/-in-motion-a-guide-to-lively-animation-methods-for-2024/"><u>Words in Motion A Guide to Lively Animation Methods for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-future-forward-entertainment-unveiling-the-lg-bp550-update/"><u>[New] Future-Forward Entertainment Unveiling the LG BP550 Update</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-securely-amplifying-your-tiktok-presence-wisely/"><u>[New] In 2024, Securely Amplifying Your TikTok Presence Wisely</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-sizzling-secrets-international-cooking-on-tiktok/"><u>[New] Sizzling Secrets International Cooking on TikTok</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-step-by-step-approach-to-crafting-3d-text-in-photoshop/"><u>[New] Step-by-Step Approach to Crafting 3D Text in Photoshop</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-unveiling-the-world-of-haptic-navigation-systems/"><u>[New] Unveiling the World of Haptic Navigation Systems</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-storage-analysis-videography-on-64128gb-hardware/"><u>[Updated] 2024 Approved Storage Analysis Videography on 64/128GB Hardware</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-elite-fast-windows-10-picture-viewer/"><u>[Updated] Elite Fast Windows 10 Picture Viewer</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-gradual-sound-reduction-for-computers-mac-and-windows-for-2024/"><u>[Updated] Gradual Sound Reduction for Computers (Mac & Windows) for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-transform-your-tiktok-content-with-expert-number-manipulation/"><u>[Updated] In 2024, Transform Your TikTok Content with Expert Number Manipulation</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-the-fundamentals-of-quantum-hdr-efficiency-for-2024/"><u>[Updated] The Fundamentals of Quantum HDR Efficiency for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/enliven-your-windows-11-desktop-live-wallpaper-tutorial/"><u>Enliven Your Windows 11 Desktop: Live Wallpaper Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-excel-data-insights-a-comprehensive-guide-to-utilizing-pivot-tables/"><u>Mastering Excel Data Insights: A Comprehensive Guide to Utilizing Pivot Tables</u></a></li>
+<li><a href="https://article-helps.techidaily.com/mending-a-singular-audio-unit-for-2024/"><u>Mending a Singular Audio Unit for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/step-by-step-podcast-rss-feeds-a-practical-approach/"><u>Step-by-Step Podcast RSS Feeds A Practical Approach</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/transform-pictures-into-cartoons-online/"><u>Transform Pictures Into Cartoons Online</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-zombie-army-s-game-crashes-for-pc-players/"><u>Troubleshooting Zombie Army S Game Crashes for PC Players</u></a></li>
 </ul></div>
 

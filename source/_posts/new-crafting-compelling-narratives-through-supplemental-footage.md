@@ -1,7 +1,7 @@
 ---
 title: "[New] Crafting Compelling Narratives Through Supplemental Footage"
-date: 2025-02-10T19:54:54.350Z
-updated: 2025-02-11T21:19:38.533Z
+date: 2025-02-27T17:39:29.550Z
+updated: 2025-03-02T21:37:54.484Z
 tags: 
   - screen-recording
   - ai video
@@ -27,10 +27,6 @@ Now that we know that, let's dive in!
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. B roll In TV And Movies
 
 Broll is an acronym for "background" or "behind," respectively. It usually refers to extra footage captured with a movie camera while keeping the lighting consistent between scenes in the movie industry. When the filmmaker doesn't want to show any dialogue or action on screen but needs some movement within the frame, it might be utilized as filler.
@@ -49,17 +45,9 @@ The ideal way to use B roll is to put it behind interviews. This kind of footage
 
 On the other hand, cutaways can show how different people react to what is being said in an interview. After all, transitions are commonly used to switch from one person's experience with a certain topic to another person's experience with the same topic. All of these different kinds of footage give filmmakers and videographers more freedom to tell their stories without relying too much on dialogue or narration.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. What types of b roll are there?
 
 We'll examine the top 5 uses for B rolls across a variety of video genres and discuss how to implement them effectively in your own projects.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Archival b roll footage
 
@@ -69,17 +57,9 @@ Aerial B roll is the solution when you like to show your viewers where your film
 
 Including archival material in your video allows your audience to experience a previously covered or historically significant story as it occurred. Look at this illustration from Netflix's 14 Peaks: Nothing Is Impossible, which was made utilizing old b roll film from the era to help the viewer connect with the narrative.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Storytelling b roll footage
 
 B roll footage can be used to tell a story that supports the narrative of your video. For example, in this video interview of Tom DeLonge, the speaker talks about living in a neighborhood. The B rolls show him driving around in his car, skateboarding on the street in the 90's. These add to the story the video creator wants to talk about not seeing people with a disability differently.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Undirected b roll footage
 
@@ -135,18 +115,17 @@ We sincerely hope that this post will be of use to you in making your films more
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-speedy-tiktok-video-creation-a-comprehensible-guide/"><u>[New] 2024 Approved Speedy TikTok Video Creation A Comprehensible Guide</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-expert-tips-for-transferring-media-files-flawlessly-w11-for-2024/"><u>[New] Expert Tips for Transferring Media Files Flawlessly W11 for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-drone-cutting-edge-tools-top-editors-unveiled/"><u>[Updated] In 2024, Drone Cutting Edge Tools - Top Editors Unveiled</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-the-fundamentals-of-creating-alluring-podcast-descriptions/"><u>[Updated] In 2024, The Fundamentals of Creating Alluring Podcast Descriptions</u></a></li>
-<li><a href="https://win-trending.techidaily.com/data-salvage-mastery-comprehensive-steps-to-restore-lost-data-from-a-broken-hard-drive-digital-rescue-with-yl-computing/"><u>Data Salvage Mastery: Comprehensive Steps to Restore Lost Data From a Broken Hard Drive - Digital Rescue with YL Computing</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-on-fixing-malfunctioning-computer-sound-hardware/"><u>Expert Tips on Fixing Malfunctioning Computer Sound Hardware</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/o-render-and-upload-youtube-videos-faster-for-2024/"><u>How to Render and Upload YouTube Videos Faster for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/movavi-livre-converter-de-ape-para-ogg-online-e-gratuito/"><u>Movavi Livre: Converter De APE Para OGG Online E Gratuito</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-expert-approved-audio-editing-software-top-8-picks/"><u>New In 2024, Expert-Approved Audio Editing Software Top 8 Picks</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/tiktok-trends-the-top-ten-tweets-shaping-social-media-for-2024/"><u>TikTok Trends The Top Ten Tweets Shaping Social Media for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-full-potential-advanced-tips-for-optimized-steam-deck-use/"><u>Unlocking Full Potential: Advanced Tips for Optimized Steam Deck Use</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-the-power-of-voice-activated-accessibility-features/"><u>Unlocking the Power of Voice-Activated Accessibility Features</u></a></li>
-<li><a href="https://article-helps.techidaily.com/virtual-reality-epics-the-most-captivating-sci-fi-cinematic-worlds/"><u>Virtual Reality Epics The Most Captivating Sci-Fi Cinematic Worlds</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-decoding-digital-dialogue-essential-vr-lingo/"><u>[New] 2024 Approved Decoding Digital Dialogue Essential VR Lingo</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-spark-conversation-crafting-questions-for-ig-story-boost/"><u>[New] 2024 Approved Spark Conversation Crafting Questions for IG Story Boost</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-masterworks-of-screenwriting-by-thematic-quarters-for-2024/"><u>[New] Masterworks of Screenwriting by Thematic Quarters for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-high-end-camcorders-for-impeccable-4k-quality-top-18/"><u>[Updated] High-End Camcorders for Impeccable 4K Quality (Top 18)</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-on-air-innovations-code-or-circuitry-prevails-in-2024/"><u>[Updated] On-Air Innovations Code or Circuitry Prevails, In 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-vivo-v27-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-become-a-pro-at-documenting-your-twitch-sessions/"><u>In 2024, Become a Pro at Documenting Your Twitch Sessions</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-i-screen-mirroring-apple-iphone-6-plus-to-tvlaptop-drfone-by-drfone-ios/"><u>In 2024, How Can I Screen Mirroring Apple iPhone 6 Plus to TV/Laptop? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-vivo-s18-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Vivo S18 Device</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/individual-configurable-attributes-crafting-custom-environments/"><u>Individual Configurable Attributes: Crafting Custom Environments</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/selective-selections-notable-sites-for-snagging-snapalert-tunes/"><u>Selective Selections Notable Sites for Snagging SnapAlert Tunes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/step-by-step-to-updated-windows-11-device-drivers/"><u>Step-by-Step to Updated Windows 11 Device Drivers</u></a></li>
 </ul></div>
 
